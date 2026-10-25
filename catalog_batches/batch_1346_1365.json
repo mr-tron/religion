@@ -31,12 +31,14 @@
       "inheritFamilyProfile": false,
       "parent": "Шиваизм",
       "description": "Исторические шиваитские аскетические традиции, известные использованием черепа как ритуального атрибута и почитанием устрашающих форм Шивы.",
-      "profile": "+divine +ritual",
+      "profile": "+divine +ritual +personal +occult",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Kapalika"
+        "https://en.wikipedia.org/wiki/Kapalika",
+        "https://openresearch-repository.anu.edu.au/bitstream/1885/106902/1/Lorenzen_D.N._1968.pdf",
+        "https://www.arfjournals.com/image/catalog/Journals%20Papers/JASI/2023/No%202%20%282023%29/3_Aparna%20Bhogal.pdf"
       ],
-      "notes": "Сохраняется историческое направление, не alias современных агхори или всей каулы. Значительная часть сведений передана внешними авторами; литературные изображения и обвинения в человеческих жертвах не превращены в обязательные признаки каждого последователя. Упоминание черепа не доказывает единого конкретного обряда для всех групп."
+      "notes": "Сохраняется историческое направление, не alias современных агхори или всей каулы. Значительная часть сведений передана внешними авторами; литературные изображения и обвинения в человеческих жертвах не превращены в обязательные признаки каждого последователя. Упоминание черепа не доказывает единого конкретного обряда для всех групп. Дополнительная проверка 2026-10-25: Диссертация D.N. Lorenzen,ANU1968,с.132 описывает propitiation Bhairava и религиозное осуществление через обряды; специальная работа Bhogal,JASI2023 описывает накопление magical power посредством tapas. personal/occult опираются на анализ именно Kapalika. Полемические пьесы и обвинения в человеческих жертвах по-прежнему не объявлены единым обязательным поведением."
     },
     {
       "sourceIndex": 1348,
@@ -47,13 +49,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Бенгальское религиозное движение Аулчанда и семьи Пал, подчёркивающее преданность духовному наставнику.",
-      "profile": "+divine +bhakti",
+      "profile": "+divine +bhakti +occult",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Kartabhaja",
-        "https://en.banglapedia.org/index.php/Folk_Sects"
+        "https://en.banglapedia.org/index.php/Folk_Sects",
+        "https://academic.oup.com/book/12860"
       ],
-      "notes": "Banglapedia подтверждает отдельное народное движение; исходник уточняет гуру и собственный песенный корпус. Не alias баулов, всей вайшнавской сахаджии или Матуa. Недостоверные легенды об основателе и обвинительные описания в старых источниках не приняты за установленный профиль практики."
+      "notes": "Banglapedia подтверждает отдельное народное движение; исходник уточняет гуру и собственный песенный корпус. Не alias баулов, всей вайшнавской сахаджии или Матуa. Недостоверные легенды об основателе и обвинительные описания в старых источниках не приняты за установленный профиль практики. Дополнительная проверка 2026-10-25: Hugh Urban, Songs of Ecstasy (OUP2001), специально изучает эзотерический тантрический корпус песен Kartabhaja: occult. Исследование не сводит поэтическую тайну к буквальному исполнению всех скандальных обвинений внешних авторов; новые общие сексуальные обряды или один космологический догмат не назначены."
     },
     {
       "sourceIndex": 1349,
@@ -64,14 +67,16 @@
       "inheritFamilyProfile": false,
       "parent": "Шиваизм",
       "description": "Совокупность недвойственных шиваитских тантрических традиций Кашмира, особенно связанных с философией узнавания собственной природы.",
-      "profile": "+divine +pantheism +scripture +meditation +occult",
+      "profile": "+divine +pantheism +scripture +meditation +occult +ritual +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Kashmir_Shaivism",
         "https://iep.utm.edu/kashmiri/",
-        "https://doi.org/10.1002/9781119009924.eopr0273"
+        "https://doi.org/10.1002/9781119009924.eopr0273",
+        "https://www.lakshmanjooacademy.org/faq",
+        "https://www.lakshmanjooacademy.org/"
       ],
-      "notes": "Академическое изложение отличает несколько монистических традиций от дуалистического шива-сиддханта, также существовавшего в Кашмире. Не alias всего шиваизма, каулы или одной системы Трика. Признак pantheism отражает широкую формулировку вопроса о единстве мира и божественного, не отрицание различий внутри шиваитской метафизики."
+      "notes": "Академическое изложение отличает несколько монистических традиций от дуалистического шива-сиддханта, также существовавшего в Кашмире. Не alias всего шиваизма, каулы или одной системы Трика. Признак pantheism отражает широкую формулировку вопроса о единстве мира и божественного, не отрицание различий внутри шиваитской метафизики. Дополнительная проверка 2026-10-25: Первичные Lakshmanjoo Academy FAQ описывают традиционную fire ceremony и получение grace/initiation в линии, включая дистанционное восприятие учения: ritual/initiatory_brotherhood. Это документированная современная передача кашмирского шиваизма; специфические требования одной ветви к еде или физическому обряду не назначены всему историческому кругу."
     },
     {
       "sourceIndex": 1350,
@@ -82,12 +87,14 @@
       "inheritFamilyProfile": false,
       "parent": "Шиваитско-шактистская тантра",
       "description": "Семейство шиваитских и шактистских тантрических традиций, придающих значение посвящению, ритуальной передаче и единству Шивы и Шакти.",
-      "profile": "+divine +ritual +occult",
+      "profile": "+divine +ritual +occult +scripture +initiatory_brotherhood +meditation +spirit_possession",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Kaula_(Hinduism)"
+        "https://en.wikipedia.org/wiki/Kaula_(Hinduism)",
+        "https://www.researchgate.net/publication/332981361_Kaula",
+        "https://anuttaratrika.com/DOWNLOAD/eng/meaning_in_tantric_ritual_sanderson.pdf"
       ],
-      "notes": "Источник описывает несколько направлений и разные степени внешнего и внутреннего осуществления ритуалов. Не alias всего кашмирского шиваизма или вамачары. Не назначены всем без исключения сексуальные практики, алкоголь или конкретные жертвоприношения; эти особенности зависят от линии и интерпретации."
+      "notes": "Источник описывает несколько направлений и разные степени внешнего и внутреннего осуществления ритуалов. Не alias всего кашмирского шиваизма или вамачары. Не назначены всем без исключения сексуальные практики, алкоголь или конкретные жертвоприношения; эти особенности зависят от линии и интерпретации. Дополнительная проверка 2026-10-25: Encyclopedia of Indian Religions,Kaula(2019),DOI10.1007/978-94-024-1036-5_547-1, прямо называет diksha главным обрядом, собственные Tantra — scriptural authority, и внутренние visualizations. Sanderson, Meaning in Tantric Ritual, объясняет действующую через конечности посвящаемого rudrashakti. scripture/initiatory_brotherhood/meditation/spirit_possession относятся к документированным Kaula путям; конкретные transgressive материалы не навязаны всем линиям."
     },
     {
       "sourceIndex": 1351,
@@ -98,12 +105,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Индуистская традиция почитания Муругана, также известного как Сканда или Картикея.",
-      "profile": "+divine +personal +bhakti +ritual",
+      "profile": "+divine +personal +bhakti +ritual +icons +scripture",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Kaumaram"
+        "https://en.wikipedia.org/wiki/Kaumaram",
+        "https://murugan.org/",
+        "https://murugan.org/image-galleries/"
       ],
-      "notes": "Источник подтверждает центрального божественного адресата, храмовое почитание, паломничества и подношения. Признание Муругана высшим не приравнено автоматически к исключительному one_god. Не alias всего шиваизма или совокупности всех тамильских религий; отдельные телесные обеты не назначены каждому последователю."
+      "notes": "Источник подтверждает центрального божественного адресата, храмовое почитание, паломничества и подношения. Признание Муругана высшим не приравнено автоматически к исключительному one_god. Не alias всего шиваизма или совокупности всех тамильских религий; отдельные телесные обеты не назначены каждому последователю. Дополнительная проверка 2026-10-25: Собственный Murugan Bhakti/Skanda-Kumara архив выделяет почитаемые moolavar/utsava murti и корпус Sacred Texts: Tirumurukarruppatai, Arunagirinathar, Kanda Sashti Kavacam. icons/scripture основаны на собственном религиозном материале культа Муругана. Отдельный праздничный piercing или пищевое предпочтение не назначены каждому участнику Kaumaram."
     },
     {
       "sourceIndex": 1352,
@@ -114,12 +123,13 @@
       "inheritFamilyProfile": false,
       "parent": "Шиваитский религиозный контекст",
       "description": "Индийская религиозная традиция, связанная с Басавой, вачанами и личным почитанием Шивы через ишталингу.",
-      "profile": "+divine +personal +bhakti +scripture",
+      "profile": "+divine +personal +bhakti +scripture +ritual +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Lingayatism"
+        "https://en.wikipedia.org/wiki/Lingayatism",
+        "https://vsna-public.s3.amazonaws.com/publications/Publication_Lingayat_Dharma.pdf"
       ],
-      "notes": "Источник обсуждает разные понимания отношений лингайятов, вирашайвов и индуизма. Не назначена автоматически синонимия Veerashaivism, статус отдельной религии или единый ответ о перерождении. Выбрано широкое семейство индийских традиций, которое не решает этот спор. Ишталинга не трактуется как основание для общего отрицания священных изображений."
+      "notes": "Источник обсуждает разные понимания отношений лингайятов, вирашайвов и индуизма. Не назначена автоматически синонимия Veerashaivism, статус отдельной религии или единый ответ о перерождении. Выбрано широкое семейство индийских традиций, которое не решает этот спор. Ишталинга не трактуется как основание для общего отрицания священных изображений. Дополнительная проверка 2026-10-25: Собственная публикация VSNA Lingayat Dharma,раздел30, описывает Lingadiksha, выдачу guru личной linga и mantra для Lingapuja: ritual/initiatory_brotherhood. Её отрицание karma/reincarnation не распространено на весь спорный объём Lingayatism/Veerashaivism: сохранены различия богословских самоописаний."
     },
     {
       "sourceIndex": 1353,
@@ -136,9 +146,10 @@
         "https://en.wikipedia.org/wiki/Lokhimon",
         "https://mythopolitics.mf.no/research/",
         "https://www.iias.asia/sites/iias/files/nwl_article/2022-10/IIAS_NL93_2223.pdf",
-        "https://krepublishers.com/02-Journals/T-Anth/Anth-40-0-000-20-Web/Anth-40-1-3-000-20-Abst-PDF/T-Anth-40-1-3-016-20-2054-B-S/T-Anth-40-1-3-016-20-2054-B-S-Tx.pdf"
+        "https://krepublishers.com/02-Journals/T-Anth/Anth-40-0-000-20-Web/Anth-40-1-3-000-20-Abst-PDF/T-Anth-40-1-3-016-20-2054-B-S/T-Anth-40-1-3-016-20-2054-B-S-Tx.pdf",
+        "https://www.iias.asia/the-newsletter/article/cultural-hijacking-clash-storyworlds"
       ],
-      "notes": "Полевые исследования подтверждают самостоятельное движение, почитание основателя, гимны и молитвы, отказ от храмовых изображений и кровавых жертв. Не alias всей традиционной религии карби или всего вайшнавизма. Политические оценки исследователей не превращены в индивидуальные убеждения каждого последователя."
+      "notes": "Полевые исследования подтверждают самостоятельное движение, почитание основателя, гимны и молитвы, отказ от храмовых изображений и кровавых жертв. Не alias всей традиционной религии карби или всего вайшнавизма. Политические оценки исследователей не превращены в индивидуальные убеждения каждого последователя. Дополнительная проверка 2026-10-25: Дополнительно проверена полная IIAS-статья Cultural Hijacking: Clash of Storyworlds: она прямо подтверждает молитвы и гимны Lokhimon и различия с прежними жертвоприношениями карби. Результаты о rebirth и предках в общекарбийском этнографическом описании не перенесены на это реформаторское движение. В новом материале дополнительных общих токенов не установлено."
     },
     {
       "sourceIndex": 1354,
@@ -149,14 +160,14 @@
       "inheritFamilyProfile": false,
       "parent": "Двайта-веданта",
       "description": "Вайшнавская религиозная традиция Мадхвы с линиями учителей, монастырями и философией двайта-веданты.",
-      "profile": "+divine +personal +bhakti +scripture",
+      "profile": "+divine +personal +bhakti +scripture +vedas +reincarnation +liberation +many_gods",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Madhva_tradition",
         "https://ebooks.inflibnet.ac.in/icp03/chapter/dvaita/",
         "https://iep.utm.edu/madhva/"
       ],
-      "notes": "Исходный URL ведёт на Sadh Vaishnavism. Университетское изложение различает философскую систему Dvaita и основанную Мадхвой религиозную традицию Sad-Vaishnavism; поэтому здесь сохранена сампрадая с её исторической организацией, а не дополнительная запись о философском тезисе. Не alias существующей «Двайта-веданты» по одному общему основателю."
+      "notes": "Исходный URL ведёт на Sadh Vaishnavism. Университетское изложение различает философскую систему Dvaita и основанную Мадхвой религиозную традицию Sad-Vaishnavism; поэтому здесь сохранена сампрадая с её исторической организацией, а не дополнительная запись о философском тезисе. Не alias существующей «Двайта-веданты» по одному общему основателю. Дополнительная проверка 2026-10-25: IEP Valerie Stoker прямо связывает живую Madhva Sampradaya с авторитетом Вед, освобождением из samsara милостью Vishnu и реальным существованием других, подчинённых ему богов: vedas/reincarnation/liberation/many_gods. Эпистемологическое признание восприятия не означает scientific; трактовка врождённых качеств душ не сведена к упрощённой общей модели кармического воздаяния."
     },
     {
       "sourceIndex": 1355,
@@ -167,12 +178,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Индийская религиозная традиция Чакрадхары, выделяющая преданность Парамешваре и память о пяти его воплощениях.",
-      "profile": "+divine +bhakti +scripture +liberation",
+      "profile": "+divine +bhakti +scripture +liberation +many_gods +reincarnation +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Mahanubhava"
+        "https://en.wikipedia.org/wiki/Mahanubhava",
+        "https://www.cambridge.org/core/books/abs/mahanubhavs/mahanubhavs-practice-devotion-and-asceticism/B28673A2BF706788BEAF1FE373E3678E"
       ],
-      "notes": "Источник подтверждает собственную метафизику, смарану и письменное наследие. Парамешвара различается с множеством devata, поэтому не упрощены one_god и many_gods; описание абсолюта не даёт общего +personal. Не alias общего кришнаизма, несмотря на особое почитание Кришны."
+      "notes": "Источник подтверждает собственную метафизику, смарану и письменное наследие. Парамешвара различается с множеством devata, поэтому не упрощены one_god и many_gods; описание абсолюта не даёт общего +personal. Не alias общего кришнаизма, несмотря на особое почитание Кришны. Дополнительная проверка 2026-10-25: Antonio Rigopoulos, The Mahanubhavs,глава5, прямо указывает, что существование иных gods не отрицается, и разбирает hellish rebirth в Sutra-path: many_gods/reincarnation/afterlife. Поклонение ограничено Parameshvar и его пятью проявлениями; такое исключительное служение не превращено в отсутствие всех других божеств."
     },
     {
       "sourceIndex": 1356,
@@ -201,12 +213,14 @@
       "inheritFamilyProfile": false,
       "parent": "Вайшнавизм",
       "description": "Региональная вайшнавская традиция Манипура, особенно связанная с преданностью Радхе и Кришне и местной религиозной культурой мейтей.",
-      "profile": "+divine +personal +bhakti +ritual",
+      "profile": "+divine +personal +bhakti +ritual +icons +scripture",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Manipuri_Vaishnavism"
+        "https://en.wikipedia.org/wiki/Manipuri_Vaishnavism",
+        "https://www.sahapedia.org/the-vaishnava-temples-of-manipur-historical-study",
+        "https://www.akademi.co.uk/hasta-in-manipuri-part2/"
       ],
-      "notes": "Источник описывает отдельную историю распространения вайшнавизма, храмовую культуру и раслилу. Не alias всей гаудия-вайшнавской традиции, ИСККОН или санамахизма: местные традиции взаимодействуют, но не тождественны. Не всем современным жителям Манипура приписана одна вера."
+      "notes": "Источник описывает отдельную историю распространения вайшнавизма, храмовую культуру и раслилу. Не alias всей гаудия-вайшнавской традиции, ИСККОН или санамахизма: местные традиции взаимодействуют, но не тождественны. Не всем современным жителям Манипура приписана одна вера. Дополнительная проверка 2026-10-25: Специальная историческая работа Jayanti Thokchom,Sahapedia, описывает центральные изображения Govindaji/Radha и публичное изложение важных вайшнавских текстов Wari Leeba; Akademi указывает доктринальную роль Bhagavata/Rasa-pancadhyayi. icons/scripture относятся к Manipuri Vaishnavism, не ко всем Meitei и не к прежнему санамахистскому комплексу."
     },
     {
       "sourceIndex": 1358,
@@ -217,13 +231,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Бенгальское религиозное движение Харичанда Тхакура, подчёркивающее преданность Богу, общинное пение и социальное равенство.",
-      "profile": "+divine +personal +one_god +bhakti +meditation +scripture",
+      "profile": "+divine +personal +one_god +bhakti +meditation +scripture +ritual",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Matua_Mahasangha",
-        "https://en.banglapedia.org/index.php/Matua"
+        "https://en.banglapedia.org/index.php/Matua",
+        "https://academic.oup.com/edited-volume/61799/chapter-abstract/546335609",
+        "https://www.tandfonline.com/doi/abs/10.1080/00856401.2018.1445400"
       ],
-      "notes": "Исходная ссылка на Matua Mahasangha подтверждает Matuaism как учение движения; Banglapedia отдельно описывает монотеизм, киртан и Шри Шри Харилиламриту. Не alias всех намашудр или только одного современного политического крыла организации. Критика ведических обрядов не означает отрицания любых текстов или всей религиозной практики."
+      "notes": "Исходная ссылка на Matua Mahasangha подтверждает Matuaism как учение движения; Banglapedia отдельно описывает монотеизм, киртан и Шри Шри Харилиламриту. Не alias всех намашудр или только одного современного политического крыла организации. Критика ведических обрядов не означает отрицания любых текстов или всей религиозной практики. Дополнительная проверка 2026-10-25: Carola Lorea,Oxford Research Encyclopedia2020, описывает спасительное совместное экстатическое пение и танец как основание Matua, а Sipra Mukherjee2018 анализирует собственную священную агиографию: ritual подтверждён. Критика брахманского порядка не стала общим отрицанием обрядов. Прямая загрузка прежней Banglapedia вернула постороннюю заглушку; новые выводы опираются на академические публикации."
     },
     {
       "sourceIndex": 1359,
@@ -234,12 +250,14 @@
       "inheritFamilyProfile": false,
       "parent": "Шиваитско-йогический контекст",
       "description": "Индийские йогические традиции натхов, связанные с Матсьендранатхом, Горакхнатхом и шиваитским наследием.",
-      "profile": "+divine +meditation +occult",
+      "profile": "+divine +meditation +occult +ritual +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Nath"
+        "https://en.wikipedia.org/wiki/Nath",
+        "https://eprints.soas.ac.uk/17972/1/Nath%20Sampradaya.FP.pdf",
+        "https://archive.asia.si.edu/research/articles/yogic-identities.asp"
       ],
-      "notes": "Исходная ссылка перенаправляет на Natha Sampradaya и охватывает монашествующих и мирянские группы. Не alias всех практик хатха-йоги, всей Йоги как духовного пути или одной организации. Влияние буддийских и иных тантрических сред не доказывает одинакового богословия всех линий."
+      "notes": "Исходная ссылка перенаправляет на Natha Sampradaya и охватывает монашествующих и мирянские группы. Не alias всех практик хатха-йоги, всей Йоги как духовного пути или одной организации. Влияние буддийских и иных тантрических сред не доказывает одинакового богословия всех линий. Дополнительная проверка 2026-10-25: James Mallinson,Brill Encyclopedia of Hinduism2011, и его исследование Smithsonian различают степени посвящения Nath и обряд ear-splitting как отличительный акт полных инициатов: ritual/initiatory_brotherhood. Не все Nath носят такие серьги, а современный обычай не перенесён без доказательств в12век. Новые бессмертие, karma и общий канон не выведены из одной йогической генеалогии."
     },
     {
       "sourceIndex": 1360,
@@ -268,12 +286,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Региональные индуистские традиции неваров долины Катманду, включающие местную храмовую и празднично-ритуальную культуру.",
-      "profile": "+divine +ritual",
+      "profile": "+divine +ritual +many_gods +icons +spirit_possession",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Newar_Hinduism"
+        "https://en.wikipedia.org/wiki/Newar_Hinduism",
+        "https://publishing.cdlib.org/ucpressebooks/public/book/mesocosm-hinduism-and-the-organization-of-a-traditional-newar-city-in-nepal.html",
+        "https://www.socanth.cam.ac.uk/media/graduate-photo-competitions/2022-entries/devi-chakrabarti",
+        "https://schooloftraditionalarts.org/preserving-sacred-knowledge-celebrating-the-completion-of-the-navadurga-mask-making-documentation-project-in-nepal/"
       ],
-      "notes": "Исходник описывает религиозные танцы, праздники и тантрический контекст. Обобщение о всей традиции как единой вамачаре не принято без отдельной проверки. Не alias неварского буддизма или индуизма вообще; общее культурное пространство и совместные праздники не доказывают полного тождества. Профиль не приписан всем неварам без исключения."
+      "notes": "Исходник описывает религиозные танцы, праздники и тантрический контекст. Обобщение о всей традиции как единой вамачаре не принято без отдельной проверки. Не alias неварского буддизма или индуизма вообще; общее культурное пространство и совместные праздники не доказывают полного тождества. Профиль не приписан всем неварам без исключения. Дополнительная проверка 2026-10-25: Robert Levy,Mesocosm(UC Press),раздел Nine Durgas, прямо описывает несколько божеств, почитаемые маски и вселение в исполнителей; полевые материалы Cambridge и EMKP-документация дополняют ритуальный контекст Navadurga. many_gods/icons/spirit_possession относятся к неварскому индуистскому комплексу, не ко всем неварам или всем сценическим танцам. Подтверждены ritual_masks[1361], без записи токена в ожидании согласования списка."
     },
     {
       "sourceIndex": 1362,
@@ -284,12 +305,14 @@
       "inheritFamilyProfile": false,
       "parent": "Вайшнавизм",
       "description": "Вайшнавская линия Нимбарки, связывающая учение о естественном различии-и-неразличии с преданностью Радхе и Кришне.",
-      "profile": "+divine +personal +bhakti +scripture",
+      "profile": "+divine +personal +bhakti +scripture +vedas +pantheism +meditation",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Nimbarka_Sampradaya"
+        "https://en.wikipedia.org/wiki/Nimbarka_Sampradaya",
+        "https://www.shrijimaharaj.com/sampraday.html",
+        "https://egyankosh.ac.in/bitstream/123456789/109588/1/Unit-10.pdf"
       ],
-      "notes": "Сампрадая следует Svabhavika Bhedabheda/Dvaitadvaita; это историческая линия учителей и почитания, а не только философский тезис. Не alias всего кришнаизма или гаудия-вайшнавизма. Легендарная дата явления основателя не принята за установленную историческую хронологию."
+      "notes": "Сампрадая следует Svabhavika Bhedabheda/Dvaitadvaita; это историческая линия учителей и почитания, а не только философский тезис. Не alias всего кришнаизма или гаудия-вайшнавизма. Легендарная дата явления основателя не принята за установленную историческую хронологию. Дополнительная проверка 2026-10-25: Собственная самопрезентация Shriji Maharaj прямо называет традицию Vedic wisdom/Dvaitadvaita; IGNOU Unit10 отдельно объясняет Nimbarka через реальную разницу/неразницу Бога, душ и мира и upasana. vedas/pantheism/meditation подтверждены по самой школе. Различия и зависимость мира не устранены; конкретные практики всех гаудия-ветвей не перенесены на Nimbarka."
     },
     {
       "sourceIndex": 1363,
@@ -300,14 +323,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Коренная религиозная традиция народа нуаулу острова Серам, связанная с предками, местными духовными силами и воспроизводством общинных обрядов.",
-      "profile": "+nature_spirits +ancestors +ritual",
+      "profile": "+nature_spirits +ancestors +ritual +divine +personal +afterlife +spirit_possession +divination_oracles +occult",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Nuaulu_people",
         "https://kar.kent.ac.uk/51579/1/Ellen-Wacana-2015.pdf",
-        "https://www.kent.ac.uk/anthropology/5619/ellen-roy"
+        "https://www.kent.ac.uk/anthropology/5619/ellen-roy",
+        "https://www.tandfonline.com/doi/full/10.1080/0015587X.2024.2426885"
       ],
-      "notes": "Исходная ссылка ведёт на статью о народе; длительные полевые исследования Роя Эллена непосредственно подтверждают отдельную религиозную идентичность и ритуальные практики. Административная регистрация под другими религиозными названиями не доказывает принятия их доктрин. Не alias Наурус манусела лишь по названию в краткой таблице Wikipedia."
+      "notes": "Исходная ссылка ведёт на статью о народе; длительные полевые исследования Роя Эллена непосредственно подтверждают отдельную религиозную идентичность и ритуальные практики. Административная регистрация под другими религиозными названиями не доказывает принятия их доктрин. Не alias Наурус манусела лишь по названию в краткой таблице Wikipedia. Дополнительная проверка 2026-10-25: Roy Ellen,Visualizing Spirit Entities,Folklore2025, прямо описывает призываемую высшую власть Anahatana, продолжающих жить предков, их беседы/предсказания через mediums и изгнание nimoe магией. divine/personal/afterlife/spirit_possession/divination_oracles/occult получены из специальных многолетних наблюдений Nuaulu. Родовые различия сохранены; верховный Anahatana и духи не сведены к навязанной извне индуистской категории богов."
     },
     {
       "sourceIndex": 1364,
@@ -318,12 +342,13 @@
       "inheritFamilyProfile": false,
       "parent": "Шиваизм",
       "description": "Историческое шиваитское направление, связывающее освобождение души с Пашупати и особой аскетической дисциплиной.",
-      "profile": "+divine +personal +ritual +scripture +liberation",
+      "profile": "+divine +personal +ritual +scripture +liberation +meditation +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Pashupata_Shaivism"
+        "https://en.wikipedia.org/wiki/Pashupata_Shaivism",
+        "https://www.sahapedia.org/elephanta-caves-patronage-and-religious-affiliations"
       ],
-      "notes": "Источник подтверждает Пашупата-сутры и специфические практики аскетического поклонения. Не alias всего шиваизма или любого современного храма Пашупатинатха. Споры о Лакулише и Накулише и о ранней хронологии не решены как общий факт; сохранившиеся подразделения не сведены в одну административную организацию."
+      "notes": "Источник подтверждает Пашупата-сутры и специфические практики аскетического поклонения. Не alias всего шиваизма или любого современного храма Пашупатинатха. Споры о Лакулише и Накулише и о ранней хронологии не решены как общий факт; сохранившиеся подразделения не сведены в одну административную организацию. Дополнительная проверка 2026-10-25: Специальный историко-археологический обзор Sahapedia по Elephanta/Pashupata Siddhanta описывает deeksha у acharya, этапы жизни в храме/пещере/кремационном поле и медитацию на пять форм Pashupati: meditation/initiatory_brotherhood. Иконография исторических пещер не использована для автоматического тождества любому современному храму Shiva."
     },
     {
       "sourceIndex": 1365,
@@ -334,15 +359,16 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Индийская религиозная традиция Девчандры и Праннатха, подчёркивающая преданность высшему божественному и объединяющее духовное знание Тартам.",
-      "profile": "+divine +personal +bhakti +scripture",
+      "profile": "+divine +personal +bhakti +scripture +vedas +ahimsa +ritual +afterlife",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Pranami",
         "https://pranami.org/introduction/pranami-dharma",
         "https://pranami.org/introduction/pranami-system",
-        "https://krishnapranami.org/tartamsagar/fullgranth"
+        "https://krishnapranami.org/tartamsagar/fullgranth",
+        "https://pranami.org/index.php?id=51&itemid=156&option=com_content&view=article"
       ],
-      "notes": "Собственные источники подтверждают Тартам Сагар, Витак и почитание Радж–Шьямы. Nijanand и Krishna Pranami — варианты названия этой традиции, но отдельной сохранённой записи с ними не найдено. Не alias всей традиции сантов, кришнаизма, Кабир-пантха или ислама; использование разных религиозных языков не означает тождества всех доктрин."
+      "notes": "Собственные источники подтверждают Тартам Сагар, Витак и почитание Радж–Шьямы. Nijanand и Krishna Pranami — варианты названия этой традиции, но отдельной сохранённой записи с ними не найдено. Не alias всей традиции сантов, кришнаизма, Кабир-пантха или ислама; использование разных религиозных языков не означает тождества всех доктрин. Дополнительная проверка 2026-10-25: Первичные Twelve Commandments for a Pranami прямо предписывают регулярное чтение Tartam, авторитет Вед/Упанишад, ненасилие ко всем живым и достижение душой Eternal Abode: vedas/ahimsa/ritual/afterlife. Вечная обитель не превращена без отдельного текста в единый ответ о механике rebirth, а уважение пророков других религий не равно принятию всех их догматов."
     }
   ]
 }

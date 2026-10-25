@@ -69,7 +69,7 @@
     vedas:['dharmic'], bhakti:['dharmic'], buddha:['buddhist'], no_self:['buddhist'],
     ahimsa:['jain','dharmic'], guru_granth:['sikh'],
     dao:['eastasian'], kami:['eastasian'], orisha:['indigenous'], fire:['iranian'],
-    spinoza_necessity:['philosophical'], ritual_masks:['indigenous','eastasian']
+    spinoza_necessity:['philosophical'], ritual_masks:['indigenous','eastasian','dharmic']
   };
   const routeSignals = {
     christian:['divine','one_god','revelation','scripture'],

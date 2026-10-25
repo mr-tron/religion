@@ -33,9 +33,10 @@
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Progressive_Christianity",
-        "https://www.douglasucc.org/uploads/1/2/2/7/122798879/progressivechristianity.pdf"
+        "https://www.douglasucc.org/uploads/1/2/2/7/122798879/progressivechristianity.pdf",
+        "https://throughtheflamingsword.com/wp-content/uploads/2022/09/dissertation_a_tale_of_two_christianities.pdf"
       ],
-      "notes": "Не единая деноминация и не alias политического либерализма, всего либерального богословия или организации ProgressiveChristianity.org. Восемь пунктов, опубликованные одной из общин UCC, подтверждают ориентацию на учение Иисуса при открытости к разным убеждениям. Это не основание для общей атеистической позиции, -trinity, -scripture или +humanism у всех участников."
+      "notes": "Не единая деноминация и не alias политического либерализма, всего либерального богословия или организации ProgressiveChristianity.org. Восемь пунктов, опубликованные одной из общин UCC, подтверждают ориентацию на учение Иисуса при открытости к разным убеждениям. Это не основание для общей атеистической позиции, -trinity, -scripture или +humanism у всех участников. Дополнительная проверка 2026-10-25: Дополнительно проверены исторические версии Eight Points1994/2003/2011 в диссертационном сравнении и собственная публикация общины UCC: прямо допускаются questioning skeptics, believers и agnostics. Упоминания Sacred/oneness в отдельных редакциях не означают общего pantheism или -personal всего Progressive Christianity. Новых общих токенов не установлено; текущая загрузка сайта ProgressiveChristianity.org недоступна."
     },
     {
       "sourceIndex": 1548,
@@ -46,7 +47,7 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Межденоминационное протестантское движение, защищающее основные догматы веры и библейскую безошибочность в полемике с богословским модернизмом.",
-      "profile": "+jesus +scripture +bible_alone",
+      "profile": "+jesus +scripture +bible_alone +divine +revelation",
       "proposedQuestions": [
         {
           "id": "biblical_inerrancy",
@@ -63,9 +64,11 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Christian_fundamentalism"
+        "https://en.wikipedia.org/wiki/Christian_fundamentalism",
+        "https://ecommons.udayton.edu/hst_fac_pub/9/",
+        "https://doi.org/10.1017/S1755048324000385"
       ],
-      "notes": "Исходная ссылка использует более широкое Christian fundamentalism, но описывает прежде всего историческое протестантское движение. Не alias всего евангельского христианства, консерватизма или отдельной баптистской церкви. Оценочные употребления слова и единая политическая позиция в профиль не включены."
+      "notes": "Исходная ссылка использует более широкое Christian fundamentalism, но описывает прежде всего историческое протестантское движение. Не alias всего евангельского христианства, консерватизма или отдельной баптистской церкви. Оценочные употребления слова и единая политическая позиция в профиль не включены. Дополнительная проверка 2026-10-25: William Vance Trollinger,Fundamentalism(2003),University of Dayton, прямо указывает божественность Христа; рецензируемый scoping review Politics and Religion2025 фиксирует revealed truth Bible как определяющее основание именно Protestant fundamentalism: divine/revelation. Общее осуждение modernism не превращено в отрицание научного метода по всем вопросам; позиции о политике и конкретном millennialism не унифицированы."
     },
     {
       "sourceIndex": 1549,
@@ -111,13 +114,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Филиппинские религиозно-политические движения, сочетавшие народный католицизм с местными верованиями и защитными обрядами.",
-      "profile": "+scripture +ritual",
+      "profile": "+scripture +ritual +occult",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Pulahan",
-        "https://www.asj.upd.edu.ph/mediabox/archive/ASJ_56_1_2020/Pulahanes_Masbate_Philippines_Pelorina2.pdf"
+        "https://www.asj.upd.edu.ph/mediabox/archive/ASJ_56_1_2020/Pulahanes_Masbate_Philippines_Pelorina2.pdf",
+        "https://ejournals.ph/article.php?id=5188"
       ],
-      "notes": "Исследование Renato Pelorina подтверждает региональные группы и их связь с кругом Dios-dios. Это не доказательство полного тождества всем движениям Dios-dios или одному основателю; противоречивые генеалогии исходной статьи не используются. Семейство отражает народно-католическую составляющую, не навязывая всем группам римское богословие."
+      "notes": "Исследование Renato Pelorina подтверждает региональные группы и их связь с кругом Dios-dios. Это не доказательство полного тождества всем движениям Dios-dios или одному основателю; противоречивые генеалогии исходной статьи не используются. Семейство отражает народно-католическую составляющую, не навязывая всем группам римское богословие. Дополнительная проверка 2026-10-25: Daniel C.Talde,Journal of History47(2001),168–194, на основе интервью прямо называет anting-anting и oraciones важными защитными магическими практиками Pulahanes; Pelorina2020 независимо фиксирует аналогичные представления в Masbate: occult. Не вся народно-католическая догматика и не полное тождество Samar/Masbate или Rizalista назначены общему кругу; полный текст Talde требует входа, вывод опирается на содержательное авторское резюме."
     },
     {
       "sourceIndex": 1552,
@@ -128,12 +132,13 @@
       "inheritFamilyProfile": false,
       "parent": "Реформатское христианство",
       "description": "Историческое движение английских протестантов XVI–XVII веков, стремившихся к дальнейшему реформированию церкви и богослужения.",
-      "profile": "+scripture",
+      "profile": "+scripture +divine +personal +jesus +bible_alone -icons -pope",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Puritans"
+        "https://en.wikipedia.org/wiki/Puritans",
+        "https://assets.cambridge.org/97805216/78001/excerpt/9780521678001_excerpt.pdf"
       ],
-      "notes": "Исторический круг включает разные церковные устройства; не alias всего пресвитерианства, конгрегационализма или современного фундаментализма. Вопросы крещения, церковной власти и подробной обрядности не назначены одинаково всем группам. Бытовое значение «пуританский» не используется как религиозный профиль."
+      "notes": "Исторический круг включает разные церковные устройства; не alias всего пресвитерианства, конгрегационализма или современного фундаментализма. Вопросы крещения, церковной власти и подробной обрядности не назначены одинаково всем группам. Бытовое значение «пуританский» не используется как религиозный профиль. Дополнительная проверка 2026-10-25: John Coffey/Paul Lim,Cambridge Companion to Puritanism,Introduction,с.2, прямо описывает Божье прощение через веру в жертву Христа, Bible как единственный непогрешимый авторитет, отказ от папской власти и иконоборческое отношение к образам. divine/personal/jesus/bible_alone/-icons/-pope подтверждены специальным обзором. Простота богослужения не значит -ritual; подробные крещение и церковное устройство всех пуритан не унифицированы."
     },
     {
       "sourceIndex": 1553,
@@ -160,12 +165,14 @@
       "inheritFamilyProfile": false,
       "parent": "Анабаптизм",
       "description": "Семейство анабаптистско-пиетистских церквей пенсильванского происхождения, практикующее крещение после обращения.",
-      "profile": "+adult_baptism +trinity +scripture",
+      "profile": "+adult_baptism +trinity +scripture +divine +personal +jesus +afterlife +ritual +ahimsa",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/River_Brethren"
+        "https://en.wikipedia.org/wiki/River_Brethren",
+        "https://omeka.religiousecologies.org/files/original/592dbf00ffe3ddf90ed1df49021824f1ac85cb15.pdf",
+        "https://bicarchives.messiah.edu/files/Documents18/1983-1-june_1983.pdf"
       ],
-      "notes": "Источник прямо отличает River Brethren от Schwarzenau Brethren, несмотря на взаимные влияния и тройное погружение. Не alias одной современной Brethren in Christ Church, одной старообрядной ветви или United Brethren. Одежда и бытовые ограничения поздних ветвей неодинаковы; они не назначены всему кругу."
+      "notes": "Источник прямо отличает River Brethren от Schwarzenau Brethren, несмотря на взаимные влияния и тройное погружение. Не alias одной современной Brethren in Christ Church, одной старообрядной ветви или United Brethren. Одежда и бытовые ограничения поздних ветвей неодинаковы; они не назначены всему кругу. Дополнительная проверка 2026-10-25: Census of Religious Bodies1926,раздел River Brethren,с.292, прямо описывает бессмертие души, искупление Христом, исповедь Богу, Eucharist/feetwashing и запрет применять силу с лишением человеческой жизни: divine/personal/jesus/afterlife/ritual/ahimsa. Исторический обзор и Messiah University архив различают ветви; не использовано вероучение Schwarzenau Church of the Brethren и не перенесены все нормы позднего BIC на старые ветви."
     },
     {
       "sourceIndex": 1555,
@@ -179,9 +186,11 @@
       "profile": "",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Rizalista_religious_movements"
+        "https://en.wikipedia.org/wiki/Rizalista_religious_movements",
+        "https://www.asj.upd.edu.ph/mediabox/archive/ASJ-13-02-1975/covar-contemporary%20religious%20movements%20philippines.pdf",
+        "https://www.mdpi.com/2077-1444/12/10/800"
       ],
-      "notes": "Rizalista — общее обозначение нескольких движений, а не единая церковь. Источник перечисляет разные представления о Рисале: от духовного наставника до божественного воплощения. Ни его божественность, ни перерождение Христа, ни исключительное спасение в одной организации не назначены всему кругу. Не alias каждой из перечисленных организаций или светскому почитанию национального героя."
+      "notes": "Rizalista — общее обозначение нескольких движений, а не единая церковь. Источник перечисляет разные представления о Рисале: от духовного наставника до божественного воплощения. Ни его божественность, ни перерождение Христа, ни исключительное спасение в одной организации не назначены всему кругу. Не alias каждой из перечисленных организаций или светскому почитанию национального героя. Дополнительная проверка 2026-10-25: Дополнительно проверены Prospero Covar,Asian Studies13(2),1975, и специальное исследование Understanding Folk Religiosity in the Philippines2021: перечисляются различные автономные Rizalista организации и сочетания anitismo, библейских и национальных традиций. Формула одной IWL о третьем лице Бога не приписана всем; коллективная категория не получила единого divine, reincarnation, spirit_possession или scripture. Новых общих токенов нет."
     },
     {
       "sourceIndex": 1556,
@@ -192,12 +201,13 @@
       "inheritFamilyProfile": false,
       "parent": "Восточный католицизм",
       "description": "Восточнокатолическая церковь византийского обряда, исторически связанная с Трансильванией.",
-      "profile": "+church +pope +scripture",
+      "profile": "+church +pope +scripture +divine +personal +trinity +jesus",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Romanian_Greek_Catholic_Church"
+        "https://en.wikipedia.org/wiki/Romanian_Greek_Catholic_Church",
+        "https://www.egco.ro/2024/11/06/crezul-sotilor-curs-de-formare-pentru-preoti-si-sotiile-lor/"
       ],
-      "notes": "Отдельная церковь sui iuris, также называемая Румынской церковью, объединённой с Римом. Не Румынская православная церковь и не весь католицизм Румынии. Источник подтверждает папское общение, Библию и византийское богослужение."
+      "notes": "Отдельная церковь sui iuris, также называемая Румынской церковью, объединённой с Римом. Не Румынская православная церковь и не весь католицизм Румынии. Источник подтверждает папское общение, Библию и византийское богослужение. Дополнительная проверка 2026-10-25: Собственная Oradea Greek-Catholic episcopal catechesis Crezul sotilor2024 прямо содержит обращение к Отцу, учение о Treime и Иисусе, явившем Бога: divine/personal/trinity/jesus. Катехизическая интерпретация супружества не стала новым общим догматом всего восточного католицизма; латинский обряд не заменяет её византийский."
     },
     {
       "sourceIndex": 1557,
@@ -208,12 +218,13 @@
       "inheritFamilyProfile": false,
       "parent": "Православие",
       "description": "Автокефальная православная церковь румынской традиции с патриаршим устройством.",
-      "profile": "+church +scripture",
+      "profile": "+church +scripture +divine +personal +one_god +trinity +jesus +afterlife +ritual",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Romanian_Orthodox_Church"
+        "https://en.wikipedia.org/wiki/Romanian_Orthodox_Church",
+        "https://arhiva.basilica.ro/preafericitul-parinte-daniel-patriarhul-romaniei-crezul-ortodox-este-inima-credintei-noastre/"
       ],
-      "notes": "Не alias всего православия или Румынской грекокатолической церкви. Источник подтверждает автокефальную церковную структуру, византийское богослужение и библейское писание. Национальность не трактуется как обязательный признак каждого последователя."
+      "notes": "Не alias всего православия или Румынской грекокатолической церкви. Источник подтверждает автокефальную церковную структуру, византийское богослужение и библейское писание. Национальность не трактуется как обязательный признак каждого последователя. Дополнительная проверка 2026-10-25: Прямое выступление Patriarch Daniel,опубликованное собственным Basilica, называет Creed сердцем веры, исповедует одного Бога и поклонение Trinity как источнику вечной жизни, объясняет его место в Baptism; полное исповедание относится ко Христу. divine/personal/one_god/trinity/jesus/afterlife/ritual подтверждены собственной катехизацией Румынской православной церкви; национальность и её политическая история не стали условиями веры."
     },
     {
       "sourceIndex": 1558,
@@ -242,12 +253,15 @@
       "inheritFamilyProfile": false,
       "parent": "Православие",
       "description": "Автокефальная православная церковь Московского патриархата.",
-      "profile": "+church +scripture",
+      "profile": "+church +scripture +divine +personal +one_god +trinity +jesus +afterlife +ritual +revelation",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Russian_Orthodox_Church"
+        "https://en.wikipedia.org/wiki/Russian_Orthodox_Church",
+        "https://mospat.ru/ru/archive/86410-simvol-very/",
+        "https://ekaterinburg-eparhia.ru/news/2023/01/22/93383/",
+        "https://trsobor.ru/dogmatika-pravoslavnoj-tserkvi/"
       ],
-      "notes": "Сохраняется конкретная церковь, не alias всего православия. Белорусский экзархат (строка 1447) является частью РПЦ, а не её полным синонимом. Источник подтверждает библейское писание, епископальное устройство и православную традицию; политические позиции и территориальные споры не назначаются убеждениями каждого верующего."
+      "notes": "Сохраняется конкретная церковь, не alias всего православия. Белорусский экзархат (строка 1447) является частью РПЦ, а не её полным синонимом. Источник подтверждает библейское писание, епископальное устройство и православную традицию; политические позиции и территориальные споры не назначаются убеждениями каждого верующего. Дополнительная проверка 2026-10-25: Собственный ОВЦС РПЦ публикует полный Creed: единый Отец, Христос, Святой Дух, говоривший через пророков, воскресение и будущая жизнь; епархиальное объяснение подтверждает чтение при Baptism/Литургии. divine/personal/one_god/trinity/jesus/afterlife/ritual/revelation основаны на её исповедании. Государственные/территориальные оценки не назначены верующим."
     },
     {
       "sourceIndex": 1560,
@@ -258,12 +272,14 @@
       "inheritFamilyProfile": false,
       "parent": "Восточный католицизм",
       "description": "Современная восточнокатолическая церковная традиция византийского обряда, связанная с русинским наследием и диаспорой.",
-      "profile": "+church +pope",
+      "profile": "+church +pope +divine +personal +one_god +trinity +jesus +afterlife +ritual +revelation +scripture",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Ruthenian_Greek_Catholic_Church"
+        "https://en.wikipedia.org/wiki/Ruthenian_Greek_Catholic_Church",
+        "https://metropolitancantorinstitute.org/liturgy/Divine_Liturgy_Great_Entrance.html",
+        "https://www.metropolitancantorinstitute.org/liturgy/Divine_Liturgy.html"
       ],
-      "notes": "Источник прямо отличает современную Ruthenian Greek Catholic Church от исторической Ruthenian Uniate Church и от Украинской грекокатолической церкви. Не Российская грекокатолическая церковь; сходные переводы Ruthenian/Russian не основание для alias."
+      "notes": "Источник прямо отличает современную Ruthenian Greek Catholic Church от исторической Ruthenian Uniate Church и от Украинской грекокатолической церкви. Не Российская грекокатолическая церковь; сходные переводы Ruthenian/Russian не основание для alias. Дополнительная проверка 2026-10-25: Собственный Metropolitan Cantor Institute Pittsburgh объясняет Divine Liturgy/Great Entrance и приводит применяемый Creed, чтения/евхаристические молитвы: один Бог, Trinity, Христос, пророческое revelation, resurrection и будущая жизнь подтверждают divine/personal/one_god/trinity/jesus/afterlife/ritual/revelation/scripture. Это конкретные Ruthenian богослужебные материалы; тождество Russian или Ukrainian Greek-Catholic церквам не утверждается."
     },
     {
       "sourceIndex": 1561,
@@ -291,12 +307,14 @@
       "inheritFamilyProfile": false,
       "parent": "Анабаптизм",
       "description": "Христианская анабаптистско-пиетистская традиция, начавшаяся в Шварценау в 1708 году и образовавшая несколько позднейших церквей.",
-      "profile": "+jesus +scripture +adult_baptism",
+      "profile": "+jesus +scripture +adult_baptism +divine +personal +one_god +trinity +revelation +ritual +ahimsa",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Schwarzenau_Brethren"
+        "https://en.wikipedia.org/wiki/Schwarzenau_Brethren",
+        "https://www.brethren.org/about/beliefs/",
+        "https://ogbbc.org/about/beliefs/"
       ],
-      "notes": "German Baptist Brethren, Dunkers и Tunkers — названия этого исторического круга, а не всего баптизма. Не alias River Brethren (строка 1554): статья прямо различает традиции. Не одна современная Church of the Brethren; бытовые правила отдельных старообрядных ветвей не обобщаются."
+      "notes": "German Baptist Brethren, Dunkers и Tunkers — названия этого исторического круга, а не всего баптизма. Не alias River Brethren (строка 1554): статья прямо различает традиции. Не одна современная Church of the Brethren; бытовые правила отдельных старообрядных ветвей не обобщаются. Проверка: два самостоятельных продолжения шварценауской традиции прямо исповедуют Бога-Творца, Христа и Духа, авторитет откровения Нового Завета; описывают Вечерю, омовение ног и непротивление. Различия современных ветвей сохранены; правила одной Church of the Brethren не объявлены универсальным устройством движения."
     },
     {
       "sourceIndex": 1563,

@@ -13,12 +13,13 @@
       "inheritFamilyProfile": false,
       "parent": "Древневосточные православные церкви",
       "description": "Эфиопская христианская церковь древневосточной православной традиции с собственным библейским каноном и богослужебным наследием.",
-      "profile": "+jesus +scripture +church",
+      "profile": "+jesus +scripture +church +divine +one_god +trinity +personal +ritual +afterlife +revelation -adult_baptism -bible_alone",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Ethiopian_Orthodox_Church"
+        "https://en.wikipedia.org/wiki/Ethiopian_Orthodox_Church",
+        "https://www.ethiopianorthodox.org/english/dogma/faith.html"
       ],
-      "notes": "Исходный URL перенаправляет на Ethiopian Orthodox Tewahedo Church. Отдельная церковь, не alias всей группы Oriental Orthodox, Коптской или Эритрейской церкви. Соблюдение субботы и воскресенья и расширенный канон нельзя свести к общему профилю всех православных церквей; эти различия здесь не расширены без необходимости."
+      "notes": "Исходный URL перенаправляет на Ethiopian Orthodox Tewahedo Church. Отдельная церковь, не alias всей группы Oriental Orthodox, Коптской или Эритрейской церкви. Соблюдение субботы и воскресенья и расширенный канон нельзя свести к общему профилю всех православных церквей; эти различия здесь не расширены без необходимости. Дополнительная проверка: Собственное Faith of the Church прямо описывает Троицу, действующего Бога, раскрывающее учение Духа, евхаристическое преосуществление, вечную жизнь и крещение младенцев40/80дней. Также признаёт отцов и соборы наряду с Писанием. Добавлены девять признаков. Суббота не добавлена лишь по общей связи с эритрейской церковью; миафизитство не названо отрицанием человечности Христа."
     },
     {
       "sourceIndex": 1487,
@@ -29,12 +30,14 @@
       "inheritFamilyProfile": false,
       "parent": "Англиканство",
       "description": "Направление англиканства, подчёркивающее верховенство Писания, искупление через Христа, личное обращение и благовестие.",
-      "profile": "+jesus +scripture +bible_alone",
+      "profile": "+jesus +scripture +bible_alone +divine +one_god +trinity +personal +revelation",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Evangelical_Anglicanism"
+        "https://en.wikipedia.org/wiki/Evangelical_Anglicanism",
+        "https://cpas.org.uk/faith",
+        "https://www.churchsociety.org/about-us/our-vision/"
       ],
-      "notes": "Не alias всего англиканства или всего евангельского протестантизма. Положительный bible_alone отражает supremacy of Scripture, а не отказ от любой литургии, исторического учения и церковного устройства. Не назначено -church: евангелическое крыло сохраняет англиканские формы церковной жизни."
+      "notes": "Не alias всего англиканства или всего евангельского протестантизма. Положительный bible_alone отражает supremacy of Scripture, а не отказ от любой литургии, исторического учения и церковного устройства. Не назначено -church: евангелическое крыло сохраняет англиканские формы церковной жизни. Дополнительная проверка: Собственная CPAS Basis of Faith, адаптированная из Anglican Evangelical Assembly1990, исповедует единого Бога в трёх Лицах, воплощение и веру, уникально открытую в Писании; ChurchSociety подтверждает евангелический англиканский контекст. Добавлены пять признаков. Общие англиканские страницы не использованы для отмены особого scripture-supremacy крыла."
     },
     {
       "sourceIndex": 1488,
@@ -130,12 +133,15 @@
       "inheritFamilyProfile": false,
       "parent": "Реформатское христианство",
       "description": "Французская реформатская протестантская традиция и исторические общины её последователей.",
-      "profile": "+jesus +scripture",
+      "profile": "+jesus +scripture +divine +one_god +trinity +personal +revelation +bible_alone +ritual +church",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Huguenot"
+        "https://en.wikipedia.org/wiki/Huguenot",
+        "https://protestants-gap.fr/data/files/textes_fondateurs/confession_de_foi_de_la_rochelle.pdf",
+        "https://fr.ligonier.org/ressources/croyances-et-confessions/confession-de-la-rochelle/",
+        "https://musee-rochelais-histoire-protestante.fr/histoire/la-rochelle-protestante/la-confession-de-foi-de-la-rochelle"
       ],
-      "notes": "French Huguenot — французские гугеноты; это конкретная историко-конфессиональная традиция, не alias всего кальвинизма или всего французского протестантизма. Потомки эмигрантов не обязательно сохраняют ту же религиозную принадлежность, поэтому этническое происхождение не приравнено к личной вере."
+      "notes": "French Huguenot — французские гугеноты; это конкретная историко-конфессиональная традиция, не alias всего кальвинизма или всего французского протестантизма. Потомки эмигрантов не обязательно сохраняют ту же религиозную принадлежность, поэтому этническое происхождение не приравнено к личной вере. Дополнительная проверка: Историческое исповедание LaRochelle1559/1571 прямо излагает единого Троичного Бога, откровение и окончательный авторитет Библии, служение и таинства; музей подтверждает принятие гугенотскими церквами. Добавлены восемь признаков исторической конфессиональной традиции. Вероисповедание не приписано всем потомкам эмигрантов или всем поздним либеральным преемникам."
     },
     {
       "sourceIndex": 1494,
@@ -146,12 +152,14 @@
       "inheritFamilyProfile": false,
       "parent": "Католицизм",
       "description": "Историческое католическое церковно-политическое направление, ограничивающее папскую власть правами соборов, епископов и светской власти.",
-      "profile": "+church",
+      "profile": "+church +divine +jesus +scripture",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Gallicanism"
+        "https://en.wikipedia.org/wiki/Gallicanism",
+        "https://ccel.org/ccel/schaff/encyc04/htm/iii.xvii.xxvi.htm",
+        "https://mateo.uni-mannheim.de/camenaref/cmh/cmh504.html"
       ],
-      "notes": "Не alias всего французского католицизма или англиканства. Ограничение верховной власти и непогрешимости папы не означает полного отрицания его первенства: поэтому знак по pope не назначен. Различаются церковные и государственные формы галликанизма; современные одноимённые независимые церкви автоматически не включены."
+      "notes": "Не alias всего французского католицизма или англиканства. Ограничение верховной власти и непогрешимости папы не означает полного отрицания его первенства: поэтому знак по pope не назначен. Различаются церковные и государственные формы галликанизма; современные одноимённые независимые церкви автоматически не включены. Дополнительная проверка: Перевод собственного Declaratio cleri Gallicani1682 в CCEL прямо обосновывает церковные полномочия Богом, Христом и Его евангельским словом; Cambridge Modern History поясняет компромисс четырёх статей. Добавлены +divine/+jesus/+scripture. Первенство и пределы окончательности решений папы различены: общего +/-pope не назначено, непогрешимость не приравнена к самому существованию первенства."
     },
     {
       "sourceIndex": 1495,
@@ -162,12 +170,14 @@
       "inheritFamilyProfile": false,
       "parent": "Восточное православие",
       "description": "Автокефальная православная церковь Грузии, сохраняющая собственную литургическую и церковную традицию.",
-      "profile": "+church",
+      "profile": "+church +scripture +jesus +divine +personal +ritual",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Georgian_Orthodox_Church"
+        "https://en.wikipedia.org/wiki/Georgian_Orthodox_Church",
+        "https://patriarchate.ge/sakhareba/1632",
+        "https://patriarchate.ge/sakhareba/1630"
       ],
-      "notes": "Отдельная поместная церковь, не alias всего православия. Не смешивается с грузинскими дохристианскими верованиями; даты ранней автокефалии и текущие имена иерархов не превращены в классификационные признаки."
+      "notes": "Отдельная поместная церковь, не alias всего православия. Не смешивается с грузинскими дохристианскими верованиями; даты ранней автокефалии и текущие имена иерархов не превращены в классификационные признаки. Дополнительная проверка: Официальный грузинский Патриархат публикует именно литургию Иоанна Златоуста с апостольскими/евангельскими чтениями, призыванием Господа Иисуса и благодарением Богу за благодать. Добавлены пять признаков по собственному богослужебному материалу. Присутствие1Кор12 в чтениях не превращено автоматически в +spirit_gifts всей современной церкви."
     },
     {
       "sourceIndex": 1496,
@@ -195,12 +205,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Китайское религиозное движение Хун Сюцюаня, соединявшее собственное понимание христианских текстов с культом Шанди и ставшее религиозной основой тайпинского движения.",
-      "profile": "+divine +jesus +scripture +revelation -trinity",
+      "profile": "+divine +jesus +scripture +revelation -trinity +personal +new_revelation +spirit_possession +ritual",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/God_Worshipping_Society"
+        "https://en.wikipedia.org/wiki/God_Worshipping_Society",
+        "https://www.bu.edu/cura/faculty-associates/publications/resistance-control/",
+        "https://academic.oup.com/edited-volume/62249/chapter-abstract/551419960",
+        "https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/instructing-the-heavenly-king-joseph-edkinss-mission-to-correct-the-theology-of-hong-xiuquan/9F5E0AEB49D351025BE7BF46EE9630C4"
       ],
-      "notes": "Сохраняется конкретное религиозное общество XIX века; не alias всей китайской народной религии или исторического культа Шанди. Протестантское влияние не означает принятия никейской Троицы: источник прямо называет движение нетринитарным и описывает собственное понимание Хуном своего родства с Иисусом. Военно-политическая история Тайпинского государства не принята за профиль каждого верующего."
+      "notes": "Сохраняется конкретное религиозное общество XIX века; не alias всей китайской народной религии или исторического культа Шанди. Протестантское влияние не означает принятия никейской Троицы: источник прямо называет движение нетринитарным и описывает собственное понимание Хуном своего родства с Иисусом. Военно-политическая история Тайпинского государства не принята за профиль каждого верующего. Дополнительная проверка: RobertWeller, BostonUniversity CURA, и Oxford Religious Program прямо документируют1848–1849годов говорение Бога через YangXiuqing и Иисуса через XiaoChaogui; Kilcourse показывает авторитет собственных откровений Хуна. Добавлены +personal/+new_revelation/+spirit_possession/+ritual. Признание двух медиумов — конкретное историческое убеждение движения, не перенос одержимости на всех китайских христиан."
     },
     {
       "sourceIndex": 1498,
@@ -227,12 +240,14 @@
       "inheritFamilyProfile": false,
       "parent": "Восточный католицизм",
       "description": "Греческая католическая церковь византийского обряда в общении с Римом.",
-      "profile": "+church +pope",
+      "profile": "+church +pope +ritual",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Greek_Byzantine_Catholic_Church"
+        "https://en.wikipedia.org/wiki/Greek_Byzantine_Catholic_Church",
+        "https://cnewa.org/spotlight-on-the-eastern-churches-the-greek-byzantine-catholic-church-52535/",
+        "https://cnewa.org/eastern-christian-churches/the-catholic-eastern-churches/from-the-orthodox-church/the-greek-catholic-church/"
       ],
-      "notes": "Конкретная восточнокатолическая церковь, не общее название всех грекокатоликов и не alias Украинской, Венгерской или Итало-албанской церкви. Не смешивается с греческими православными церквами; язык или византийский обряд сами по себе не означают одинаковой юрисдикции."
+      "notes": "Конкретная восточнокатолическая церковь, не общее название всех грекокатоликов и не alias Украинской, Венгерской или Итало-албанской церкви. Не смешивается с греческими православными церквами; язык или византийский обряд сами по себе не означают одинаковой юрисдикции. Дополнительная проверка: CNEWA документирует именно греческую византийскую католическую общину и её Божественную литургию в афинском соборе. Добавлен +ritual. Собственный сайт elcathex.gr возвращает403; полный набор догматов не достроен из одного прилагательного Byzantine, а греческие православные литургические сайты не приняты за свидетельство этой юрисдикции."
     },
     {
       "sourceIndex": 1500,
@@ -260,12 +275,14 @@
       "inheritFamilyProfile": false,
       "parent": "Протестантизм — преимущественно уэслианское наследие",
       "description": "Христианское движение, исторически связанное прежде всего с методизмом и учением о полном освящении как особом действии благодати.",
-      "profile": "+divine +jesus",
+      "profile": "+divine +jesus +personal +one_god +trinity +scripture +bible_alone +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Holiness_movement"
+        "https://en.wikipedia.org/wiki/Holiness_movement",
+        "https://www.wesleyanholiness.org/core-values",
+        "https://wesley.nnu.edu/fileadmin/lib/view_wc_book.php?hdm=2630"
       ],
-      "notes": "Межденоминационное движение, не alias всего методизма или пятидесятничества. «Второе действие благодати» и полное освящение не означают автоматически говорения на языках; знаки spirit_gifts не назначены всему движению."
+      "notes": "Межденоминационное движение, не alias всего методизма или пятидесятничества. «Второе действие благодати» и полное освящение не означают автоматически говорения на языках; знаки spirit_gifts не назначены всему движению. Дополнительная проверка 2026-10-25: International Wesleyan Holiness Association Core Values прямо исповедует одного Бога Father/Son/Holy Ghost, спасительное общение с ним и eternal life, достаточность Библии для веры и поведения: personal/one_god/trinity/scripture/bible_alone/afterlife. Это общедвиженческое исповедальное свидетельство; отличительное entire sanctification дополнительно проверено в университетском Wesley Center. Его не приравниваем обязательной глоссолалии."
     },
     {
       "sourceIndex": 1502,
@@ -276,14 +293,16 @@
       "inheritFamilyProfile": false,
       "parent": "Восточный католицизм",
       "description": "Венгерская католическая церковь византийского обряда с собственной иерархией и литургическим наследием.",
-      "profile": "+church +pope",
+      "profile": "+church +pope +divine +personal +one_god +jesus +trinity +ritual +afterlife",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Hungarian_Byzantine_Catholic_Church",
         "https://en.wikipedia.org/wiki/Hungarian_Greek_Catholic_Church",
-        "https://cnewa.org/eastern-christian-churches/the-catholic-eastern-churches/from-the-orthodox-church/the-hungarian-catholic-church/"
+        "https://cnewa.org/eastern-christian-churches/the-catholic-eastern-churches/from-the-orthodox-church/the-hungarian-catholic-church/",
+        "https://hd.gorogkatolikus.hu/media_doc/ac1bb49c41206ebb46380a0efd81caac.pdf",
+        "https://mggeorgikon.hu/hu/lelki-elet/altalanos-hitismeret/"
       ],
-      "notes": "Исходный URL не загрузился; альтернативная статья Hungarian Greek Catholic Church и обзор CNEWA подтверждают ту же церковь. Byzantine Catholic и Greek Catholic в этих названиях обозначают одну конкретную венгерскую традицию, ранее отдельной записью не найденную. Не alias всех грекокатоликов или латинского католицизма Венгрии."
+      "notes": "Исходный URL не загрузился; альтернативная статья Hungarian Greek Catholic Church и обзор CNEWA подтверждают ту же церковь. Byzantine Catholic и Greek Catholic в этих названиях обозначают одну конкретную венгерскую традицию, ранее отдельной записью не найденную. Не alias всех грекокатоликов или латинского католицизма Венгрии. Дополнительная проверка 2026-10-25: Собственный молитвенник Hajdudorog и учебный материал грекокатолического Georgikon приводят исповедание единого Отца, Христа и Святого Духа, воскресения/вечной жизни и молитвенное обращение к Отцу; даны молитвенные/таинственные формы: divine/personal/one_god/jesus/trinity/ritual/afterlife. Это непосредственно опубликованные тексты венгерской грекокатолической среды, а не наследование всего латинского профиля."
     },
     {
       "sourceIndex": 1503,
@@ -294,12 +313,14 @@
       "inheritFamilyProfile": false,
       "parent": "Чешская Реформация",
       "description": "Историческое христианское движение последователей Яна Гуса, включавшее умеренные и радикальные направления чешской Реформации.",
-      "profile": "+jesus +scripture",
+      "profile": "+jesus +scripture +divine +personal +ritual",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Hussites"
+        "https://en.wikipedia.org/wiki/Hussites",
+        "https://husitstvi.cz/historie/dobove-dokumenty/ctyri-artikuly-prazske-1420/",
+        "https://explorer.cuni.cz/publication/606550?lang=en"
       ],
-      "notes": "Не alias одной современной Чехословацкой гуситской церкви, моравских братьев или только таборитов. Источник различает утраквистов и радикальные группы; их отношение к церковной власти и таинствам неодинаково, поэтому общий знак church не назначен."
+      "notes": "Не alias одной современной Чехословацкой гуситской церкви, моравских братьев или только таборитов. Источник различает утраквистов и радикальные группы; их отношение к церковной власти и таинствам неодинаково, поэтому общий знак church не назначен. Дополнительная проверка 2026-10-25: Первичные Four Articles of Prague1420 обращаются к помогающему Богу и требуют причащения тела/крови Христа под двумя видами; исследование Kamila Veverkova,Charles University2021, подтверждает значение общей программы для разных фракций. divine/personal/ritual добавлены по этому ядру. Подробное понимание таинства и институциональное преемство радикалов/утраквистов не унифицированы."
     },
     {
       "sourceIndex": 1504,
@@ -310,7 +331,7 @@
       "inheritFamilyProfile": false,
       "parent": "Анабаптизм",
       "description": "Анабаптистская христианская традиция, соединяющая крещение по исповеданию веры, ненасилие и религиозную общность хозяйственного имущества.",
-      "profile": "+jesus +scripture +adult_baptism +ahimsa",
+      "profile": "+jesus +scripture +adult_baptism +ahimsa +divine +personal +ritual",
       "proposedQuestions": [
         {
           "id": "communal_property",
@@ -329,7 +350,7 @@
         "https://hutterites.org/our-beliefs/community-goods/",
         "https://hutterites.org/our-beliefs/"
       ],
-      "notes": "Официальные источники подтверждают отдельность от амишей и меннонитов при общих анабаптистских корнях. Общность имущества не означает отсутствия личных вещей; экономические ресурсы колонии принадлежат общине. Для предложенного вопроса communal_property типичный ответ «Да». Ненасилие подтверждено как религиозная норма, а не выведено из общего стереотипа о простом образе жизни."
+      "notes": "Официальные источники подтверждают отдельность от амишей и меннонитов при общих анабаптистских корнях. Общность имущества не означает отсутствия личных вещей; экономические ресурсы колонии принадлежат общине. Для предложенного вопроса communal_property типичный ответ «Да». Ненасилие подтверждено как религиозная норма, а не выведено из общего стереотипа о простом образе жизни. Дополнительная проверка 2026-10-25: Собственные Summary of Beliefs и Our Beliefs прямо описывают Божий призыв, совместные молитвы, Lord’s Supper и почти ежедневные богослужения: divine/personal/ritual. Символическое понимание Вечери не превращено в отрицание любых обрядов; анабаптистская генеалогия не использована для копирования всего профиля меннонитов."
     },
     {
       "sourceIndex": 1505,
@@ -344,9 +365,10 @@
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Hyper-Calvinism",
-        "https://cprc.co.uk/articles/whatishypercalvinism/"
+        "https://cprc.co.uk/articles/whatishypercalvinism/",
+        "https://cprc.co.uk/articles/hypercalvinist/"
       ],
-      "notes": "Термин нередко полемичен и определяется неодинаково; здесь сохранён узкий историко-богословский смысл denial of duty-faith/universal gospel offer, обсуждаемый в исходнике и реформатском изложении CPRC. Не alias всего строгого кальвинизма, учения о предопределении или каждого баптиста Gospel Standard. Критические оценки оппонентов не представлены как самоописание всех затронутых групп."
+      "notes": "Термин нередко полемичен и определяется неодинаково; здесь сохранён узкий историко-богословский смысл denial of duty-faith/universal gospel offer, обсуждаемый в исходнике и реформатском изложении CPRC. Не alias всего строгого кальвинизма, учения о предопределении или каждого баптиста Gospel Standard. Критические оценки оппонентов не представлены как самоописание всех затронутых групп. Дополнительная проверка 2026-10-25: Дополнительно сопоставлены CPRC What Is Hyper-Calvinism и Answer to Phil Johnson: авторы сами отвергают этот ярлык и подчёркивают спорность его применения к free offer. Их собственное полное исповедание не может стать профилем всех названных ими оппонентов. Уточнено историческое duty-faith ядро; новых общих trinity, baptism или bible_alone по полемическому определению не назначено."
     }
   ]
 }

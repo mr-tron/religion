@@ -13,12 +13,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Собирательное обозначение современных корейских буддийских организаций, считающих Лотосовую сутру основным текстом.",
-      "profile": "+buddha +scripture",
+      "profile": "+buddha +scripture +ritual +icons",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Beophwagye"
+        "https://en.wikipedia.org/wiki/Beophwagye",
+        "https://www.buddhism.or.kr/board/file_down.php?baidx=257626"
       ],
-      "notes": "Это категория нескольких организаций, а не одна церковь. Некоторые испытали влияние Нитирэн-буддизма, но не все тождественны ему; не alias исторической школы Чхонтхэ. Общие признаки ограничены буддийской основой и авторитетом Лотосовой сутры."
+      "notes": "Это категория нескольких организаций, а не одна церковь. Некоторые испытали влияние Нитирэн-буддизма, но не все тождественны ему; не alias исторической школы Чхонтхэ. Общие признаки ограничены буддийской основой и авторитетом Лотосовой сутры. Дополнительная проверка 2026-10-25: Корейское исследование 한국신종교의 현상과 포교전략⑫ на сайте Jogye Order, с.64–65, прямо характеризует 법화계 종단 через chanting Namu Myobeop Yeonhwagyeong и почитаемую фигуру Шакьямуни со сложенными ладонями: ritual/icons. Частные практики Dangun, горных духов и отдельных ответвлений не перенесены на всю категорию."
     },
     {
       "sourceIndex": 1107,
@@ -29,14 +30,16 @@
       "inheritFamilyProfile": false,
       "parent": "Карма-кагью",
       "description": "Международная сеть мирянских центров линии Карма-кагью, основанная Оле и Ханной Нидалами в 1970-е годы.",
-      "profile": "+buddha +meditation",
+      "profile": "+buddha +meditation +karma +reincarnation +liberation +ritual",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Diamond_Way_Buddhism",
         "https://www.diamondway-buddhism.org/",
-        "https://www.buddhism.org.uk/buddhism/meditation/"
+        "https://www.buddhism.org.uk/buddhism/meditation/",
+        "https://diamondway.org/usa/2tsechu_4thts.php",
+        "https://diamondway.org.au/"
       ],
-      "notes": "Исходник прямо отличает конкретную организацию от Ваджраяны вообще. Сайт организации подтверждает линию Карма-кагью; изложение практики описывает гуру-йогу и медитацию XVI Кармапы. Споры о статусе Кармап не разрешаются этой записью."
+      "notes": "Исходник прямо отличает конкретную организацию от Ваджраяны вообще. Сайт организации подтверждает линию Карма-кагью; изложение практики описывает гуру-йогу и медитацию XVI Кармапы. Споры о статусе Кармап не разрешаются этой записью. Дополнительная проверка 2026-10-25: Собственный Diamond Way USA публикует наставления Tsechu Rinpoche о карме, перерождениях, освобождении от samsara и четырёх предварительных практиках с prostrations/mandala offerings. karma/reincarnation/liberation/ritual подтверждены для данной линии напрямую; общий тибетский профиль не наследуется."
     },
     {
       "sourceIndex": 1108,
@@ -47,13 +50,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Китайское духовное движение Ли Хунчжи, соединяющее нравственное самосовершенствование, медитацию и упражнения.",
-      "profile": "+scripture +meditation +karma",
+      "profile": "+scripture +meditation +karma +reincarnation +afterlife +liberation +nature_spirits +occult",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Falun_Gong",
-        "https://www.falundafa.org.uk/about-falun-dafa/"
+        "https://www.falundafa.org.uk/about-falun-dafa/",
+        "https://falundafa.org/eng/eng/html/zfl2/zfl2.htm",
+        "https://en.falundafa.org/eng/lecture1.html"
       ],
-      "notes": "Фалуньгун и Фалунь Дафа — названия одного движения, что прямо подтверждает его сайт. Авторитет «Чжуань Фалунь», медитативная практика и преобразование кармы описаны источниками. Буддийские и даосские заимствования не делают его синонимом этих традиций; политические споры не превращены в индивидуальные признаки."
+      "notes": "Фалуньгун и Фалунь Дафа — названия одного движения, что прямо подтверждает его сайт. Авторитет «Чжуань Фалунь», медитативная практика и преобразование кармы описаны источниками. Буддийские и даосские заимствования не делают его синонимом этих традиций; политические споры не превращены в индивидуальные признаки. Дополнительная проверка 2026-10-25: Первичные Zhuan Falun I–II прямо описывают дальнейшую жизнь/перерождение, выход из его круговорота через cultivation, одушевлённость растений/камней/всех вещей и развитие Celestial Eye/supernormal abilities. Добавлены reincarnation/afterlife/liberation/nature_spirits/occult как учение, не доказанные свойства природы. Упоминания Dao/Buddha Fa не заменены тождеством историческому буддизму/даосизму."
     },
     {
       "sourceIndex": 1109,
@@ -64,13 +69,16 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Движение учительницы Цинхай, сосредоточенное на медитации внутреннего Света и Звука и вегетарианском образе жизни.",
-      "profile": "+meditation",
+      "profile": "+meditation +initiatory_brotherhood +ahimsa +karma",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Guanyin_Famen",
-        "https://www.godsdirectcontact.org/eng/homepage.html"
+        "https://www.godsdirectcontact.org/eng/homepage.html",
+        "https://www3.godsdirectcontact.org.tw/eng/qym/qym-15.htm",
+        "https://www3.godsdirectcontact.org.tw/eng/qym/qym-13.htm",
+        "https://thecelestialshop.com/wp-content/uploads/2018/05/E-B1-EB-S.pdf"
       ],
-      "notes": "Guanyin Famen, Quan Yin Method и сеть последователей Supreme Master Ching Hai здесь связаны одним конкретным движением. Не alias любого почитания Гуаньинь. Собственный сайт подтверждает метод; вегетарианство не приравнено автоматически к особо строгой ахимсе. Называние практики буддийской в исходнике не исчерпывает её синкретический характер."
+      "notes": "Guanyin Famen, Quan Yin Method и сеть последователей Supreme Master Ching Hai здесь связаны одним конкретным движением. Не alias любого почитания Гуаньинь. Собственный сайт подтверждает метод; вегетарианство не приравнено автоматически к особо строгой ахимсе. Называние практики буддийской в исходнике не исчерпывает её синкретический характер. Дополнительная проверка 2026-10-25: Собственные Quan Yin Method и The Key of Immediate Enlightenment определяют пожизненную vegan diet и отказ от любого причинения вреда как обязательное условие посвящения; прямо объясняют это karmic debt. initiatory_brotherhood/ahimsa/karma основаны на нормах линии, а не просто на пищевом предпочтении. Позиции исторического буддизма не назначены автоматически."
     },
     {
       "sourceIndex": 1110,
@@ -98,12 +106,14 @@
       "inheritFamilyProfile": false,
       "parent": "Быу-шон-ки-хыонг",
       "description": "Вьетнамское буддийское движение Хюинь Фу Шо, возникшее в 1939 году и подчёркивающее домашнюю практику, нравственный уклад и благодарность предкам.",
-      "profile": "+buddha +ancestors",
+      "profile": "+buddha +ancestors +karma +reincarnation +ritual",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/H%C3%B2a_H%E1%BA%A3o"
+        "https://en.wikipedia.org/wiki/H%C3%B2a_H%E1%BA%A3o",
+        "https://vjol.info.vn/dantochocvatongiaohoc-eng/vi/article/view/163270/",
+        "https://religion.vn/religion/hoa-hao-buddhism-post1XR2O0Za4N.html"
       ],
-      "notes": "Реформирует более раннюю традицию Быу-шон-ки-хыонг, но не тождественно ей. Отказ от дорогих и сложных церемоний не равен отсутствию всех обрядов; поэтому -ritual и -icons не заданы. Учение и последующая политическая деятельность различаются."
+      "notes": "Реформирует более раннюю традицию Быу-шон-ки-хыонг, но не тождественно ей. Отказ от дорогих и сложных церемоний не равен отсутствию всех обрядов; поэтому -ritual и -icons не заданы. Учение и последующая политическая деятельность различаются. Дополнительная проверка 2026-10-25: Исследование Journal of Anthropology and Religious Studies (2026) специально для Hoa Hao называет karma/reincarnation центральными объяснениями; Government Committee описывает домашние алтари и регулярное поклонение: ritual. -icons не добавлен: хотя статуи Будды отвергаются, тот же источник фиксирует фотографию основателя на алтаре; отказ от дорогих церемоний не равен -ritual."
     },
     {
       "sourceIndex": 1112,
@@ -114,12 +124,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Буддийское движение Бхимрао Рамджи Амбедкара, связывающее Дхамму с освобождением от кастового угнетения и общественным равенством.",
-      "profile": "+buddha +scripture",
+      "profile": "+buddha +scripture +ritual +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Navayana"
+        "https://en.wikipedia.org/wiki/Navayana",
+        "https://baws.in/vows?lang=en"
       ],
-      "notes": "The Buddha and His Dhamma имеет центральный авторитет. Не alias всего Светского буддизма или всех индийских буддистов. Пересмотр кармы и перерождения у Амбедкара не превращён в обязательный отрицательный ответ каждого современного последователя; источники также фиксируют религиозное почитание самого Амбедкара."
+      "notes": "The Buddha and His Dhamma имеет центральный авторитет. Не alias всего Светского буддизма или всех индийских буддистов. Пересмотр кармы и перерождения у Амбедкара не превращён в обязательный отрицательный ответ каждого современного последователя; источники также фиксируют религиозное почитание самого Амбедкара. Дополнительная проверка 2026-10-25: Проверены первичные 22 Vows, данные Амбедкаром при принятии буддизма 14.10.1956: ритуальный переход и обеты принятия Дхаммы подтверждают ritual/initiatory_brotherhood. Прямой отказ от отдельных индуистских богов и shraddha не превращён в отрицание любого divine или всех форм семейного почитания предков."
     },
     {
       "sourceIndex": 1113,
@@ -130,12 +141,16 @@
       "inheritFamilyProfile": false,
       "parent": "Традиция Гелуг",
       "description": "Основанная Келсангом Гьяцо в 1991 году международная буддийская организация с учебными программами и практикой медитации.",
-      "profile": "+buddha +meditation +reincarnation +ritual",
+      "profile": "+buddha +meditation +reincarnation +ritual +karma +liberation +scripture +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/New_Kadampa_Tradition"
+        "https://en.wikipedia.org/wiki/New_Kadampa_Tradition",
+        "https://kadampa.org/quote/mb-38",
+        "https://kadampa.org/fr/a-propos-bouddhisme",
+        "https://kadampa.org/study-meditation",
+        "https://kadampa.org/reference/about-tantra"
       ],
-      "notes": "Источник подтверждает программы изучения, медитацию о перерождении и сансаре, молитвы и тантрические практики. Организация имеет корни в Гелуг и поддерживает практику Дордже Шугдена; она не alias исторической Кадам или всей Гелуг. Полемические оценки сторон религиозного конфликта не включены."
+      "notes": "Источник подтверждает программы изучения, медитацию о перерождении и сансаре, молитвы и тантрические практики. Организация имеет корни в Гелуг и поддерживает практику Дордже Шугдена; она не alias исторической Кадам или всей Гелуг. Полемические оценки сторон религиозного конфликта не включены. Дополнительная проверка 2026-10-25: Собственный NKT Kadampa.org: quote mb-38 прямо утверждает karma; About Buddhism определяет renunciation как выход из загрязнённых перерождений; Study Programs опираются на сутры и комментарии; Tantra требует empowerments. Добавлены karma/liberation/scripture/initiatory_brotherhood. Материалы одноимённого FPMT Kadampa Center не использованы."
     },
     {
       "sourceIndex": 1114,
@@ -146,14 +161,16 @@
       "inheritFamilyProfile": false,
       "parent": "Хитономити кёдан",
       "description": "Японское новое религиозное движение, в котором принцип «Жизнь — искусство» связывает самовыражение и нравственное совершенствование с Богом-Родителем.",
-      "profile": "+divine +personal",
+      "profile": "+divine +personal +ritual +icons",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/PL_Kyodan",
         "https://jmapps.ne.jp/kokugakuin/det.html?data_id=78205",
-        "https://nirc.nanzan-u.ac.jp/journal/15/article/1805/pdf/download"
+        "https://nirc.nanzan-u.ac.jp/journal/15/article/1805/pdf/download",
+        "https://www.dijtokyo.org/wp-content/uploads/2016/09/wp0304-schrimpf.pdf",
+        "https://img-kokugakuin.com/assets/uploads/2017/06/JapaneseNewReligions.pdf"
       ],
-      "notes": "Академическая энциклопедия уточняет: PL Kyodan учреждена Мики Токутикой в 1946 году, тогда как 1924 год в исходной статье относится к предшествующей организации его отца. Прошлое основателя как дзенского монаха не делает PL школой дзен; выбрано newreligion. Наличие 21 наставления само по себе не доказывает scripture."
+      "notes": "Академическая энциклопедия уточняет: PL Kyodan учреждена Мики Токутикой в 1946 году, тогда как 1924 год в исходной статье относится к предшествующей организации его отца. Прошлое основателя как дзенского монаха не делает PL школой дзен; выбрано newreligion. Наличие 21 наставления само по себе не доказывает scripture. Дополнительная проверка 2026-10-25: Полевое исследование Monika Schrimpf, DIJ Working Paper 03/4, с.14, описывает общие молитвы перед фотографиями руководителя и основателя PL; Kokugakuin Japanese New Religions описывает oyashikiri. Поэтому ritual/icons основаны на наблюдении именно PL, не на дзенском прошлом основателя. Медицинские учреждения не означают scientific."
     },
     {
       "sourceIndex": 1115,
@@ -164,12 +181,13 @@
       "inheritFamilyProfile": false,
       "parent": "Нитирэн-буддизм",
       "description": "Японское мирянское буддийское движение Кубо Какутаро и Котани Кими, опирающееся на Лотосовую сутру и почитание предков.",
-      "profile": "+buddha +scripture +ancestors +ritual",
+      "profile": "+buddha +scripture +ancestors +ritual +karma +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Reiy%C5%ABkai"
+        "https://en.wikipedia.org/wiki/Reiy%C5%ABkai",
+        "https://eos.kokugakuin.ac.jp/ijcc/wp/cpjr/newreligions/komoto.html"
       ],
-      "notes": "Исходник различает формирование движения и официальное учреждение в 1930 году, описывает чтение Blue Sutra. Не alias Риссё косэй-кай или других организаций, вышедших из Рэйюкай. Мирянский характер не означает отказа от всех религиозных обрядов."
+      "notes": "Исходник различает формирование движения и официальное учреждение в 1930 году, описывает чтение Blue Sutra. Не alias Риссё косэй-кай или других организаций, вышедших из Рэйюкай. Мирянский характер не означает отказа от всех религиозных обрядов. Дополнительная проверка 2026-10-25: Исследование Komoto Mitsugi в Kokugakuin отдельно цитирует Reiyukai: кармические препятствия и продолжающие существовать личности умерших родственников, которым помогают поминальные ритуалы. karma/afterlife получены из конкретной записи, не из родства с Rissho Koseikai. Статус Eurasia Reiyukai не используется для приписывания её организационных обетов всем."
     },
     {
       "sourceIndex": 1116,
@@ -180,7 +198,7 @@
       "inheritFamilyProfile": false,
       "parent": "Тибетский буддизм",
       "description": "Несектантский подход в тибетском буддизме, поддерживающий изучение и сохранение учений разных линий передачи.",
-      "profile": "+buddha",
+      "profile": "+buddha +scripture +meditation +initiatory_brotherhood",
       "proposedQuestions": [
         {
           "id": "multiple_buddhist_lineages",
@@ -194,9 +212,11 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Rim%C3%A9_movement"
+        "https://en.wikipedia.org/wiki/Rim%C3%A9_movement",
+        "https://kagyu.org/lineage/BuddhismTibet",
+        "https://ciencia.ucp.pt/en/studentTheses/a-abordagem-rime-e-o-universalismo-no-budismo-tibetano/"
       ],
-      "notes": "Не единая новая школа и не синоним всего тибетского буддизма. Подход сохраняет самостоятельность традиций, а не объявляет все их учения одинаковыми. Поэтому общий ритуальный или метафизический профиль нескольких школ не наследуется."
+      "notes": "Не единая новая школа и не синоним всего тибетского буддизма. Подход сохраняет самостоятельность традиций, а не объявляет все их учения одинаковыми. Поэтому общий ритуальный или метафизический профиль нескольких школ не наследуется. Дополнительная проверка 2026-10-25: Первичный обзор Karma Triyana Dharmachakra прямо описывает Rimé как изучение текстов других школ, практику их meditation и получение initiations; академическая диссертация UCP подтверждает сохранение корпуса восьми линий. scripture/meditation/initiatory_brotherhood характеризуют этот метод передачи, не единый новый катехизис; все школы не сведены к одной метафизике."
     },
     {
       "sourceIndex": 1117,
@@ -207,12 +227,13 @@
       "inheritFamilyProfile": false,
       "parent": "Рэйюкай",
       "description": "Японская мирянская буддийская организация Нивано Никкё и Наганумы Мёко, основанная в 1938 году и связанная с Лотосовой сутрой и семейным почитанием предков.",
-      "profile": "+buddha +scripture +ancestors +ritual +icons",
+      "profile": "+buddha +scripture +ancestors +ritual +icons +karma +reincarnation +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Rissh%C5%8D_K%C5%8Dsei_Kai"
+        "https://en.wikipedia.org/wiki/Rissh%C5%8D_K%C5%8Dsei_Kai",
+        "https://eos.kokugakuin.ac.jp/ijcc/wp/cpjr/newreligions/komoto.html"
       ],
-      "notes": "Отделилась от Рэйюкай, но не является её синонимом. Исходник подтверждает ежедневное чтение сутры, домашние алтари, изображения Вечного Будды и подношения. Групповые беседы хоза описываются как отдельная практика взаимной поддержки."
+      "notes": "Отделилась от Рэйюкай, но не является её синонимом. Исходник подтверждает ежедневное чтение сутры, домашние алтари, изображения Вечного Будды и подношения. Групповые беседы хоза описываются как отдельная практика взаимной поддержки. Дополнительная проверка 2026-10-25: Исследование Komoto Mitsugi в Kokugakuin прямо цитирует Rissho Koseikai о karma, накапливающейся в бесчисленных прошлых жизнях, и о посмертных личностях предков. Добавлены karma/reincarnation/afterlife именно по явно названной организации, не по наследованию от Reiyukai. Чужие статьи в журнале Dharma World не приняты автоматически за обязательную доктрину."
     },
     {
       "sourceIndex": 1118,
@@ -223,13 +244,15 @@
       "inheritFamilyProfile": false,
       "parent": "Тибетский буддизм",
       "description": "Современная традиция Чогьяма Трунгпы и его последователей, объединяющая буддийскую практику с учением об изначальной доброте и просветлённом обществе.",
-      "profile": "+buddha +meditation",
+      "profile": "+buddha +meditation +ritual +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Shambhala_Buddhism",
-        "https://shambhala.pl/about-shambhala/?lang=en"
+        "https://shambhala.pl/about-shambhala/?lang=en",
+        "https://albuquerque.shambhala.org/faq-answers-to-some-common-questions-about-the-albuquerque-shambhala-meditation-center/",
+        "https://shambhala.org/events/category/online-program/page/3/?tribe-bar-date=2009-12-01"
       ],
-      "notes": "Исходная ссылка перенаправляет на Shambhala Training. Статья различает изначально светскую программу обучения и последующее объединение её с буддийской учебной системой. Страница самой общины подтверждает буддийские корни; запись не объявлена синонимом любого светского курса Shambhala Training, и nonreligious не назначен всем участникам."
+      "notes": "Исходная ссылка перенаправляет на Shambhala Training. Статья различает изначально светскую программу обучения и последующее объединение её с буддийской учебной системой. Страница самой общины подтверждает буддийские корни; запись не объявлена синонимом любого светского курса Shambhala Training, и nonreligious не назначен всем участникам. Дополнительная проверка 2026-10-25: Собственный FAQ Albuquerque Shambhala и международный календарь подтверждают Buddhist Refuge Vows, sadhana и tantric programs: ritual/initiatory_brotherhood. Это продвинутый религиозный путь внутри общины; начальные открытые курсы не требуют стать буддистом. Издательство Shambhala Publications не перепутано с организацией."
     },
     {
       "sourceIndex": 1119,
@@ -258,12 +281,13 @@
       "inheritFamilyProfile": false,
       "parent": "Нитирэн-буддизм",
       "description": "Японское мирянское движение нитирэновского буддизма, сосредоточенное на Лотосовой сутре, чтении даймоку и преобразовании повседневной жизни.",
-      "profile": "+buddha +scripture +ritual +icons",
+      "profile": "+buddha +scripture +ritual +icons +karma +reincarnation +afterlife +no_self",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Soka_Gakkai"
+        "https://en.wikipedia.org/wiki/Soka_Gakkai",
+        "https://www.sokaglobal.org/resources/study-materials/buddhist-concepts/life-and-death.html"
       ],
-      "notes": "Чтение Нам-мёхо-рэнгэ-кё и обращение к гохондзону прямо описаны. Гохондзон — мандала, а не обязательно изображение личного бога. Не alias всего Нитирэн-буддизма или Нитирэн-сёсю; организационное отделение не отменяет собственного учения."
+      "notes": "Чтение Нам-мёхо-рэнгэ-кё и обращение к гохондзону прямо описаны. Гохондзон — мандала, а не обязательно изображение личного бога. Не alias всего Нитирэн-буддизма или Нитирэн-сёсю; организационное отделение не отменяет собственного учения. Дополнительная проверка 2026-10-25: Официальное Soka Gakkai Life and Death прямо объясняет непрерывность жизни после смерти, многочисленные существования, кармические действия и отсутствие неизменной души/self: karma/reincarnation/afterlife/no_self. liberation не назначен: статья отличает свой взгляд от простого прекращения круговорота и подчёркивает возвращение ради помощи другим."
     },
     {
       "sourceIndex": 1121,
@@ -274,12 +298,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Основанное Сангхаракшитой в 1967 году буддийское движение, объединяющее практику разных буддийских традиций с общинной жизнью.",
-      "profile": "+buddha +meditation +ritual",
+      "profile": "+buddha +meditation +ritual +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Triratna_Buddhist_Community"
+        "https://en.wikipedia.org/wiki/Triratna_Buddhist_Community",
+        "https://thebuddhistcentre.com/news",
+        "https://thebuddhistcentre.com/mitra/year-1-archive/"
       ],
-      "notes": "Ранее называлась Friends of the Western Buddhist Order. Дыхательная медитация, метта-бхавана и пуджа прямо подтверждены источником. Не alias всего западного или Светского буддизма; образы духовной смерти и возрождения в системе медитации не использованы как автоматическое доказательство буквального перерождения."
+      "notes": "Ранее называлась Friends of the Western Buddhist Order. Дыхательная медитация, метта-бхавана и пуджа прямо подтверждены источником. Не alias всего западного или Светского буддизма; образы духовной смерти и возрождения в системе медитации не использованы как автоматическое доказательство буквального перерождения. Дополнительная проверка 2026-10-25: Собственные сообщения Buddhist Centre об ординациях прямо описывают личных/public preceptors и принятие в Triratna Buddhist Order: initiatory_brotherhood. Учебная программа содержит Karma and Rebirth, но название темы само по себе не доказывает обязательного буквального ответа каждого участника; дополнительных метафизических токенов по нему не назначено."
     },
     {
       "sourceIndex": 1122,
@@ -290,12 +316,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Основанная Лу Шэнъяном современная школа, соединяющая махаянское и тантрическое буддийское самосовершенствование с даосскими элементами.",
-      "profile": "+buddha +meditation +ritual +karma",
+      "profile": "+buddha +meditation +ritual +karma +divine +many_gods +scripture +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/True_Buddha_School"
+        "https://en.wikipedia.org/wiki/True_Buddha_School",
+        "https://tbsn.org/uploads/download/2021_02_23/7950e4a1f658fe2934cf3a1d9f1c089d.pdf",
+        "https://en.tbsn.org/uploads/rulelist/2020_07_13/%E8%93%AE%E8%8A%B1%E7%AB%A5%E5%AD%90%E8%81%96%E8%AA%95White_Mahapadmakumara_Birthday_Celebration_Ceremony1.pdf"
       ],
-      "notes": "Источник описывает предварительные практики, очищение кармы, гуру-йогу и йогу божества. Утверждения основателя о его духовном статусе рассматриваются как самоописание. Не alias всей Ваджраяны или даосизма."
+      "notes": "Источник описывает предварительные практики, очищение кармы, гуру-йогу и йогу божества. Утверждения основателя о его духовном статусе рассматриваются как самоописание. Не alias всей Ваджраяны или даосизма. Дополнительная проверка 2026-10-25: Первичный Introductory Handbook определяет принятие refuge/empowerments и передачу линии как вступление ученика; собственная литургия White Mahapadmakumara перечисляет поклонение множеству богов, включая Ganesha, Jade Emperor и Brahma, и чтение сутр. divine/many_gods/scripture/initiatory_brotherhood подтверждены именно школой, не общим тибетским происхождением. Свечение при визуализации не приравнено к передаче света руками."
     },
     {
       "sourceIndex": 1123,
@@ -306,13 +334,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Вьетнамская религиозная традиция Нго Лоя, основанная в 1867 году и соединяющая буддийское нравственное самосовершенствование с почитанием предков.",
-      "profile": "+buddha +ancestors +ritual",
+      "profile": "+buddha +ancestors +ritual +scripture",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/T%E1%BB%A9_%C3%82n_Hi%E1%BA%BFu_Ngh%C4%A9a",
-        "https://religion.vn/religion/brief-introduction-of-tu-an-hieu-nghia-faith-post9DR3AB5qLp.html"
+        "https://religion.vn/religion/brief-introduction-of-tu-an-hieu-nghia-faith-post9DR3AB5qLp.html",
+        "https://www.researchgate.net/publication/330668461_The_employment_and_transformation_of_the_buddhist_classics_by_the_tu_An_hieu_nghia_of_vietnamese_sect"
       ],
-      "notes": "Исходная ссылка ведёт в обзор Religion in Vietnam, где имеется специальный подраздел. Отдельная публикация Комитета по делам религий подтверждает основателя, обряды и четыре долга благодарности. Общность с Быу-шон-ки-хыонг и Хоа-Хао не означает тождества самостоятельных организаций."
+      "notes": "Исходная ссылка ведёт в обзор Religion in Vietnam, где имеется специальный подраздел. Отдельная публикация Комитета по делам религий подтверждает основателя, обряды и четыре долга благодарности. Общность с Быу-шон-ки-хыонг и Хоа-Хао не означает тождества самостоятельных организаций. Дополнительная проверка 2026-10-25: Исследование Y.-Y. Chung, Taiwan Journal of East Asian Studies 15(2),2018,69–99, DOI 10.6163/TJEAS.201812_15(2).0003, специально рассматривает собственные китайскоязычные священные тексты Ngo Loi и Nguyen Hoi Chan и переработку буддийских сутр: scripture. Упоминание синтеза нескольких традиций не использовано для переноса всех их догматов."
     },
     {
       "sourceIndex": 1124,
@@ -323,13 +352,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Корейская традиция Сотхэсана, соединяющая буддийское пробуждение с повседневной практикой и символом единого круга Ильвонсан.",
-      "profile": "+buddha +scripture +meditation",
+      "profile": "+buddha +scripture +meditation +icons +karma +ritual",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Won_Buddhism",
-        "https://www.sotaesancenter.org/pdf-ebook"
+        "https://www.sotaesancenter.org/pdf-ebook",
+        "https://wonbuddhism.org/teachings/",
+        "https://www.accesson.kr/kj/assets/pdf/58105/journal-65-4-74.pdf"
       ],
-      "notes": "Источник подтверждает собственный канон, учение о дхармакае и медитативную практику; центр Сотхэсана публикует соответствующие тексты. Круг вместо антропоморфной статуи не означает отрицания всех сакральных изображений. Не alias корейского буддизма вообще."
+      "notes": "Источник подтверждает собственный канон, учение о дхармакае и медитативную практику; центр Сотхэсана публикует соответствующие тексты. Круг вместо антропоморфной статуи не означает отрицания всех сакральных изображений. Не alias корейского буддизма вообще. Дополнительная проверка 2026-10-25: Официальное Teachings прямо описывает почитаемый образ Il-Won в центре святилища; исследование Korea Journal 65(4),2025,с.90 объясняет причинность заслуг/проступков и конкретные Buddha offerings. icons/karma/ritual добавлены по собственному учению и специальному исследованию; круг не превращён в основание для -icons. Освобождение из круговорота не выведено из одного определения nirvana в словаре."
     },
     {
       "sourceIndex": 1125,
@@ -340,13 +371,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Возникшая в 1849 году в Южном Вьетнаме традиция Доан Минь Хюена, сочетающая изучение буддизма, нравственное самосовершенствование и четыре долга благодарности.",
-      "profile": "+buddha +ancestors",
+      "profile": "+buddha +ancestors +ritual",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1o_B%E1%BB%ADu_S%C6%A1n_K%E1%BB%B3_H%C6%B0%C6%A1ng",
-        "https://religion.vn/religious-life-and-style/buu-son-ky-huong-faith-in-vietnam-south-post81nP5E3R34.html"
+        "https://religion.vn/religious-life-and-style/buu-son-ky-huong-faith-in-vietnam-south-post81nP5E3R34.html",
+        "https://www.religion.vn/research/incense-offering-a-beauty-in-vietnamese-peoples-belief-and-religion-postywnvvZGnVk.html",
+        "https://vnforb.org/wp-content/uploads/sites/5/2024/04/HOAHAO-BUDDHISM-by-NGUYEN-LONG-THANH-NAM.pdf"
       ],
-      "notes": "Краткий исходник дополнен отдельным описанием Комитета по делам религий: учение включает благодарность родителям и предкам, Трём драгоценностям, родине и людям. Хоа-Хао продолжает и реформирует эту традицию, но не является её точным синонимом. Предания об исцелениях не представлены доказанными медицинскими фактами."
+      "notes": "Краткий исходник дополнен отдельным описанием Комитета по делам религий: учение включает благодарность родителям и предкам, Трём драгоценностям, родине и людям. Хоа-Хао продолжает и реформирует эту традицию, но не является её точным синонимом. Предания об исцелениях не представлены доказанными медицинскими фактами. Дополнительная проверка 2026-10-25: Government Committee for Religious Affairs специально называет простую практику Buu Son Ky Huong: incense, flowers, water; историческое исследование Nguyen Long Thanh Nam описывает домашний алтарь с Brown Ensign. ritual подтверждён для этой линии; её происхождение не использовано для автоматического назначения полного профиля Hoa Hao, а простота обряда не означает -ritual."
     }
   ]
 }

@@ -13,12 +13,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Маорийская христианская церковь, возникшая вокруг духовной миссии Тахупотики Вирему Ратаны.",
-      "profile": "+divine +personal +trinity +scripture +jesus",
+      "profile": "+divine +personal +trinity +scripture +jesus +revelation +spirit_gifts",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/R%C4%81tana"
+        "https://en.wikipedia.org/wiki/R%C4%81tana",
+        "https://teara.govt.nz/en/biographies/3r4/ratana-tahupotiki-wiremu",
+        "https://teara.govt.nz/en/ratana-church-te-haahi-ratana/page-1"
       ],
-      "notes": "Источник подтверждает Троицу, молитвы, Библию и собственный сборник богослужебных текстов. Религиозная церковь различена с политическим крылом движения; участие в маорийской политике не означает обязательного исповедания. Не синоним Ринґату или всех маорийских религиозных движений."
+      "notes": "Источник подтверждает Троицу, молитвы, Библию и собственный сборник богослужебных текстов. Религиозная церковь различена с политическим крылом движения; участие в маорийской политике не означает обязательного исповедания. Не синоним Ринґату или всех маорийских религиозных движений. Дополнительная проверка: Ballara, Dictionary of New Zealand Biography, и Te Ara подтверждают основополагающее māramatanga1918 и особое место пророчества/духовного исцеления в традиции. Добавлены +revelation/+spirit_gifts. Чудесная эффективность не утверждается как медицинский факт; ранняя и поздняя формулы статуса Māngai различались."
     },
     {
       "sourceIndex": 1067,
@@ -68,7 +70,7 @@
         "https://en.wikipedia.org/wiki/The_Family_International",
         "https://www.thefamilyinternational.org/en/our-beliefs/"
       ],
-      "notes": "Современная декларация веры подтверждает личного Бога, Троицу, Библию, спасение через Иисуса, дары Духа и продолжающееся пророчество. Профиль относится к заявленному современному исповеданию; исторические практики и обвинения в злоупотреблениях не превращены в неизменный догмат. Продолжающееся личное пророчество само по себе не означает нового всеобщего откровения."
+      "notes": "Современная декларация веры подтверждает личного Бога, Троицу, Библию, спасение через Иисуса, дары Духа и продолжающееся пророчество. Профиль относится к заявленному современному исповеданию; исторические практики и обвинения в злоупотреблениях не превращены в неизменный догмат. Продолжающееся личное пророчество само по себе не означает нового всеобщего откровения. Дополнительная проверка: Повторно проверена нынешняя официальная Our Beliefs: существующие девять токенов описывают заявленные Бога, Христа, Писание, пророчество и посмертие. Новых обязательных таинств или общего исторического восстановления первоцеркви документ не устанавливает; новых токенов нет. Ранние практики движения не подменяют современное исповедание."
     },
     {
       "sourceIndex": 1070,
@@ -99,9 +101,10 @@
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Victory_Altar",
-        "https://www.mdpi.com/2077-1444/15/12/1438"
+        "https://www.mdpi.com/2077-1444/15/12/1438",
+        "https://doi.org/10.3390/rel15121438"
       ],
-      "notes": "Полевое исследование Ригаль-Селлар подтверждает обожествление основателя и самостоятельную систему. Бессмертие здесь преимущественно телесное: не выведен автоматический +afterlife. Употребление титулов Христос и Майтрея не доказывает центральности исторического Иисуса или всего учения Будды. Не alias Церкви объединения или движения Масличного дерева."
+      "notes": "Полевое исследование Ригаль-Селлар подтверждает обожествление основателя и самостоятельную систему. Бессмертие здесь преимущественно телесное: не выведен автоматический +afterlife. Употребление титулов Христос и Майтрея не доказывает центральности исторического Иисуса или всего учения Будды. Не alias Церкви объединения или движения Масличного дерева. Дополнительная проверка: Проверены индексируемый abstract Rigal-Cellard2024 и попытки повторного доступа: MDPI429/страница проверки, полный текст заново не получен. Доступное подтверждение мессианизма и милленаризма не даёт отдельного надёжного нового ответа о ритуалах, Иисусе или посмертии. Новых токенов нет; телесное бессмертие не приравнено к +afterlife."
     },
     {
       "sourceIndex": 1072,
@@ -129,14 +132,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Корейское религиозное движение, почитающее Ан Сан Хона как вновь пришедшего Христа и Чан Гиль Чжа как Бога-Мать.",
-      "profile": "+divine +personal +jesus +scripture +sabbath +restoration",
+      "profile": "+divine +personal +jesus +scripture +sabbath +restoration +ritual +afterlife",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/World_Mission_Society_Church_of_God",
         "https://watv.org/",
-        "https://watv.org/truth"
+        "https://watv.org/truth",
+        "https://watvmedia.watv.org/en/media/trinity"
       ],
-      "notes": "Собственный сайт подтверждает веру в Бога-Отца и Бога-Мать, новый завет, Пасху и субботу. Не назначены +one_god, +many_gods или +trinity без уточнения особого понимания единства божественного. Название Church of God само по себе не тождественно другим одноимённым церквам. Семейный профиль не наследуется."
+      "notes": "Собственный сайт подтверждает веру в Бога-Отца и Бога-Мать, новый завет, Пасху и субботу. Не назначены +one_god, +many_gods или +trinity без уточнения особого понимания единства божественного. Название Church of God само по себе не тождественно другим одноимённым церквам. Семейный профиль не наследуется. Дополнительная проверка: Повторно проверены WATV Truth и официальное объяснение Trinity: Пасха с хлебом/вином как условие вечной жизни и небесное Царство подтверждают +ritual/+afterlife. Их Trinity означает одного Отца под разными именами эпох, а не автоматически одного Бога в трёх Лицах по вопросу; наличие Бога-Матери также не игнорируется. Поэтому one_god/many_gods/trinity остаются незаполненными."
     },
     {
       "sourceIndex": 1074,
@@ -181,14 +185,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Духовное движение Ади Да Самраджа, основанное на преданности учителю, признаваемому воплощённой божественной реальностью.",
-      "profile": "+divine +personal +bhakti +revelation +new_revelation +meditation",
+      "profile": "+divine +personal +bhakti +revelation +new_revelation +meditation +pantheism +liberation",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Adidam",
         "https://adidam.org/adidam/",
-        "https://www.adidam.in/way-of-adidam/life-positive-disciplines"
+        "https://www.adidam.in/way-of-adidam/life-positive-disciplines",
+        "https://www.adidam.org/death_and_dying/reincarnation.html"
       ],
-      "notes": "Исходная ссылка перенаправляет на биографию Ади Да, но собственные материалы отдельно подтверждают существование Adidam как практики и сообщества, новое универсальное откровение и преданность учителю. Не alias адвайта-веданты в целом; исторические связи с индуистскими учителями не означают тождества."
+      "notes": "Исходная ссылка перенаправляет на биографию Ади Да, но собственные материалы отдельно подтверждают существование Adidam как практики и сообщества, новое универсальное откровение и преданность учителю. Не alias адвайта-веданты в целом; исторические связи с индуистскими учителями не означают тождества. Дополнительная проверка: Собственный Is Reincarnation True определяет цель как освобождение от бесконечной череды рождений/смертей и реализацию Реальности, которая включает и превосходит весь космос. Добавлены +liberation/+pantheism в широком смысле вопросов. Текст специально не требует просто верить в перерождение; отдельный +reincarnation не добавлен по одному описанию учителя."
     },
     {
       "sourceIndex": 1077,
@@ -199,14 +204,16 @@
       "inheritFamilyProfile": false,
       "parent": "Крия-йога",
       "description": "Международное духовное движение Свами Криянанды, развивающее учение Парамахансы Йогананды и практику крия-йоги.",
-      "profile": "+divine +personal +meditation",
+      "profile": "+divine +personal +meditation +karma +reincarnation +liberation +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Ananda_movement",
         "https://www.ananda.org/about-ananda-sangha/",
-        "https://www.ananda.org/kriya-yoga/"
+        "https://www.ananda.org/kriya-yoga/",
+        "https://www.ananda.org/blog/karma-reincarnation/",
+        "https://www.ananda.org/ask/why-would-someone-in-samadhi-need-to-reincarnate/"
       ],
-      "notes": "Исходный URL Ananda_movement не загрузился; идентичность и практики подтверждены собственным сайтом движения. Не синоним Ананда Марги, ашрама Парамананды, отдельной техники Ananda Yoga или всей крия-йоги. Собственная «научная» риторика не основание для +scientific."
+      "notes": "Исходный URL Ananda_movement не загрузился; идентичность и практики подтверждены собственным сайтом движения. Не синоним Ананда Марги, ашрама Парамананды, отдельной техники Ananda Yoga или всей крия-йоги. Собственная «научная» риторика не основание для +scientific. Дополнительная проверка: Собственные материалы Ananda прямо описывают нравственную карму, перерождение и освобождение от их цикла; Kriya Yoga описывает последовательную подготовку и посвящение с учителем. Добавлены +karma/+reincarnation/+liberation/+initiatory_brotherhood для пути организации, не всех посетителей ретритов. Ньютоновская аналогия в проповеди не служит основанием для +scientific."
     },
     {
       "sourceIndex": 1078,
@@ -217,14 +224,16 @@
       "inheritFamilyProfile": false,
       "parent": "Веданта",
       "description": "Духовное сообщество вокруг ашрамы Свами Парамананды в Ла-Кресенте и связанного Веданта-центра, развивающее несектантское преподавание веданты.",
-      "profile": "+divine +meditation",
+      "profile": "+divine +meditation +one_god",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Swami_Paramananda",
         "https://www.vedanta.com/store/swami-paramananda-mystic-poet-and-teacher-details.html",
-        "https://www.cvhistory.org/meetings/oldmeetings/newsletter/feb08news.pdf"
+        "https://www.cvhistory.org/meetings/oldmeetings/newsletter/feb08news.pdf",
+        "https://www.esonet.org/wp-content/uploads/2017/03/Encyclopedia-of-Hinduism-pt.01.pdf",
+        "https://laist.com/news/kpcc-archive/religion-and-culture-socal-nun-is-only-woman-to-he"
       ],
-      "notes": "Исходная статья — биография основателя, но прямо называет ашрам и связанную сеть. Издание его ученической традиции и местное историческое общество подтверждают учреждение 1923 года, веданту и медитацию. Не спутано с движением Криянанды или одноимённым ашрамом Рамамурти Мишры в штате Нью-Йорк. Профиль не переносится на всех гостей ретрита."
+      "notes": "Исходная статья — биография основателя, но прямо называет ашрам и связанную сеть. Издание его ученической традиции и местное историческое общество подтверждают учреждение 1923 года, веданту и медитацию. Не спутано с движением Криянанды или одноимённым ашрамом Рамамурти Мишры в штате Нью-Йорк. Профиль не переносится на всех гостей ретрита. Дополнительная проверка: Академическая Encyclopedia of Hinduism, статья Ananda Ashrama and Vedanta Centre, прямо описывает её принцип God is one; добавлен +one_god. Первичный репортаж LAist подтверждает конкретную общину и службы. Наличие изображений мировых религий не доказывает одинаковой иконной практики всех посетителей; нью-йоркский ашрам не смешан с калифорнийским."
     },
     {
       "sourceIndex": 1079,
@@ -235,15 +244,16 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Движение Прабхата Ранджана Саркара, соединяющее тантрическую медитацию, духовную самореализацию и общественное служение.",
-      "profile": "+divine +one_god +pantheism +meditation +bhakti +karma",
+      "profile": "+divine +one_god +pantheism +meditation +bhakti +karma +liberation +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Ananda_Marga",
         "https://www.anandamarga.org/philosophy/",
         "https://anandamarga.org/ideology/self-realization/meditation/",
-        "https://www.anandamarga.org/faq-questions/answers/blurbs/moksa/"
+        "https://www.anandamarga.org/faq-questions/answers/blurbs/moksa/",
+        "https://anandamarga.org/articles/initiation-lessons/"
       ],
-      "notes": "Официальные материалы подтверждают единое бесконечное сознание, пребывание мира в нём, медитацию, преданность и последствия действий. Не синоним Ананды Криянанды. «Неогуманизм» этого движения не означает этику без религиозного авторитета, поэтому +humanism не назначен; scientific не следует из самоназвания духовной науки."
+      "notes": "Официальные материалы подтверждают единое бесконечное сознание, пребывание мира в нём, медитацию, преданность и последствия действий. Не синоним Ананды Криянанды. «Неогуманизм» этого движения не означает этику без религиозного авторитета, поэтому +humanism не назначен; scientific не следует из самоназвания духовной науки. Дополнительная проверка: Официальный FAQ называет moksa конечной целью; собственный текст Initiation and the Lessons of Meditation описывает духовное посвящение, личную мантру и шесть последовательных уроков под руководством acarya. Добавлены +liberation/+initiatory_brotherhood. Инициация в конкретный медитативный путь не приравнивается к любой обычной записи на урок йоги."
     },
     {
       "sourceIndex": 1080,
@@ -254,13 +264,17 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Индуистское реформаторское движение Даянанды Сарасвати, признающее авторитет Вед и почитание единого бесформенного Бога.",
-      "profile": "+divine +one_god +vedas +scripture -icons",
+      "profile": "+divine +one_god +vedas +scripture -icons +personal +karma +reincarnation +afterlife +meditation +ritual +fire",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Arya_Samaj",
-        "https://aryasamajsa.org/ten-principles-of-the-arya-samaj/"
+        "https://aryasamajsa.org/ten-principles-of-the-arya-samaj/",
+        "https://www.aryasamaj.org.fj/REBIRTH.aspx",
+        "https://www.aryasamaj.org.fj/OUR_PRAYERS.aspx",
+        "https://www.aryasamaj.org.fj/GOD_THE_SUPREME.aspx",
+        "https://aryasamajsa.org/wp-content/uploads/2021/11/Veda-Jyoti-November-2021-Issue-6-final.pdf"
       ],
-      "notes": "Собственные десять принципов подтверждают ведический авторитет и поклонение единому бесформенному Богу; исходник подтверждает отказ от идолопоклонства. Не синоним Брахмо Самадж, который иначе оценивает авторитет Вед. Нравственная и образовательная деятельность не означает +humanism в нерелигиозном смысле."
+      "notes": "Собственные десять принципов подтверждают ведический авторитет и поклонение единому бесформенному Богу; исходник подтверждает отказ от идолопоклонства. Не синоним Брахмо Самадж, который иначе оценивает авторитет Вед. Нравственная и образовательная деятельность не означает +humanism в нерелигиозном смысле. Дополнительная проверка: Первичные материалы Arya Pratinidhi Sabha Fiji прямо описывают бессмертную душу, перерождение согласно действиям, молитву Богу и необходимую медитацию; журнал Arya SamajSA описывает ведические мантры и подношения в жертвенный огонь havan. Добавлены +personal/+karma/+reincarnation/+afterlife/+meditation/+ritual/+fire. Подношение огню не означает поклонения отдельному богу огня, а популярные экологические объяснения обряда не считаются доказанной научной эффективностью."
     },
     {
       "sourceIndex": 1081,
@@ -271,15 +285,17 @@
       "inheritFamilyProfile": false,
       "parent": "Традиция Сваминараяна",
       "description": "Организация традиции Сваминараяна, развивающая учение Акшар-Пурушоттам и особую роль преемственной линии гуру.",
-      "profile": "+divine +personal +bhakti +vedas +scripture +reincarnation +karma +liberation",
+      "profile": "+divine +personal +bhakti +vedas +scripture +reincarnation +karma +liberation +ritual +icons +meditation +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Bochasanwasi_Akshar_Purushottam_Swaminarayan_Sanstha",
         "https://www.baps.org/About-BAPS/WhoWeAre/BasicBeliefs.aspx",
         "https://na.baps.org/learn/our-beliefs",
-        "https://www.baps.org/About-BAPS/WhoWeAre/BasicBeliefs/ThePhilosophy/HinduBeliefs.aspx"
+        "https://www.baps.org/About-BAPS/WhoWeAre/BasicBeliefs/ThePhilosophy/HinduBeliefs.aspx",
+        "https://www.baps.org/About-BAPS/WhoWeAre/BasicBeliefs/Practices.aspx",
+        "https://www.swaminarayan.org/philosophy/precepts/index.htm"
       ],
-      "notes": "Собственные источники подтверждают различение вечных сущностей, преданность Парабрахману и освобождение от рождения и смерти через связь с гуру. Не alias всей Сваминараян-сампрадаи. Тезис о верховном Боге не преобразован автоматически в отрицание любых иных божеств."
+      "notes": "Собственные источники подтверждают различение вечных сущностей, преданность Парабрахману и освобождение от рождения и смерти через связь с гуру. Не alias всей Сваминараян-сампрадаи. Тезис о верховном Боге не преобразован автоматически в отрицание любых иных божеств. Дополнительная проверка 2026-10-25: Проверены собственные BAPS Practices и Philosophical Precepts: ежедневная puja с murti, dhyan и вступление с посвящением/kanthi прямо подтверждают ritual, icons, meditation, initiatory_brotherhood. Разные вечные сущности не превращены в самостоятельных богов; всеобщий literal one_god не назначен."
     },
     {
       "sourceIndex": 1082,
@@ -290,13 +306,15 @@
       "inheritFamilyProfile": false,
       "parent": "Брахмоизм",
       "description": "Религиозно-общественное реформаторское движение, основанное Раммоханом Роем и объединяющее исторически разошедшиеся брахмоистские общины.",
-      "profile": "+divine +one_god -icons",
+      "profile": "+divine +one_god -icons +personal +ritual -many_gods",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Brahmo_Samaj",
-        "https://ebooks.inflibnet.ac.in/icp03/chapter/brahmo-samaj/"
+        "https://ebooks.inflibnet.ac.in/icp03/chapter/brahmo-samaj/",
+        "https://www.thebrahmosamaj.net/",
+        "https://www.thebrahmosamaj.net/liturgy/upasana.html"
       ],
-      "notes": "Сохраняется как организационно-историческое движение, а Brahmoism — как религиозное учение, которому оно служит общественной формой. Исходная статья имеет проблемы ссылочного аппарата; университетский материал независимо подтверждает происхождение и монотеистическую реформу. Положения одного позднего крыла не назначены всем историческим ветвям. Не alias Арья Самадж или одной Ади Брахмо Самадж."
+      "notes": "Сохраняется как организационно-историческое движение, а Brahmoism — как религиозное учение, которому оно служит общественной формой. Исходная статья имеет проблемы ссылочного аппарата; университетский материал независимо подтверждает происхождение и монотеистическую реформу. Положения одного позднего крыла не назначены всем историческим ветвям. Не alias Арья Самадж или одной Ади Брахмо Самадж. Дополнительная проверка 2026-10-25: Сайт Brahmo Samaj приводит прямое отрицание polytheism и молитвенное обращение к Богу как Отцу, Судье и Спасителю; литургия и Maghotsava подтверждают ritual. Поэтому -many_gods и personal не выведены лишь из one_god. Отдельные положения New Dispensation и Adi не присвоены всему движению."
     },
     {
       "sourceIndex": 1083,
@@ -307,14 +325,16 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Монотеистическое религиозное направление бенгальского реформаторского движения XIX века, подчёркивающее бесформенность Бога и нравственную жизнь.",
-      "profile": "+divine +one_god -icons",
+      "profile": "+divine +one_god -icons +personal +ritual -many_gods",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Brahmoism",
         "https://en.wikipedia.org/wiki/Brahmo_Samaj",
-        "https://ebooks.inflibnet.ac.in/icp03/chapter/brahmo-samaj/"
+        "https://ebooks.inflibnet.ac.in/icp03/chapter/brahmo-samaj/",
+        "https://www.thebrahmosamaj.net/",
+        "https://www.thebrahmosamaj.net/liturgy/liturgy.html"
       ],
-      "notes": "Отличается по объёму от организационного движения Брахмо Самадж и его конкретных ветвей; связь подтверждается обоими исходными статьями. Радикальные отрицания всех писаний, откровений и обрядов не назначены всему историческому направлению только по одной редакции списка принципов. Университетский материал использован для проверки общего ядра; не alias Ади-дхарма."
+      "notes": "Отличается по объёму от организационного движения Брахмо Самадж и его конкретных ветвей; связь подтверждается обоими исходными статьями. Радикальные отрицания всех писаний, откровений и обрядов не назначены всему историческому направлению только по одной редакции списка принципов. Университетский материал использован для проверки общего ядра; не alias Ади-дхарма. Дополнительная проверка 2026-10-25: Проверены первичное изложение Brahmo Dharma и история liturgy: Бог-Создатель/Судья, обращённые к нему молитвы, обряды и прямое отвержение polytheism подтверждают personal, ritual, -many_gods. Не использовано предположение, что любой священный текст одного крыла является окончательным каноном всего учения."
     },
     {
       "sourceIndex": 1084,
@@ -325,14 +345,17 @@
       "inheritFamilyProfile": false,
       "parent": "Адвайта-веданта",
       "description": "Международная организация Свами Чинмаянанды, распространяющая адвайта-веданту через изучение текстов, духовную практику и служение.",
-      "profile": "+divine +vedas +scripture",
+      "profile": "+divine +vedas +scripture +meditation +bhakti",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Chinmaya_Mission",
         "https://www.chinmayamission.com/",
-        "https://beta.chinmayamission.com/global/residential-vedanta-course-1"
+        "https://beta.chinmayamission.com/global/residential-vedanta-course-1",
+        "https://eshop.chinmayamission.com/blog/what-is-meditation-",
+        "https://www.chinmayamission.com/global/article/the-sadhana-highway-2-swami-swaroopananda",
+        "https://www.chinmayamission.com/ramdoot/study-groups"
       ],
-      "notes": "Собственный сайт подтверждает адвайта-веданту, авторитет Бхагавадгиты и Упанишад и духовное обучение. Сохранена как конкретная организация, не alias всей существующей «Адвайта-веданты». Образовательные и благотворительные программы не означают одинакового исповедания всех участников."
+      "notes": "Собственный сайт подтверждает адвайта-веданту, авторитет Бхагавадгиты и Упанишад и духовное обучение. Сохранена как конкретная организация, не alias всей существующей «Адвайта-веданты». Образовательные и благотворительные программы не означают одинакового исповедания всех участников. Дополнительная проверка 2026-10-25: Собственные тексты Swami Tejomayananda и Swami Swaroopananda определяют медитацию и подготовку через japa/преданность; официальный учебный план включает Narada Bhakti Sutras. Добавлены meditation/bhakti непосредственно по материалам Mission, не из общего профиля адвайты. Осознание Self не названо буддийским no_self."
     },
     {
       "sourceIndex": 1085,
@@ -343,15 +366,17 @@
       "inheritFamilyProfile": false,
       "parent": "Гаудия-вайшнавизм",
       "description": "Организация гаудия-вайшнавизма, основанная А. Ч. Бхактиведантой Свами Прабхупадой и известная как движение Харе Кришна.",
-      "profile": "+divine +personal +bhakti +scripture +reincarnation +karma +liberation",
+      "profile": "+divine +personal +bhakti +scripture +reincarnation +karma +liberation +vedas +ritual +icons",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness",
         "https://gbc.iskcon.org/frequently-asked-questions/",
         "https://iskcon.org/what-is-krishna-consciousness/",
-        "https://www.iskconmumbai.com/our-beliefs/reincarnation"
+        "https://www.iskconmumbai.com/our-beliefs/reincarnation",
+        "https://iskcon.org/faq/",
+        "https://deityworship.com/wp-content/uploads/2023/02/idwm-position-on-iskcon-temple-abhisekas.pdf"
       ],
-      "notes": "Исходная ссылка и официальный FAQ GBC подтверждают Hare Krishna movement как имя ISKCON. Не alias существующего «Кришнаизма»: запись religions.js охватывает вайшнавскую преданность Кришне вообще, тогда как ИСККОН — конкретная организация внутри гаудия-вайшнавизма. Официальное описание прямо различает традицию и учреждённую в 1966 году организацию."
+      "notes": "Исходная ссылка и официальный FAQ GBC подтверждают Hare Krishna movement как имя ISKCON. Не alias существующего «Кришнаизма»: запись religions.js охватывает вайшнавскую преданность Кришне вообще, тогда как ИСККОН — конкретная организация внутри гаудия-вайшнавизма. Официальное описание прямо различает традицию и учреждённую в 1966 году организацию. Дополнительная проверка 2026-10-25: Официальные FAQ и ISKCON Deity Worship Ministry: воскресная программа включает ведические тексты и arati перед божествами на алтаре; обязательны pancaratrika standards и авторитет Vedic śruti/Upanishads. Поэтому vedas, ritual, icons подтверждены для ISKCON, не для всех посетителей фестивалей."
     }
   ]
 }

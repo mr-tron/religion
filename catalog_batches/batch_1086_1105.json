@@ -13,13 +13,15 @@
       "inheritFamilyProfile": false,
       "parent": "Лакшми Нараян Дев Гади",
       "description": "Американская религиозная организация и сеть храмов Сваминараян, связанная с линией Лакшми Нараян Дев Гади в Вадтале.",
-      "profile": "+divine +bhakti +ritual",
+      "profile": "+divine +bhakti +ritual +scripture",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/International_Swaminarayan_Satsang_Mandal",
-        "https://shriji.org/about/"
+        "https://shriji.org/about/",
+        "https://shriji.org/shikshapatri/",
+        "https://shriji.org/lord-swaminarayans/"
       ],
-      "notes": "ISSM и ISSO of Chicago связаны как торговое и организационное названия; сайт храма подтверждает эту связь и богослужения. Не признан alias International Swaminarayan Satsang Organisation (1087): та организация связана с другим гади. Не весь Сваминараян Сампрадая."
+      "notes": "ISSM и ISSO of Chicago связаны как торговое и организационное названия; сайт храма подтверждает эту связь и богослужения. Не признан alias International Swaminarayan Satsang Organisation (1087): та организация связана с другим гади. Не весь Сваминараян Сампрадая. Дополнительная проверка 2026-10-25: Дополнительно проверены собственные разделы Chicago ISSO Shikshapatri и Lord Swaminarayan’s Philosophy: наставление Сваминараяна представлено как авторитетная религиозная норма (scripture). Полный профиль других гади или BAPS не перенесён; дополнительные метафизические признаки без точной локальной формулировки оставлены неизвестными."
     },
     {
       "sourceIndex": 1087,
@@ -30,13 +32,15 @@
       "inheritFamilyProfile": false,
       "parent": "Нар Нараян Дев Гади",
       "description": "Основанная в 1978 году международная организация традиции Сваминараян, исторически связанная с ачарьей Ахмадабадского гади.",
-      "profile": "+bhakti",
+      "profile": "+bhakti +divine +personal +scripture +vedas +ritual +icons +meditation +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/International_Swaminarayan_Satsang_Organisation",
-        "https://bolton.swaminarayan.faith/media/3761/shik-eng.pdf"
+        "https://bolton.swaminarayan.faith/media/3761/shik-eng.pdf",
+        "https://int.swaminarayan.faith/articles/daily-pooja",
+        "https://www.swaminarayan.faith/media/3761/shik-eng.pdf"
       ],
-      "notes": "Исходник прямо указывает цель поддерживать практику преданных Сваминараяна. Сохраняется организация, а не новая самостоятельная догматика. Не приравнена к ISSM / ISSO of Chicago по сходной аббревиатуре."
+      "notes": "Исходник прямо указывает цель поддерживать практику преданных Сваминараяна. Сохраняется организация, а не новая самостоятельная догматика. Не приравнена к ISSM / ISSO of Chicago по сходной аббревиатуре. Дополнительная проверка 2026-10-25: Собственный Daily Pooja и опубликованная Shikshapatri 93–96 подтверждают Бога, обращение за прощением, изображения/murti, ежедневные обряды, медитацию, авторитет писаний и четырёх Вед; Gurumantra передаётся Acharya/Gadiwalashri как вступление в линию. Добавлены перечисленные признаки именно по сайту этой организации, без переноса BAPS guru-parampara."
     },
     {
       "sourceIndex": 1088,
@@ -65,12 +69,13 @@
       "inheritFamilyProfile": false,
       "parent": "Гаудия-вайшнавизм",
       "description": "Бенгальская вайшнавская традиция вокруг Прабху Джагадбандху, организованная Шрипадом Махенджраджи и представленная в Индии и Бангладеш.",
-      "profile": "+divine +bhakti",
+      "profile": "+divine +bhakti +icons +ritual",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Mahanam_Sampraday"
+        "https://en.wikipedia.org/wiki/Mahanam_Sampraday",
+        "https://www.mahanam.org/drupal9/"
       ],
-      "notes": "Исходник подтверждает почитание Радхи-Кришны, Гаура-Нитая и Джагадбандху, а также пение священного имени. Не alias всей гаудия-вайшнавской традиции. Несколько почитаемых проявлений не автоматически означают независимых богов."
+      "notes": "Исходник подтверждает почитание Радхи-Кришны, Гаура-Нитая и Джагадбандху, а также пение священного имени. Не alias всей гаудия-вайшнавской традиции. Несколько почитаемых проявлений не автоматически означают независимых богов. Дополнительная проверка 2026-10-25: Собственный Mahanam Sampradaya показывает почитаемые изображения Radha-Madangopal, Jagadbandhu и Gour-Nitai, специально украшенные для Jhulan Utsav: icons/ritual. Этическое Manushyatva не означает secular humanism; число независимых божеств из нескольких изображений не выведено."
     },
     {
       "sourceIndex": 1090,
@@ -136,9 +141,10 @@
       "profile": "",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Neo-Advaita"
+        "https://en.wikipedia.org/wiki/Neo-Advaita",
+        "https://www.sriramana.org/ramanafiles/mountainpath/2004%20IV%20Oct.pdf"
       ],
-      "notes": "Сохраняется отдельный современный термин, а не alias существующей «Адвайта-веданты». Связь с Раманой Махарши не делает все группы частью его ашрама. Непризнание отдельного эго не приравнено к буддийскому no_self; отсутствие подготовки не означает общего отрицания медитации."
+      "notes": "Сохраняется отдельный современный термин, а не alias существующей «Адвайта-веданты». Связь с Раманой Махарши не делает все группы частью его ашрама. Непризнание отдельного эго не приравнено к буддийскому no_self; отсутствие подготовки не означает общего отрицания медитации. Дополнительная проверка 2026-10-25: Проверена первичная критика западной Neo-Advaita в журнале Ramanasramam The Mountain Path, 2004 IV, с.82–83: показаны спор о практиках и разнообразие учителей. Это свидетельство полемики, а не единый катехизис всех представителей; новые pantheism, divine, -meditation и no_self не назначены."
     },
     {
       "sourceIndex": 1094,
@@ -149,12 +155,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Духовное движение, созданное Калки Бхагаваном и Аммой, распространяющее практику дикши, называемой благословением Единства.",
-      "profile": "+ritual +occult",
+      "profile": "+ritual +occult +divine +spiritual_hand_transmission +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Kalki_Bhagawan"
+        "https://en.wikipedia.org/wiki/Kalki_Bhagawan",
+        "https://www.theonenessmovement.org/deeksha-week-aug-17-23-2026",
+        "https://floweringheart.org/Awakening%20to%20oneness%20with%20all-that-is%20BOOK%2027_june_2014.pdf",
+        "https://www.stangrof.com/images/joomgallery/ArticlesPDF/HB_Meets_the_Oneneness_Movement.pdf"
       ],
-      "notes": "Исходная ссылка посвящена основателю, но прямо описывает организацию и предполагаемую передачу энергии в дикше. Энергетические и целительские объяснения переданы как убеждения. Не alias Unity Church, других движений единства или всей традиции аватара Калки."
+      "notes": "Исходная ссылка посвящена основателю, но прямо описывает организацию и предполагаемую передачу энергии в дикше. Энергетические и целительские объяснения переданы как убеждения. Не alias Unity Church, других движений единства или всей традиции аватара Калки. Дополнительная проверка 2026-10-25: Проверены первичные инструкции Oneness Deeksha: благодать передаётся руками на голову; участие в линии deeksha-givers требует посвящения. divine/spiritual_hand_transmission/initiatory_brotherhood подтверждены также историческими Q&A Bhagavan (2011), а не перенесены только из позднего Ekam. Научная/медицинская эффективность не утверждается."
     },
     {
       "sourceIndex": 1095,
@@ -165,12 +174,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Международная сеть последователей Раджниша, известного как Ошо, с практиками медитации и духовного поиска.",
-      "profile": "+meditation",
+      "profile": "+meditation -personal",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Rajneesh_movement"
+        "https://en.wikipedia.org/wiki/Rajneesh_movement",
+        "https://oshoworld.com/i-am-that-02",
+        "https://shop.osho.com/en/international-osho-audio-books/individual-osho-talks/personality-emotions-god-awareness"
       ],
-      "notes": "Раджниш и Ошо — имена одного основателя. Сохраняется движение с внутренним организационным разнообразием, а не вся индийская духовность. История отдельных коммун и участников не используется для приписывания всем последователям единой этики или метафизики."
+      "notes": "Раджниш и Ошо — имена одного основателя. Сохраняется движение с внутренним организационным разнообразием, а не вся индийская духовность. История отдельных коммун и участников не используется для приписывания всем последователям единой этики или метафизики. Дополнительная проверка 2026-10-25: Первичные речи Osho I Am That 02 и официальный каталог OSHO прямо отвергают Бога-личность и возможность диалога с ним: -personal. Это не автоматические -divine, naturalism или -ritual всего разнородного движения; метафоры godliness отделены от личного Творца."
     },
     {
       "sourceIndex": 1096,
@@ -181,13 +192,13 @@
       "inheritFamilyProfile": false,
       "parent": "Брахмо Самадж",
       "description": "Образованная в Калькутте в 1878 году ветвь Брахмо Самаджа, соединяющая монотеистическое богопочитание с социальными реформами.",
-      "profile": "+divine +one_god",
+      "profile": "+divine +one_god -icons",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Sadharan_Brahmo_Samaj",
         "https://www.thesadharanbrahmosamaj.org/aboutus.php"
       ],
-      "notes": "Официальная история подтверждает учреждение отдельной организации и поклонение единому высшему духу. Не alias всей Брахмо Самадж, Ади Брахмо Самадж или других её подразделений. Социальные реформы сами по себе не означают humanism без религиозного авторитета."
+      "notes": "Официальная история подтверждает учреждение отдельной организации и поклонение единому высшему духу. Не alias всей Брахмо Самадж, Ади Брахмо Самадж или других её подразделений. Социальные реформы сами по себе не означают humanism без религиозного авторитета. Дополнительная проверка 2026-10-25: Повторно прочитано собственное About Us Sadharan Brahmo Samaj: общество противопоставляет своё богопочитание idolatry. Добавлен -icons по прямой позиции этой организации. Этические социальные реформы не превратились в безрелигиозный humanism; форма литургии Adi не перенесена целиком."
     },
     {
       "sourceIndex": 1097,
@@ -198,13 +209,16 @@
       "inheritFamilyProfile": false,
       "parent": "Сант Мат",
       "description": "Основанная Анукулчандрой духовная и благотворительная организация с центром в Деогхаре, исторически связанная с Сант Мат.",
-      "profile": "+divine",
+      "profile": "+divine +meditation +ritual +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Satsang_(Deoghar)",
-        "https://www.satsang.org.in/"
+        "https://www.satsang.org.in/",
+        "https://satsangamerica.org/sites/default/files/books/SOUVENIR-2015.pdf",
+        "https://ns41.satsangamerica.org/sites/default/files/books/Souvenir%20UTSAV-2016%20Reduced%20Size.pdf",
+        "https://satsanghyderabad.org.in/"
       ],
-      "notes": "Исходный URL уточняет конкретную организацию: не общий термин «сатсанг» и не неоадвайта. Участники могут сохранять свою исходную религиозную идентичность. Непроверенная оценка численности из статьи не повторяется; общий профиль Радха Соами не наследуется."
+      "notes": "Исходный URL уточняет конкретную организацию: не общий термин «сатсанг» и не неоадвайта. Участники могут сохранять свою исходную религиозную идентичность. Непроверенная оценка численности из статьи не повторяется; общий профиль Радха Соами не наследуется. Дополнительная проверка 2026-10-25: Проверены собственные публикации Satsang America и Hyderabad: посвящение Анкулчандре, ежедневная mantra-meditation, утренний Istavrity как подношение и общие молитвы прямо подтверждают meditation/ritual/initiatory_brotherhood. Речь об организации Deoghar; чужие Radha Soami материалы с общим словом satsang не использованы."
     },
     {
       "sourceIndex": 1098,
@@ -215,13 +229,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Духовная традиция почитания Саи Бабы из Ширди, объединяющая преданных из индуистской и мусульманской среды.",
-      "profile": "+divine +bhakti +fire",
+      "profile": "+divine +bhakti +fire +scripture +ritual +icons +personal",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Sai_Baba_of_Shirdi",
-        "https://sai.org.in/en/node/323"
+        "https://sai.org.in/en/node/323",
+        "https://www.shirdisai.org.au/resources/satcharitra/",
+        "https://neem.saibaba.org/bookcase/faq.html"
       ],
-      "notes": "Исходник — биография, но описывает учение и продолжающееся почитание; сайт храмового траста подтверждает священный непрерывно поддерживаемый огонь дхуни. Этот огонь не равен требованию поклоняться божеству огня. Не смешивать с движением Сатья Саи Бабы и его притязаниями на преемственность."
+      "notes": "Исходник — биография, но описывает учение и продолжающееся почитание; сайт храмового траста подтверждает священный непрерывно поддерживаемый огонь дхуни. Этот огонь не равен требованию поклоняться божеству огня. Не смешивать с движением Сатья Саи Бабы и его притязаниями на преемственность. Дополнительная проверка 2026-10-25: Собственные общины Shirdi Sai прямо называют Satcharitra sacred text, предписывают ежедневное чтение и parayan с lamp, изображением Бабы, подношением и обращённой к нему молитвой: scripture/ritual/icons/personal. Это продолжающаяся практика почитания, а не только биографические рассказы. Даты публикации разных изданий не сведены к одной."
     },
     {
       "sourceIndex": 1099,
@@ -232,13 +248,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Международная сеть Вишнудевананды, распространяющая йогическую систему, названную в честь его учителя Свами Шивананды.",
-      "profile": "+meditation",
+      "profile": "+meditation +divine +bhakti",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Sivananda_Yoga_Vedanta_Centres",
-        "https://sivananda.org/teachings/"
+        "https://sivananda.org/teachings/",
+        "https://sivananda.org/teachings/4-paths-of-yoga/",
+        "https://artsandculture.google.com/story/QQURiPuOVM2eIw?hl=en"
       ],
-      "notes": "Исходный URL перенаправляет на статью о Шивананда-йоге; официальный сайт подтверждает связь системы и организации. Центры выделены на организационном уровне и не alias Divine Life Society. Медитация — один из пяти основных принципов; физиологические и лечебные заявления не превращены в +scientific."
+      "notes": "Исходный URL перенаправляет на статью о Шивананда-йоге; официальный сайт подтверждает связь системы и организации. Центры выделены на организационном уровне и не alias Divine Life Society. Медитация — один из пяти основных принципов; физиологические и лечебные заявления не превращены в +scientific. Дополнительная проверка 2026-10-25: Собственные Teachings и 4 Paths of Yoga определяют цель как единение индивидуальной души с Absolute и прямо включают bhakti yoga как путь преданности. divine/bhakti добавлены по программе самих Centres. Популярные терапевтические занятия не объявлены обязательным исповеданием; liberation как прекращение перерождений не назначено из одного слова union."
     },
     {
       "sourceIndex": 1100,
@@ -249,13 +267,15 @@
       "inheritFamilyProfile": false,
       "parent": "Интегральная йога Шри Ауробиндо",
       "description": "Духовная община в Пудучерри, связанная со Шри Ауробиндо, Матерью и практикой интегральной йоги.",
-      "profile": "+divine",
+      "profile": "+divine +meditation",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Sri_Aurobindo_Ashram",
-        "https://www.sriaurobindoashram.org/ashram/"
+        "https://www.sriaurobindoashram.org/ashram/",
+        "https://www.sriaurobindoashram.org/faq/activities.php",
+        "https://library.sriaurobindoashram.org/sriaurobindo/cwsa29/chapter/30/"
       ],
-      "notes": "Сохраняется конкретная община. Не alias всех форм интегральной йоги, Ауровиля или учения Свами Сатчидананды. Источник подтверждает стремление к божественной жизни и индивидуальную садхану; одинаковый набор обрядов для всех участников не установлен."
+      "notes": "Сохраняется конкретная община. Не alias всех форм интегральной йоги, Ауровиля или учения Свами Сатчидананды. Источник подтверждает стремление к божественной жизни и индивидуальную садхану; одинаковый набор обрядов для всех участников не установлен. Дополнительная проверка 2026-10-25: Официальное расписание Activities подтверждает коллективные медитации у samadhi и на Playground несколько раз в неделю: meditation. Letters on Yoga прямо уточняет, что медитация необходима не каждому; токен характеризует значимую практику общины, а не обязательный режим всех членов. Единые обряды/канон не назначены."
     },
     {
       "sourceIndex": 1101,
@@ -266,7 +286,7 @@
       "inheritFamilyProfile": false,
       "parent": "Учение Раманы Махарши",
       "description": "Ашрам и международная духовная община в Тируваннамалае, сохраняющая учение Раманы Махарши и путь самоисследования.",
-      "profile": "",
+      "profile": "+divine +vedas +scripture +ritual +icons",
       "proposedQuestions": [
         {
           "id": "self_enquiry",
@@ -285,9 +305,10 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Sri_Ramana_Ashram",
         "https://www.gururamana.org/",
-        "https://www.gururamana.org/Resources/Books/Words_of_Grace.pdf"
+        "https://www.gururamana.org/Resources/Books/Words_of_Grace.pdf",
+        "https://www.gururamana.org/Ashram/visiting-us"
       ],
-      "notes": "Sri Ramana Ashram и Sri Ramanasramam — названия одного центра. Он не тождественен всей адвайте или неоадвайте. В учении самоисследование отличается от медитации на объект; вместо автоматического +meditation предложен специальный вопрос. Осознание истинного Я не обозначено как буддийское no_self."
+      "notes": "Sri Ramana Ashram и Sri Ramanasramam — названия одного центра. Он не тождественен всей адвайте или неоадвайте. В учении самоисследование отличается от медитации на объект; вместо автоматического +meditation предложен специальный вопрос. Осознание истинного Я не обозначено как буддийское no_self. Дополнительная проверка 2026-10-25: Официальное Visiting Us описывает святилище Shiva Linga/Sri Chakra, регулярную Sri Chakra Puja и собственную Yajurveda school: divine, vedas, scripture, ritual, icons. Это непосредственная жизнь Ramanasramam, а не перенос доктрины всех адвайтистов. Самоисследование по-прежнему не названо буддийским no_self."
     },
     {
       "sourceIndex": 1102,
@@ -298,12 +319,14 @@
       "inheritFamilyProfile": false,
       "parent": "Лакшми Нараян Дев Гади",
       "description": "Религиозно-образовательная организация, основанная Дхармадживандасджи Свами в 1948 году в традиции Сваминараян.",
-      "profile": "",
+      "profile": "+divine +bhakti +ritual +icons",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Swaminarayan_Gurukul"
+        "https://en.wikipedia.org/wiki/Swaminarayan_Gurukul",
+        "https://gurukul.org/laxmi-puja/",
+        "https://gurukul.org/category/academic-year/2025-26/page/7/"
       ],
-      "notes": "Исходник подтверждает конкретную сеть Shree Swaminarayan Gurukul Rajkot Sansthan в линии Вадтальского гади. Сохранён организационный уровень; религиозная образовательная деятельность не доказывает отдельную доктрину. Не alias всех гурукулов или всей сампрадаи."
+      "notes": "Исходник подтверждает конкретную сеть Shree Swaminarayan Gurukul Rajkot Sansthan в линии Вадтальского гади. Сохранён организационный уровень; религиозная образовательная деятельность не доказывает отдельную доктрину. Не alias всех гурукулов или всей сампрадаи. Дополнительная проверка 2026-10-25: Собственная Gurukul Laxmi Puja требует изображений/мурти Swaminarayan и Lakshmi, совершения подношений и выражения преданности; опубликованы также ежедневные утренние puja учащихся. divine/bhakti/ritual/icons характеризуют религиозную программу сети, не личную веру всех школьников; полный профиль Вадтальского гади не скопирован."
     },
     {
       "sourceIndex": 1103,
@@ -331,12 +354,15 @@
       "inheritFamilyProfile": false,
       "parent": "Вайшнавизм",
       "description": "Вайшнавская традиция, возникшая вокруг Сахаджананда Свами, почитаемого как Сваминараян, и включающая несколько кафедр и организаций.",
-      "profile": "+divine +bhakti +scripture",
+      "profile": "+divine +bhakti +scripture +personal +vedas +meditation +ritual +icons",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Swaminarayan_Sampradaya"
+        "https://en.wikipedia.org/wiki/Swaminarayan_Sampradaya",
+        "https://www.swaminarayan.nu/sampraday/shiksha.shtml",
+        "https://www.swaminarayan.faith/media/3761/shik-eng.pdf",
+        "https://www.baps.org/Spiritual-Living/Scriptures/Central-Swaminarayan-Scriptures/Shikshapatri.aspx"
       ],
-      "notes": "Общая традиция, не точный синоним одной её организации, BAPS, ISSO, ISSM, SMVS или одного гади. Исходник подтверждает разные интерпретации статуса Сваминараяна; верховенство одной конкретной богословской школы не приписано всем последователям."
+      "notes": "Общая традиция, не точный синоним одной её организации, BAPS, ISSO, ISSM, SMVS или одного гади. Исходник подтверждает разные интерпретации статуса Сваминараяна; верховенство одной конкретной богословской школы не приписано всем последователям. Дополнительная проверка 2026-10-25: Сопоставлены Shikshapatri в публикациях традиционной линии и BAPS: общий текст 49–63,93–96 предписывает утреннюю молитву/медитацию, murti-puja и авторитет четырёх Вед; заключение обращается к Кришне как дарующему благо. personal/vedas/meditation/ritual/icons опираются на общий канон, а не на эксклюзивную богословскую позицию одного гади."
     },
     {
       "sourceIndex": 1105,
@@ -351,9 +377,10 @@
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Transcendental_Meditation",
-        "https://www.tm.org/what-is-tm"
+        "https://www.tm.org/what-is-tm",
+        "https://www.tm.org/en-us/what-is-tm"
       ],
-      "notes": "Официальное современное описание не требует принятия религии или системы верований, тогда как история движения связана с индийской традицией. Сохранены техника и движение без вывода, что каждый практикующий признаёт Веды, божество или сверхъестественные способности. Упоминание исследований не доказывает +scientific."
+      "notes": "Официальное современное описание не требует принятия религии или системы верований, тогда как история движения связана с индийской традицией. Сохранены техника и движение без вывода, что каждый практикующий признаёт Веды, божество или сверхъестественные способности. Упоминание исследований не доказывает +scientific. Дополнительная проверка 2026-10-25: Повторно проверено официальное What is TM: техника прямо не требует религии, веры или мировоззренческой системы. Связь с индийской передачей и наличие исследований не определяют ответы всех практикующих о богах, Ведах, посвящении в религиозный орден или scientific. Существующий meditation подтверждён; дополнительных общих токенов нет."
     }
   ]
 }

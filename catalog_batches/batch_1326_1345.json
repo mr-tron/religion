@@ -13,12 +13,13 @@
       "inheritFamilyProfile": false,
       "parent": "Вайшнавизм",
       "description": "Древняя традиция преданности Васудеве-Кришне, участвовавшая в формировании вайшнавизма.",
-      "profile": "+divine +bhakti",
+      "profile": "+divine +bhakti +personal",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Bhagavata"
+        "https://en.wikipedia.org/wiki/Bhagavata",
+        "https://ignca.gov.in/Asi_data/49255.pdf"
       ],
-      "notes": "Исходный URL перенаправляет на Bhagavata Sampradaya. Историческая традиция не тождественна всему кришнаизму и не является просто названием Бхагавата-пураны."
+      "notes": "Исходный URL перенаправляет на Bhagavata Sampradaya. Историческая традиция не тождественна всему кришнаизму и не является просто названием Бхагавата-пураны. Дополнительная проверка 2026-10-25: Историческое исследование India’s Culture Through the Ages в архиве IGNCA,с.178, прямо описывает поклонение Богу Bhagavan/Vasudeva в Bhagavata tradition: personal. Отдельные поздние Pancharatra и пуранические формы не приписаны всем ранним Bhagavatas; название направления не сделано автоматическим основанием для обязательности одной поздней Bhagavata Purana."
     },
     {
       "sourceIndex": 1327,
@@ -62,13 +63,13 @@
       "inheritFamilyProfile": false,
       "parent": "Народный индуизм",
       "description": "Региональные практики бхилов, соединяющие почитание индуистских божеств с местными культами духов и сил природы.",
-      "profile": "+many_gods +nature_spirits +ritual",
+      "profile": "+many_gods +nature_spirits +ritual +divine +personal",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Bhil",
         "https://intangibleheritage.intach.org/cultural-mapping-of-the-bhil-community/"
       ],
-      "notes": "Исходная ссылка — статья о народе, включающем последователей разных религий. Полевая культурная документация INTACH подтверждает сочетание местных и индуистских культов; профиль относится к описанным практикам, а не ко всем бхилам."
+      "notes": "Исходная ссылка — статья о народе, включающем последователей разных религий. Полевая культурная документация INTACH подтверждает сочетание местных и индуистских культов; профиль относится к описанным практикам, а не ко всем бхилам. Дополнительная проверка 2026-10-25: Полевая документация INTACH прямо описывает богиню Pandurimata, к которой обращаются за благополучием, и местных богов: divine/personal. Материал относится к Bhil Rajpipla; этническая категория и все остальные религии бхилов не обобщены. Устные сказания и участие в празднике не доказывают единого scripture или посвящения в орден."
     },
     {
       "sourceIndex": 1329,
@@ -79,12 +80,13 @@
       "inheritFamilyProfile": false,
       "parent": "Вайшнавизм",
       "description": "Вайшнавская линия передачи учения, традиционно возводимая к Брахме и связанная с Мадхвой.",
-      "profile": "+vedas",
+      "profile": "+vedas +divine +personal +bhakti",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Brahma_Sampradaya"
+        "https://en.wikipedia.org/wiki/Brahma_Sampradaya",
+        "https://bvmlu.org/FVS/brahma/brahma.html"
       ],
-      "notes": "Брахма обозначает традиционное происхождение линии, а не основной объект отдельного культа. Линия преемственности и философия двайты — разные уровни классификации; не alias Двайта-веданты. Принадлежность гаудия-вайшнавизма к линии не доказывает их тождество."
+      "notes": "Брахма обозначает традиционное происхождение линии, а не основной объект отдельного культа. Линия преемственности и философия двайты — разные уровни классификации; не alias Двайта-веданты. Принадлежность гаудия-вайшнавизма к линии не доказывает их тождество. Дополнительная проверка 2026-10-25: Первичные высказывания Prabhupada о Brahma Sampradaya прямо называют её линией поклонения Supreme Lord Vishnu и передачи религиозного знания: divine/personal/bhakti. Gaudiya-версия последовательности учителей отмечена как самопрезентация; её детальные мантры и специфическое conjugal devotion не перенесены на всех Madhva/Tattvavadi."
     },
     {
       "sourceIndex": 1330,
@@ -95,12 +97,14 @@
       "inheritFamilyProfile": false,
       "parent": "Шактизм",
       "description": "Традиции почитания Кали и Мариамман в индийской диаспоре Карибского региона, особенно в Гайане и Тринидаде.",
-      "profile": "+divine +bhakti +ritual",
+      "profile": "+divine +bhakti +ritual +personal +many_gods +spirit_possession +divination_oracles",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Caribbean_Shaktism"
+        "https://en.wikipedia.org/wiki/Caribbean_Shaktism",
+        "https://www.scielo.br/j/vb/a/xfzTcvJh6DJNNkYnf99jqwy/?lang=en",
+        "https://journals.sagepub.com/doi/10.1177/003776898045002004"
       ],
-      "notes": "Региональная традиция, также называемая Kalimai Dharma и Madras Religion; не синоним всего шактизма. Локальные формы и состав практик различаются. Огненные обряды сами по себе не означают общего учения о святости огня."
+      "notes": "Региональная традиция, также называемая Kalimai Dharma и Madras Religion; не синоним всего шактизма. Локальные формы и состав практик различаются. Огненные обряды сами по себе не означают общего учения о святости огня. Дополнительная проверка 2026-10-25: Полевое исследование Marcelo Moura Mello, Vibrant17,2020, описывает deotas, отвечающих на просьбы через marlos и сообщающих причины бед и предписания; в изученном храме почитаются17божеств. personal/many_gods/spirit_possession/divination_oracles подтверждены и соотнесены с Guyanese Kali-Mai, а работа Vertovec подтверждает possession для Trinidad. Частные формы лечения не объявлены обязательными каждому."
     },
     {
       "sourceIndex": 1331,
@@ -144,13 +148,14 @@
       "inheritFamilyProfile": false,
       "parent": "Бхедабхеда",
       "description": "Учение Нимбарки о естественном различии и неразличии Брахмана, индивидуальных душ и мира.",
-      "profile": "+vedas +liberation +bhakti",
+      "profile": "+vedas +liberation +bhakti +divine +personal +pantheism +meditation +scripture",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Dvaitadvaita",
-        "https://iep.utm.edu/bhedabheda-vedanta/"
+        "https://iep.utm.edu/bhedabheda-vedanta/",
+        "https://egyankosh.ac.in/bitstream/123456789/109588/1/Unit-10.pdf"
       ],
-      "notes": "Исходный URL перенаправляет на Dvaitadvaita Vedanta. Самостоятельная интерпретация бхедабхеды, а не синоним двайты, адвайты или всего круга бхедабхеды. Академический обзор IEP подтверждает место Нимбарки в этом круге."
+      "notes": "Исходный URL перенаправляет на Dvaitadvaita Vedanta. Самостоятельная интерпретация бхедабхеды, а не синоним двайты, адвайты или всего круга бхедабхеды. Академический обзор IEP подтверждает место Нимбарки в этом круге. Дополнительная проверка 2026-10-25: Университетский IGNOU Unit10 отдельно объясняет Nimbarka: Brahman есть Gopala-Krishna, Radha сопровождает его, мир и души реально различны/неразличны с Brahman; upasana — путь к освобождению. IEP уточняет эту систему по Brahma Sutra. Добавлены divine/personal/pantheism/meditation/scripture; философская доктрина не названа единым конкретным храмовым распорядком."
     },
     {
       "sourceIndex": 1334,
@@ -161,12 +166,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Этническая религия хаджонгов северо-востока Индии, сочетающая местные культы духов с почитанием индуистских божеств.",
-      "profile": "+divine +many_gods +nature_spirits +ritual",
+      "profile": "+divine +many_gods +nature_spirits +ritual +occult +divination_oracles",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Hajong_ethnic_religion"
+        "https://en.wikipedia.org/wiki/Hajong_ethnic_religion",
+        "https://www.hajongpathin.in/en/node/45"
       ],
-      "notes": "Dyaoism — альтернативное название Hajong ethnic religion в исходной статье. Не даосизм и не автоматически вся религиозная жизнь народа; индуистские заимствования не отменяют самостоятельного местного комплекса."
+      "notes": "Dyaoism — альтернативное название Hajong ethnic religion в исходной статье. Не даосизм и не автоматически вся религиозная жизнь народа; индуистские заимствования не отменяют самостоятельного местного комплекса. Дополнительная проверка 2026-10-25: Собственный этнокультурный ресурс Hajongpathin описывает dewsi/udhikari и обращение к шаману для определения источника колдовства и лечения: occult/divination_oracles. Текст различает прежнюю местную религию и последующее принятие индуистских культов; отсутствие идолов в описанном прошлом не стало общим современным -icons."
     },
     {
       "sourceIndex": 1335,
@@ -177,12 +183,14 @@
       "inheritFamilyProfile": false,
       "parent": "Вайшнавизм",
       "description": "Ассамская традиция Шанкарадевы и Мадхавдевы, сосредоточенная на преданности Кришне-Нараяне и Бхагавата-пуране.",
-      "profile": "+divine +personal +bhakti +scripture",
+      "profile": "+divine +personal +bhakti +scripture +ritual +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Ekasarana_Dharma"
+        "https://en.wikipedia.org/wiki/Ekasarana_Dharma",
+        "https://dvkjournals.in/index.php/jd/article/download/4292/3630/9128",
+        "https://ir.nbu.ac.in/bitstreams/f63c75eb-befc-42dc-8a0a-3bec0b3b7c59/download"
       ],
-      "notes": "Региональное направление вайшнавской бхакти. Исключительная направленность преданности не переносится автоматически в отрицание существования всех иных божеств."
+      "notes": "Региональное направление вайшнавской бхакти. Исключительная направленность преданности не переносится автоматически в отрицание существования всех иных божеств. Дополнительная проверка 2026-10-25: Journal of Dharma48(4),2023,с.559, прямо описывает Naam — совместное пение, четыре основы веры, передаваемые при xoron-lowa, и религиозные функции namghars; диссертационная глава NBU определяет sarana как формальное вступление через guru. ritual/initiatory_brotherhood подтверждены именно Ekasarana. Единственный адресат поклонения не превращён в отрицание существования иных божеств."
     },
     {
       "sourceIndex": 1336,
@@ -197,9 +205,10 @@
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Folk_Hinduism",
-        "https://academic.oup.com/reference/62357/reference-article-abstract/554509265"
+        "https://academic.oup.com/reference/62357/reference-article-abstract/554509265",
+        "https://bu.academia.edu/FrankKorom/CurriculumVitae"
       ],
-      "notes": "Исходный URL перенаправляет на общую статью Folk Religion с разделом об индуизме. Академическая библиография Frank J. Korom подтверждает употребление термина Popular and Folk Hinduism. Это неоднородная категория, поэтому единый профиль не назначен."
+      "notes": "Исходный URL перенаправляет на общую статью Folk Religion с разделом об индуизме. Академическая библиография Frank J. Korom подтверждает употребление термина Popular and Folk Hinduism. Это неоднородная категория, поэтому единый профиль не назначен. Дополнительная проверка 2026-10-25: Дополнительно проверены библиография Korom и университетская публикационная информация автора: Popular and Folk Hinduism обозначает область изучения местной/народной религиозности, а не конфессию с единым катехизисом. Конкретные деви-культы, предковые обряды или possession отдельных регионов не перенесены на весь агрегат. Новых общих токенов нет."
     },
     {
       "sourceIndex": 1337,
@@ -210,12 +219,13 @@
       "inheritFamilyProfile": false,
       "parent": "Индуизм",
       "description": "Индуистская традиция, почитающая Ганешу как высшую божественную реальность.",
-      "profile": "+divine +bhakti",
+      "profile": "+divine +bhakti +scripture",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Ganapatya"
+        "https://en.wikipedia.org/wiki/Ganapatya",
+        "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/96cf72e5-38e8-4b68-9f7e-cd82a4039e7f/content"
       ],
-      "notes": "Отдельная конфессиональная ориентация на Ганешу; обычное почитание Ганеши в других индуистских школах само по себе не делает их ганапатья. Верховенство одного божества не означает отрицания остальных."
+      "notes": "Отдельная конфессиональная ориентация на Ганешу; обычное почитание Ганеши в других индуистских школах само по себе не делает их ганапатья. Верховенство одного божества не означает отрицания остальных. Дополнительная проверка 2026-10-25: Исследование в ANU Open Research прямо называет Ganesha Purana и Mudgala Purana собственными текстами Ganapatya и авторитетными для её приверженцев: scripture. Материал Rocher отдельно подтверждает принадлежность этих двух упапуран культу. Обычное почитание Ganapati перед ритуалом в других школах не приравнено к принадлежности Ganapatya; практика нового одноимённого храма не обобщена на историческую традицию."
     },
     {
       "sourceIndex": 1338,
@@ -226,13 +236,14 @@
       "inheritFamilyProfile": false,
       "parent": "Кришнаизм",
       "description": "Бенгальская традиция Чайтаньи, развивающая преданность Радхе и Кришне и опирающаяся на Бхагавата-пурану.",
-      "profile": "+divine +bhakti +scripture",
+      "profile": "+divine +bhakti +scripture +personal +pantheism",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Gaudiya_Vaishnavism",
-        "https://iep.utm.edu/bhedabheda-vedanta/"
+        "https://iep.utm.edu/bhedabheda-vedanta/",
+        "https://egyankosh.ac.in/bitstream/123456789/109588/1/Unit-10.pdf"
       ],
-      "notes": "Уже кришнаизма в целом и шире отдельного Международного общества сознания Кришны. Не alias Брахма-сампрадаи: заявление о преемственности не делает региональную школу тождественной всей линии. Отношение к Брахману описывается как ачинтья-бхедабхеда."
+      "notes": "Уже кришнаизма в целом и шире отдельного Международного общества сознания Кришны. Не alias Брахма-сампрадаи: заявление о преемственности не делает региональную школу тождественной всей линии. Отношение к Брахману описывается как ачинтья-бхедабхеда. Дополнительная проверка 2026-10-25: IGNOU Unit10 прямо описывает Krishna как любящего личного Господа и его immanent присутствие; IEP объясняет Gaudiya как acintya difference/non-difference Бога и его сил. personal/pantheism соответствуют широким формулировкам вопросов. Особенности отдельного ISKCON не перенесены на все ветви; философское единство не названо отсутствием реального различия."
     },
     {
       "sourceIndex": 1339,
@@ -260,12 +271,13 @@
       "inheritFamilyProfile": false,
       "parent": "Двайта-веданта",
       "description": "Каннадаязычное движение преданности Хари, распространявшее учение Мадхвы через религиозную поэзию и музыку.",
-      "profile": "+divine +bhakti",
+      "profile": "+divine +bhakti +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Haridasa"
+        "https://en.wikipedia.org/wiki/Haridasa",
+        "https://www.dvaita.in/haridasa/overview/ankit.html"
       ],
-      "notes": "Культурно-религиозное движение внутри круга двайты, а не синоним всей философской школы. Название не относится к отдельному человеку со сходным именем."
+      "notes": "Культурно-религиозное движение внутри круга двайты, а не синоним всей философской школы. Название не относится к отдельному человеку со сходным именем. Дополнительная проверка 2026-10-25: Собственный традиционный Dvaita-архив Haridasa объясняет ankitha, даваемое guru при вступлении в Haridasa Pantha, и отдельно оговаривает swapna-labdha случаи: initiatory_brotherhood. Источник относится к карнатакским Haridasas, а не к одноимённой Vrindavan-сампрадае Svami Haridas. Не все положения философии Madhva перенесены автоматически на литературное движение."
     },
     {
       "sourceIndex": 1341,
@@ -276,12 +288,15 @@
       "inheritFamilyProfile": false,
       "parent": "Навнатх-сампрадая",
       "description": "Линия духовных наставников Махараштры и Карнатаки, связанная с Бхаусахебом Махараджем и Нисаргадаттой Махараджем.",
-      "profile": "+meditation",
+      "profile": "+meditation +divine +personal +bhakti +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Inchegeri_Sampradaya"
+        "https://en.wikipedia.org/wiki/Inchegeri_Sampradaya",
+        "https://gurudevranade.com/",
+        "https://gurudevranade.com/contact-us/",
+        "https://shrigurudevranade.org/nimbargi-sampradaya/bhausaheb-maharaj"
       ],
-      "notes": "В исходной статье Inchagiri Sampradaya также именуется Nimbargi Sampradaya. Учителя и ответвления различают пути мантры и непосредственного самопознания; единый подробный профиль не назначен. Не синоним всех традиций натхов, Сант Мат или адвайты."
+      "notes": "В исходной статье Inchagiri Sampradaya также именуется Nimbargi Sampradaya. Учителя и ответвления различают пути мантры и непосредственного самопознания; единый подробный профиль не назначен. Не синоним всех традиций натхов, Сант Мат или адвайты. Дополнительная проверка 2026-10-25: Собственные Ranade Samadhi Trust и International Nimbargi Sampradaya описывают передаваемое Sadguru божественное имя, surrender, devotion и grace Бога, а также актуальные дни посвящения в Nimbal: divine/personal/bhakti/initiatory_brotherhood. Формы более непосредственного самопознания у поздних учителей не сведены к одному внешнему распорядку; рациональность учения не приравнена scientific."
     },
     {
       "sourceIndex": 1342,
@@ -295,9 +310,11 @@
       "profile": "",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Hinduism_in_Indonesia"
+        "https://en.wikipedia.org/wiki/Hinduism_in_Indonesia",
+        "https://academic.oup.com/socrel/article-pdf/57/4/409/4646282/57-4-409.pdf",
+        "https://online.ucpress.edu/nr/article-abstract/25/4/64/168635/Kaharingan-or-Hindu-KaharinganWhat-s-in-a-Name-in?redirectedFrom=fulltext"
       ],
-      "notes": "Региональный собирательный термин, не alias индуизма Бали или Явы. Административная классификация некоторых местных религий как индуизма не доказывает общего происхождения или единства доктрины. Из-за неоднородности профиль пуст."
+      "notes": "Региональный собирательный термин, не alias индуизма Бали или Явы. Административная классификация некоторых местных религий как индуизма не доказывает общего происхождения или единства доктрины. Из-за неоднородности профиль пуст. Дополнительная проверка 2026-10-25: Дополнительно проверены исследования Schiller,1996, и Etika/Schiller,2022: включение Kaharingan в индуистскую рубрику связано с признанием и идентичностью, причём сами организации расходятся в отношении союза с Hinduism. Поэтому Indonesian Hinduism не получает общий балийский пантеон, Веды, karma или один ритуал. Новых общих токенов нет."
     },
     {
       "sourceIndex": 1343,
@@ -325,12 +342,15 @@
       "inheritFamilyProfile": false,
       "parent": "Сант Мат",
       "description": "Традиция последователей Кабира, связанная с преданностью бесформенному Богу и авторитетом его поэзии, включая Биджак.",
-      "profile": "+divine +bhakti +scripture",
+      "profile": "+divine +bhakti +scripture +ritual +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Kabir_panth"
+        "https://en.wikipedia.org/wiki/Kabir_panth",
+        "https://vishwakosh.marathi.gov.in/16687/",
+        "https://ignca.gov.in/coilnet/kabir026.htm",
+        "https://academic.oup.com/book/9305/chapter-abstract/156061252"
       ],
-      "notes": "Самостоятельный круг общин, а не весь Сант Мат. Критика религиозных разделений и внешней обрядности не означает светского гуманизма или полного отсутствия ритуалов в современных общинах."
+      "notes": "Самостоятельный круг общин, а не весь Сант Мат. Критика религиозных разделений и внешней обрядности не означает светского гуманизма или полного отсутствия ритуалов в современных общинах. Дополнительная проверка 2026-10-25: Government Marathi Vishwakosh описывает diksha и монастырскую передачу, IGNCA — chauka; исследование Linda Hess (2015) показывает их оспаривание и изменение в разных ветвях. ritual/initiatory_brotherhood характеризуют институциональный Panth, не утверждение что каждый современный последователь обязан совершать полный chauka. Позиция по обожествлению Kabir не назначена всем."
     },
     {
       "sourceIndex": 1345,
@@ -341,14 +361,16 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Традиционные религиозные комплексы ряда даякских сообществ Калимантана, объединённые современным названием кахаринган.",
-      "profile": "+scripture +ancestors +ritual",
+      "profile": "+scripture +ancestors +ritual +divine +personal +many_gods",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Kaharingan",
         "https://jurnalharmoni.kemenag.go.id/harmoni/article/view/47",
-        "https://www.pustaka-bpkxii.org/slims/index.php?id=3665&keywords=&p=show_detail"
+        "https://www.pustaka-bpkxii.org/slims/index.php?id=3665&keywords=&p=show_detail",
+        "https://penamas.kemenag.go.id/penamas/article/download/443/198",
+        "https://ejournal.brin.go.id/jmb/article/download/10334/7993/29145"
       ],
-      "notes": "Не alias широкой записи «Традиционные религии даяков» (партия 0366–0385): название не охватывает все религии даяков вне и внутри Индонезии. Panaturan и предковые ритуалы подтверждены, однако общины неоднородны. Государственное включение в индуистскую категорию не доказывает тождества с индуизмом; единый монотеистический профиль не назначен."
+      "notes": "Не alias широкой записи «Традиционные религии даяков» (партия 0366–0385): название не охватывает все религии даяков вне и внутри Индонезии. Panaturan и предковые ритуалы подтверждены, однако общины неоднородны. Государственное включение в индуистскую категорию не доказывает тождества с индуизмом; единый монотеистический профиль не назначен. Дополнительная проверка 2026-10-25: Полевое исследование Tiwi Etika в Penamas описывает обращения к Ranying Hatalla в Balai Basarah; исследование BRIN отдельно фиксирует множество dewa и духов, включая Sangiang. divine/personal/many_gods учитывают разные уровни божественного, не превращая государственную формулу высшего Бога в отрицание других существ. Общий индуистский пантеон не перенесён."
     }
   ]
 }

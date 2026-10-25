@@ -18,9 +18,10 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Independent_Catholic_churches",
         "https://en.wikipedia.org/wiki/Independent_Catholicism",
-        "https://cacina.org/home/index.php/about-us/independent-catholicism"
+        "https://cacina.org/home/index.php/about-us/independent-catholicism",
+        "https://www.cacina.org/images/downloadable_files/STATEMENT_OF_PRINCIPLES.pdf"
       ],
-      "notes": "Исходный URL не загрузился; обзор Independent Catholicism и собственное описание CACINA подтверждают категорию. Это не единая деноминация, не всё старокатоличество и не политическое течение Liberal Catholicism. Доктрины, церковное устройство и подходы к рукоположению различаются, поэтому профиль не обобщается."
+      "notes": "Исходный URL не загрузился; обзор Independent Catholicism и собственное описание CACINA подтверждают категорию. Это не единая деноминация, не всё старокатоличество и не политическое течение Liberal Catholicism. Доктрины, церковное устройство и подходы к рукоположению различаются, поэтому профиль не обобщается. Дополнительная проверка 2026-10-25: Повторно проверены собственные Independent Catholicism и Statement of Principles CACINA: обзор прямо указывает множество организаций с разными рукоположениями и размерами. Частное исповедание CACINA не представляет весь Independent Catholic spectrum; общие trinity, pope и единая sacramental theology этим материалом не установлены. Новых токенов нет."
     },
     {
       "sourceIndex": 1507,
@@ -31,12 +32,14 @@
       "inheritFamilyProfile": false,
       "parent": "Восточный католицизм",
       "description": "Восточнокатолическая церковь византийского обряда в Италии, связанная с арберешской традицией.",
-      "profile": "+church +pope",
+      "profile": "+church +pope +divine +personal +jesus +scripture +ritual +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Italo-Albanian_Catholic_Church"
+        "https://en.wikipedia.org/wiki/Italo-Albanian_Catholic_Church",
+        "https://www.eparchialungro.it/wp-content/uploads/sites/2/2024/01/Lajme-2-2006.pdf",
+        "https://www.eparchialungro.it/2026/01/20/imerologhion-2026-2/"
       ],
-      "notes": "Источник прямо отличает её от Албанской византийской католической церкви на Балканах (партия 1426–1445). Совпадение албанского языка и обрядовое родство не означают тождества. Подтверждены статус sui iuris и общение с папой Римским."
+      "notes": "Источник прямо отличает её от Албанской византийской католической церкви на Балканах (партия 1426–1445). Совпадение албанского языка и обрядовое родство не означают тождества. Подтверждены статус sui iuris и общение с папой Римским. Дополнительная проверка 2026-10-25: Собственные LAJME2/2006 епархии Lungro,с.10, учат молитвенному доверию Богу, Христу, апостольским/евангельским текстам и вечной жизни; Imerologhion2026 определяет ежедневные/праздничные службы. divine/personal/jesus/scripture/ritual/afterlife подтверждены для итало-албанской церкви по её публикациям. Латинский календарь и отличительные латинские благочестивые практики не перенесены."
     },
     {
       "sourceIndex": 1508,
@@ -47,13 +50,15 @@
       "inheritFamilyProfile": false,
       "parent": "Сирийская православная церковь",
       "description": "Автономная церковная структура западносирийской традиции в Индии, подчинённая Антиохийскому сирийскому патриархату.",
-      "profile": "+church +scripture",
+      "profile": "+church +scripture +divine +personal +one_god +trinity +jesus +ritual",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Jacobite_Syrian_Christian_Church",
-        "https://www.jscnews.in/about-us/"
+        "https://www.jscnews.in/about-us/",
+        "https://bsmcathedral.org/",
+        "https://www.jsocireland.com/"
       ],
-      "notes": "В источнике также Malankara Syriac Orthodox Church и Syriac Orthodox Church in India. Это не Маланкарская православная сирийская церковь с отдельным католикосатом и не весь Сирийский патриархат. Официальное медиа подтверждает подчинение Антиохийскому престолу; конкурирующие исторические притязания сторон не используются как факты вероучения."
+      "notes": "В источнике также Malankara Syriac Orthodox Church и Syriac Orthodox Church in India. Это не Маланкарская православная сирийская церковь с отдельным католикосатом и не весь Сирийский патриархат. Официальное медиа подтверждает подчинение Антиохийскому престолу; конкурирующие исторические притязания сторон не используются как факты вероучения. Дополнительная проверка 2026-10-25: Собственные St Mary’s Jacobite Cathedral и Patriarchal Vicariate Ireland прямо исповедуют одного Бога в трёх лицах и Иисуса истинным Богом/человеком, проводят prayer meetings и таинства: divine/personal/one_god/trinity/jesus/ritual. Это общины именно под Антиохийским престолом; их не спутали с отдельным Malankara Orthodox католикосатом."
     },
     {
       "sourceIndex": 1509,
@@ -83,9 +88,10 @@
       "profile": "+jesus +torah",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Jewish_Christianity"
+        "https://en.wikipedia.org/wiki/Jewish_Christianity",
+        "https://www.cambridge.org/core/books/abs/contesting-orthodoxies-in-the-history-of-christianity/jewish-christianity-in-antiquity-meaningless-category-or-heuristic-irritant/8B27FDD38693EA43CFA240D3A7A7A604"
       ],
-      "notes": "Исходная статья явно посвящена историческому кругу и отличает его от современных Hebrew Christian movement и Messianic Judaism. Это не единая церковь и не всякое христианство человека еврейского происхождения. Точный канон писаний и христология разных древних групп неоднородны; равенство с последующей раввинистической галахой не предполагается."
+      "notes": "Исходная статья явно посвящена историческому кругу и отличает его от современных Hebrew Christian movement и Messianic Judaism. Это не единая церковь и не всякое христианство человека еврейского происхождения. Точный канон писаний и христология разных древних групп неоднородны; равенство с последующей раввинистической галахой не предполагается. Дополнительная проверка 2026-10-25: James Carleton Paget,Contesting Orthodoxies(Cambridge2024), отдельно разбирает проблематичность категории Jewish Christianity и нормативный характер древних ярлыков; действительное взаимодействие было сложнее готового разделения религий. Положения одной Ebionite/Nazarene группы не перенесены на весь исторический круг; новых общих канона, trinity или halakha не установлено."
     },
     {
       "sourceIndex": 1511,
@@ -113,7 +119,7 @@
       "inheritFamilyProfile": false,
       "parent": "Древнее иудеохристианство",
       "description": "Обозначение раннехристианских сторонников обязательного соблюдения Моисеева закона также обращёнными из язычников.",
-      "profile": "+jesus +torah",
+      "profile": "+jesus +torah +ritual",
       "proposedQuestions": [
         {
           "id": "mosaic_law_for_gentile_christians",
@@ -130,9 +136,11 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Judaizers"
+        "https://en.wikipedia.org/wiki/Judaizers",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5732587/",
+        "https://www.uibk.ac.at/iup/buch_pdfs/matthew_paul_others/10.152033187-66-5.pdf"
       ],
-      "notes": "Сохранён раннехристианский смысл исходной статьи, а не средневековая русская «ересь жидовствующих». Термин полемический и не доказывает единой организации. Не alias всему иудеохристианству: соблюдение Торы евреями отличается от требования её соблюдения язычниками. Современная раввинистическая галаха автоматически не приписывается."
+      "notes": "Сохранён раннехристианский смысл исходной статьи, а не средневековая русская «ересь жидовствующих». Термин полемический и не доказывает единой организации. Не alias всему иудеохристианству: соблюдение Торы евреями отличается от требования её соблюдения язычниками. Современная раввинистическая галаха автоматически не приписывается. Дополнительная проверка 2026-10-25: Специальные исследования Peter-Ben Smit2017 о circumcision как boundary ritual и Innsbruck University Press2019 о Galatians2 различают требование обрезания и правила совместной трапезы. ritual относится к раннехристианскому требованию таких обрядов от Gentiles. Нет единой организации или доказательства, что её догматический канон совпадал с любым современным Torah-observant движением."
     },
     {
       "sourceIndex": 1513,
@@ -179,12 +187,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Позднесредневековые английские религиозные течения, связанные с влиянием Джона Уиклифа и авторитетом Писания на народном языке.",
-      "profile": "+scripture +bible_alone -icons",
+      "profile": "+scripture +bible_alone -icons +divine +personal +jesus +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Lollardy"
+        "https://en.wikipedia.org/wiki/Lollardy",
+        "https://chaucer.fas.harvard.edu/pages/twelve-conclusions-lollards"
       ],
-      "notes": "Источник описывает устойчивые установки при отсутствии единого детального символа веры. Lollard было также полемическим ярлыком; здесь имеется в виду английский уиклифитский круг, а не все средневековые группы со сходным прозвищем. Позднейшие протестантские доктрины в полном составе не переносятся."
+      "notes": "Источник описывает устойчивые установки при отсутствии единого детального символа веры. Lollard было также полемическим ярлыком; здесь имеется в виду английский уиклифитский круг, а не все средневековые группы со сходным прозвищем. Позднейшие протестантские доктрины в полном составе не переносятся. Дополнительная проверка 2026-10-25: Первичные Twelve Conclusions of the Lollards в переводе Harvard прямо обращаются к Богу, признают Христа и посмертное небесное блаженство/вечное наказание: divine/personal/jesus/afterlife. Критика индивидуальных поминальных платежей не превращена в отрицание посмертной жизни; отрицание transubstantiation не означает отрицания любой Вечери."
     },
     {
       "sourceIndex": 1516,
@@ -211,12 +220,14 @@
       "inheritFamilyProfile": false,
       "parent": "Восточный католицизм",
       "description": "Восточнокатолическая церковь византийского обряда в Северной Македонии.",
-      "profile": "+church +pope",
+      "profile": "+church +pope +jesus +ritual",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Macedonian_Greek_Catholic_Church"
+        "https://en.wikipedia.org/wiki/Macedonian_Greek_Catholic_Church",
+        "https://www.kovz.gov.mk/content/Stav/Strategija/StrategijaFin.pdf",
+        "https://www.kas.de/documents/281657/281706/Belegexemplare%2B2026%2BMultireligious%2Bcalendar.pdf/5521a6bf-6769-b435-d0ca-90578b2d3ae8?t=1766652171829&version=1.0"
       ],
-      "notes": "Исходная ссылка уточняет краткое Macedonian Catholic Church как Macedonian Greek Catholic Church. Не Македонская православная церковь и не весь католицизм территории; латинская юрисдикция не становится её синонимом. Подтверждены общение с Римом и византийское богослужение."
+      "notes": "Исходная ссылка уточняет краткое Macedonian Catholic Church как Macedonian Greek Catholic Church. Не Македонская православная церковь и не весь католицизм территории; латинская юрисдикция не становится её синонимом. Подтверждены общение с Римом и византийское богослужение. Дополнительная проверка 2026-10-25: Государственная KOVZ стратегия отдельно описывает грекокатолическую Strumica cathedral и её Божественную литургию; конфессиональная запись в многорелигиозном календаре2026 подтверждает греко-византийскую епархию и центральные Christ-feasts. jesus/ritual добавлены по конкретной церкви. Совместное управление с латинской Skopje Diocese не использовано для смешения двух юрисдикций или копирования всех латинских практик."
     },
     {
       "sourceIndex": 1518,
@@ -227,12 +238,13 @@
       "inheritFamilyProfile": false,
       "parent": "Древневосточные православные церкви",
       "description": "Индийская церковь западносирийской традиции с самостоятельным католикосатом и центром в Коттаяме.",
-      "profile": "+church +scripture",
+      "profile": "+church +scripture +divine +personal +one_god +trinity +jesus +revelation",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Malankara_Orthodox_Syrian_Church"
+        "https://en.wikipedia.org/wiki/Malankara_Orthodox_Syrian_Church",
+        "https://mosc.in/the_church/what-do-we-believe/"
       ],
-      "notes": "Источник прямо отличает современную церковь от исторического общего Malankara Church и от Jacobite Syrian Christian Church (строка 1508). Indian Orthodox Church в контексте этой статьи — альтернативное название. Не alias всего древневосточного православия. Споры о церковных правах не преобразованы в оценочный профиль."
+      "notes": "Источник прямо отличает современную церковь от исторического общего Malankara Church и от Jacobite Syrian Christian Church (строка 1508). Indian Orthodox Church в контексте этой статьи — альтернативное название. Не alias всего древневосточного православия. Споры о церковных правах не преобразованы в оценочный профиль. Дополнительная проверка 2026-10-25: Собственное What do we believe? MOSC прямо исповедует One True God/Father/Son/Holy Spirit, три центра личного ответа, обращённое поклонение и познание через Incarnate Son и Spirit revelation: divine/personal/one_god/trinity/jesus/revelation. Эти ответы основаны на её изложении веры; современное межцерковное сотрудничество не превращено в признание папского первенства."
     },
     {
       "sourceIndex": 1519,
@@ -243,7 +255,7 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Раннехристианское движение Маркиона, различавшее Творца, описанного в еврейских писаниях, и благого Бога, открытого Иисусом.",
-      "profile": "+jesus +scripture",
+      "profile": "+jesus +scripture +divine",
       "proposedQuestions": [
         {
           "id": "creator_distinct_from_good_god",
@@ -262,9 +274,10 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Marcionism",
         "https://academic.oup.com/jts/article-abstract/72/1/231/6400341",
-        "https://academic.oup.com/book/39211/chapter-abstract/338714528"
+        "https://academic.oup.com/book/39211/chapter-abstract/338714528",
+        "https://doi.org/10.1093/jts/flab010"
       ],
-      "notes": "Не маронитская церковь и не Marcianists. Современное академическое исследование подтверждает различение Творца и высшего Бога, но оспаривает простое описание как веры в двух равноправных богов. Поэтому one_god, many_gods и автоматическая принадлежность ко всему гностицизму не назначены. Враждебные биографические предания не приняты без оговорок."
+      "notes": "Не маронитская церковь и не Marcianists. Современное академическое исследование подтверждает различение Творца и высшего Бога, но оспаривает простое описание как веры в двух равноправных богов. Поэтому one_god, many_gods и автоматическая принадлежность ко всему гностицизму не назначены. Враждебные биографические предания не приняты без оговорок. Дополнительная проверка 2026-10-25: Повторно проверен M.David Litwa,JTS72(1),2021,231–246: Marcionites признавали высшего истинного благого Бога, различая его с creator/cosmocrator. divine добавлен непосредственно. Автор оспаривает привычный ditheism; одна такая интерпретация по-прежнему не стала автоматическим общим one_god/-many_gods. Доступ к второй прежней Oxford-главе был ограничен ошибкой перенаправления."
     },
     {
       "sourceIndex": 1520,
@@ -275,12 +288,14 @@
       "inheritFamilyProfile": false,
       "parent": "Восточный католицизм",
       "description": "Восточнокатолическая патриаршая церковь сирийской традиции с историческим центром в Ливане.",
-      "profile": "+church +pope +scripture",
+      "profile": "+church +pope +scripture +divine +personal +one_god +jesus +trinity +ritual +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Maronite_Church"
+        "https://en.wikipedia.org/wiki/Maronite_Church",
+        "https://www.maronite-heritage.com/Mystery%20of%20Crowning.php",
+        "https://www.maronite-heritage.com/File1text2.php"
       ],
-      "notes": "Самостоятельная церковь sui iuris в общении с Римом; не маркионизм и не весь восточный католицизм. Пешитта и западносирийская литургическая традиция прямо указаны в источнике. Спорные исторические реконструкции древней христологии не назначены современным последователям."
+      "notes": "Самостоятельная церковь sui iuris в общении с Римом; не маркионизм и не весь восточный католицизм. Пешитта и западносирийская литургическая традиция прямо указаны в источнике. Спорные исторические реконструкции древней христологии не назначены современным последователям. Дополнительная проверка 2026-10-25: Первичный Maronite Mystery of Crowning содержит Nicene Creed, молитву Отцу и евхаристический обряд: единый Бог, Христос, Spirit, воскресение/будущая жизнь подтверждают divine/personal/one_god/jesus/trinity/ritual/afterlife. Современный Maronite Patriarchal text File1text2 подтверждает Chalcedonian исповедание; спорная реконструкция древнего монофелитства не назначена современным верующим."
     },
     {
       "sourceIndex": 1521,
@@ -291,13 +306,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Круг христианско-эзотерических учений и орденов, связанных с Мартинесом де Паскуалли, Луи-Клодом де Сен-Мартеном и идеей реинтеграции человека.",
-      "profile": "+divine +occult",
+      "profile": "+divine +occult +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Martinism",
-        "https://www.martinists.org/texts"
+        "https://www.martinists.org/texts",
+        "https://martinism.net/education/",
+        "https://www.hermeticorderofmartinists.co.uk/"
       ],
-      "notes": "Широкий круг учений не тождествен одному современному Martinist Order, масонству или розенкрейцерству. Собственные материалы Traditional Martinist Order подтверждают инициатический характер, эзотерические темы и цель реинтеграции; особенности одной ветви не перенесены на все линии. Реинтеграция не кодируется liberation, который в questions.js означает освобождение от перерождений."
+      "notes": "Широкий круг учений не тождествен одному современному Martinist Order, масонству или розенкрейцерству. Собственные материалы Traditional Martinist Order подтверждают инициатический характер, эзотерические темы и цель реинтеграции; особенности одной ветви не перенесены на все линии. Реинтеграция не кодируется liberation, который в questions.js означает освобождение от перерождений. Дополнительная проверка 2026-10-25: Сопоставлены собственные Traditional Martinist Order Texts, OMS Education и Hermetic Order of Martinists: все прямо характеризуют инициатическую передачу/ступени как существенную практику. initiatory_brotherhood добавлен по нескольким линиям; масонское членство HOM и его конкретное христологическое исповедание не объявлены общими требованиями всего Martinism. Реинтеграция не равна выходу из samsara."
     },
     {
       "sourceIndex": 1522,
@@ -308,12 +325,14 @@
       "inheritFamilyProfile": false,
       "parent": "Восточный католицизм",
       "description": "Восточнокатолическая патриаршая церковь византийского обряда, исторически связанная с Антиохией.",
-      "profile": "+church +pope",
+      "profile": "+church +pope +divine +personal +one_god +jesus +trinity +revelation +ritual +afterlife +scripture",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Melkite_Greek_Catholic_Church"
+        "https://en.wikipedia.org/wiki/Melkite_Greek_Catholic_Church",
+        "https://melkite.org/faith/faith-worship/an-explanation-of-the-divine-liturgy",
+        "https://www.mliles.com/melkite/nicenecreed.shtml"
       ],
-      "notes": "Источник подтверждает полное общение с Римом. Не Антиохийская православная церковь: общие истоки и литургическое наследие не устраняют разделения юрисдикций. Современное название также не означает всех исторических «мелькитов»."
+      "notes": "Источник подтверждает полное общение с Римом. Не Антиохийская православная церковь: общие истоки и литургическое наследие не устраняют разделения юрисдикций. Современное название также не означает всех исторических «мелькитов». Дополнительная проверка 2026-10-25: Собственное Explanation of the Divine Liturgy Melkite Eparchy прямо объясняет Nicene Creed, единого Отца/Сына/Spirit и revelation Христа; Melkite Information Center публикует полный Creed и указывает Scripture/Tradition. divine/personal/one_god/jesus/trinity/revelation/ritual/afterlife/scripture подтверждены из действующей литургической практики этой церкви. Filioque и латинские частные обычаи не наследуются."
     },
     {
       "sourceIndex": 1523,
@@ -340,13 +359,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Современное движение последователей Иешуа-Иисуса как Мессии, сочетающее веру в него с еврейской идентичностью и практиками.",
-      "profile": "+jesus +scripture",
+      "profile": "+jesus +scripture +divine +personal +one_god",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Messianic_Judaism",
         "https://mjaa.org/statement-of-faith-2/"
       ],
-      "notes": "Внешняя академическая классификация обычно относит движение к христианству, тогда как участники определяют себя иначе; family christian — ближайшая категория каталога, а не отрицание их самоописания. Исповедание MJAA подтверждает центральность Иешуа и библейский авторитет. Не alias древнего иудеохристианства, всего иудаизма или организации Jews for Jesus; подробная галаха, обрядность и христология всех общин не унифицированы."
+      "notes": "Внешняя академическая классификация обычно относит движение к христианству, тогда как участники определяют себя иначе; family christian — ближайшая категория каталога, а не отрицание их самоописания. Исповедание MJAA подтверждает центральность Иешуа и библейский авторитет. Не alias древнего иудеохристианства, всего иудаизма или организации Jews for Jesus; подробная галаха, обрядность и христология всех общин не унифицированы. Дополнительная проверка 2026-10-25: Собственная MJAA Statement of Faith прямо называет Бога личным и единым по Shema: divine/personal/one_god. Более детальная тринитарная формула этой организации не назначена всему неоднородному Messianic Judaism; характер обязательности раввинистического закона/праздников по-прежнему оставлен открытым."
     },
     {
       "sourceIndex": 1525,

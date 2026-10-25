@@ -13,7 +13,7 @@
       "inheritFamilyProfile": false,
       "parent": "Христианство",
       "description": "Возникшее в Китае движение, считающее, что Христос вновь воплотился в женщине и передал новое учение.",
-      "profile": "+divine +jesus +scripture +new_revelation -trinity",
+      "profile": "+divine +jesus +scripture +new_revelation -trinity +one_god +revelation",
       "proposedQuestions": [
         {
           "id": "christ_returned_in_founder",
@@ -33,9 +33,10 @@
       ],
       "sources": [
         "https://en.wikipedia.org/wiki/Eastern_Lightning",
-        "https://hts.org.za/index.php/hts/rt/printerFriendly/10291/28047"
+        "https://hts.org.za/index.php/hts/rt/printerFriendly/10291/28047",
+        "https://www.holyspiritspeaks.org/about-us-questions-6/"
       ],
-      "notes": "Eastern Lightning и Church of Almighty God — названия одной организации, не всей китайской домашней церкви. Библия и «Слово является во плоти» названы авторитетными текстами; утверждение о воплощении передано как вера движения."
+      "notes": "Eastern Lightning и Church of Almighty God — названия одной организации, не всей китайской домашней церкви. Библия и «Слово является во плоти» названы авторитетными текстами; утверждение о воплощении передано как вера движения. Дополнительная проверка: Официальный Basic Beliefs прямо называет Иегову, Иисуса и Всемогущего Бога одним и тем же Богом разных эпох, а The Word Appears in the Flesh — откровением Святого Духа. Добавлены +one_god/+revelation; это явное собственное исповедание, совместимое с уже отмеченным отрицанием Троицы."
     },
     {
       "sourceIndex": 1047,
@@ -49,9 +50,11 @@
       "profile": "+divine +revelation",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Faizrakhmanist"
+        "https://en.wikipedia.org/wiki/Faizrakhmanist",
+        "https://researchportal.helsinki.fi/en/publications/the-faizrakhmanisty-the-islamic-sect-as-a-social-problem-in-russi-2/",
+        "https://brill.com/display/book/9789004435544/BP000032.pdf"
       ],
-      "notes": "Сохраняется конкретная община, называющая своих участников верующими. Признание нового пророка не тождественно отрицанию исторической роли Мухаммада, поэтому -muhammad не выставлен. Нет достаточных оснований переносить весь суннитский профиль."
+      "notes": "Сохраняется конкретная община, называющая своих участников верующими. Признание нового пророка не тождественно отрицанию исторической роли Мухаммада, поэтому -muhammad не выставлен. Нет достаточных оснований переносить весь суннитский профиль. Дополнительная проверка: Aitamurto, Handbook of Islamic Sects and Movements (2021), специально различает конфессиональную/государственную полемику и архивно-полевые исследования. Доступный фрагмент не позволяет назначить общине конкретное отношение к Корану, сунне или Мухаммаду. Новых токенов нет; прямое открытие Brill403, библиографическая запись Helsinki доступна."
     },
     {
       "sourceIndex": 1048,
@@ -67,9 +70,10 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Milah_Abraham",
         "https://www.amnesty.org/en/documents/asa21/3787/2016/en/",
-        "https://www.upr-info.org/sites/default/files/documents/2018-02/js34_upr27_idn_e_annexe3.pdf"
+        "https://www.upr-info.org/sites/default/files/documents/2018-02/js34_upr27_idn_e_annexe3.pdf",
+        "https://www.tandfonline.com/doi/abs/10.1080/09596410.2019.1570425"
       ],
-      "notes": "Исходная статья объединяет названия, но независимые материалы различают учение Миллах Авраам и организацию Gafatar, созданную его последователями. Сохраняется организационный уровень; не признан точным синонимом всего учения или ислама."
+      "notes": "Исходная статья объединяет названия, но независимые материалы различают учение Миллах Авраам и организацию Gafatar, созданную его последователями. Сохраняется организационный уровень; не признан точным синонимом всего учения или ислама. Дополнительная проверка: Проверено исследование Al Makin2019, основанное на интервью и текстах лидеров: объединение авраамических наследий и новая духовность подтверждены. Его abstract не устанавливает одинаковый сакральный канон или обязательные практики каждого члена социальной организации Gafatar; новых токенов нет."
     },
     {
       "sourceIndex": 1049,
@@ -80,12 +84,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Движение вокруг учения Оскара Эрнста Бернхардта, известного как Абд-ру-шин, и книги «В Свете Истины. Послание Грааля».",
-      "profile": "+divine +scripture",
+      "profile": "+divine +scripture +personal +ritual",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Grail_Movement"
+        "https://en.wikipedia.org/wiki/Grail_Movement",
+        "https://grailmovement.net/faq-frequently-asked-questions/",
+        "https://grailmovement.net/hours-of-worship-and-grail-festivals/"
       ],
-      "notes": "Сохраняется конкретное движение, а не все предания о Святом Граале. Внутренние представления о сверхчеловеческом статусе основателя передаются как убеждения. Богословские отличия от церковного христианства исключают автоматическое наследование его профиля."
+      "notes": "Сохраняется конкретное движение, а не все предания о Святом Граале. Внутренние представления о сверхчеловеческом статусе основателя передаются как убеждения. Богословские отличия от церковного христианства исключают автоматическое наследование его профиля. Дополнительная проверка: Официальный раздел Hours of Worship: совместное почитание Бога, чтение Grail Message и данная основателем молитва — важнейшее еженедельное событие; описаны три праздника. Добавлены +personal/+ritual. Sealing по FAQ не связывает человека членством с организацией, поэтому +initiatory_brotherhood не назначен автоматически."
     },
     {
       "sourceIndex": 1050,
@@ -96,14 +102,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Реформаторское религиозное движение среди нага Северо-Восточной Индии, связанное с Хайпоу Джадонангом и Рани Гайдинлю.",
-      "profile": "+divine +one_god +ritual",
+      "profile": "+divine +one_god +ritual +personal",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Heraka",
         "https://journals.sagepub.com/doi/10.1177/006996671104500202",
-        "https://www.research.ed.ac.uk/en/publications/exploring-the-diversity-of-religion-the-geo-political-dimensions-/"
+        "https://www.research.ed.ac.uk/en/publications/exploring-the-diversity-of-religion-the-geo-political-dimensions-/",
+        "https://era.ed.ac.uk/bitstream/handle/1842/2669/Longkumer%20A%20thesis%2008%20small.pdf?isAllowed=y&sequence=2"
       ],
-      "notes": "Исходная ссылка перенаправляет на биографию Джадонанга. Исследования Лонгкумера подтверждают отдельное движение и переход к почитанию Тингванга как единого Бога. Его местное происхождение не соответствует рубрике Abrahamic-derived в списке; не alias христианства или индуизма."
+      "notes": "Исходная ссылка перенаправляет на биографию Джадонанга. Исследования Лонгкумера подтверждают отдельное движение и переход к почитанию Тингванга как единого Бога. Его местное происхождение не соответствует рубрике Abrahamic-derived в списке; не alias христианства или индуизма. Дополнительная проверка: Полевая диссертация Longkumer, Edinburgh, описывает молитву к единому Tingwang и сакральный порядок Kelumki. Добавлен +personal. Отказ от принесения жертв малым богам не равен отрицанию их существования, а молитва на рассвете не доказывает самостоятельного культа солнца."
     },
     {
       "sourceIndex": 1051,
@@ -148,13 +155,14 @@
       "inheritFamilyProfile": false,
       "parent": "Ислам",
       "description": "Религиозная община камбоджийских чамов, следующая традиции Имама Сана и сохраняющая собственные формы исламской молитвы и передачи знания.",
-      "profile": "+scripture",
+      "profile": "+scripture +ritual +spirit_possession",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Kan_Imam_San",
-        "https://englishkyoto-seas.org/2021/08/vol-10-no-2-book-reviews-william-noseworthy/"
+        "https://englishkyoto-seas.org/2021/08/vol-10-no-2-book-reviews-william-noseworthy/",
+        "https://cyberorient.net/wp-content/uploads/sites/3/2021/06/CyberOrient_Vol_15_Iss_1_Pall_Pereiro.pdf"
       ],
-      "notes": "Исходник называет священным текстом Gheet; не переносится стандартный суннитский профиль. Еженедельная пятничная молитва отличает общину от распространённой практики пяти ежедневных молитв. Община Камбоджи не автоматически тождественна всем группам чам-бани во Вьетнаме."
+      "notes": "Исходник называет священным текстом Gheet; не переносится стандартный суннитский профиль. Еженедельная пятничная молитва отличает общину от распространённой практики пяти ежедневных молитв. Община Камбоджи не автоматически тождественна всем группам чам-бани во Вьетнаме. Дополнительная проверка: Исследование Pall/Pérez-Pereiro, CyberOrient15(1),2021, прямо описывает у Kan Imam San особую пятничную молитву религиозной элиты, обряды исцеления и spirit possession ceremonies. Добавлены +ritual/+spirit_possession. Сведения не обобщены на всех чамов, мусульман Камбоджи или вьетнамских бани."
     },
     {
       "sourceIndex": 1054,
@@ -165,14 +173,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Созданное Сайрусом Тидом религиозное учение и общинное движение, известное представлением о жизни на внутренней поверхности полой Земли.",
-      "profile": "+divine +reincarnation +revelation",
+      "profile": "+divine +reincarnation +revelation +scripture",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Koreshanity",
         "https://www.floridamemory.com/learn/exhibits/koreshan/",
-        "https://floridamemory.com/learn/exhibits/koreshan/origins/"
+        "https://floridamemory.com/learn/exhibits/koreshan/origins/",
+        "https://floridamemory.com/learn/research-tools/guides/koreshan/series5.php"
       ],
-      "notes": "Государственный архив Флориды подтверждает самостоятельную общину, двуполое божество и перевоплощение. Koreshan Unity — организация последователей. Не смешивать с Дэвидом Корешем и ветвью Давидовой. Эксперименты сторонников и слово «наука» в самоописании не доказывают +scientific."
+      "notes": "Государственный архив Флориды подтверждает самостоятельную общину, двуполое божество и перевоплощение. Koreshan Unity — организация последователей. Не смешивать с Дэвидом Корешем и ветвью Давидовой. Эксперименты сторонников и слово «наука» в самоописании не доказывают +scientific. Дополнительная проверка: State Archives of Florida, каталог Koreshan Literature: созданные общиной трактаты и книги прямо использовались как религиозные тексты членов и изложение вероучения. Добавлен +scripture по документированному авторитету корпуса, не по названию Flaming Sword. Космологические опыты не доказывают признания научного метода высшим источником истины."
     },
     {
       "sourceIndex": 1055,
@@ -183,12 +192,13 @@
       "inheritFamilyProfile": false,
       "parent": "Христианство",
       "description": "Возникшая в Мизораме община Кхуангтуахи и его преемников, ожидающая тысячелетнего царствования Иисуса на основе книги Откровения.",
-      "profile": "+jesus +scripture",
+      "profile": "+jesus +scripture +revelation",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Lalpa_Kohhran_Thar"
+        "https://en.wikipedia.org/wiki/Lalpa_Kohhran_Thar",
+        "https://www.hrpub.org/download/20190330/SA4-19611305.pdf"
       ],
-      "notes": "Lalpa Kohhran Thar, Chana Pawl и Ziona Pawl относятся к одной общине в разные периоды руководства, а не к новым конфессиям для каждого имени. Общинная практика и многожёнство не перенесены в общий профиль христианства; тринитарное богословие источником не установлено."
+      "notes": "Lalpa Kohhran Thar, Chana Pawl и Ziona Pawl относятся к одной общине в разные периоды руководства, а не к новым конфессиям для каждого имени. Общинная практика и многожёнство не перенесены в общий профиль христианства; тринитарное богословие источником не установлено. Дополнительная проверка: Vanlalpeka, Escaping Prophets in Zomia, Sociology and Anthropology7(3),2019, прямо характеризует откровение общины как продолжающееся, выходящее за пределы единственного библейского откровения. Добавлен +revelation; продолжение пророчества не тождественно новому всеобщему откровению или всему мормонскому профилю сравнённой общины."
     },
     {
       "sourceIndex": 1056,
@@ -199,12 +209,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Возникшее вокруг Сергея Торопа, известного как Виссарион, движение с учением о его возвращении в качестве Христа и многотомным «Последним Заветом».",
-      "profile": "+jesus +scripture +reincarnation",
+      "profile": "+jesus +scripture +reincarnation +divine +personal +ritual",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Vissarion"
+        "https://en.wikipedia.org/wiki/Vissarion",
+        "https://vissarion.org/wp-content/uploads/2021/12/a_collective_appeal_from_the_followers_of_the_teaching_of_vissarion.pdf",
+        "https://www.rferl.org/a/inside-vissarions-village-the-jesus-of-siberia/30854072.html",
+        "https://indianexpress.com/article/world/long-arm-of-russian-law-reaches-obscure-siberian-church-7587803/"
       ],
-      "notes": "Исходная ссылка посвящена основателю, но прямо подтверждает название организации, текст и учение. Last Testamentism обозначает движение, а не всех последователей поздних откровений. Признание Виссариона Христом передаётся как доктрина; юридические события не используются для формирования признаков."
+      "notes": "Исходная ссылка посвящена основателю, но прямо подтверждает название организации, текст и учение. Last Testamentism обозначает движение, а не всех последователей поздних откровений. Признание Виссариона Христом передаётся как доктрина; юридические события не используются для формирования признаков. Дополнительная проверка: Собственное обращение последователей подтверждает универсальное учение и Last Testament; первичный репортаж Hopkins/Gelman описывает обращённую к Виссариону молитву и признание его живым божественным учителем, фото RFE документирует массовую молитву. Добавлены +divine/+personal/+ritual; исторический православный профиль не наследуется."
     },
     {
       "sourceIndex": 1057,
@@ -232,12 +245,14 @@
       "inheritFamilyProfile": false,
       "parent": "Кричащие (Shouters)",
       "description": "Китайское движение Цзи Саньбао, основанное в 1989 году и связывающее основателя со вторым пришествием Христа.",
-      "profile": "+jesus",
+      "profile": "+jesus +divine +personal +revelation",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Mentuhui"
+        "https://en.wikipedia.org/wiki/Mentuhui",
+        "https://www.ecoi.net/de/dokument/1418064.html",
+        "https://www.mdpi.com/2077-1444/9/1/22"
       ],
-      "notes": "Mentuhui и Three-Redemptive Christ — альтернативные названия одной организации. Ответвление «Кричащих» не тождественно всему этому направлению или Восточной молнии; особенности других китайских движений не заимствованы."
+      "notes": "Mentuhui и Three-Redemptive Christ — альтернативные названия одной организации. Ответвление «Кричащих» не тождественно всему этому направлению или Восточной молнии; особенности других китайских движений не заимствованы. Дополнительная проверка: Канадский IRB отдельно цитирует академическое исследование Xi Lian: Бог лично говорил с Ji Sanbao и назначил его пророком/представителем. Добавлены +divine/+personal/+revelation по этому конкретному свидетельству. Приписываемые властями запреты образования и чудесные обещания не использованы как собственный общий катехизис."
     },
     {
       "sourceIndex": 1059,
@@ -268,9 +283,11 @@
       "profile": "",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Neo-Templarism"
+        "https://en.wikipedia.org/wiki/Neo-Templarism",
+        "https://correspondencesjournal.com/ojs/ojs/index.php/home/article/download/39/39",
+        "https://ndl.ethernet.edu.et/bitstream/123456789/38998/1/33.pdf.pdf"
       ],
-      "notes": "Допустимая собирательная запись. Разнородность прямо подтверждена: часть групп практикует эзотерику, часть ограничивается рыцарской символикой. Поэтому общего +occult или христианского профиля нет. Заявления о непрерывной преемственности от средневекового ордена не доказаны."
+      "notes": "Допустимая собирательная запись. Разнородность прямо подтверждена: часть групп практикует эзотерику, часть ограничивается рыцарской символикой. Поэтому общего +occult или христианского профиля нет. Заявления о непрерывной преемственности от средневекового ордена не доказаны. Дополнительная проверка: Strube, Correspondences4(2016), и академическая статья Neo-Templar Traditions подтверждают множество масонских, рыцарских и эзотерических рецепций. Ни символическая преемственность, ни принадлежность части групп к масонству не устанавливают единый обязательный профиль всех неотамплиеров; новых токенов нет."
     },
     {
       "sourceIndex": 1061,
@@ -281,7 +298,7 @@
       "inheritFamilyProfile": false,
       "parent": "Иудаизм",
       "description": "Движение неевреев, следующих семи законам потомков Ноя в рамках иудейской традиции этического монотеизма.",
-      "profile": "+divine +one_god +revelation",
+      "profile": "+divine +one_god +revelation +scripture +torah",
       "proposedQuestions": [
         {
           "id": "noahide_laws",
@@ -299,9 +316,10 @@
       ],
       "sources": [
         "https://en.wikipedia.org/wiki/Noahidism",
-        "https://www.chabad.org/library/article_cdo/aid/62221/jewish/The-7-Noahide-Laws.htm"
+        "https://www.chabad.org/library/article_cdo/aid/62221/jewish/The-7-Noahide-Laws.htm",
+        "https://noahidenations.com/index.php/i-m-new-to-this/803-faq"
       ],
-      "notes": "Семь законов рассматриваются как божественные, а не только светская этика. Это не обращение в иудаизм и не обязательство исполнять все 613 заповедей; полный раввинистический профиль не наследуется."
+      "notes": "Семь законов рассматриваются как божественные, а не только светская этика. Это не обращение в иудаизм и не обязательство исполнять все 613 заповедей; полный раввинистический профиль не наследуется. Дополнительная проверка: Первичный FAQ Noahide Nations прямо определяет Тору как окончательное откровение Господа и основу собственного пути неевреев; добавлены +scripture/+torah. Это не присвоение всех613 заповедей, субботнего еврейского обряда или полного halakha; юридическая категория праведных неевреев шире современного самоидентифицированного ноахидского движения."
     },
     {
       "sourceIndex": 1062,
@@ -329,12 +347,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Маорийское религиозное движение Те Уа Хаумене, соединяющее библейские и местные духовные представления и возникшее в Новой Зеландии в 1860-х годах.",
-      "profile": "+divine",
+      "profile": "+divine +revelation",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Pai_M%C4%81rire"
+        "https://en.wikipedia.org/wiki/Pai_M%C4%81rire",
+        "https://nzhistory.govt.nz/page/pai-marire",
+        "https://nzhistory.govt.nz/war/pai-marire/te-ua-haumene"
       ],
-      "notes": "Историческое Hauhau часто относится к этому движению, но колониальное употребление распространило ярлык на вооружённых маори вообще; не использовать его как безусловный синоним любой такой группы. Рингату заимствовало отдельные элементы, но остаётся самостоятельным движением."
+      "notes": "Историческое Hauhau часто относится к этому движению, но колониальное употребление распространило ярлык на вооружённых маори вообще; не использовать его как безусловный синоним любой такой группы. Рингату заимствовало отдельные элементы, но остаётся самостоятельным движением. Дополнительная проверка: Manatū Taonga/NZHistory прямо описывает основополагающее видение Gabriel и его поручение Te Ua. Добавлен +revelation. Упоминание христианского происхождения не заменяет проверки исторической христологии; колониальные обвинения в насилии не считаются религиозными ответами всей общины."
     },
     {
       "sourceIndex": 1064,
@@ -345,14 +365,16 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Французское духовное движение Мишеля Потэ вокруг полученных, по его утверждению, в 1974 и 1977 годах откровений и паломничества в Арэс.",
-      "profile": "+divine +scripture +new_revelation",
+      "profile": "+divine +scripture +new_revelation +revelation +personal +ritual",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Pilgrims_of_Ar%C3%A8s",
         "https://www.mayer.lt/resources/2001_MAYER_Revelation_Ares_Pelerinage_Contemporain.pdf",
-        "https://www.michelpotayblog.net/en/the-2019-pilgrimage/"
+        "https://www.michelpotayblog.net/en/the-2019-pilgrimage/",
+        "https://journals.sagepub.com/doi/abs/10.1177/003776801048001006",
+        "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/unclassified-religious-groups"
       ],
-      "notes": "Книга «Откровение Арэса» и паломничество подтверждены независимым исследованием и первичными материалами. Не alias традиционной христианской церкви или всех паломничеств. Критика организованной религии в учении не означает атеизм."
+      "notes": "Книга «Откровение Арэса» и паломничество подтверждены независимым исследованием и первичными материалами. Не alias традиционной христианской церкви или всех паломничеств. Критика организованной религии в учении не означает атеизм. Дополнительная проверка: Mayer, Social Compass48(1),2001, подтверждает центральность паломничества к месту откровений1974/1977; академическая справочная статья описывает четырёхкратную ежедневную молитву Отцу Вселенной. Добавлены +revelation/+personal/+ritual. Чтение фрагментов Корана не приравнено без отдельной проверки к стандартному исламскому отношению к его тексту."
     },
     {
       "sourceIndex": 1065,

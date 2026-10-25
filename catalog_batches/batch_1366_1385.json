@@ -13,14 +13,15 @@
       "inheritFamilyProfile": false,
       "parent": "Кашмирский шиваизм",
       "description": "Философская школа кашмирского шиваизма, связывающая освобождающее узнавание себя с универсальным сознанием Шивы.",
-      "profile": "+divine +pantheism",
+      "profile": "+divine +pantheism +scripture",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Pratyabhijna",
         "https://academic.oup.com/edited-volume/27982/chapter-abstract/211671490",
-        "https://www.jstage.jst.go.jp/article/ibk/65/1/65_276/_article/-char/en"
+        "https://www.jstage.jst.go.jp/article/ibk/65/1/65_276/_article/-char/en",
+        "https://www.researchgate.net/publication/231762299_The_Dreamer_and_the_Yogin_On_the_relationship_between_Buddhist_and_Saiva_idealisms"
       ],
-      "notes": "Исходная ссылка перенаправляет на Трика, но исследование Изабель Ратье отдельно выделяет систему узнавания Утпаладевы и Абхинавагупты. Сохраняется философская школа, а не синоним всех кашмирских шиваитских традиций. Pantheism соответствует широкому вопросу о единстве мира и божественного; подробные практики всей Трика школе автоматически не приписаны."
+      "notes": "Исходная ссылка перенаправляет на Трика, но исследование Изабель Ратье отдельно выделяет систему узнавания Утпаладевы и Абхинавагупты. Сохраняется философская школа, а не синоним всех кашмирских шиваитских традиций. Pantheism соответствует широкому вопросу о единстве мира и божественного; подробные практики всей Трика школе автоматически не приписаны. Дополнительная проверка 2026-10-25: Специальное исследование Isabelle Ratie,BSOAS73(3),2010,437–478, определяет Pratyabhijna как философское обоснование положений недвойственных шиваитских священных текстов: scripture. Рациональная аргументация не названа scientific или naturalism. Общие сексуальные ритуалы, обязательность формального посвящения и детальный распорядок всей Trika не перенесены на философскую школу."
     },
     {
       "sourceIndex": 1367,
@@ -31,12 +32,15 @@
       "inheritFamilyProfile": false,
       "parent": "Кришнаизм",
       "description": "Кришнаитская традиция Валлабхачарьи, подчёркивающая божественную благодать и любовное служение Кришне.",
-      "profile": "+divine +personal +bhakti +ritual",
+      "profile": "+divine +personal +bhakti +ritual +icons +initiatory_brotherhood +revelation +scripture +vedas",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Pushtimarg"
+        "https://en.wikipedia.org/wiki/Pushtimarg",
+        "https://pushtidhamocala.org/Brahmsambandh.asp",
+        "https://www.nathdwara.in/brahmsambandh.php",
+        "https://trutiyapeethkankroli.org/page/pushtimarg/our-sampraday"
       ],
-      "notes": "Сампрадая с линиями преемственности и практикой сева; связана с философией шуддха-адвайты, но организационно-религиозная традиция и философская система не объявлены синонимами. Упование на милость Кришны не означает полного отрицания духовной деятельности."
+      "notes": "Сампрадая с линиями преемственности и практикой сева; связана с философией шуддха-адвайты, но организационно-религиозная традиция и философская система не объявлены синонимами. Упование на милость Кришны не означает полного отрицания духовной деятельности. Дополнительная проверка 2026-10-25: Собственный PushtiDham объясняет Brahm-Sambandh как обязательное посвящение для seva перед deity swaroop и как мантру, сообщённую Krishna Валлабхе; Trutiyapeeth Kankroli перечисляет Veda/Gita/Brahmasutra/Bhagavata как pramanas традиции. icons/initiatory_brotherhood/revelation/scripture/vedas подтверждены первично. Год откровения отмечен как традиционная хронология, не независимая датировка; его универсальность для new_revelation не утверждается."
     },
     {
       "sourceIndex": 1368,
@@ -47,12 +51,14 @@
       "inheritFamilyProfile": false,
       "parent": "Вайшнавизм",
       "description": "Вайшнавская традиция Хита Хариванша во Вриндаване, ставящая Радху в центр преданного служения Радхе и Кришне.",
-      "profile": "+divine +personal +bhakti +scripture +ritual",
+      "profile": "+divine +personal +bhakti +scripture +ritual +icons +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Radha_Vallabh_Sampradaya"
+        "https://en.wikipedia.org/wiki/Radha_Vallabh_Sampradaya",
+        "https://digital.soas.ac.uk/content/AA/00/00/03/01/00001/PDF_TXT.pdf",
+        "https://radhavallabhshreeharivanshusa.com/diksha/"
       ],
-      "notes": "Источник подтверждает поэтические священные тексты, храмовое служение и совместное пение. Не alias Нимбарка-сампрадаи или всего кришнаизма: традиция имеет собственную линию и богословие. Высшая ценность любовного служения не сведена к обычному вопросу об освобождении от перерождений."
+      "notes": "Источник подтверждает поэтические священные тексты, храмовое служение и совместное пение. Не alias Нимбарка-сампрадаи или всего кришнаизма: традиция имеет собственную линию и богословие. Высшая ценность любовного служения не сведена к обычному вопросу об освобождении от перерождений. Дополнительная проверка 2026-10-25: Диссертация A.W. Entwistle,SOAS,с.168, документирует установление и служение образу Radhavallabh; собственная Radha Keli Kunj община публикует Diksha Niyam с предварительным чтением канонических стихов: icons/initiatory_brotherhood. Требования конкретного современного guru не объявлены одинаковыми для всех линий; отсутствие отдельной Radha murti не превращено в -icons."
     },
     {
       "sourceIndex": 1369,
@@ -63,12 +69,13 @@
       "inheritFamilyProfile": false,
       "parent": "Вайшнавизм",
       "description": "Вайшнавская традиция, связываемая с Раманандой и преданностью Раме и Сите; включает разные аскетические линии.",
-      "profile": "+divine +personal +bhakti",
+      "profile": "+divine +personal +bhakti +scripture +ritual +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Ramanandi_Sampradaya"
+        "https://en.wikipedia.org/wiki/Ramanandi_Sampradaya",
+        "https://escholarship.org/uc/item/1k81z14s"
       ],
-      "notes": "В источнике Рама и Сита почитаются как нераздельная божественная пара. Традиционное происхождение линии и её связь с Рамануджей не приняты за доказательство тождества шри-вайшнавизму. Медитативные и аскетические требования отдельных ветвей не перенесены на всех последователей."
+      "notes": "В источнике Рама и Сита почитаются как нераздельная божественная пара. Традиционное происхождение линии и её связь с Рамануджей не приняты за доказательство тождества шри-вайшнавизму. Медитативные и аскетические требования отдельных ветвей не перенесены на всех последователей. Дополнительная проверка 2026-10-25: Vasudha Paramasivan,Berkeley Between Text and Sect, прямо описывает принятие Ramcharitmanas как авторитетного текста и вступление через mantra-guru с Ram mantra; отдельные ветви развивают собственные sadhana и rites. scripture/ritual/initiatory_brotherhood подтверждены, но пятиступенчатое посвящение rasik не навязано всем tyagi/naga."
     },
     {
       "sourceIndex": 1370,
@@ -79,13 +86,15 @@
       "inheritFamilyProfile": false,
       "parent": "Традиция бхакти",
       "description": "Традиция Рамчарана с центром в Шахпуре, практикующая любовное памятование и повторение божественного имени Рам.",
-      "profile": "+divine +bhakti",
+      "profile": "+divine +bhakti +scripture +ahimsa",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Ramdwara",
-        "https://ramsnehinursing.org/shri-ramsnehi-sampradaya.asp"
+        "https://ramsnehinursing.org/shri-ramsnehi-sampradaya.asp",
+        "https://hasp.ub.uni-heidelberg.de/catalog/view/387/552/84774",
+        "https://jainworld.jainworld.com/JWEnglish/Early_Modern_India_Literatures_and_Image.pdf"
       ],
-      "notes": "Исходная статья посвящена также местам поклонения рамдвара. Сайт учреждения Ram Niwas Dham Trust непосредственно подтверждает основателя, сампрадаю и повторение имени Рам. Формула о вездесущии Рам не использована для автоматического отрицания личного божества или утверждения строгого монотеизма."
+      "notes": "Исходная статья посвящена также местам поклонения рамдвара. Сайт учреждения Ram Niwas Dham Trust непосредственно подтверждает основателя, сампрадаю и повторение имени Рам. Формула о вездесущии Рам не использована для автоматического отрицания личного божества или утверждения строгого монотеизма. Дополнительная проверка 2026-10-25: Daniel Gold,To Go to Vrindavan—or Not, документирует ежедневное чтение Anbhai Vani как scripture во всех изученных Ramdwaras и усиленное ненасилие, включая процеживание воды в Shahpura: scripture/ahimsa. Не объявлена строгость идентичной джайнской; собственная бхакти сампрадаи не сведена к одной философской формуле о личности Бога или числу богов."
     },
     {
       "sourceIndex": 1371,
@@ -113,12 +122,14 @@
       "inheritFamilyProfile": false,
       "parent": "Вайшнавизм",
       "description": "Вайшнавская линия, связываемая с Вишнусвами и традиционно возводимая к Рудре; её известное продолжение — линия Валлабхи.",
-      "profile": "+divine",
+      "profile": "+divine +personal +bhakti",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Rudra_Sampradaya"
+        "https://en.wikipedia.org/wiki/Rudra_Sampradaya",
+        "https://www.bvmlu.org/SBBBM/organization.html",
+        "https://trutiyapeethkankroli.org/page/pushtimarg/our-sampraday"
       ],
-      "notes": "Название Рудра не делает эту сампрадаю шиваизмом: источник относит её к вайшнавизму. Датировка и ранняя история Вишнусвами спорны. Рудра-сампрадая охватывает Вишнусвами и Валлабху и потому не слита с одной современной линией Пуштимарг; детальная практика последней не приписана всем историческим носителям."
+      "notes": "Название Рудра не делает эту сампрадаю шиваизмом: источник относит её к вайшнавизму. Датировка и ранняя история Вишнусвами спорны. Рудра-сампрадая охватывает Вишнусвами и Валлабху и потому не слита с одной современной линией Пуштимарг; детальная практика последней не приписана всем историческим носителям. Дополнительная проверка 2026-10-25: Собственные традиционные материалы Bhakti Ballabh Tirtha Math прямо характеризуют Rudra Sampradaya через Supreme Personality of Godhead и devotional service Radha-Govinda: personal/bhakti. Историческая генеалогия отмечена как конфессиональная; подробный распорядок Pushtimarg и приписываемые древнему Vishnuswami даты не перенесены на всю линию."
     },
     {
       "sourceIndex": 1373,
@@ -148,9 +159,10 @@
       "profile": "+divine +bhakti",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Sant_Mat"
+        "https://en.wikipedia.org/wiki/Sant_Mat",
+        "https://jsis.washington.edu/southasia/wp-content/uploads/sites/12/2021/10/David-Fowler-Introduction-PhD-.pdf"
       ],
-      "notes": "Исходник различает средневековую традицию сантов и современные движения Sant Mat, в том числе Радха-соами. Сохраняется исторический круг учений, не единая организация и не alias каждой поздней школы внутреннего света и звука. Общая обязательная священная книга и единый набор медитаций для всех сантов не установлены."
+      "notes": "Исходник различает средневековую традицию сантов и современные движения Sant Mat, в том числе Радха-соами. Сохраняется исторический круг учений, не единая организация и не alias каждой поздней школы внутреннего света и звука. Общая обязательная священная книга и единый набор медитаций для всех сантов не установлены. Дополнительная проверка 2026-10-25: Диссертационное исследование David Fowler,University of Washington, специально разбирает конструирование категории sant mat и предупреждает, что систематизация преимущественно Kabir-текстов не представляет всех sant. Это подтверждает ограничение общего профиля: конкретные посвящения, канон и внутренние light/sound практики позднего Radhasoami не присвоены средневековому агрегату. Новых общих токенов нет."
     },
     {
       "sourceIndex": 1375,
@@ -178,12 +190,15 @@
       "inheritFamilyProfile": false,
       "parent": "Шиваизм",
       "description": "Шиваитская традиция с учением о Господе, душах и связывающих их узах, агамическими обрядами и путём освобождения милостью Шивы.",
-      "profile": "+divine +personal +bhakti +scripture +vedas +ritual +meditation +liberation",
+      "profile": "+divine +personal +bhakti +scripture +vedas +ritual +meditation +liberation +karma +reincarnation +afterlife +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Shaiva_Siddhanta"
+        "https://en.wikipedia.org/wiki/Shaiva_Siddhanta",
+        "https://www.shaivam.org/scripture/English-Articles/1324/karma-and-reincarnation/",
+        "https://shaivam.org/scripture/English-Articles/siddhanta-gnana-ratnavai/",
+        "https://www.himalayanacademy.com/our-core-beliefs/"
       ],
-      "notes": "Источник подтверждает Веды, шиваитские агамы и тамильский канон, а также последовательность служения, пуджи, йоги и знания. Различия исторических и современных интерпретаций не сведены к безусловному общему отрицанию недвойственности; профиль pantheism не назначен."
+      "notes": "Источник подтверждает Веды, шиваитские агамы и тамильский канон, а также последовательность служения, пуджи, йоги и знания. Различия исторических и современных интерпретаций не сведены к безусловному общему отрицанию недвойственности; профиль pantheism не назначен. Дополнительная проверка 2026-10-25: Сопоставлены первичные Saiva Siddhanta Maha Samajam1912 Karma and Reincarnation, Siddhanta Gnana Ratnavali209–212 и creed современной Saiva Siddhanta Church: karma, повторные жизни, посмертные миры и samaya/vishesha/nirvana diksha подтверждены. Добавлены karma/reincarnation/afterlife/initiatory_brotherhood; специфическая монистическая идентичность души с Shiva не распространена на Meykandar pluralism."
     },
     {
       "sourceIndex": 1377,
@@ -226,12 +241,14 @@
       "inheritFamilyProfile": false,
       "parent": "Шиваизм",
       "description": "Шиваитская ведантическая система Шрикантхи и её развитие у Аппайи Дикшиты, рассматривающая Шиву как высший Брахман.",
-      "profile": "+divine +personal +scripture",
+      "profile": "+divine +personal +scripture +vedas",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Shiva_Advaita"
+        "https://en.wikipedia.org/wiki/Shiva_Advaita",
+        "https://onlinelibrary.wiley.com/doi/10.1002/9781119009924.eopr0368",
+        "https://readingreligion.org/9780198870616/defending-god-in-sixteenth-century-india/"
       ],
-      "notes": "Источник отличает квалифицированный недуализм Шрикантхи от позднейшей переработки Аппайи. Сохраняется конкретная школа комментариев к Брахма-сутрам, не alias всей Адвайта-веданты или вишишта-адвайты Рамануджи. Спорная датировка Шрикантхи не фиксируется как достоверный год."
+      "notes": "Источник отличает квалифицированный недуализм Шрикантхи от позднейшей переработки Аппайи. Сохраняется конкретная школа комментариев к Брахма-сутрам, не alias всей Адвайта-веданты или вишишта-адвайты Рамануджи. Спорная датировка Шрикантхи не фиксируется как достоверный год. Дополнительная проверка 2026-10-25: Проверены специальный академический обзор Jonathan Duquette,2021,DOI10.1002/9781119009924.eopr0368 и научная рецензия его монографии: школа обосновывает Shiva-Brahman через Brahmasutra и Upanishads. vedas добавлен по явно используемому ведическому канону. Нюансы недвойственности Srikantha/Appaya и их отношения к миру не сведены к общему пантеистическому ответу без более полного анализа."
     },
     {
       "sourceIndex": 1380,
@@ -242,12 +259,14 @@
       "inheritFamilyProfile": false,
       "parent": "Веданта",
       "description": "Ведантическая философия Валлабхачарьи о чистой недвойственности, реальности мира как проявления Брахмана и преданности Кришне.",
-      "profile": "+divine +personal +bhakti +pantheism",
+      "profile": "+divine +personal +bhakti +pantheism +vedas +scripture",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Shuddhadvaita"
+        "https://en.wikipedia.org/wiki/Shuddhadvaita",
+        "https://trutiyapeethkankroli.org/page/pushtimarg/our-sampraday",
+        "https://mu.ac.in/wp-content/uploads/2020/02/MA-MPhil-PhD-syllabus-2020-1.pdf"
       ],
-      "notes": "Философская система, на которую опирается Пуштимарг, сохранена отдельно от сампрадаи с её организацией и практикой. Pantheism отражает единство божественной причины и реального мира в широком смысле вопроса. Преданность ценится сама по себе, поэтому обычный вопрос о первенстве освобождения не размечен."
+      "notes": "Философская система, на которую опирается Пуштимарг, сохранена отдельно от сампрадаи с её организацией и практикой. Pantheism отражает единство божественной причины и реального мира в широком смысле вопроса. Преданность ценится сама по себе, поэтому обычный вопрос о первенстве освобождения не размечен. Дополнительная проверка 2026-10-25: Собственный Trutiyapeeth Kankroli Our Sampraday прямо определяет четыре pramana Shuddha-advaita Darshan — Vedas,Gita,Brahmasutra,Bhagavata; университетский syllabus Mumbai отдельно подтверждает философское значение verbal testimony: vedas/scripture. Ритуальный распорядок Pushtimarg не скопирован в профиль философии; различаются bhakti как средство и Pushti-bhakti как самостоятельная цель, поэтому liberation не назначен автоматически."
     },
     {
       "sourceIndex": 1381,
@@ -274,12 +293,14 @@
       "inheritFamilyProfile": false,
       "parent": "Вайшнавизм",
       "description": "Вайшнавская традиция Нараяны-Вишну и Шри-Лакшми, сочетающая санскритские писания, тамильское наследие альваров и богословие Рамануджи.",
-      "profile": "+divine +personal +bhakti +scripture +vedas +ritual +liberation",
+      "profile": "+divine +personal +bhakti +scripture +vedas +ritual +liberation +karma +reincarnation",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Sri_Vaishnavism"
+        "https://en.wikipedia.org/wiki/Sri_Vaishnavism",
+        "https://www.srimatham.com/uploads/5/5/4/9/5549439/srivacanabhusana.pdf",
+        "https://pillai.koyil.org/index.php/2021/08/learners-series-srivaishnava-q-and-a/"
       ],
-      "notes": "Источник подтверждает Веды и Дивья-прабандхам, богослужение и освобождение от перерождений через преданность и благодать. Не alias философской записи «Вишишта-адвайта»: шри-вайшнавизм включает линии учителей, обряды и разные направления толкования, включая тенкалай и вадакалай."
+      "notes": "Источник подтверждает Веды и Дивья-прабандхам, богослужение и освобождение от перерождений через преданность и благодать. Не alias философской записи «Вишишта-адвайта»: шри-вайшнавизм включает линии учителей, обряды и разные направления толкования, включая тенкалай и вадакалай. Проверка: перевод Srivacanabhusana общины Srimatham прямо обсуждает закон кармы и роль Лакшми; учебные материалы KOYIL отдельно разбирают карму и рождения атмана. Признаки подтверждены в самой традиции, а не наследованием общего индуистского профиля."
     },
     {
       "sourceIndex": 1383,
@@ -308,12 +329,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Совокупность индийских религиозных традиций и методов с особой ролью обряда, мантр и посвящения, представленная в индуизме, буддизме и джайнизме.",
-      "profile": "+ritual +occult",
+      "profile": "+ritual +occult +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Tantra"
+        "https://en.wikipedia.org/wiki/Tantra",
+        "https://academic.oup.com/reference/62357/reference-article-abstract/554520421"
       ],
-      "notes": "Сохранена широкая историко-религиозная категория, а не единая конфессия с общей догматикой. Не alias ваджраяны, шактизма или любой одной тантрической школы. Occult означает подтверждённые эзотерические учения и практики посвящения; общие признаки личного Бога, Вед, сексуальных обрядов и обязательной трансгрессии не назначены."
+      "notes": "Сохранена широкая историко-религиозная категория, а не единая конфессия с общей догматикой. Не alias ваджраяны, шактизма или любой одной тантрической школы. Occult означает подтверждённые эзотерические учения и практики посвящения; общие признаки личного Бога, Вед, сексуальных обрядов и обязательной трансгрессии не назначены. Проверка: академический обзор Глена Хейза включает посвящение гуру среди определяющих тантрических характеристик. Это роль допуска в линию практики, а не утверждение об одной организации; специфические божества и сексуальные практики всем тантрическим традициям не назначены."
     },
     {
       "sourceIndex": 1385,
@@ -328,9 +350,10 @@
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Tenggerese_people",
-        "https://www.jstor.org/stable/j.ctv18zhf5s"
+        "https://www.jstor.org/stable/j.ctv18zhf5s",
+        "https://ecommons.cornell.edu/bitstreams/dc8d5d13-7cb0-4c68-94be-34139bff26e8/download"
       ],
-      "notes": "Исходная статья о народе содержит отдельное описание религии. Этнографическое исследование Роберта Хефнера подтверждает самостоятельную тенггерскую традицию и отличия от Бали. Профиль относится к этой религиозной практике, а не каждому этническому тенггеру. Не alias балийского индуизма и не тенгрианство; поздние реформы и местное разнообразие учитываются."
+      "notes": "Исходная статья о народе содержит отдельное описание религии. Этнографическое исследование Роберта Хефнера подтверждает самостоятельную тенггерскую традицию и отличия от Бали. Профиль относится к этой религиозной практике, а не каждому этническому тенггеру. Не alias балийского индуизма и не тенгрианство; поздние реформы и местное разнообразие учитываются. Проверка: исследование Хефнера о популярном искусстве описывает подношение танца духам в тенггерском обряде. Оно подтверждает уже записанный ритуальный контекст, но не позволяет отделить духов предков от самостоятельного универсального nature_spirits; современные реформы и мусульманские соседние общины не смешаны."
     }
   ]
 }
