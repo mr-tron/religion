@@ -18,7 +18,7 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Banrawats"
       ],
-      "notes": "Статья о народе содержит отдельный раздел Deities. Заимствованные индуистские имена не делают весь комплекс синонимом индуизма. Банраваты связаны с более широкой группой раджи, но тождество всех местных религиозных традиций не установлено."
+      "notes": "Статья о народе содержит отдельный раздел Deities. Заимствованные индуистские имена не делают весь комплекс синонимом индуизма. Банраваты связаны с более широкой группой раджи, но тождество всех местных религиозных традиций не установлено. Дополнительная проверка: не найдено достаточно надёжного независимого свидетельства, уточняющего обрядность именно банраватов, а не всех раджи Непала. Имена родовых и природных божеств не доказывают сами по себе ни гадания, ни медиумизма, ни особого культа огня; новых токенов не добавлено."
     },
     {
       "sourceIndex": 547,
@@ -29,12 +29,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Коренная религия боро Ассама с почитанием Батхоубврая, Майнао и других божеств, домашними алтарями и общинными обрядами.",
-      "profile": "+divine +many_gods +ritual",
+      "profile": "+divine +many_gods +ritual +personal +occult +divination_oracles +spirit_possession",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Bathouism"
+        "https://en.wikipedia.org/wiki/Bathouism",
+        "https://repository.tribal.gov.in/bitstream/123456789/73923/1/AIRT_1989_0002_book.pdf",
+        "https://www.granthaalayahpublication.org/Arts-Journal/ShodhKosh/article/download/914/865?inline=1",
+        "https://sukrtindraoriental.org/nova/wp-content/uploads/2024/05/SORI-APRIL-2024.pdf"
       ],
-      "notes": "Наличие верховного божества не приравнивается к отрицанию других богов. Современные ветви и реформы неоднородны; особенности одной ветви не назначаются всем. Огонь как один из пяти элементов не достаточен для признака особого культа священного огня."
+      "notes": "Наличие верховного божества не приравнивается к отрицанию других богов. Современные ветви и реформы неоднородны; особенности одной ветви не назначаются всем. Огонь как один из пяти элементов не достаточен для признака особого культа священного огня. Дополнение: Kameswar Brahma, Aspects of Social Customs of the Boros (1989), pp. 72–73, приводит просьбы к Батхоу и речь Майнао через одержимую доудини: +personal +spirit_possession. Ivy Daimary и Madhurima Goswami, Questions of Knowledge and Power, описывают жреческие заклинания и прорицания доудини в кхераи: +occult +divination_oracles. SORI 25/2 (2024) показывает изменение обрядности в реформированных направлениях; признаки фиксируют засвидетельствованные формы традиции, а не обязательное продолжение всех старых практик каждым последователем."
     },
     {
       "sourceIndex": 548,
@@ -45,13 +48,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Культы местных божеств-покровителей и обожествлённых предков народа бай в районе Дали.",
-      "profile": "+divine +many_gods +ancestors +ritual",
+      "profile": "+divine +many_gods +ancestors +ritual +personal +icons",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Benzhuism",
-        "https://researchportal.hkust.edu.hk/en/studentTheses/the-blessing-of-village-god-benzhu-constructing-family-ties-and-p/"
+        "https://researchportal.hkust.edu.hk/en/studentTheses/the-blessing-of-village-god-benzhu-constructing-family-ties-and-p/",
+        "https://d-scholarship.pitt.edu/45152/1/Yang%20-%20ETD%20-%202.pdf"
       ],
-      "notes": "Исходная статья опирается на ограниченный круг источников; университетское полевое исследование подтверждает самостоятельные местные культы бэньчжу. Сходство с «Китайская народная религия» не означает точной синонимии; религиозная идентичность всех бай не предполагается одинаковой."
+      "notes": "Исходная статья опирается на ограниченный круг источников; университетское полевое исследование подтверждает самостоятельные местные культы бэньчжу. Сходство с «Китайская народная религия» не означает точной синонимии; религиозная идентичность всех бай не предполагается одинаковой. Дополнение: университетское полевое исследование Yang (University of Pittsburgh), p. 45, описывает просьбы бэньчжу о семейных делах и вынос статуй в ритуальном обходе границ ради защиты от демонов: +personal +icons. Разные деревни переосмысляют богов и их образы; наличие упомянутого в прежнем источнике spirit medium без конкретного описания одержимости не используется для +spirit_possession."
     },
     {
       "sourceIndex": 549,
@@ -62,12 +66,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Исторические верования биате с верховным Чунг Патхианом, земным божеством Нуаиа Малалом и другими божественными силами.",
-      "profile": "+divine +many_gods",
+      "profile": "+divine +many_gods +ritual +reincarnation +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Biate_people"
+        "https://en.wikipedia.org/wiki/Biate_people",
+        "https://sanchika.ciil.org/communities/b75ea916-e95c-42b5-952e-3d0972de5402"
       ],
-      "notes": "Статья о народе прямо выделяет религию до христианизации. Верховное положение Чунг Патхиана не означает строгий монотеизм; современное христианство биате не подменяет традиционный компонент."
+      "notes": "Статья о народе прямо выделяет религию до христианизации. Верховное положение Чунг Патхиана не означает строгий монотеизм; современное христианство биате не подменяет традиционный компонент. Дополнение: Central Institute of Indian Languages, Bhasha Sanchika, Biate, по материалам о языковой общине сообщает о жертвах птиц, свиней и яиц Богу и вере в возвращение доброго человека или ребёнка в той же семье: +ritual +reincarnation +afterlife. Это сведения о традиционном компоненте; современная христианская принадлежность многих биате не подменяет запись. Из этномедицины и траволечения магия не выводится."
     },
     {
       "sourceIndex": 550,
@@ -78,12 +83,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Коренные религиозные традиции народа и с жрецами бимо, ритуальными текстами, почитанием предков и природных божеств.",
-      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +scripture +reincarnation +afterlife",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +scripture +reincarnation +afterlife +occult +divination_oracles",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Bimoism"
+        "https://en.wikipedia.org/wiki/Bimoism",
+        "https://www.isars.org/wp-content/uploads/2021/01/ShamanVol12_2004_dld.pdf",
+        "https://uw.manifoldapp.org/system/resource/046bac37-5704-4a62-8fd3-6d5188c84e9c/attachment/original-15319fe35464be74cb7d8a22a149df6e.pdf"
       ],
-      "notes": "Статья подтверждает письменные жреческие тексты и различие бимо и суни, обряды умерших и представления о нескольких душах и перерождении. Религиозный корпус и не считается тем же каноном, что у соседних народов. Не alias общей китайской народной религии."
+      "notes": "Статья подтверждает письменные жреческие тексты и различие бимо и суни, обряды умерших и представления о нескольких душах и перерождении. Религиозный корпус и не считается тем же каноном, что у соседних народов. Не alias общей китайской народной религии. Дополнение: Bamo Ayi, The Religious Practitioner Bimo in Yi Society of Liangshan (Shaman 12, 2004), по полевой работе описывает изгнание духов, магическую силу инструментов и гадательные кости; введение к The Nuosu Book of Origins (University of Washington Press) подтверждает гадательные обряды бимо: +occult +divination_oracles. Данные прежде всего о нуосу Ляншаня; книжный жрец бимо не отождествлён с медиумом суни и не получает автоматически одержимости."
     },
     {
       "sourceIndex": 551,
@@ -94,12 +101,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Бирманские традиции почитания духов натов, подношений и медиумических праздников, часто сочетающиеся с буддизмом.",
-      "profile": "+nature_spirits +ritual",
+      "profile": "+nature_spirits +ritual +divine +many_gods +personal +spirit_possession +divination_oracles",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Burmese_folk_religion"
+        "https://en.wikipedia.org/wiki/Burmese_folk_religion",
+        "https://cris.unibo.it/handle/11585/1008188",
+        "https://eprints.soas.ac.uk/37915/1/Chiarofonte_2020.pdf"
       ],
-      "notes": "Сохранён народный компонент, а не тождество всей Тхераваде. Исходная статья описывает вариативность отношений натов и буддийских практик; полемические колониальные противопоставления религий не используются как универсальные правила."
+      "notes": "Сохранён народный компонент, а не тождество всей Тхераваде. Исходная статья описывает вариативность отношений натов и буддийских практик; полемические колониальные противопоставления религий не используются как универсальные правила. Дополнение: Lorenzo Chiarofonte, Being Inspired, Being Possessed (European Journal of Musicology 28/1, 2025), по полевым материалам описывает пантеон Тридцати семи натов, просьбы о здоровье и благополучии и их воплощение в нат-кадо: +divine +many_gods +personal +spirit_possession. Его диссертация Powerful Sounds (SOAS, 2020), рассматривая функции нат-кадо, подтверждает роль оракула и гадателя: +divination_oracles. Акцент на городских церемониях; весь народный комплекс не объявлен одинаковым или отдельным от буддийской жизни."
     },
     {
       "sourceIndex": 552,
@@ -115,7 +124,7 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Chang_Naga"
       ],
-      "notes": "Исходная статья о народе прямо описывает традиционный компонент. Не переносим современную христианскую принадлежность большинства. Статья отдельно отрицает культ семейных, клановых и деревенских божеств; почитание предков не добавлено по общему семейному профилю."
+      "notes": "Исходная статья о народе прямо описывает традиционный компонент. Не переносим современную христианскую принадлежность большинства. Статья отдельно отрицает культ семейных, клановых и деревенских божеств; почитание предков не добавлено по общему семейному профилю. Дополнительная проверка: обобщения об анимистической религии всех нага и практиках соседних народов не использованы для новых ответов чанг. Современное христианство не переносится в исторический профиль; явных данных для гадания, одержимости и общего посмертного учения недостаточно."
     },
     {
       "sourceIndex": 553,
@@ -126,12 +135,13 @@
       "inheritFamilyProfile": false,
       "parent": "Китайская народная религия",
       "description": "Региональные китайские народные религиозные практики диаспоры Юго-Восточной Азии, взаимодействующие с местными культами.",
-      "profile": "+divine +many_gods +ritual",
+      "profile": "+divine +many_gods +ritual +personal +icons +divination_oracles +spirit_possession",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Chinese_folk_religion_in_Southeast_Asia"
+        "https://en.wikipedia.org/wiki/Chinese_folk_religion_in_Southeast_Asia",
+        "https://ari.nus.edu.sg/ariscope/researching-chinese-religion-in-southeast-asia-and-taiwan-spotlighting-spirit-mediums/"
       ],
-      "notes": "Региональная совокупность уже существующей «Китайская народная религия», а не её точный синоним. Источник подтверждает почитание местных и китайских божеств и храмовые практики. Частные индуистские или христианские заимствования не назначаются всем общинам."
+      "notes": "Региональная совокупность уже существующей «Китайская народная религия», а не её точный синоним. Источник подтверждает почитание местных и китайских божеств и храмовые практики. Частные индуистские или христианские заимствования не назначаются всем общинам. Дополнение: Fabian Graham, Asia Research Institute/NUS (2021), по исследованиям в Сингапуре и Малайзии описывает вопросы к статуям богов, гадание блоками и консультации через одержимых медиумов: +personal +icons +divination_oracles +spirit_possession. В статье отдельно говорится о Тайване; он не включён в Юго-Восточную Азию. Признаки обозначают регионально засвидетельствованные храмовые практики, а не одинаковый обязательный набор для всей диаспоры."
     },
     {
       "sourceIndex": 554,
@@ -147,7 +157,7 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Chutia_people"
       ],
-      "notes": "Исходная статья о народе содержит религиозный раздел. Связь с жрецами деори и сходство отдельных имён с батхоуизмом не доказывают полного тождества традиций; последующую санскритизацию и экасарана-дхарму не назначаем исходному профилю."
+      "notes": "Исходная статья о народе содержит религиозный раздел. Связь с жрецами деори и сходство отдельных имён с батхоуизмом не доказывают полного тождества традиций; последующую санскритизацию и экасарана-дхарму не назначаем исходному профилю. Дополнительная проверка: описания молитв Сувасани и других домашних обрядов требуют независимой проверки по указанным этнографическим изданиям; пересказы в блогах не приняты за достаточное основание расширить профиль. Общие сведения о деори, батхоуизме и поздних санскритизированных культах не перенесены автоматически на историческую религию чутия."
     },
     {
       "sourceIndex": 555,
@@ -158,12 +168,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Местная традиция на/мосо с жрецами даба, обрядами жизненного цикла, предками и сопровождением души умершего.",
-      "profile": "+ancestors +ritual +afterlife",
+      "profile": "+ancestors +ritual +afterlife +divine +many_gods +nature_spirits +personal +occult +divination_oracles +icons",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Daba_(religion)"
+        "https://en.wikipedia.org/wiki/Daba_(religion)",
+        "https://link.springer.com/article/10.1186/s40711-018-0077-6"
       ],
-      "notes": "Название относится также к жрецам. Тибетский буддизм взаимодействует с этой традицией, но не заменяет её полностью. Сходство с дунба соседних наси не доказывает синонимии."
+      "notes": "Название относится также к жрецам. Тибетский буддизм взаимодействует с этой традицией, но не заменяет её полностью. Сходство с дунба соседних наси не доказывает синонимии. Дополнение: The Body of Ritual Transformed (Journal of Chinese Sociology, 2018, DOI 10.1186/s40711-018-0077-6), по полевой работе у на описывает множество богов, включая богов гор и земли, обращение за их помощью, гадание перед богами, изгнание вредоносных духов и фигуры богов на обрядовом месте: +divine +many_gods +nature_spirits +personal +occult +divination_oracles +icons. Устное воспроизведение божественных слов не превращено в единый письменный канон; призвание даба не приравнено одержимости."
     },
     {
       "sourceIndex": 556,
@@ -174,12 +185,16 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Религиозная традиция наси с жрецами дунба, ритуальными текстами и обрядами взаимодействия с богами и духами природы.",
-      "profile": "+divine +many_gods +nature_spirits +ritual +scripture",
+      "profile": "+divine +many_gods +nature_spirits +ritual +scripture +ancestors +afterlife +occult +divination_oracles +icons +personal",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Dongba"
+        "https://en.wikipedia.org/wiki/Dongba",
+        "https://openresearch-repository.anu.edu.au/bitstreams/ef61fb3c-256e-424a-89ba-413e9160b419/download",
+        "https://pahar.in/pahar/Books%20and%20Articles/Tibet%20and%20China/2003%20History%20and%20Anthropological%20Study%20of%20Ancient%20Kingdoms%20of%20Sino-Tibetan%20Borderland--Naxi%20and%20Mosuo%20by%20Mathieu%20s.pdf",
+        "https://chiculture.org.hk/en/china-five-thousand-years/2336",
+        "https://www.iied.org/sites/default/files/pdfs/2021-08/20376G.pdf"
       ],
-      "notes": "Dongba обозначает и традицию, и её жрецов. Предполагаемое происхождение от бон и легендарный наставник Дунба Шило не делают её точным синонимом бон. Даба и хангуй относятся к другим местным традициям."
+      "notes": "Dongba обозначает и традицию, и её жрецов. Предполагаемое происхождение от бон и легендарный наставник Дунба Шило не делают её точным синонимом бон. Даба и хангуй относятся к другим местным традициям. Дополнение: Yujie Zhu (ANU) описывает приглашение богов для помощи, изгнание демонов и гадательные книги дунба; Christine Mathieu, History and Anthropological Study of the Ancient Kingdoms of the Sino-Tibetan Borderland (2003), описывает спасение душ и проведение умерших в землю предков: +personal +occult +divination_oracles +afterlife +ancestors. Academy of Chinese Studies, Dongba Art, прямо описывает священные изображения и маски богов и духов на ритуальных алтарях: +icons. Дунба и медиумы leebu/sani различаются; жреческая должность сама по себе не означает одержимости. Маски подтверждены отдельным источником; соответствующий токен здесь не добавлялся. Доклад IIED, Indigenous Naxi-Moso Cultural Values and Worldviews (2021), p. 7, независимо подтверждает почитание предков в дунба."
     },
     {
       "sourceIndex": 557,
@@ -190,14 +205,15 @@
       "inheritFamilyProfile": false,
       "parent": "Китайская народная религия",
       "description": "Китайские традиции ритуальных специалистов фаши, выполняющих защитные, лечебные и общинные обряды.",
-      "profile": "+ritual +occult",
+      "profile": "+ritual +occult +divine +many_gods +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Faism",
         "https://en.wikipedia.org/wiki/Chinese_ritual_mastery_traditions",
-        "https://ah.lib.nccu.edu.tw/item?item_id=85290&locale=zh_TW"
+        "https://ah.lib.nccu.edu.tw/item?item_id=85290&locale=zh_TW",
+        "https://www11.ihp.sinica.edu.tw/storage/w2_file/1467nJcfKKT.pdf"
       ],
-      "notes": "Исходный URL Faism недоступен; рабочая статья Chinese ritual mastery traditions прямо называет Faism вариантом названия. Академический источник подтверждает обряды фаши. Это более узкий круг практик внутри китайской народной религии, а не точный синоним всего даосизма или школы Чжэнъи."
+      "notes": "Исходный URL Faism недоступен; рабочая статья Chinese ritual mastery traditions прямо называет Faism вариантом названия. Академический источник подтверждает обряды фаши. Это более узкий круг практик внутри китайской народной религии, а не точный синоним всего даосизма или школы Чжэнъи. Дополнение: Vincent Goossaert, Bureaucratic Charisma (Asia Major 17/2, 2004), описывает фаши как мастеров обрядов с местными пантеонами, воинственными богами-экзорцистами и богинями и отдельными посвящениями в линию фаши: +divine +many_gods +initiatory_brotherhood. Автор подчёркивает перекрытие ролей фаши и даоши; посвящение в конкретные линии не делает весь фацзяо единой организацией или тождеством Чжэнъи. Наличие литургических руководств не приравнено автоматически единому священному канону."
     },
     {
       "sourceIndex": 558,
@@ -208,12 +224,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Местные духовные традиции гурунгов Непала с жрецами пачью, кхлепре и бонпо-лам, предками и обрядами отправления души в их страну.",
-      "profile": "+divine +ancestors +ritual +afterlife",
+      "profile": "+divine +ancestors +ritual +afterlife +nature_spirits +occult +divination_oracles",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Gurung_shamanism"
+        "https://en.wikipedia.org/wiki/Gurung_shamanism",
+        "https://www.tamupariwarny.org/gurung-faqs",
+        "https://ora.ox.ac.uk/objects/uuid%3A2df28e60-34b2-488f-ada7-5ebdebf5163a"
       ],
-      "notes": "Источник подтверждает таму-чо как местное название и считает обозначение Gurung dharma неточным. Письменный тибетский бон, буддизм всех гурунгов и местная устная жреческая практика не отождествлены. Частные формы погребения не назначаются всем общинам."
+      "notes": "Источник подтверждает таму-чо как местное название и считает обозначение Gurung dharma неточным. Письменный тибетский бон, буддизм всех гурунгов и местная устная жреческая практика не отождествлены. Частные формы погребения не назначаются всем общинам. Дополнение: община Tamu Pariwar New York в Gurung FAQs описывает природных духов, гадание и астрологические расчёты традиционных жрецов, лечебные и защитные обряды: +nature_spirits +divination_oracles +occult. Florence Gurung, Religion and Ethnic Identity (Oxford, 2014), подчёркивает спорность единой религиозной идентичности. Музейные маски с альтернативной атрибуцией Gurung/Magar не использованы для однозначного признака; весь тибетский буддизм не назначен шаманским традициям."
     },
     {
       "sourceIndex": 559,
@@ -224,13 +242,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Ритуальная традиция пуми/преми, связанная с местными жрецами, предками и сильным влиянием тибетского буддизма.",
-      "profile": "+ancestors +ritual",
+      "profile": "+ancestors +ritual +divine +many_gods +nature_spirits +personal +scripture +occult +afterlife",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Pumi_people",
-        "https://uw.manifoldapp.org/read/untitled-1c151cfe-72b4-4647-8072-59893bbfb505/section/0b072c38-49fb-4818-9c21-dd7fb312a049"
+        "https://uw.manifoldapp.org/read/untitled-1c151cfe-72b4-4647-8072-59893bbfb505/section/0b072c38-49fb-4818-9c21-dd7fb312a049",
+        "https://uw.manifoldapp.org/read/untitled-1c151cfe-72b4-4647-8072-59893bbfb505/section/bc30f40a-0e01-43bc-bf60-83349cbdd5d7",
+        "https://www.tandfonline.com/doi/abs/10.1080/14442213.2024.2422817"
       ],
-      "notes": "Университетская этнография уточняет, что hangui означает и практику, и исполнителя; различает местные и исторические формы. Обобщённое описание статьи о народе не используется для тождества хангуй всем формам бон, дунба или тибетского буддизма."
+      "notes": "Университетская этнография уточняет, что hangui означает и практику, и исполнителя; различает местные и исторические формы. Обобщённое описание статьи о народе не используется для тождества хангуй всем формам бон, дунба или тибетского буддизма. Дополнение: Koen Wellens, Religious Revival in the Tibetan Borderlands (University of Washington Press), введение, описывает обращения хангуй к водным божествам и чтение тибетских религиозных текстов: +divine +many_gods +nature_spirits +personal +scripture. Гл. 5 различает школы хангуй, в том числе магические и экзорцистские: +occult. Исследование Roots and Routes (Asia Pacific Journal of Anthropology, 2024) описывает ведение душ умерших к предкам: +afterlife. Частные различия школ и регионов сохранены; наличие письменного корпуса в одних местах не делает все практики одинаковыми."
     },
     {
       "sourceIndex": 560,
@@ -241,12 +261,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Коренные верования хани с множеством божеств, почитанием предков и разными категориями ритуальных специалистов.",
-      "profile": "+divine +many_gods +ancestors +ritual",
+      "profile": "+divine +many_gods +ancestors +ritual +personal +occult +divination_oracles +nature_spirits +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Hani_people"
+        "https://en.wikipedia.org/wiki/Hani_people",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10865556/"
       ],
-      "notes": "Исходная статья о народе подтверждает отдельный традиционный религиозный компонент. Буддизм части хани не назначается всем; принадлежность акха к родственному кругу не доказывает полного тождества религий."
+      "notes": "Исходная статья о народе подтверждает отдельный традиционный религиозный компонент. Буддизм части хани не назначается всем; принадлежность акха к родственному кругу не доказывает полного тождества религий. Дополнение: Xueyu Ma et al., Ethnobotanical Study on Ritual Plants Used by Hani People (Journal of Ethnobiology and Ethnomedicine 20:17, 2024), по полевой работе в десяти деревнях Юаньяна описывает просьбы о благословении, вызов души, изгнание духов, гадательное использование растений и лесное божество Ангма: +personal +occult +divination_oracles +nature_spirits. Table 3 описывает возвращение души умершего к предкам: +afterlife. Данные конкретного района не приравнены всем хани и акха; введение статьи об энтеогенах других народов не использовано для профиля хани."
     },
     {
       "sourceIndex": 561,
@@ -257,13 +278,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Коренные традиции карби с божествами Хемпху, Мукрангом и Расингджей, духами-покровителями и погребальными обрядами Чоманкан.",
-      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +afterlife +reincarnation",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +afterlife +reincarnation +personal +divination_oracles",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Honghari",
-        "https://www.khm.uio.no/english/collections/karbi/religion-and-ritual/index.html"
+        "https://www.khm.uio.no/english/collections/karbi/religion-and-ritual/index.html",
+        "https://www.khm.uio.no/samlinger/karbi/religion-og-ritualer/index.html"
       ],
-      "notes": "Исходная статья отражает вариативность названий и отношения к индуизму. Музей Университета Осло подтверждает самостоятельные местные верования, мир умерших и перерождение. Индуистское самоопределение части последователей не делает всю традицию точным синонимом индуизма."
+      "notes": "Исходная статья отражает вариативность названий и отношения к индуизму. Музей Университета Осло подтверждает самостоятельные местные верования, мир умерших и перерождение. Индуистское самоопределение части последователей не делает всю традицию точным синонимом индуизма. Дополнение: Музей Университета Осло, Religion og perspektiver på liv og død, описывает молитвы божествам и духам, а также Lodepi: участники задают через неё вопросы умершим о посевах, здоровье и личных делах. Добавлены personal и divination_oracles. Транс и общение с умершими сами по себе не доказывают вселения духа в тело; spirit_possession не назначен. Употребление рисового вина не кодируется как entheogenic_ritual."
     },
     {
       "sourceIndex": 562,
@@ -274,12 +296,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Коренные верования цзинпо с божественными силами и духами, населяющими природный мир, и защитными обрядами повседневной жизни.",
-      "profile": "+divine +nature_spirits +ritual",
+      "profile": "+divine +nature_spirits +ritual +ancestors +afterlife +divination_oracles",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Jingpo_people"
+        "https://en.wikipedia.org/wiki/Jingpo_people",
+        "https://ethnicity.sac.or.th/ethnic_research_detail?RES_ID=974"
       ],
-      "notes": "Исходная статья о народе отличает традиционные верования от современных христианства и тхеравады. Не весь этнический комплекс качинов автоматически отождествлён с религией цзинпо; отдельные названия духов не являются самостоятельными конфессиями."
+      "notes": "Исходная статья о народе отличает традиционные верования от современных христианства и тхеравады. Не весь этнический комплекс качинов автоматически отождествлён с религией цзинпо; отдельные названия духов не являются самостоятельными конфессиями. Дополнение: Sirindhorn Anthropology Centre подробно реферирует The Jingpo: Kachin of the Yunnan Plateau: жертвы предкам, специалист ningwawt (diviner, с. 176) и songtie — отправление души умершего на родину предков (с. 190–193). Этим подтверждены ancestors, afterlife и divination_oracles. Материал относится к конкретным цзинпо Юньнани, а не автоматически ко всем группам качинского объединения и современным христианским семьям."
     },
     {
       "sourceIndex": 563,
@@ -290,12 +313,13 @@
       "inheritFamilyProfile": false,
       "parent": "Маньчжурский шаманизм",
       "description": "Исторические чжурчжэньские и маньчжурские шаманские практики, включая родовые культы и придворные обряды династии Цин.",
-      "profile": "+divine +ancestors +ritual",
+      "profile": "+divine +ancestors +ritual +many_gods +nature_spirits +spirit_possession",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Shamanism_during_the_Qing_dynasty"
+        "https://en.wikipedia.org/wiki/Shamanism_during_the_Qing_dynasty",
+        "https://www.mdpi.com/2077-1444/14/4/496"
       ],
-      "notes": "Существенно пересекается с сохранённым «Маньчжурский шаманизм» (183), но исходная статья выделяет исторический чжурчжэньский и цинский материал, включая кодификацию двора. Сохранена как исторически ограниченная запись, а не доказанный полный синоним всех маньчжурских практик. Предписания двора не назначаются каждому клану."
+      "notes": "Существенно пересекается с сохранённым «Маньчжурский шаманизм» (183), но исходная статья выделяет исторический чжурчжэньский и цинский материал, включая кодификацию двора. Сохранена как исторически ограниченная запись, а не доказанный полный синоним всех маньчжурских практик. Предписания двора не назначаются каждому клану. Дополнение: Feng Qu, Deconstruction of the Trance Model (Religions 14/4, 2023), различает домашние/придворные жертвы и wild rituals. Работа прямо называет божеств Monggo и Murigan (горное божество чжурчжэней), а также описывает вселение духов в маньчжурских родовых обрядах по историческим материалам. Добавлены many_gods, nature_spirits и spirit_possession как засвидетельствованные возможности внутри исторического комплекса. Вселение не объявлено обязательным для цинских придворных шаманок: именно универсальность трансовой модели автор оспаривает."
     },
     {
       "sourceIndex": 564,
@@ -306,12 +330,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Коренная религиозная традиция каянов Мьянмы с праздником Кей Хто Бо, сакральным столбом и гадательными практиками.",
-      "profile": "+divine +ritual +occult",
+      "profile": "+divine +ritual +occult +divination_oracles",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Kayan_people_(Myanmar)"
+        "https://en.wikipedia.org/wiki/Kayan_people_(Myanmar)",
+        "https://vuir.vu.edu.au/15539/1/JinranaiMAThesis.pdf"
       ],
-      "notes": "Статья о народе прямо называет Kan Khwan и описывает обряд творения мира и гадание по куриным костям. Миграция из Монголии в бронзовом веке не принята как проверенное датирование религии. Не путать каянов Мьянмы с одноимёнными народами Борнео."
+      "notes": "Статья о народе прямо называет Kan Khwan и описывает обряд творения мира и гадание по куриным костям. Миграция из Монголии в бронзовом веке не принята как проверенное датирование религии. Не путать каянов Мьянмы с одноимёнными народами Борнео. Дополнение: Полевое исследование в репозитории Victoria University описывает Khahkwan у каянов Mae Hong Son: гадание по куриным костям определяет время праздника, выбор дерева и место сакрального столба. Добавлен divination_oracles. Это конкретная обрядовая практика, а не вывод из общего слова «анимизм»; сходные имена каянов Борнео не использованы."
     },
     {
       "sourceIndex": 565,
@@ -322,13 +347,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Коренные верования каренских групп в жизненное начало клар, духов мест и предков, с обрядами возвращения души и подношений.",
-      "profile": "+divine +nature_spirits +ancestors +ritual",
+      "profile": "+divine +nature_spirits +ancestors +ritual +many_gods +occult +afterlife +reincarnation",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Karen_people",
-        "https://ehrafworldcultures.yale.edu/cultures/ap07/summary"
+        "https://ehrafworldcultures.yale.edu/cultures/ap07/summary",
+        "https://ethnomed.org/culture/karen/"
       ],
-      "notes": "Статья о народах описывает религиозное разнообразие. Этнографический обзор eHRAF независимо подтверждает духов природы, матрилинейный культ предков и обряды; буддийские и христианские доктрины не наследуются автоматически. Частные каренские группы и движения не считаются точными синонимами всего комплекса."
+      "notes": "Статья о народах описывает религиозное разнообразие. Этнографический обзор eHRAF независимо подтверждает духов природы, матрилинейный культ предков и обряды; буддийские и христианские доктрины не наследуются автоматически. Частные каренские группы и движения не считаются точными синонимами всего комплекса. Дополнение: Yale eHRAF прямо называет Y’wa, Mü Kaw li, хозяина земли и воды и местных божеств. Культурный обзор EthnoMed, раздел Animism, описывает защитные чары и духов умерших, а также возвращение k’la умершего в новорождённого. Добавлены many_gods, occult, afterlife и reincarnation. Это исторически описанные каренские анимистические представления, не догмат всех современных каренов. Различение k’la и tha сохранено; не утверждается, что все каренские группы одинаково понимают перерождение."
     }
   ]
 }

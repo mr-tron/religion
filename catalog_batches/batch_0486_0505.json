@@ -29,12 +29,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Местные верования тхару, тесно связанные с природной средой и божествами леса.",
-      "profile": "+divine +many_gods +nature_spirits",
+      "profile": "+divine +many_gods +nature_spirits +ritual +ancestors +occult +personal",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Tharu_people"
+        "https://en.wikipedia.org/wiki/Tharu_people",
+        "https://himalaya.socanth.cam.ac.uk/collections/journals/ancientnepal/pdf/ancient_nepal_143_02.pdf",
+        "https://himalaya.socanth.cam.ac.uk/collections/journals/ancientnepal/pdf/ancient_nepal_143_full.pdf",
+        "https://ntb.gov.np/en/tharu-culture"
       ],
-      "notes": "Исходная статья о народе содержит религиозный раздел. Индуистские влияния и современные переходы отдельных групп в буддизм и христианство не означают общей принадлежности всех местных практик к одному из этих направлений."
+      "notes": "Исходная статья о народе содержит религиозный раздел. Индуистские влияния и современные переходы отдельных групп в буддизм и христианство не означают общей принадлежности всех местных практик к одному из этих направлений. Дополнение: Poonam Rana, Animistic Practices among Tharus of Dang & Deokhuri (Ancient Nepal 143, 1999, pp. 13–19), по полевым материалам описывает жертвы, защиту от злого глаза и обращения через гурва за благословением: +ritual +occult +personal. Nepal Tourism Board независимо описывает жертвы родовым божествам: +ancestors. Этнография Раны относится к конкретным селениям Данг и Деокхури; наличие этих практик не означает тождества всех подгрупп тхару."
     },
     {
       "sourceIndex": 488,
@@ -45,12 +48,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Комплекс древних фракийских культов, включавших местных божеств, святилища, подношения и обряды.",
-      "profile": "+divine +many_gods +ritual",
+      "profile": "+divine +many_gods +ritual +divination_oracles",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Thracian_religion"
+        "https://en.wikipedia.org/wiki/Thracian_religion",
+        "https://folio.furman.edu/dramaturg/History/Herodotus/pages/chunk_821.html",
+        "https://www.ancienthistorybulletin.org/subscribed-users-area/wp-content/uploads/2017/11/Graninger.pdf"
       ],
-      "notes": "Предлагаемое семейство ancient_european: древние религии Европы. Источник подчёркивает фрагментарность свидетельств и трудности реконструкции. Греческие имена в античных сообщениях не доказывают тождества греческому пантеону. Более узкая религия даков уже сохранена отдельно; это не точный синоним всей фракийской традиции."
+      "notes": "Предлагаемое семейство ancient_european: древние религии Европы. Источник подчёркивает фрагментарность свидетельств и трудности реконструкции. Греческие имена в античных сообщениях не доказывают тождества греческому пантеону. Более узкая религия даков уже сохранена отдельно; это не точный синоним всей фракийской традиции. Дополнение: Геродот 7.111 (греческий текст в Furman University) сообщает об оракуле Диониса у сатров, где бессы толковали прорицания пророчицы; D. Graninger обсуждает это свидетельство в Ancient History Bulletin (2017): +divination_oracles. Это локальный фракийский оракул и внешний греческий рассказ, а не доказательство одинакового института у всех фракийцев. Сама роль пророчицы не кодируется как одержимость без отдельного свидетельства."
     },
     {
       "sourceIndex": 489,
@@ -78,12 +83,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Религиозные традиции древних умбров Италии, известные по Игувинским таблицам с описаниями жреческих обрядов и жертвоприношений.",
-      "profile": "+divine +many_gods +ritual",
+      "profile": "+divine +many_gods +ritual +personal +divination_oracles",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Umbri"
+        "https://en.wikipedia.org/wiki/Umbri",
+        "https://eprints.nottingham.ac.uk/49836/1/FINAL%20CORRECTED%20THESIS%20%28Jan-Feb%202018%29.pdf"
       ],
-      "notes": "Предлагаемое семейство ancient_european: древние религии Европы. Исходная статья о народе содержит религиозный раздел. Сходства с римскими триадами и имена божеств не доказывают тождества всех умбрских и римских культов; гипотеза прямого происхождения от праиндоевропейской системы не кодируется."
+      "notes": "Предлагаемое семейство ancient_european: древние религии Европы. Исходная статья о народе содержит религиозный раздел. Сходства с римскими триадами и имена божеств не доказывают тождества всех умбрских и римских культов; гипотеза прямого происхождения от праиндоевропейской системы не кодируется. Дополнение: исследование в репозитории University of Nottingham, p. 256, разбирает Игувинские таблицы Ib 10–15, VIb 48–52 и VIIa 6–40: очищению предшествуют ауспиции, а молитвы просят Серфия Марция благосклонно отнестись к общине: +divination_oracles +personal. Данные прежде всего относятся к Игувию; сохранившаяся жреческая инструкция не приравнена универсальному священному канону всех умбров."
     },
     {
       "sourceIndex": 491,
@@ -94,12 +100,14 @@
       "inheritFamilyProfile": false,
       "parent": "Синто",
       "description": "Объединение синтоистских святилищ Японии, занимающееся обрядами, образованием и подготовкой священнослужителей.",
-      "profile": "+kami +ancestors +ritual",
+      "profile": "+kami +ancestors +ritual +divine +personal +many_gods +nature_spirits -scripture",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Association_of_Shinto_Shrines"
+        "https://en.wikipedia.org/wiki/Association_of_Shinto_Shrines",
+        "https://www.jinjahoncho.or.jp/en/",
+        "https://www.jinjahoncho.or.jp/en/shinto/"
       ],
-      "notes": "Сохраняется как религиозная организация, а не синоним всего «Синто». Источник подтверждает значение обрядов, ками и благодарности предкам; единый подробный катехизис всех входящих святилищ не предполагается."
+      "notes": "Сохраняется как религиозная организация, а не синоним всего «Синто». Источник подтверждает значение обрядов, ками и благодарности предкам; единый подробный катехизис всех входящих святилищ не предполагается. Дополнение: собственное изложение Дзиндзя хонтё описывает множество ками, включая духов природы, и просьбы о благословении (gokito): +divine +many_gods +nature_spirits +personal. Ассоциация прямо указывает отсутствие священного писания: -scripture; существование древних мифологических записей не означает признания обязательного канона. Это опубликованное понимание Shrine Shinto самой ассоциацией, а не перенос на все синтоистские новые религии."
     },
     {
       "sourceIndex": 492,
@@ -110,12 +118,15 @@
       "inheritFamilyProfile": false,
       "parent": "Японские горные культы",
       "description": "Японское паломническое и обрядовое движение почитания Фудзи, развившееся в период Эдо в традиции Какугё.",
-      "profile": "+kami +ritual",
+      "profile": "+kami +ritual +divine +personal +occult +revelation",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Fujiko_(religion)"
+        "https://en.wikipedia.org/wiki/Fujiko_(religion)",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9550",
+        "https://tamagawa.repo.nii.ac.jp/record/53/files/1_2012_123-138.pdf",
+        "https://tamagawa.repo.nii.ac.jp/records/53"
       ],
-      "notes": "Название обозначает как движение в целом, так и отдельные объединения. Источник описывает регулярные молитвенные собрания, восхождения и местные насыпи Фудзи; это не точный синоним всех синтоистских горных культов."
+      "notes": "Название обозначает как движение в целом, так и отдельные объединения. Источник описывает регулярные молитвенные собрания, восхождения и местные насыпи Фудзи; это не точный синоним всех синтоистских горных культов. Дополнение: Encyclopedia of Shinto (Kokugakuin), Hasegawa Kakugyō, описывает передаваемые внутри Фудзи-ко учения основателя, молитвы и ofusegi; Marco Gottardo, Magic Words and Holy Waters (Tamagawa University, выпуск 2012, опубликован 2013, pp. 123–138, особенно p. 125) связывает заклинания и амулеты с посланиями божества Фудзи: +divine +personal +occult +revelation. Рассказы о чудесах учитываются как религиозные предания; разные линии Фудзи-ко не получают автоматически единого нового всеобщего откровения."
     },
     {
       "sourceIndex": 493,
@@ -126,13 +137,14 @@
       "inheritFamilyProfile": false,
       "parent": "Синто",
       "description": "Направления восстановления древнего синто периода Эдо, связанные с изучением японской классики и стремлением отделить её от буддийских и конфуцианских интерпретаций.",
-      "profile": "+kami +scripture +ritual",
+      "profile": "+kami +scripture +ritual +divine",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Fukko_Shinto",
-        "https://eos.kokugakuin.ac.jp/ijcc/wp/bts/bts_f.html"
+        "https://eos.kokugakuin.ac.jp/ijcc/wp/bts/bts_f.html",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=8713"
       ],
-      "notes": "Университетский справочник подтверждает школу и её филологический подход. Не тождественно всему кокугаку: последнее шире религиозных школ. Признак restoration не назначен, поскольку существующий вопрос относится именно к раннему христианству."
+      "notes": "Университетский справочник подтверждает школу и её филологический подход. Не тождественно всему кокугаку: последнее шире религиозных школ. Признак restoration не назначен, поскольку существующий вопрос относится именно к раннему христианству. Дополнение: Kokugakuin, Fukko Shintō, прямо описывает учения о невидимом мире божеств: +divine. Автор различает широкое восстановительное направление и более узкую школу Хираты с разработанным учением о душе и загробном мире. Поэтому +afterlife не перенесён автоматически на все формы Фукко-синто."
     },
     {
       "sourceIndex": 494,
@@ -143,13 +155,15 @@
       "inheritFamilyProfile": false,
       "parent": "Корейские народные верования",
       "description": "Корейские домашние религиозные практики, связанные с божествами-покровителями разных частей дома и семейного благополучия.",
-      "profile": "+divine +many_gods +ritual",
+      "profile": "+divine +many_gods +ritual +personal +divination_oracles",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Gasin_faith",
-        "https://www.nfm.go.kr/user/bbs/english/17/469/bbsDataView/23209.do?page=2"
+        "https://www.nfm.go.kr/user/bbs/english/17/469/bbsDataView/23209.do?page=2",
+        "https://folkency.nfm.go.kr/en/topic/detail/2378",
+        "https://www.seoulhonghouse.kr/news/844"
       ],
-      "notes": "Исходная статья требует дополнительных ссылок; Национальный фольклорный музей независимо подтверждает домашних божеств касин и их функции. Узкий культовый комплекс внутри корейских народных верований, а не alias всего мусок."
+      "notes": "Исходная статья требует дополнительных ссылок; Национальный фольклорный музей независимо подтверждает домашних божеств касин и их функции. Узкий культовый комплекс внутри корейских народных верований, а не alias всего мусок. Дополнение: Национальный фольклорный музей, House Guardian God, описывает получение воли Сонджу с помощью ритуального шеста при его вселении в дом: +divination_oracles. Музейный дом Honggeonik House описывает молитвы домашним божествам о здоровье, безопасности и процветании: +personal. Ритуальный шест и знаки воли не доказывают вселения божества в человека; общие шаманские мифы не перенесены на весь домашний культ."
     },
     {
       "sourceIndex": 495,
@@ -160,12 +174,15 @@
       "inheritFamilyProfile": false,
       "parent": "Синто",
       "description": "Синтоистская религиозная организация, созданная Сэнгэ Такатоми и связанная с традицией Идзумо и почитанием Окунинуси.",
-      "profile": "+kami",
+      "profile": "+kami +divine +personal +ritual +afterlife +scripture",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Izumo-taishakyo"
+        "https://en.wikipedia.org/wiki/Izumo-taishakyo",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/id%3D9896",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9030",
+        "https://www.bethanyipcmm.org/wp-content/uploads/2020/10/Religions-of-the-World.pdf"
       ],
-      "notes": "Организация отличается юридически от самого святилища Идзумо-тайся и от Дзиндзя хонтё; совместный персонал и исторические связи не делают их синонимами. Проверенный профиль ограничен почитанием ками."
+      "notes": "Организация отличается юридически от самого святилища Идзумо-тайся и от Дзиндзя хонтё; совместный персонал и исторические связи не делают их синонимами. Проверенный профиль ограничен почитанием ками. Дополнение: Kokugakuin, Izumo Ōyashirokyō и Izumo Shinkō, описывает божество Окунинуси, молитвенные обряды и мирную посмертную жизнь: +divine +personal +ritual +afterlife. Keishin Inaba, статья Izuo Ōyashirokyō в Religions of the World, перечисляет основные писания Kyōshi Taiyō, Daidō Yōgi, Daidō Mondō, Izumo Mondō и Sōsaisiki: +scripture. Частные целительские общины организации не определяют весь профиль; перерождение и передача через руки не выведены из данных об отдельных филиалах."
     },
     {
       "sourceIndex": 496,
@@ -176,12 +193,13 @@
       "inheritFamilyProfile": false,
       "parent": "Синто",
       "description": "Историческое синтоистское объединение периода Мэйдзи, возникшее в среде почитания Исэ и позднее реорганизованное.",
-      "profile": "+kami",
+      "profile": "+kami +ritual",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Jingukyo"
+        "https://en.wikipedia.org/wiki/Jingukyo",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9812"
       ],
-      "notes": "Не путать с Tenshō Kōtai Jingūkyō. Историческая преемственность через Дзингу хосайкай к Ассоциации синтоистских святилищ не означает, что все эти организации — одна запись. Источник подтверждает принадлежность к культу Исэ; неподтверждённые частные ответы не добавлены."
+      "notes": "Не путать с Tenshō Kōtai Jingūkyō. Историческая преемственность через Дзингу хосайкай к Ассоциации синтоистских святилищ не означает, что все эти организации — одна запись. Источник подтверждает принадлежность к культу Исэ; неподтверждённые частные ответы не добавлены. Дополнение: Kokugakuin, Jingūkyō, подтверждает центральную организацию паломнических объединений Исэ и почитание святилищ: +ritual. Институциональная история не обосновывает новых ответов об откровении, каноне или посмертной жизни. Современная организация с тем же именем не смешана с исторической записью."
     },
     {
       "sourceIndex": 497,
@@ -192,13 +210,14 @@
       "inheritFamilyProfile": false,
       "parent": "Синто",
       "description": "Группа японских религиозно-философских школ, интерпретировавших синто с помощью конфуцианской мысли в период Эдо.",
-      "profile": "+kami",
+      "profile": "+kami +divine",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Confucian_Shinto",
-        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=8760"
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=8760",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9912"
       ],
-      "notes": "Juka Shintō — японское название Confucian Shinto. Это сочетание традиций, а не точный синоним существующего «Конфуцианство» или всего «Синто». Университетская энциклопедия подтверждает использование неоконфуцианских интерпретаций."
+      "notes": "Juka Shintō — японское название Confucian Shinto. Это сочетание традиций, а не точный синоним существующего «Конфуцианство» или всего «Синто». Университетская энциклопедия подтверждает использование неоконфуцианских интерпретаций. Дополнение: проверена профильная статья Kokugakuin Juka Shintō (id=9912; прежний id=8760 ведёт на Shinto Edification): она описывает божественные принципы и ками в нескольких конфуцианских интерпретациях: +divine. Просьбы к богам у Ямадзаки Ансая и Ицзин у Ватараи Нобуёси не перенесены автоматически на все школы Дзюка; разные формы соотношения ума, принципа и божественного не сведены к одному пантеизму."
     },
     {
       "sourceIndex": 498,
@@ -212,9 +231,10 @@
       "profile": "",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Kokugaku"
+        "https://en.wikipedia.org/wiki/Kokugaku",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=8668"
       ],
-      "notes": "Сохраняется как интеллектуальная традиция, а не единая религия. Влияние на восстановительное синто не делает всё кокугаку синонимом Фукко-синто. Изучение древних текстов само по себе не означает признание единого священного канона всеми исследователями."
+      "notes": "Сохраняется как интеллектуальная традиция, а не единая религия. Влияние на восстановительное синто не делает всё кокугаку синонимом Фукко-синто. Изучение древних текстов само по себе не означает признание единого священного канона всеми исследователями. Дополнительная проверка: статья Kokugaku в Encyclopedia of Shinto (Kokugakuin) не превращает широкое филологическое движение в единую конфессию. Учения Хираты и религиозный статус отдельных изучаемых книг не назначены всем представителям кокугаку; общий профиль оставлен пустым."
     },
     {
       "sourceIndex": 499,
@@ -225,15 +245,16 @@
       "inheritFamilyProfile": false,
       "parent": "Синтоистская религиозная среда",
       "description": "Японская религия, связанная с Конко Дайдзином, почитанием Тэнти Канэ-но Ками и практикой посредничества торицуги.",
-      "profile": "+divine +personal +kami +ancestors +ritual +afterlife -reincarnation",
+      "profile": "+divine +personal +kami +ancestors +ritual +afterlife -reincarnation +scripture +revelation",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Konk%C5%8Dky%C5%8D",
         "https://en.wikipedia.org/wiki/Konkokyo",
         "https://konkokyo.jp/eng/our_faith/religious_beliefs.html",
-        "https://konkokyo.jp/eng/our_faith/how_to_worship.html"
+        "https://konkokyo.jp/eng/our_faith/how_to_worship.html",
+        "https://konkokyo.jp/eng/our_faith/sacred_scripture.html"
       ],
-      "notes": "Исходный URL не открылся; проверены статья Konkokyo и собственное изложение религии. Официальный источник подтверждает почитание предков, продолжение существования духа и отрицание переселения душ. Представление вселенной как тела Ками не сведено автоматически к строгому монотеизму или пантеизму."
+      "notes": "Исходный URL не открылся; проверены статья Konkokyo и собственное изложение религии. Официальный источник подтверждает почитание предков, продолжение существования духа и отрицание переселения душ. Представление вселенной как тела Ками не сведено автоматически к строгому монотеизму или пантеизму. Дополнение: официальный раздел Sacred Scripture (Kyoten) описывает священный корпус, включающий написанные основателем воспоминания и запись полученных им откровений Kami: +scripture +revelation. Торицуги описывается как посредничество; без отдельного уточнения оно не отождествлено с одержимостью духом. Наличие откровений не превращено автоматически в утверждение о новом всеобщем откровении."
     },
     {
       "sourceIndex": 500,
@@ -244,12 +265,15 @@
       "inheritFamilyProfile": false,
       "parent": "Синто",
       "description": "Японская религия Куродзуми Мунэтады с почитанием Аматэрасу и ежедневным обрядом обращения к восходящему солнцу.",
-      "profile": "+divine +kami +ritual +scripture",
+      "profile": "+divine +kami +ritual +scripture +personal +revelation +afterlife +many_gods",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Kurozumiky%C5%8D"
+        "https://en.wikipedia.org/wiki/Kurozumiky%C5%8D",
+        "https://kurozumikyo.com/marukoto_e.html",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/id%3D9880",
+        "https://dlbs.liberal.ntu.edu.tw/FULLTEXT/JR-EPT/willis.htm"
       ],
-      "notes": "Источник прямо описывает ниппай и корпус Kurozumikyō Kyōsho. Особое почитание Аматэрасу и представление других ками её проявлениями не превращены в обязательное отрицание любых других божеств. Не alias всего синто."
+      "notes": "Источник прямо описывает ниппай и корпус Kurozumikyō Kyōsho. Особое почитание Аматэрасу и представление других ками её проявлениями не превращены в обязательное отрицание любых других божеств. Не alias всего синто. Дополнение: официальное Marukoto описывает молитвы, благословения и «непосредственное получение небесной миссии» основателем: +personal +revelation. Willis Stoesz, The Universal Attitude of Shinto as Expressed in the Shinto Sect Kurozumikyo, описывает алтари Аматэрасу, множеству ками и духам основателя и его преемников: +many_gods +afterlife. Это почитание продолжающих действовать духов, а не вывод из одного факта похорон. Мистическое единение с солнцем не приравнено автоматически к медиумической одержимости."
     },
     {
       "sourceIndex": 501,
@@ -277,14 +301,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Разнообразные корейские традиции взаимодействия с божествами и духами через специалистов мудан и обряды кут.",
-      "profile": "+divine +many_gods +ancestors +ritual",
+      "profile": "+divine +many_gods +ancestors +ritual +spirit_possession",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Musok",
         "https://en.wikipedia.org/wiki/Korean_shamanism",
-        "https://www.trad-culture.ru/en/article/shaman-kim-keum-hwa-koreas-national-treasure"
+        "https://www.trad-culture.ru/en/article/shaman-kim-keum-hwa-koreas-national-treasure",
+        "https://cris.iucc.ac.il/en/publications/legitimizing-spiritual-healing-the-right-to-folk-medicine-in-cont/"
       ],
-      "notes": "Исходный URL Musok не открылся; статья Korean shamanism и научная публикация подтверждают термин Musok и практику. Не единая централизованная церковь; региональные разновидности и домашние культы не становятся точными синонимами всего комплекса."
+      "notes": "Исходный URL Musok не открылся; статья Korean shamanism и научная публикация подтверждают термин Musok и практику. Не единая централизованная церковь; региональные разновидности и домашние культы не становятся точными синонимами всего комплекса. Дополнение: исследование Liora Sarfati (Urbanities, 2022) прямо описывает контролируемую одержимость духами в мусок и посвящение специалистов manshin. Добавлен spirit_possession; это возможность в традиции, а не обязательное состояние всех мудан или клиентов. Специальное посвящение шамана не приравнено к обязательному вступлению каждого верующего в братство."
     },
     {
       "sourceIndex": 503,
@@ -295,12 +320,15 @@
       "inheritFamilyProfile": false,
       "parent": "Синто",
       "description": "Японская религиозная организация синтоистского круга, связанная со священной горой Онтакэ и особыми горными обрядами.",
-      "profile": "+kami +ritual",
+      "profile": "+kami +ritual +divine +many_gods +personal +spirit_possession +divination_oracles",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Ontake-ky%C5%8D"
+        "https://en.wikipedia.org/wiki/Ontake-ky%C5%8D",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9886",
+        "https://www.ontakekyo.or.jp/english/",
+        "https://services.phaidra.univie.ac.at/api/object/o%3A1319412/download"
       ],
-      "notes": "Исходная статья краткая, но подтверждает отдельную организацию и её место среди горных направлений сектантского синто. Не alias любого почитания Онтакэ, Фудзи-ко или всего сюгэндо."
+      "notes": "Исходная статья краткая, но подтверждает отдельную организацию и её место среди горных направлений сектантского синто. Не alias любого почитания Онтакэ, Фудзи-ко или всего сюгэндо. Дополнение: Kokugakuin называет три главных божества и почитание множества ками; официальный сайт прямо описывает молитву о божественной помощи. Академическая работа Венского университета, с. 80–81, по Birgit Staemmler описывает именно Онтакэ-кё: обряд oza, вселение божества в nakaza и вопросы через посредника maeza. Это основание для spirit_possession и divination_oracles; практики отдельных независимых объединений не объявлены обязательными для всех."
     },
     {
       "sourceIndex": 504,
@@ -311,13 +339,16 @@
       "inheritFamilyProfile": false,
       "parent": "Синтоистская религиозная среда",
       "description": "Японская религия Дэгути Нао и Дэгути Онисабуро с новыми откровениями, священными писаниями и идеей духовного единства человечества.",
-      "profile": "+divine +kami +revelation +new_revelation +scripture",
+      "profile": "+divine +kami +revelation +new_revelation +scripture +personal +one_god +many_gods +ritual +afterlife +ancestors",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Oomoto",
-        "https://www.oomoto.or.jp/English/enDokt/dokt-en.html"
+        "https://www.oomoto.or.jp/English/enDokt/dokt-en.html",
+        "https://oomoto.or.jp/wp/english/faq/",
+        "https://oomoto.or.jp/wp/english/books/the-international-edition-of-divine-signposts/part-two-chapter-2/",
+        "https://oomoto.or.jp/wp/english/history-of-oomoto/the-ancestors-friends-or-foes/"
       ],
-      "notes": "Официальный источник подтверждает откровенный статус Oomoto Shin’yu и Reikai Monogatari. Родственные движения, воспринявшие идеи Оомото, не считаются его синонимами. Сложное соотношение единого божественного начала и множества ками не сведено к взаимоисключающим ответам."
+      "notes": "Официальный источник подтверждает откровенный статус Oomoto Shin’yu и Reikai Monogatari. Родственные движения, воспринявшие идеи Оомото, не считаются его синонимами. Сложное соотношение единого божественного начала и множества ками не сведено к взаимоисключающим ответам. Дополнение: официальный FAQ прямо утверждает единого Верховного Бога и существование многих ками как его проявлений; one_god и many_gods здесь совместимы с формулировкой вопроса о проявлениях божественного. Молитва дважды в день, ежемесячные службы и подношения подтверждают personal и ritual; Divine Signposts, II.2, §§ 320–324, прямо учит вечной жизни души в духовном мире — afterlife. Статья собственного журнала Oomoto International (1987), The Ancestors; Friends or Foes?, описывает домашние алтари, утренние и вечерние молитвы предкам и специальные праздники — ancestors. Историческая одержимость основательницы сама по себе не доказывает современную обрядовую практику spirit_possession."
     },
     {
       "sourceIndex": 505,
@@ -328,12 +359,14 @@
       "inheritFamilyProfile": false,
       "parent": "Буддизм Тэндай и синбуцу-сюго",
       "description": "Региональный комплекс храмов и религиозных практик полуострова Кунисаки, соединяющий буддизм Тэндай, почитание ками и горную культуру.",
-      "profile": "+buddha +kami +ritual",
+      "profile": "+buddha +kami +ritual +fire",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Rokug%C5%8D_Manzan"
+        "https://en.wikipedia.org/wiki/Rokug%C5%8D_Manzan",
+        "https://www.onie.jp/en/cultura/detail/670a570d-7f6b-482c-b7e5-22848f46e515",
+        "https://www.millennium-roman.jp/rokugou1300/english/catalog/chapter3.pdf"
       ],
-      "notes": "Название означает и храмовое объединение, и местную религиозную культуру. Легендарное основание всех храмов Ниммоном не принимается за установленный исторический факт. Это уже всего Тэндай и синбуцу-сюго, поэтому не alias этих общих традиций."
+      "notes": "Название означает и храмовое объединение, и местную религиозную культуру. Легендарное основание всех храмов Ниммоном не принимается за установленный исторический факт. Это уже всего Тэндай и синбуцу-сюго, поэтому не alias этих общих традиций. Дополнение: Japan Heritage называет Shujooni-e наиболее заметным обрядом Рокуго Мандзан и огненным праздником; каталог 1300-летия описывает буддийское чтение, очищение и появление Suzu-oni в масках. Подтверждены священный огонь и ритуальные маски; символика отдельных oni не перенесена на все храмы, а локальные обряды не превращены в общий катехизис Тэндай."
     }
   ]
 }

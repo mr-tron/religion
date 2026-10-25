@@ -290,12 +290,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Древние культы самнитов Италии с местными божествами, святилищами и подношениями.",
-      "profile": "+divine +many_gods +nature_spirits +ritual +occult",
+      "profile": "+divine +many_gods +nature_spirits +ritual +occult +personal +icons",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Samnite_religion"
+        "https://en.wikipedia.org/wiki/Samnite_religion",
+        "https://www.archaeological.org/wp-content/uploads/2024/01/AM2019-AIA-Abstracts.pdf",
+        "https://www.parcosepino.it/en/osaka-en/ercole-en"
       ],
-      "notes": "Предлагаемое семейство ancient_european. Источник описывает духов мест, жертвы и защитные амулеты. Рассказ Ливия о воинской клятве отмечен как спорный и не использован для отдельного признака. Сходство с сабинами и Римом не означает синонимии."
+      "notes": "Предлагаемое семейство ancient_european. Источник описывает духов мест, жертвы и защитные амулеты. Рассказ Ливия о воинской клятве отмечен как спорный и не использован для отдельного признака. Сходство с сабинами и Римом не означает синонимии. Дополнение: A. Sofroniew, Samnite Hairstyles? (AIA, 2019, p. 112), рассматривает дары богам вместе с молитвами на самнитских святилищах; археологический парк Сепино описывает широко почитаемого Геркулеса и его бронзовые вотивные изображения: +personal +icons. Этническое прочтение отдельных деталей фигурок спорно; изображения не доказывают единого канона иконографии."
     },
     {
       "sourceIndex": 482,
@@ -306,12 +308,14 @@
       "inheritFamilyProfile": false,
       "parent": "Древнегерманские религии",
       "description": "Дохристианские традиции континентальных саксов с местными богами, священными местами и обрядами.",
-      "profile": "+divine +many_gods +ritual +occult",
+      "profile": "+divine +many_gods +ritual +occult +divination_oracles",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Saxon_paganism"
+        "https://en.wikipedia.org/wiki/Saxon_paganism",
+        "https://www.routledge.com/Converting-the-Saxons-A-Study-of-Violence-and-Religion-in-Early-Medieval-Germany/Cragle/p/book/9781032458960",
+        "https://dokumen.pub/converting-the-saxons-studies-in-medieval-religions-and-cultures-1nbsped-9781032458960-9781032458977-9781003379157-1032458968.html"
       ],
-      "notes": "Предлагаемое семейство ancient_european. Источник описывает почитание священных мест, богов, заклинания и амулеты. Христианские запретительные тексты отражают внешний взгляд и не дают полной собственной догматики саксов. Не синоним англосаксонской или древнескандинавской религии."
+      "notes": "Предлагаемое семейство ancient_european. Источник описывает почитание священных мест, богов, заклинания и амулеты. Христианские запретительные тексты отражают внешний взгляд и не дают полной собственной догматики саксов. Не синоним англосаксонской или древнескандинавской религии. Дополнение: Cragle, Converting the Saxons (Routledge, 2024), гл. 4, p. 66, сопоставляет сообщения Рудольфа Фульдского о жребии, птицах и лошадях и Indiculus: +divination_oracles. Это свидетельства христианских наблюдателей; автор отдельно предупреждает о повторении общих запретительных формул. Поздние скандинавские практики не перенесены на саксов."
     },
     {
       "sourceIndex": 483,
@@ -328,7 +332,7 @@
         "https://en.wikipedia.org/wiki/School_of_the_Sextii",
         "https://plato.stanford.edu/entries/pythagoreanism/"
       ],
-      "notes": "Сохраняется как философская школа. SEP со ссылкой на Сенеку (Ep. 108.17) сообщает, что школа Секстиев учила переселению душ (+reincarnation +afterlife); сам Секстий приводил для вегетарианства иные доводы, чем Пифагор. Заимствования из стоицизма и пифагореизма не делают школу их синонимом. Вегетарианство не приравнено строгой ахимсе, а ночное самоиспытание — медитации без уточнения практики; описанное бестелесное начало не автоматически личный бог."
+      "notes": "Сохраняется как философская школа. SEP со ссылкой на Сенеку (Ep. 108.17) сообщает, что школа Секстиев учила переселению душ (+reincarnation +afterlife); сам Секстий приводил для вегетарианства иные доводы, чем Пифагор. Заимствования из стоицизма и пифагореизма не делают школу их синонимом. Вегетарианство не приравнено строгой ахимсе, а ночное самоиспытание — медитации без уточнения практики; описанное бестелесное начало не автоматически личный бог. Дополнительная проверка: дисциплина самоиспытания и отказ от мясной пищи не дают достаточного основания приравнять практику школы медитации или строгой ахимсе; новых ответов без прямого свидетельства не добавлено."
     },
     {
       "sourceIndex": 484,
@@ -339,14 +343,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Исторические религиозные традиции скифов с местными божествами, жертвоприношениями и почитанием Табити.",
-      "profile": "+divine +many_gods +ritual +fire",
+      "profile": "+divine +many_gods +ritual +fire +divination_oracles",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Scythian_religion",
         "https://www.iranicaonline.org/articles/scythians/",
-        "https://www.iranicaonline.org/articles/scythian-language/"
+        "https://www.iranicaonline.org/articles/scythian-language/",
+        "https://camera-praehistorica.kunstkamera.ru/en/archive/camera_praehistorica_1_2026/va_kisel_diviners_of_scythia_literary_image_and_cultural_phenomenon"
       ],
-      "notes": "Encyclopaedia Iranica подтверждает пантеон и связь Табити с огнём и очагом. Греческие соответствия у Геродота — интерпретация внешнего автора. Гипотетические функции отдельных богов и автоматическое отождествление жрецов-энареев с шаманами не использованы."
+      "notes": "Encyclopaedia Iranica подтверждает пантеон и связь Табити с огнём и очагом. Греческие соответствия у Геродота — интерпретация внешнего автора. Гипотетические функции отдельных богов и автоматическое отождествление жрецов-энареев с шаманами не использованы. Дополнение: В. А. Кисель, «Гадатели» Скифии (Кунсткамера, Camera praehistorica, 2026, № 1), анализирует античные свидетельства о гадании ивовыми прутьями и полосками липовой коры: +divination_oracles. Литературный образ энареев и его интерпретации остаются отдельной проблемой; гадание не доказывает одержимости духом или единой шаманской системы."
     },
     {
       "sourceIndex": 485,
@@ -357,12 +362,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Дохристианские славянские традиции с божествами, природными духами, предками и сезонными обрядами.",
-      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +divination_oracles",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Slavic_paganism"
+        "https://en.wikipedia.org/wiki/Slavic_paganism",
+        "https://ojs.zrc-sazu.si/sms/article/view/6616"
       ],
-      "notes": "Предлагаемое семейство ancient_european. Не alias существующего «Родноверия»: religions.js определяет его как современные славянские движения, тогда как исходная статья о дохристианских традициях. Источники фрагментарны и регионы различались; единый обязательный пантеон не навязан."
+      "notes": "Предлагаемое семейство ancient_european. Не alias существующего «Родноверия»: religions.js определяет его как современные славянские движения, тогда как исходная статья о дохристианских традициях. Источники фрагментарны и регионы различались; единый обязательный пантеон не навязан. Дополнение: Jiří Dynda, Slavic Hippomancy (Studia mythologica Slavica 19, 2016, pp. 61–85), исследует западнославянские гадания на коне и жребии: +divination_oracles. Признак обозначает засвидетельствованную практику внутри комплекса; обряды балтийских славян не объявлены обязательными для всех славянских регионов."
     }
   ]
 }

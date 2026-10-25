@@ -13,13 +13,15 @@
       "inheritFamilyProfile": false,
       "parent": "Религия династии Шан",
       "description": "Исторический культ шанских предков, получавших подношения и обращения потомков.",
-      "profile": "+divine +ancestors +ritual",
+      "profile": "+divine +ancestors +ritual +divination_oracles +afterlife",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Shang_ancestral_deification",
-        "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-dynasty/shang-dynasty-2/"
+        "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-dynasty/shang-dynasty-2/",
+        "https://searchcollection.asianart.org/objects/6786/fragment-of-oracle-bone",
+        "https://spice.fsi.stanford.edu/docs/the_shang_dynasty_1600_to_1050_bce"
       ],
-      "notes": "Узкий предковый комплекс внутри шанской религии, а не её полный синоним. Источники особенно хорошо освещают царскую линию и её ритуалы; не следует переносить все дворцовые правила на любые группы населения. Конкретные отождествления ДИ с совокупностью предков спорны и не закодированы."
+      "notes": "Узкий предковый комплекс внутри шанской религии, а не её полный синоним. Источники особенно хорошо освещают царскую линию и её ритуалы; не следует переносить все дворцовые правила на любые группы населения. Конкретные отождествления ДИ с совокупностью предков спорны и не закодированы. Уточнение профиля: Asian Art Museum, Fragment of oracle bone (B60M500), прямо связывает предковый культ с вопросами предкам и толкованием трещин костей (+divination_oracles). Stanford SPICE описывает продолжение жизни предков после смерти и погребальное обеспечение умерших (+afterlife). Это прежде всего царские и элитные свидетельства; придворная процедура не приписана всем шанцам."
     },
     {
       "sourceIndex": 587,
@@ -30,7 +32,7 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Древнекитайские шанские верования и обряды с предками, природными силами и божественными сущностями.",
-      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +divination_oracles +personal +afterlife",
       "proposedQuestions": [
         {
           "id": "divination_oracles",
@@ -46,9 +48,11 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Religion_of_the_Shang_dynasty",
         "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-dynasty/shang-dynasty-2/",
-        "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/70153325-0848-44d5-9b08-9f1b71055d72/content"
+        "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/70153325-0848-44d5-9b08-9f1b71055d72/content",
+        "https://afe.easia.columbia.edu/ps/cup/oracle_bone_general.pdf",
+        "https://spice.fsi.stanford.edu/docs/the_shang_dynasty_1600_to_1050_bce"
       ],
-      "notes": "Исторический комплекс, главным образом известный из царских гадательных надписей и археологии. Дополнение Smithsonian подтверждает посредничество предков и гадания. Интерпретации ДИ как единого высшего бога либо множественного обозначения божественной власти различаются; +one_god не назначен."
+      "notes": "Исторический комплекс, главным образом известный из царских гадательных надписей и археологии. Дополнение Smithsonian подтверждает посредничество предков и гадания. Интерпретации ДИ как единого высшего бога либо множественного обозначения божественной власти различаются; +one_god не назначен. Уточнение профиля: Columbia University, Oracle-Bone Inscriptions of the Late Shang Dynasty, публикует перевод гадательных вопросов и объясняет поиск воли предков и Ди (+divination_oracles). Stanford SPICE описывает просьбы о помощи, обращённые к богам через жертвы (+personal), и веру в посмертное существование (+afterlife). Гадательные записи не приравнены к единому священному канону; спор об устройстве пантеона сохраняется."
     },
     {
       "sourceIndex": 588,
@@ -59,12 +63,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Китайские культы и богословские представления о Шан-ди, верховном небесном владыке.",
-      "profile": "+divine +ritual",
+      "profile": "+divine +ritual +personal",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Shangdi"
+        "https://en.wikipedia.org/wiki/Shangdi",
+        "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/shangdi"
       ],
-      "notes": "Исходная статья о божестве, а не отдельной церкви. Сохранён засвидетельствованный культ: источник описывает жертвоприношение Небу и позднейшие формы почитания. Значение имени и соотношение с Тянь менялись; употребление Shangdi в христианстве не означает тождества всех культов христианскому монотеизму."
+      "notes": "Исходная статья о божестве, а не отдельной церкви. Сохранён засвидетельствованный культ: источник описывает жертвоприношение Небу и позднейшие формы почитания. Значение имени и соотношение с Тянь менялись; употребление Shangdi в христианстве не означает тождества всех культов христианскому монотеизму. Уточнение профиля: академическая Encyclopedia of Religion, статья «Shangdi», отмечает редкие непосредственные молитвы Шан-ди и более обычные просьбы к младшим божествам о заступничестве перед ним (+personal). Редкость прямого обращения не означает невозможности личного обращения. Та же статья различает Шан-ди и обычный круг предковых оракулов, поэтому гадание и культ предков не назначены этой узкой записи автоматически."
     },
     {
       "sourceIndex": 589,
@@ -92,12 +97,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Традиционная религия гаро с Татара Рабугой, Миси Салджонгом и земледельческими обрядами.",
-      "profile": "+divine +many_gods +ritual",
+      "profile": "+divine +many_gods +ritual +divination_oracles +afterlife +reincarnation",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Songsarek"
+        "https://en.wikipedia.org/wiki/Songsarek",
+        "https://nomadit.co.uk/conference/ecsas2014/p/2444",
+        "https://www.researchgate.net/publication/348663028_Have_the_Mitdes_Gone_Silent_Conversion_Rhetoric_and_the_Continuing_Importance_of_the_Lower_Deities_in_Northeast_India"
       ],
-      "notes": "Статья прямо называет религию гаро и её божеств, включая богиню Сусиме, а также Вангала. Верховный бог не означает исключительного единобожия. Современные гаро могут следовать другим религиям."
+      "notes": "Статья прямо называет религию гаро и её божеств, включая богиню Сусиме, а также Вангала. Верховный бог не означает исключительного единобожия. Современные гаро могут следовать другим религиям. Уточнение профиля: E. de Maaker, доклад «Diagnostic divination» (ECSAS 2014), прямо называет диагностические гадания важной практикой Songsarek (+divination_oracles). Его полевая работа «Have the Mitdes Gone Silent?» (Brill, 2013), с. 147, описывает посмертное существование, за которым предполагается новое рождение (+afterlife, +reincarnation), одновременно отмечая отсутствие кодифицированного богословия и неуверенность самих участников. Это не доктрина кармы и не описание всех нынешних гаро."
     },
     {
       "sourceIndex": 591,
@@ -108,12 +115,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Региональный комплекс тайваньских народных культов с предками, местными божествами и храмовыми практиками.",
-      "profile": "+divine +many_gods +ancestors +ritual",
+      "profile": "+divine +many_gods +ancestors +ritual +personal +icons +divination_oracles +spirit_possession",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Taiwanese_folk_beliefs"
+        "https://en.wikipedia.org/wiki/Taiwanese_folk_beliefs",
+        "https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=52",
+        "https://homepage.ntu.edu.tw/~anthro/download/article/wplin/wplin_2011.pdf"
       ],
-      "notes": "В статье основной акцент на китайских народных традициях Тайваня и их местном развитии. Более узкие культы Ванъе и религии отдельных коренных народов не объявлены полными синонимами этой записи. Профиль не описывает всех жителей Тайваня и не навязывает им единую смесь религий."
+      "notes": "В статье основной акцент на китайских народных традициях Тайваня и их местном развитии. Более узкие культы Ванъе и религии отдельных коренных народов не объявлены полными синонимами этой записи. Профиль не описывает всех жителей Тайваня и не навязывает им единую смесь религий. Уточнение профиля: государственная Taiwan Religious Culture Map описывает обращения к Tudigong и Tudipo по именам и вопросы через блоки Poe (+personal, +divination_oracles), а также изображения божеств в храмовом культе (+icons). Полевая статья W.-P. Lin (2011), размещённая National Taiwan University, описывает в Wannian божеств, нисходящих на медиумов и говорящих через них (+spirit_possession). Признаки обозначают засвидетельствованные практики регионального комплекса, а не обязательное участие каждого тайваньца или перенос на коренные народы Тайваня."
     },
     {
       "sourceIndex": 592,
@@ -124,12 +133,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Местные традиции тангса с духами и обрядами, включая обращения к духу земли Виху.",
-      "profile": "+nature_spirits +ritual",
+      "profile": "+nature_spirits +ritual +divination_oracles",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Tangsa_Naga"
+        "https://en.wikipedia.org/wiki/Tangsa_Naga",
+        "https://arunachalpradesh.gov.in/images/Gazetteer/tirap.pdf",
+        "https://hasp.ub.uni-heidelberg.de/journals/iaf/article/download/3708/3809/"
       ],
-      "notes": "Статья о народе описывает праздник Wihu Kuh с молитвами, песнями и жертвами. Буддийские, христианские и традиционные принадлежности различаются по группам; одна традиция не приписана всем тангса."
+      "notes": "Статья о народе описывает праздник Wihu Kuh с молитвами, песнями и жертвами. Буддийские, христианские и традиционные принадлежности различаются по группам; одна традиция не приписана всем тангса. Уточнение профиля: Gazetteer of India, Tirap District, раздел о религиозных специалистах, отдельно описывает тангса: гадатель с деревянной палочкой определяет духа, вызывающего болезнь; у Yogli и Ron-Rang также проверяют знамения перед охотой (+divination_oracles). Это подкрепляет разграничение с реформированным рангфраизмом: Barkataki-Ruscheweyh (2015), с. 156, сообщает о замене лечебных гаданий молитвами в новом движении. Практики соседних Wancho из того же раздела не перенесены."
     },
     {
       "sourceIndex": 593,
@@ -140,14 +151,16 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Традиция зелиангронг с верховным Тингкао Рагвангом, другими божествами и общинными обрядами.",
-      "profile": "+divine +many_gods +ancestors +afterlife +ritual",
+      "profile": "+divine +many_gods +ancestors +afterlife +ritual +personal +nature_spirits +fire",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Tingkao_Ragwang_Chapriak",
         "https://www.bhu.ac.in/Images/files/Anvikshiki%20Vol_%20XVII%202021-BHU%20Press.pdf",
-        "https://archives.christuniversity.in/items/show/17917"
+        "https://archives.christuniversity.in/items/show/17917",
+        "https://hsssjournal.com/wp-content/uploads/2024/08/10-The-Concept-of-God-in-Rongmei-Indigenous-Religion-Tingkao-Ragwang-Chapriak-TRC.pdf",
+        "https://e-pao.net/epSubPageExtractor.asp?src=manipur.Festival_of_Manipur.Gaan_Ngai_And_LuiNgaiNi_Festival.Gaan-ngai_A_Grand_Festival_Of_TRC_Tingkao_Ragwang_Chap_Riak_By_Poushinglung_Kabui"
       ],
-      "notes": "Научные источники различают политеистическую TRC и родственную реформированную Херака, несмотря на общее высшее божество. Не alias Херака. Исходная статья описывает семейное поминовение умерших и жертвенные обряды Гаан-Нгаи; современные организационные реформы не отменяют местных различий."
+      "notes": "Научные источники различают политеистическую TRC и родственную реформированную Херака, несмотря на общее высшее божество. Не alias Херака. Исходная статья описывает семейное поминовение умерших и жертвенные обряды Гаан-Нгаи; современные организационные реформы не отменяют местных различий. Уточнение профиля: статья «The Concept of God in Rongmei Indigenous Religion: Tingkao Ragwang Chapriak», Humanities and Social Science Studies 13/1, с. 130, описывает природные силы, почитаемые как божества воды, ветра, земли и огня (+nature_spirits). Общинное описание Гаан-Нгаи Poushinglung Kabui фиксирует просьбы благословения Тингкао Рагванга (+personal) и распределение нового священного огня по домам (+fire). Священный огонь подтверждён конкретным обрядом; описания реформаторов Херака не использованы как доказательства TRC."
     },
     {
       "sourceIndex": 594,
@@ -158,12 +171,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Традиционные культы тото Западной Бенгалии с божествами Ишпа и Чейма и подношениями.",
-      "profile": "+divine +many_gods +ritual",
+      "profile": "+divine +many_gods +ritual +personal",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Toto_people"
+        "https://en.wikipedia.org/wiki/Toto_people",
+        "https://ir.nbu.ac.in/bitstreams/1076ca7f-3fc8-4449-8abd-adc0837026dc/download"
       ],
-      "notes": "Статья о народе прямо называет двух божеств и различает места и формы их почитания. Наличие христианских обращений не делает христианские признаки общими для традиции."
+      "notes": "Статья о народе прямо называет двух божеств и различает места и формы их почитания. Наличие христианских обращений не делает христианские признаки общими для традиции. Уточнение профиля: исследование в репозитории University of North Bengal, раздел Religion, с. 116, описывает подношения для умиротворения Ишпа, просьбы Чиме защищать деревню и Garom Puja как молитву о всеобщем благополучии (+personal). Оценочное слово автора о «суеверии» не используется. Само проживание Ишпа на холме не считается достаточным основанием для всеобщего одушевления природы, а влияние буддизма не означает +buddha или +karma всей традиции."
     },
     {
       "sourceIndex": 595,
@@ -174,12 +188,14 @@
       "inheritFamilyProfile": false,
       "parent": "Китайская народная религия",
       "description": "Культ Ванъе, также называемых Ong Yah, с защитными процессиями и проводами божеств на ритуальных лодках.",
-      "profile": "+divine +many_gods +ritual",
+      "profile": "+divine +many_gods +ritual +personal +icons +divination_oracles +spirit_possession +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Wang_Ye_worship"
+        "https://en.wikipedia.org/wiki/Wang_Ye_worship",
+        "https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=90",
+        "https://ich.unesco.org/en/RL/ong-chun-wangchuan-wangkang-ceremony-rituals-and-related-practices-for-maintaining-the-sustainable-connection-between-man-and-the-ocean-01608"
       ],
-      "notes": "Сохранён конкретный культ божеств-защитников, особенно известный в Фуцзяни и на Тайване. Горение ритуальной лодки не закодировано как самостоятельное почитание священного огня. Не синоним всех тайваньских народных верований."
+      "notes": "Сохранён конкретный культ божеств-защитников, особенно известный в Фуцзяни и на Тайване. Горение ритуальной лодки не закодировано как самостоятельное почитание священного огня. Не синоним всех тайваньских народных верований. Уточнение профиля: Taiwan Religious Culture Map, Donggang Wangye Deities Ceremony, описывает приглашение Ванъе и благодарение за защиту (+personal), почитаемые изображения на паланкинах (+icons), определение даты и имени божества посредством Poe (+divination_oracles), а также медиума, через которого дух сообщает имя (+spirit_possession). UNESCO, номинация 01608 Ong Chun, подтверждает обряд для душ утонувших «добрых братьев» (+afterlife). Donggang и Minnan/Melaka представляют разные локальные варианты; лодочное сожжение по-прежнему не означает самостоятельного культа огня."
     },
     {
       "sourceIndex": 596,
@@ -190,7 +206,7 @@
       "inheritFamilyProfile": false,
       "parent": "Китайская народная религия",
       "description": "Китайские традиции ритуальных специалистов у, общения с духами, гадания и целительства.",
-      "profile": "+divine +ritual",
+      "profile": "+divine +ritual +personal +divination_oracles +occult +spirit_possession",
       "proposedQuestions": [
         {
           "id": "divination_oracles",
@@ -204,9 +220,11 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Chinese_shamanism"
+        "https://en.wikipedia.org/wiki/Chinese_shamanism",
+        "https://link.springer.com/article/10.1007/s10816-021-09523-9",
+        "https://journals.sagepub.com/doi/10.1177/000842980303200105"
       ],
-      "notes": "Wuism здесь обозначает китайские практики у, не корейский Muism/мусок. Источник оговаривает изменение значения wu и спорность полного перевода термином «шаманизм». Зонтичная запись не объединяет автоматически все отдельные маньчжурские, монгольские или тибетские традиции."
+      "notes": "Wuism здесь обозначает китайские практики у, не корейский Muism/мусок. Источник оговаривает изменение значения wu и спорность полного перевода термином «шаманизм». Зонтичная запись не объединяет автоматически все отдельные маньчжурские, монгольские или тибетские традиции. Уточнение профиля: Journal of Archaeological Method and Theory, «An Ethnological Analogy and Biogenetic Model…» (2021), раздел Wu During the Warring States Period, описывает молитвы божествам (+personal), гадания и толкование снов (+divination_oracles), заклинания и экзорцизм (+occult). A. R. Marshall, «Engendering mediumship» (2003), разбирает текстовые свидетельства нисхождения духа в медиума (+spirit_possession). Значение wu и интерпретации ранних текстов спорны: признаки относятся к документированным формам практики, а не ко всем носителям титула во все эпохи."
     },
     {
       "sourceIndex": 597,
@@ -217,13 +235,13 @@
       "inheritFamilyProfile": false,
       "parent": "Китайская народная религия",
       "description": "Местные китайские религиозные объединения Хэбэя, организующие праздники, паломничества и почитание божеств.",
-      "profile": "+divine +many_gods +ritual",
+      "profile": "+divine +many_gods +ritual +personal +divination_oracles +spirit_possession",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Associations_of_good-doing",
         "https://api.repository.cam.ac.uk/server/api/core/bitstreams/bd234e7a-1a9a-43ed-bdcc-fbe9dda593f3/content"
       ],
-      "notes": "Этнографическая работа подтверждает домашние храмовые праздники, shenshen и ритуальных специалистов. Название обозначает местные группы, а не единую всеобщую церковь. Сотрудничество с медиумами не делает каждого участника медиумом; термин «благое дело» не равен светскому гуманизму."
+      "notes": "Этнографическая работа подтверждает домашние храмовые праздники, shenshen и ритуальных специалистов. Название обозначает местные группы, а не единую всеобщую церковь. Сотрудничество с медиумами не делает каждого участника медиумом; термин «благое дело» не равен светскому гуманизму. Уточнение профиля: Y. Yue, «Holding Temple Festivals at Home of Doing-gooders», Cambridge Journal of China Studies 9/1, с. 51–53, описывает обеты богам и ожидание их помощи (+personal), а также xiangdaode, одержимого shenshen, который предсказывает несчастья и удачу по горящему благовонию (+divination_oracles, +spirit_possession). Домашние праздники объединяют обычных xinghaode и медиумов; наличие медиумной практики в сообществе не означает, что ею занимается каждый участник. Данные ограничены полевым районом Хэбэя."
     },
     {
       "sourceIndex": 598,
@@ -234,15 +252,17 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Реформированное движение лимбу, сосредоточенное на Юме и её религиозном воплощении в Сиккиме.",
-      "profile": "+divine +ritual",
+      "profile": "+divine +ritual +personal +scripture",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Yuma_Sammang",
         "https://journals.openedition.org/ateliers/14311",
         "https://doaj.org/article/034265feff3e46178abbdbf0f8b4f289",
-        "https://skosmos-hav.aussereurop.univie.ac.at/collections/limbu/node/290/"
+        "https://skosmos-hav.aussereurop.univie.ac.at/collections/limbu/node/290/",
+        "https://www.sikkim.gov.in/media/news-announcement/news-info?name=Minister+Tshering+T+Bhutia+visits+Yuma+Mangheem+at+Yuksam%2C+Assures+support+for+upgradation",
+        "https://www.sikkim.gov.in/uploads/SikkimHerald/August_23_0_20230824.pdf"
       ],
-      "notes": "Исходная ссылка о богине Yuma Sammang и более широкой Yuma Samyo, поэтому дополнена исследованием Mélanie Vandenhelsken (2021) и полевой коллекцией Венского университета. Они отдельно описывают новое движение Yumaism и его отличия от традиционных шаманских практик лимбу. Не alias всего киратизма или любого культа Юмы; представления о воплощении лидера не приравнены общей доктрине перерождения."
+      "notes": "Исходная ссылка о богине Yuma Sammang и более широкой Yuma Samyo, поэтому дополнена исследованием Mélanie Vandenhelsken (2021) и полевой коллекцией Венского университета. Они отдельно описывают новое движение Yumaism и его отличия от традиционных шаманских практик лимбу. Не alias всего киратизма или любого культа Юмы; представления о воплощении лидера не приравнены общей доктрине перерождения. Уточнение профиля: правительственное сообщение Сиккима о Yuma Mangheem (29.07.2025) прямо описывает Mang Sewa — молитвы и подношения в Yumaism (+personal). Sikkim Herald от 23.08.2023, с. 10, сообщает о торжественном чтении священных писаний на празднике Yuma Mang Meditation Centre Committee (+scripture). Название медитационного центра само по себе не использовано как доказательство важности медитации; существование воплощённой богини не превращено в универсальную доктрину перерождения."
     },
     {
       "sourceIndex": 599,
@@ -253,12 +273,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Традиция акха с родовыми предками, духами и повседневными и сезонными обрядами.",
-      "profile": "+nature_spirits +ancestors +ritual",
+      "profile": "+nature_spirits +ancestors +ritual +divination_oracles",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Akha_people"
+        "https://en.wikipedia.org/wiki/Akha_people",
+        "https://so05.tci-thaijo.org/index.php/MFUconnexion/article/view/241424"
       ],
-      "notes": "Источник прямо называет религию акха zahv. Родство людей и духов, подношения предкам и ритуальный год подтверждены; при этом статья отмечает, что простое сведение традиции к ярлыкам «анимизм» и «культ предков» может искажать её смысл."
+      "notes": "Источник прямо называет религию акха zahv. Родство людей и духов, подношения предкам и ритуальный год подтверждены; при этом статья отмечает, что простое сведение традиции к ярлыкам «анимизм» и «культ предков» может искажать её смысл. Уточнение профиля: исследование chicken bone divination в Connexion: Journal of Humanities and Social Sciences (2013), основанное на интервью и включённом наблюдении 2004–2007 годов в Чианграе, прямо включает акха среди общин, использующих гадание по куриным костям (+divination_oracles). Сходные техники соседей не объявлены общей религией; локальная работа не устанавливает обязательность одной процедуры во всех общинах акха."
     },
     {
       "sourceIndex": 600,
@@ -269,12 +290,16 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Древнекитайские верования раннего Чжоу с Тянь, предками, небесным мандатом и жертвенными обрядами.",
-      "profile": "+divine +many_gods +ancestors +ritual",
+      "profile": "+divine +many_gods +ancestors +ritual +divination_oracles +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Religion_of_the_Predynastic_and_Western_Zhou"
+        "https://en.wikipedia.org/wiki/Religion_of_the_Predynastic_and_Western_Zhou",
+        "https://ikgf.uni-erlangen.de/research/research-projects/techniques-and-practices/significance-of-scapulimancy-in-early-china.shtml",
+        "https://www.nga.gov/sites/default/files/migrate_images/content/dam/ngaweb/education/learning-resources/teaching-packets/pdfs/chinese-archaeology-tp.pdf",
+        "https://nga.gov.au/exhibitions/life-in-the-emperors-tomb/",
+        "https://asia-archive.si.edu/wp-content/uploads/2020/06/LP13-Technology-and-Production_Ancient-Chinese-Bronzes-FA2.pdf"
       ],
-      "notes": "Исходная статья ограничена додинастическим и западночжоуским периодами; не описывает автоматически всю религиозную историю Восточного Чжоу. Имена Тянь и ДИ и их отношения с предками интерпретируются по-разному; полного тождества шанской религии или конфуцианству не установлено."
+      "notes": "Исходная статья ограничена додинастическим и западночжоуским периодами; не описывает автоматически всю религиозную историю Восточного Чжоу. Имена Тянь и ДИ и их отношения с предками интерпретируются по-разному; полного тождества шанской религии или конфуцианству не установлено. Уточнение профиля: проект M. Khayutina в Universität Erlangen-Nürnberg специально о Западном Чжоу подтверждает остеопиромантию при дворе и за его пределами (+divination_oracles). National Gallery of Australia описывает погребальное обеспечение умерших для существования в мире духов эпохи Шан–Чжоу (+afterlife); Smithsonian и NGA приводят раннезападночжоуские погребальные ритуальные сосуды. Позднейшая канонизация Ицзина и восточночжоуские толкования не перенесены в этот профиль как +scripture; изображения taotie на сосудах не приняты за носимые ритуальные маски."
     },
     {
       "sourceIndex": 601,

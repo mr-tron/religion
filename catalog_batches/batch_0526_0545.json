@@ -13,12 +13,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Традиции веддов Шри-Ланки с местными божествами и почитанием умерших предков nae yaku.",
-      "profile": "+divine +many_gods +ancestors",
+      "profile": "+divine +many_gods +ancestors +ritual +spirit_possession +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Vedda"
+        "https://en.wikipedia.org/wiki/Vedda",
+        "https://www.thebonobopress.com/Issue1/The_Veddas_Chapter_6_Charles_Seligman_Brenda_Seligman.html",
+        "https://www.treccani.it/enciclopedia/vedda/"
       ],
-      "notes": "Статья о народе отдельно описывает первоначальную политеистическую религию и последующие сочетания с буддизмом и индуизмом. Профиль относится к традиционным верованиям, а не к обязательным взглядам всех веддов. Исходная расовая рубрика Negrito не используется как религиозная классификация."
+      "notes": "Статья о народе отдельно описывает первоначальную политеистическую религию и последующие сочетания с буддизмом и индуизмом. Профиль относится к традиционным верованиям, а не к обязательным взглядам всех веддов. Исходная расовая рубрика Negrito не используется как религиозная классификация. Уточнение профиля: The Veddas К. Г. и Б. З. Зелигманов (1911), гл. VI, в доступной транскрипции прямо описывает Nae Yaku и ритуальные танцы, в которых предок или Kande Yaka действует через шамана; Treccani подтверждает жертвенные подношения умершим и одержимость (+ritual, +spirit_possession, +afterlife). Использованы конкретные обрядовые свидетельства; колониальные оценки подлинности и психологии участников не приняты. Карма и перерождение поздних буддийско-индуистских сочетаний не назначены всей традиции."
     },
     {
       "sourceIndex": 527,
@@ -29,7 +31,7 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Практики шаманских специалистов Хунзы с общением с горными духами и предсказаниями.",
-      "profile": "+nature_spirits +ritual",
+      "profile": "+nature_spirits +ritual +divination_oracles",
       "proposedQuestions": [
         {
           "id": "divination_oracles",
@@ -45,9 +47,11 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Shamanism_in_Pakistan",
         "https://asianethnology.org/article/148867-shamans-and-mountain-spirits-in-hunza",
-        "https://www.researchgate.net/publication/251986663_Shamans_and_Mountain_Spirits_in_Hunza"
+        "https://www.researchgate.net/publication/251986663_Shamans_and_Mountain_Spirits_in_Hunza",
+        "https://www.jstor.org/stable/1178560",
+        "https://www.researchgate.net/publication/264251299_Flying_with_the_Vanishing_Fairies_Typology_of_the_Shamanistic_Traditions_of_the_Hunza"
       ],
-      "notes": "Исходная статья имеет более широкое название «Шаманизм в Пакистане». Полевое исследование М. Х. Сидки подтверждает практику bitan в Хунзе; это не доказательство единой религии всех жителей Пакистана или всех бурушо. Исламская принадлежность не исключает сохранения локальных практик."
+      "notes": "Исходная статья имеет более широкое название «Шаманизм в Пакистане». Полевое исследование М. Х. Сидки подтверждает практику bitan в Хунзе; это не доказательство единой религии всех жителей Пакистана или всех бурушо. Исламская принадлежность не исключает сохранения локальных практик. Уточнение профиля: M. H. Sidky, «Shamans and Mountain Spirits in Hunza» (1994), характеризует bitan как прорицателей (+divination_oracles). L. Koppány Csáji, «Flying with the Vanishing Fairies» (2011), уточняет различие между сообщениями от pari и одержимостью: в описанном сеансе духи говорят из барабана, а bitan передаёт услышанное. Поэтому +spirit_possession не добавлен; вдыхание можжевельника также не принято автоматически за энтеогенный обряд."
     },
     {
       "sourceIndex": 528,
@@ -76,12 +80,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Местные политеистические культы древнего Элама с Иншушинаком, Напиришей и другими божествами.",
-      "profile": "+divine +many_gods",
+      "profile": "+divine +many_gods +ritual +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Elam"
+        "https://en.wikipedia.org/wiki/Elam",
+        "https://www.iranicaonline.org/articles/elam-vi/"
       ],
-      "notes": "Предлагаемое семейство ancient_neareastern. Статья о государстве содержит отдельный раздел религии с местными пантеонами. Эламское происхождение не равнозначно тождеству поздним иранским религиям; заимствования богов не делают запись синонимом шумерской или хурритской религии."
+      "notes": "Предлагаемое семейство ancient_neareastern. Статья о государстве содержит отдельный раздел религии с местными пантеонами. Эламское происхождение не равнозначно тождеству поздним иранским религиям; заимствования богов не делают запись синонимом шумерской или хурритской религии. Уточнение профиля: F. Vallat, Encyclopaedia Iranica, «Elam vi. Elamite religion», описывает ежедневное жертвоприношение овцы с песнопениями у ворот Иншушинака и погребальные подношения (+ritual); погребальные таблички изображают путь умершего к суду Иншушинака (+afterlife). Реконструкция преимущественно относится к Сузиане; её не следует считать неизменной системой всех областей Элама. Погребальный культ не превращён без уточнения в общее почитание семейных предков."
     },
     {
       "sourceIndex": 530,
@@ -92,7 +97,7 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Древняя религиозная традиция этрусков с несколькими божествами, жречеством и гадательной дисциплиной.",
-      "profile": "+divine +many_gods +ritual",
+      "profile": "+divine +many_gods +ritual +divination_oracles +revelation +scripture +afterlife",
       "proposedQuestions": [
         {
           "id": "divination_oracles",
@@ -106,9 +111,11 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Etruscan_religion"
+        "https://en.wikipedia.org/wiki/Etruscan_religion",
+        "https://resources.metmuseum.org/resources/metpublications/pdf/Etruscan_Art_in_The_Metropolitan_Museum.pdf",
+        "https://www.britishmuseum.org/collection/galleries/etruscan-world"
       ],
-      "notes": "Предлагаемое семейство ancient_european. Источник прямо различает этрусскую традицию и связанные с ней греческие и римские культы. Гаруспиция и другие способы получения божественных знаков описаны, но не приравнены автоматически к самостоятельной магии."
+      "notes": "Предлагаемое семейство ancient_european. Источник прямо различает этрусскую традицию и связанные с ней греческие и римские культы. Гаруспиция и другие способы получения божественных знаков описаны, но не приравнены автоматически к самостоятельной магии. Уточнение профиля: музейное издание The Met, Etruscan Art in The Metropolitan Museum, раздел Belief System, описывает толкование печени, молний и полёта птиц (+divination_oracles), а также откровение пророка Тагеса, записанное как Etrusca disciplina — основа веры и практики (+revelation, +scripture). PDF целиком слишком велик для веб-просмотра, использован индексированный раздел. British Museum прямо связывает погребальную обрядность этрусков с верой в загробную жизнь (+afterlife). Откровение — традиционное предание, а не установленное историческое событие; римские пересказы и утрата корпуса ограничивают реконструкцию."
     },
     {
       "sourceIndex": 531,
@@ -136,7 +143,7 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Политеистические культы хурритских общин древнего Ближнего Востока с местными пантеонами и ритуалами.",
-      "profile": "+divine +many_gods +ritual",
+      "profile": "+divine +many_gods +ritual +divination_oracles +occult +icons",
       "proposedQuestions": [
         {
           "id": "divination_oracles",
@@ -150,9 +157,10 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Hurrian_religion"
+        "https://en.wikipedia.org/wiki/Hurrian_religion",
+        "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/hurrian-religion"
       ],
-      "notes": "Предлагаемое семейство ancient_neareastern. Хорошо засвидетельствованы ритуальные тексты, подношения и гадания. Местные различия между Аррапхой, Киццуватной, Митанни и другими центрами не заменены одной обязательной системой. Включение хурритских культов в хеттскую среду не означает полной синонимии."
+      "notes": "Предлагаемое семейство ancient_neareastern. Хорошо засвидетельствованы ритуальные тексты, подношения и гадания. Местные различия между Аррапхой, Киццуватной, Митанни и другими центрами не заменены одной обязательной системой. Включение хурритских культов в хеттскую среду не означает полной синонимии. Уточнение профиля: академическая Encyclopedia of Religion, статья «Hurrian Religion», раздел Hurrian Worship, подтверждает толкование знамений, полёта птиц и внутренностей (+divination_oracles), симпатическую магию (+occult) и помазание изображений богов душистым маслом (+icons). Свидетельства преимущественно сохранены в синкретических хеттских документах; этнические и исторические отождествления старого обзора не используются, и все практики не объявляются обязательными во всех хурритских центрах."
     },
     {
       "sourceIndex": 533,
@@ -163,13 +171,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Исторические культы Куша в Нубии с местными и заимствованными божествами, храмовыми и погребальными обрядами.",
-      "profile": "+divine +many_gods +ancestors +afterlife +ritual",
+      "profile": "+divine +many_gods +ancestors +afterlife +ritual +personal +icons",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Kushite_religion",
         "https://exhibitions.kelsey.lsa.umich.edu/graffiti-el-kurru/religion.php"
       ],
-      "notes": "Предлагаемое семейство ancient_neareastern как уже используемая рамка для древнеегипетских и связанных нильских традиций; применимость к Нубии требует решения при объединении. Музей Мичиганского университета подтверждает местного Амона, Апедемака, подношения предкам и загробные представления. Египетское влияние не делает Куш синонимом древнеегипетской религии."
+      "notes": "Предлагаемое семейство ancient_neareastern как уже используемая рамка для древнеегипетских и связанных нильских традиций; применимость к Нубии требует решения при объединении. Музей Мичиганского университета подтверждает местного Амона, Апедемака, подношения предкам и загробные представления. Египетское влияние не делает Куш синонимом древнеегипетской религии. Уточнение профиля: Kelsey Museum, «Religion in Ancient Kush», прямо описывает обращение к Осирису в погребальных обрядах (+personal) и религиозное оставление изображений и текстов на стенах храмов и святилищ мероитского периода (+icons). Последний признак относится к документированной практике сакральных изображений, а не ко всякому граффити; различия напатского и мероитского периодов сохраняются."
     },
     {
       "sourceIndex": 534,
@@ -180,13 +188,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Религиозные практики минойского Крита, известные по святилищам, изображениям и предметам подношений.",
-      "profile": "+ritual",
+      "profile": "+ritual +divine +personal +icons",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Minoan_religion",
-        "https://www.cambridge.org/core/books/abs/cambridge-history-of-religions-in-the-ancient-world/minoan-religion/60054D223C8FD3307EDC72CF316EF4F0"
+        "https://www.cambridge.org/core/books/abs/cambridge-history-of-religions-in-the-ancient-world/minoan-religion/60054D223C8FD3307EDC72CF316EF4F0",
+        "https://www.metmuseum.org/art/collection/search/251557",
+        "https://www.heraklionmuseum.gr/en/exhibit/the-snake-goddesses/"
       ],
-      "notes": "Предлагаемое семейство ancient_european. Идентификация фигур как богинь, жриц или участников обрядов, точный пантеон и его предполагаемое единство спорны. Академическая история религий показывает реконструктивный характер интерпретаций Эванса. Сохранены обряды; монотеизм, определённая Великая богиня и тождество поздней греческой религии не назначены."
+      "notes": "Предлагаемое семейство ancient_european. Идентификация фигур как богинь, жриц или участников обрядов, точный пантеон и его предполагаемое единство спорны. Академическая история религий показывает реконструктивный характер интерпретаций Эванса. Сохранены обряды; монотеизм, определённая Великая богиня и тождество поздней греческой религии не назначены. Уточнение профиля: The Met, Bronze female figure (24.150.9), объясняет минойские вотивные дары как обращение к божеству с просьбой или благодарностью (+divine, +personal). Heraklion Archaeological Museum сообщает об использовании фигурок «Змеиных богинь» как религиозных предметов в центральном дворцовом святилище Кносса и последующем хранении как священных реликвий (+icons). Эти музейные атрибуции позволяют уточнить практику, но не устанавливают единую Великую богиню, число богов или имена пантеона; прежняя оговорка о спорности реконструкций сохраняется."
     },
     {
       "sourceIndex": 535,
@@ -215,12 +225,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Исторические религиозные традиции Шумера с городскими богами, подношениями и представлениями о мире умерших.",
-      "profile": "+divine +many_gods +ancestors +afterlife +ritual",
+      "profile": "+divine +many_gods +ancestors +afterlife +ritual +personal +icons",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Sumerian_religion"
+        "https://en.wikipedia.org/wiki/Sumerian_religion",
+        "https://art.thewalters.org/object/21.4/",
+        "https://www.metmuseum.org/art/collection/search/329072"
       ],
-      "notes": "Предлагаемое семейство ancient_neareastern. Источник подтверждает политеизм, храмовую практику и семейные возлияния умершим. Аккадские и поздние месопотамские традиции взаимодействовали с шумерскими, но не считаются точными синонимами. Наличие клинописных текстов не означает единого канона."
+      "notes": "Предлагаемое семейство ancient_neareastern. Источник подтверждает политеизм, храмовую практику и семейные возлияния умершим. Аккадские и поздние месопотамские традиции взаимодействовали с шумерскими, но не считаются точными синонимами. Наличие клинописных текстов не означает единого канона. Уточнение профиля: Walters Art Museum (21.4) описывает шумерские статуи молящихся, поставленные перед божественным образом в храме для постоянной молитвы (+icons, +personal). The Met (59.2) публикует перевод надписи статуи Гудеа с божественными посвящениями и молитвенным назначением изображения. Предметы охватывают отдельные города и эпохи; существование молитв и надписей не означает единого канона или одинаковых обрядов всего Шумера."
     },
     {
       "sourceIndex": 537,
@@ -282,12 +294,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Айнские традиции взаимодействия с камуями, сакральными силами природы и духами умерших.",
-      "profile": "+divine +many_gods +nature_spirits +ritual +afterlife +fire",
+      "profile": "+divine +many_gods +nature_spirits +ritual +afterlife +fire +personal +ancestors",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Ainu_religion"
+        "https://en.wikipedia.org/wiki/Ainu_religion",
+        "https://www.ff-ainu.or.jp/web/learn/culture/together/files/rekishi_bunka_english.pdf",
+        "https://doi.org/10.14890/minkennewseries.16.3-4_237"
       ],
-      "notes": "Источник описывает камуев в природных силах и предметах, подношения и богиню огня Камуй-хути, через очаг которой душа переходит в иной мир. Камуи не приравнены автоматически к синтоистским ками. Современная этническая принадлежность не означает обязательного следования традиции."
+      "notes": "Источник описывает камуев в природных силах и предметах, подношения и богиню огня Камуй-хути, через очаг которой душа переходит в иной мир. Камуи не приравнены автоматически к синтоистским ками. Современная этническая принадлежность не означает обязательного следования традиции. Уточнение профиля: Foundation for Ainu Culture, Ainu History and Culture, с. 14, прямо описывает обращённые к камуям молитвы и их человеческие эмоции (+personal). I. Kubodera, «The Worship of the Souls of the Ancestors among the Saru Ainu» (1952), документирует обряды nurappa и shi-nurappa (+ancestors). Последнее свидетельство локализовано у сару-айнов и не означает единого календаря или одинаковой интенсивности почитания во всех айнских общинах."
     },
     {
       "sourceIndex": 541,
@@ -298,12 +312,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Ительменские представления о Кутхе, других божествах и духах моря, леса и гор.",
-      "profile": "+divine +many_gods +nature_spirits",
+      "profile": "+divine +many_gods +nature_spirits +ritual +icons",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Itelmens"
+        "https://en.wikipedia.org/wiki/Itelmens",
+        "https://bolt-dev.dh-north.org/dossiers/das-alchalalalai-fest-der-itelmenen",
+        "https://www.atlaskmns.ru/page/en/lang_itelmeny_all.html",
+        "https://scholarworks.uni.edu/facpub/6472/"
       ],
-      "notes": "Раздел Religion статьи о народе подтверждает политеизм и природных духов. Сведения Стеллера отражают историческое описание; создатель Кутх не считался автоматически объектом благоговейного поклонения. Не синоним всех сибирских шаманских традиций."
+      "notes": "Раздел Religion статьи о народе подтверждает политеизм и природных духов. Сведения Стеллера отражают историческое описание; создатель Кутх не считался автоматически объектом благоговейного поклонения. Не синоним всех сибирских шаманских традиций. Дополнение: Erich Kasten, The Alkhalalalai Feast of the Itelmen, подтверждает исторические обряды примирения с природой; Атлас коренных малочисленных народов описывает современное посещение священной горы Эльвель с деревянной фигурой духа Хантая: +ritual +icons. Kasten отделяет восстановленные постановки от ранней обрядности; Degai, Koester и Petrasheva (Sibirica 13/2, 2014) предупреждают о предубеждениях миссионерских описаний. Эти источники не обосновывают единое современное вероучение всех ительменов."
     },
     {
       "sourceIndex": 542,
@@ -314,12 +331,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Корякские представления о верховном небесном существе и Большом Вороне.",
-      "profile": "+divine",
+      "profile": "+divine +nature_spirits +ritual +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Koryaks"
+        "https://en.wikipedia.org/wiki/Koryaks",
+        "https://dh-north.org/dossiers/das-o-lo-lo-fest-der-nymylanen"
       ],
-      "notes": "Источник о народе описывает верховное существо и мифы Куйкиля. Этого недостаточно для назначения единобожия, универсального природного анимизма или одинаковой обрядности всем корякским группам. Сходство вороньих сюжетов с другими народами не доказывает синонимии."
+      "notes": "Источник о народе описывает верховное существо и мифы Куйкиля. Этого недостаточно для назначения единобожия, универсального природного анимизма или одинаковой обрядности всем корякским группам. Сходство вороньих сюжетов с другими народами не доказывает синонимии. Дополнение: полевое описание Kasten, The O-lo-lo Feast of the Nymylan, связывает ежегодный праздник прибрежных коряков с проводами душ добытых животных в иной мир, где они рассказывают о полученном угощении: +nature_spirits +ritual +afterlife. Прямо засвидетельствован прибрежный комплекс, а не одинаковая обрядность всех коряков. Возвращение новых животных не приравнено без дополнительного уточнения переселению человеческой души."
     },
     {
       "sourceIndex": 543,
@@ -330,12 +348,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Нивхские традиции с природными божествами, родовыми духами, почитанием огня и подношениями.",
-      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +fire",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +fire +icons +occult +personal +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Nivkh_people"
+        "https://en.wikipedia.org/wiki/Nivkh_people",
+        "https://ehrafworldcultures.yale.edu/cultures/rx02/summary",
+        "https://journal.kunstkamera.ru/files/journal_kunstkamera/2020_04/kk_4_2020_140-156_hovard.pdf"
       ],
-      "notes": "Статья подтверждает богов мест и природы, «кормление» моря и огня, связь огня с предками и защитой рода. Медвежий праздник и шаманская практика — элементы традиции, а не тождество всем соседним религиям."
+      "notes": "Статья подтверждает богов мест и природы, «кормление» моря и огня, связь огня с предками и защитой рода. Медвежий праздник и шаманская практика — элементы традиции, а не тождество всем соседним религиям. Дополнение: eHRAF/Yale, Nivkh, описывает шаманское изгнание духов, лечебные талисманы, переговоры с высшими силами и уход души в подземный мир mly-wo: +occult +personal +afterlife. J. C. Howard, Kunstkamera (2020), Fig. 3 и pp. 146–147, документирует нивхскую деревянную фигуру целительного духа: +icons. Другие миры, шаманское путешествие и посредничество сами по себе не доказывают вселения духа в исполнителя; маски других народов на соседних иллюстрациях нивхам не приписаны."
     },
     {
       "sourceIndex": 544,
@@ -346,12 +366,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Юкагирские практики с духами предков, природных сил, шаманами алма и охотничьими обрядами.",
-      "profile": "+divine +nature_spirits +ancestors +ritual +afterlife +fire",
+      "profile": "+divine +nature_spirits +ancestors +ritual +afterlife +fire +occult +divination_oracles +reincarnation",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Yukaghir_people"
+        "https://en.wikipedia.org/wiki/Yukaghir_people",
+        "https://ehrafworldcultures.yale.edu/cultures/rv03/summary",
+        "https://academic.oup.com/minnesota-scholarship-online/book/15110/chapter-abstract/169555405"
       ],
-      "notes": "Источник описывает Пугу, духов огня и других природных сил, посмертное место Айбидзи и почитание умерших шаманов. Исторические обряды не объявлены обязательными для всех современных юкагиров; православие может сосуществовать с локальными практиками."
+      "notes": "Источник описывает Пугу, духов огня и других природных сил, посмертное место Айбидзи и почитание умерших шаманов. Исторические обряды не объявлены обязательными для всех современных юкагиров; православие может сосуществовать с локальными практиками. Дополнение: eHRAF/Yale, Yukaghir, прямо описывает шаманское воздействие на события, исцеление, предсказания и использование реликвий умерших шаманов при гадании: +occult +divination_oracles. Rane Willerslev, On the Run in Siberia, гл. 10 (2012), документирует представления о возвращении умерших в новых детях: +reincarnation. Приведены традиционные представления, а не проверка сверхъестественных эффектов; данные лесных и тундренных групп не объявлены полностью тождественными."
     },
     {
       "sourceIndex": 545,
@@ -362,12 +384,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Китайские семейно-родовые практики поминовения предков, обрядов и подношений.",
-      "profile": "+ancestors +ritual",
+      "profile": "+ancestors +ritual +afterlife +icons",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Ancestor_veneration_in_China"
+        "https://en.wikipedia.org/wiki/Ancestor_veneration_in_China",
+        "https://www.horniman.ac.uk/object/nn8527/",
+        "https://www.cl.ntu.edu.tw/uploads/root/%E8%87%BA%E5%A4%A7%E4%B8%AD%E6%96%87%E5%AD%B8%E5%A0%B1/%E7%AC%AC%E4%BA%94%E5%8D%81%E4%B8%80%E6%9C%9F/%E7%AB%8B%E4%B8%BB%E8%88%87%E6%87%B8%E5%BD%B1_%E4%B8%AD%E5%9C%8B%E5%82%B3%E7%B5%B1%E5%AE%B6%E7%A5%AD%E7%A5%80%E5%85%88%E8%B1%A1%E7%A5%9E%E6%A8%A3%E5%BC%8F%E4%B9%8B%E6%BA%90%E6%B5%81%E6%8A%89%E6%8E%A2.pdf"
       ],
-      "notes": "Название источника Ancestor Worship шире содержания: ссылка именно о Китае. Сохранён китайский ритуальный комплекс, а не универсальная религия всех почитателей предков. Он пересекается с конфуцианством, даосизмом, буддизмом и китайской народной религией, но не тождествен каждому из них; одинаковое богословие всем участникам не назначено."
+      "notes": "Название источника Ancestor Worship шире содержания: ссылка именно о Китае. Сохранён китайский ритуальный комплекс, а не универсальная религия всех почитателей предков. Он пересекается с конфуцианством, даосизмом, буддизмом и китайской народной религией, но не тождествен каждому из них; одинаковое богословие всем участникам не назначено. Дополнение: Horniman Museum, nn8527, описывает традиционное продолжение существования души в могиле и поминальной табличке: +afterlife. Peng Mei-Ling, Ancestral Tablets and Ancestor Images (National Taiwan University), исследует религиозное использование двумерных портретов и скульптур предков: +icons. Портреты и таблички — разные формы; уважительное светское поминовение не объявлено обязательной верой в духов, а все участники не получают одинаковый ответ о божественном."
     }
   ]
 }
