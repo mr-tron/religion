@@ -148,8 +148,8 @@
     engine=globalThis.WorldviewEngine.createEngine(data);
     $('stats').append(
       (()=>{const el=node('div','stat');el.append(node('strong',null,String(data.traditions.length)),node('span',null,'традиций и взглядов в каталоге'));return el;})(),
-      (()=>{const el=node('div','stat');el.append(node('strong',null,String(Object.keys(data.families).length)),node('span',null,'семейств идей'));return el;})(),
-      (()=>{const el=node('div','stat');el.append(node('strong',null,String(data.questions.length)),node('span',null,'возможных вопросов'));return el;})()
+      (()=>{const el=node('div','stat');el.append(node('strong',null,String(engine.candidates.length)),node('span',null,'направлений участвуют в подборе'));return el;})(),
+      (()=>{const el=node('div','stat');el.append(node('strong',null,String(data.questions.length)),node('span',null,'вопросов в базе'));return el;})()
     );
   } catch(error) {
     $('start-button').disabled=true;
