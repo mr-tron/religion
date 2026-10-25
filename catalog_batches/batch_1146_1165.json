@@ -1,0 +1,353 @@
+{
+  "range": [
+    1146,
+    1165
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1146,
+      "sourceName": "Non-Evangelical Protestantism",
+      "decision": "review",
+      "canonicalName": "Неевангеликальный протестантизм (категория ROR)",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Протестантизм",
+      "description": "Собирательная категория реестра для протестантов, не отнесённых к евангеликальным направлениям.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Mainline_Protestant",
+        "https://www.pewresearch.org/religion/2015/05/12/appendix-b-classification-of-protestant-denominations-2014/"
+      ],
+      "notes": "Страница ROR описывает систему кодирования, но не раскрывает доступным текстом определение этой строки; границы CNE требуют уточнения. Не автоматический alias mainline Protestantism: этот термин связан с определёнными историческими и национальными классификациями. Отрицательное слово в названии не позволяет выводить отрицание Библии, Христа, харизматических даров или иных отдельных доктрин."
+    },
+    {
+      "sourceIndex": 1147,
+      "sourceName": "Neo-Pentecostalism",
+      "decision": "review",
+      "canonicalName": "Неопятидесятничество (категория ROR)",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Харизматическое христианство",
+      "description": "Широкое обозначение современных харизматических движений, употребление которого различается в разных классификациях.",
+      "profile": "+spirit_gifts",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Neo-charismatic_movement"
+      ],
+      "notes": "Страница ROR описывает систему кодирования, но не раскрывает доступным текстом определение этой строки; CNP может обозначать харизматическое обновление или более узкую независимую неохаризматическую волну. До уточнения не объединять с существующими «Пятидесятничество» или «Харизматическое христианство». Даров Духа касается общий признак, но тождество организационных границ не установлено."
+    },
+    {
+      "sourceIndex": 1148,
+      "sourceName": "Eastern Orthodoxy",
+      "decision": "alias",
+      "canonicalName": "Православие",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Восточное православное христианство византийской церковной традиции.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Eastern_Orthodox_Church"
+      ],
+      "notes": "Точное английское обозначение существующей записи «Православие» в religions.js; alias. Не смешивать с Oriental Orthodoxy, для которого уже есть отдельная запись древневосточных церквей."
+    },
+    {
+      "sourceIndex": 1149,
+      "sourceName": "Roman Catholicism",
+      "decision": "alias",
+      "canonicalName": "Римский католицизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Католическая традиция в общении с папой римским.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Catholic_Church"
+      ],
+      "notes": "Точное совпадение с существующей записью «Римский католицизм» в religions.js; alias. Само обозначение Roman не следует использовать для исключения всех восточных католиков из католического общения; в каталоге восточный католицизм также выделен отдельно."
+    },
+    {
+      "sourceIndex": 1150,
+      "sourceName": "African Traditional Religion",
+      "decision": "keep",
+      "canonicalName": "Африканские традиционные религии",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательное название коренных религиозных традиций Африки, различающихся по народам, регионам, богословию и обрядам.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://academic.oup.com/book/465",
+        "https://www.pewresearch.org/religion/2010/04/15/executive-summary-islam-and-christianity-in-sub-saharan-africa/"
+      ],
+      "notes": "Страница ROR описывает систему кодирования, но не раскрывает доступным текстом определение этой строки; дополнительные исследования подтверждают содержательный широкий термин. Это не одна конфессия и не alias йоруба, аканской, динка или любой отдельной традиции. Общий профиль оставлен пустым, чтобы не приписывать всем одинаковых богов, духов и обряды."
+    },
+    {
+      "sourceIndex": 1151,
+      "sourceName": "Animism",
+      "decision": "alias",
+      "canonicalName": "Анимистическая духовность",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Представления и способы отношения к миру, признающие одушевлённость природы и субъектность нечеловеческих существ.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://iep.utm.edu/animism/",
+        "https://www.anthroencyclopedia.com/entry/animism"
+      ],
+      "notes": "Animism соответствует общему понятию уже существующей записи «Анимистическая духовность»: alias по её определению, а не объединение всех коренных религий. Современное антропологическое описание допускает разнообразие форм и не требует единого вероучения. Профиль существующей записи здесь не изменяется."
+    },
+    {
+      "sourceIndex": 1152,
+      "sourceName": "Chinese Folk Religion",
+      "decision": "alias",
+      "canonicalName": "Китайская народная религия",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательная китайская традиция почитания божеств, предков и местных духов.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Chinese_folk_religion"
+      ],
+      "notes": "Точный английский эквивалент существующей записи «Китайская народная религия» в religions.js; alias. Не сужается до одной региональной формы либо китайских традиций Юго-Восточной Азии."
+    },
+    {
+      "sourceIndex": 1153,
+      "sourceName": "Confucianism",
+      "decision": "alias",
+      "canonicalName": "Конфуцианство",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Китайская этическая, ритуальная и интеллектуальная традиция, связанная с Конфуцием и его последователями.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Confucianism"
+      ],
+      "notes": "Точное совпадение с существующей записью «Конфуцианство» в religions.js; alias. Не создаётся отдельный результат только из-за классификационного кода ECO. Богословские и секулярные интерпретации не сводятся к одному новому профилю."
+    },
+    {
+      "sourceIndex": 1154,
+      "sourceName": "Daoism",
+      "decision": "alias",
+      "canonicalName": "Даосизм",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Китайские религиозные и философские традиции, связанные с Дао.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Taoism"
+      ],
+      "notes": "Daoism и Taoism — варианты латинской передачи одного термина; точный alias существующего «Даосизм». Не сужается до отдельного философского даосизма, который уже представлен самостоятельной записью."
+    },
+    {
+      "sourceIndex": 1155,
+      "sourceName": "Shinbutsu-Shugo",
+      "decision": "review",
+      "canonicalName": "Синбуцу-сюго — синто-буддийский синкретизм",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические и продолжающиеся формы взаимодействия почитания ками с буддийскими верованиями, образами и храмовой практикой в Японии.",
+      "profile": "+kami +buddha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Shinbutsu-sh%C5%ABg%C5%8D",
+        "https://escholarship.org/content/qt9wk4f768/qt9wk4f768_noSplash_6e359a849d31ccbc2a40f26de3154f60.pdf?t=odyqez"
+      ],
+      "notes": "Страница ROR описывает систему кодирования, но не раскрывает доступным текстом определение этой строки; дополнительная статья подтверждает термин, но предупреждает о недостатке источников, поэтому review. Не одна единая церковь и не alias синто либо японского буддизма в целом. Нельзя отождествлять все варианты синкретизма с одной школой рёбу-синто."
+    },
+    {
+      "sourceIndex": 1156,
+      "sourceName": "Native American religions",
+      "decision": "keep",
+      "canonicalName": "Традиционные религии коренных народов Америки",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Широкая категория религиозных традиций коренных народов Америки, сохраняющих разные местные истории, представления и формы практики.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Native_American_religions",
+        "https://academic.oup.com/edited-volume/62249/chapter-abstract/551413105"
+      ],
+      "notes": "Страница ROR описывает систему кодирования, но не раскрывает доступным текстом определение этой строки; дополнительные исследования подтверждают многосоставность категории. Не alias Native American Church, религии одного народа или всех современных религий людей коренного происхождения. Географическое наполнение ENA без таблицы ROR не уточнено; не навязывается единая космология."
+    },
+    {
+      "sourceIndex": 1157,
+      "sourceName": "Polytheism",
+      "decision": "keep",
+      "canonicalName": "Политеизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозная позиция, признающая существование или почитание многих божеств.",
+      "profile": "+divine +many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Polytheism"
+      ],
+      "notes": "Страница ROR описывает систему кодирования, но не раскрывает доступным текстом определение этой строки; политеизм подтверждён дополнительным источником как самостоятельное понятие. Это тип представлений о божественном, а не одна этническая религия или синоним современного язычества. Не добавлены общие обряды, предки, магия или конкретный пантеон."
+    },
+    {
+      "sourceIndex": 1158,
+      "sourceName": "Shamanism",
+      "decision": "keep",
+      "canonicalName": "Шаманизм",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательное название практик ритуальных специалистов, вступающих в общение с духовным миром, в том числе через изменённые состояния сознания.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Shamanism"
+      ],
+      "notes": "Страница ROR описывает систему кодирования, но не раскрывает доступным текстом определение этой строки; широкий сравнительный термин подтверждён дополнительным источником. Не alias только «Сибирских шаманских традиций»: география шире. Не все духи понимаются как духи природы, и не все формы предполагают один пантеон, поэтому эти признаки не перенесены автоматически."
+    },
+    {
+      "sourceIndex": 1159,
+      "sourceName": "Hinduism",
+      "decision": "keep",
+      "canonicalName": "Индуизм",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательная индийская религиозная традиция, включающая разнообразные школы, формы богопочитания и духовной практики.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Hinduism"
+      ],
+      "notes": "Страница ROR описывает систему кодирования, но не раскрывает доступным текстом определение этой строки; индуизм подтверждён как широкая традиция. В religions.js есть семейство «Индийские традиции» и отдельные школы, но нет общей записи «Индуизм». Семейство шире индуизма; не alias вайшнавизма, адвайты или одной другой школы. Профиль пуст из-за разнообразия направлений."
+    },
+    {
+      "sourceIndex": 1160,
+      "sourceName": "Judaism",
+      "decision": "keep",
+      "canonicalName": "Иудаизм",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозная традиция еврейского народа, связанная с Торой, заветом и разнообразными общинными формами жизни.",
+      "profile": "+torah +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Judaism"
+      ],
+      "notes": "Страница ROR описывает систему кодирования, но не раскрывает доступным текстом определение этой строки; добавлен широкий религиозный термин. Семейство jewish уже существует, но отдельные ортодоксальные, реформистские и иные записи не исчерпывают его и не являются точными синонимами. Обязательность галахи и личная вера неодинаковы; полный семейный профиль не наследуется."
+    },
+    {
+      "sourceIndex": 1161,
+      "sourceName": "Islam",
+      "decision": "keep",
+      "canonicalName": "Ислам",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Авраамическая монотеистическая религия, основанная на Коране и пророческом учении Мухаммада.",
+      "profile": "+divine +one_god +muhammad +quran",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Islam"
+      ],
+      "notes": "Страница ROR описывает систему кодирования, но не раскрывает доступным текстом определение этой строки; подтверждено самостоятельное широкое понятие. Наличие семейства islam не равно наличию общей записи; суннизм, шиизм и другие направления не точные синонимы ислама в целом. Конкретный мазхаб, имамат и членство в суфийском ордене не предполагаются."
+    },
+    {
+      "sourceIndex": 1162,
+      "sourceName": "Folk Islam",
+      "decision": "keep",
+      "canonicalName": "Народный ислам",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Ислам",
+      "description": "Собирательное обозначение местных форм исламской религиозной жизни, включающих региональные обычаи и верования.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Folk_Islam"
+      ],
+      "notes": "Страница ROR описывает систему кодирования, но не раскрывает доступным текстом определение этой строки; дополнительный источник подтверждает зонтичное употребление термина, не отдельную конфессию. Не alias суфизма: пересечения значительны, но категории не тождественны. Без описания конкретной местной общины нельзя приписывать всем культ святых, магию, духов или одинаковое отношение к шариату."
+    },
+    {
+      "sourceIndex": 1163,
+      "sourceName": "Shia Islam",
+      "decision": "keep",
+      "canonicalName": "Шиитский ислам",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Ислам",
+      "description": "Совокупность исламских направлений, придающих особое значение праву Али и его потомков на духовное руководство общиной.",
+      "profile": "+ali",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Shia_Islam"
+      ],
+      "notes": "Страница ROR описывает систему кодирования, но не раскрывает доступным текстом определение этой строки; шиитский ислам подтверждён как более широкая категория, чем существующий «Шиитский ислам двунадесятников». Включает также отличные от него линии имамата; не alias одной школы. Доктрина двенадцати имамов не перенесена на весь шиизм."
+    },
+    {
+      "sourceIndex": 1164,
+      "sourceName": "Sunni Islam",
+      "decision": "alias",
+      "canonicalName": "Суннитский ислам",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Крупнейшее направление ислама, связанное с сунной и собственными традициями правового и богословского знания.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Sunni_Islam"
+      ],
+      "notes": "Точное совпадение с существующей записью «Суннитский ислам» в religions.js; alias. Не сводится к одному мазхабу, салафизму или иной отдельной суннитской группе."
+    },
+    {
+      "sourceIndex": 1165,
+      "sourceName": "Sufi Islam",
+      "decision": "keep",
+      "canonicalName": "Суфизм",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Ислам",
+      "description": "Мистические и духовно-практические традиции ислама, представленные как орденскими, так и внеорденскими формами.",
+      "profile": "+sufi",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://en.wikipedia.org/wiki/Sufism"
+      ],
+      "notes": "Страница ROR описывает систему кодирования, но не раскрывает доступным текстом определение этой строки; дополнительный источник различает суфизм и формальное членство в тарикате. Поэтому широкий Sufi Islam не объединён автоматически с существующими «Суфийскими тарикатами». Не отдельный третий раздел наряду с суннизмом и шиизмом: эти принадлежности могут пересекаться."
+    }
+  ]
+}

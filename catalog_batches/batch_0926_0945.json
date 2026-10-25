@@ -1,0 +1,357 @@
+{
+  "range": [
+    926,
+    945
+  ],
+  "entries": [
+    {
+      "sourceIndex": 926,
+      "sourceName": "'Pataphysics",
+      "decision": "keep",
+      "canonicalName": "Патафизика",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Созданная Альфредом Жарри литературно-философская концепция, пародирующая научные объяснения и исследующая воображаемые решения.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/%27Pataphysics"
+      ],
+      "notes": "Исходник подтверждает самостоятельный культурный и философский термин, но не обязательную религиозную доктрину. Не alias метафизики и не основание для scientific или occult: пародия на науку не означает научного метода либо магической практики."
+    },
+    {
+      "sourceIndex": 927,
+      "sourceName": "Church of Euthanasia",
+      "decision": "keep",
+      "canonicalName": "Церковь эвтаназии",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Пародийно-религиозная и антинаталистская организация Криса Корды и Роберта Кимберка, связывающая экологию с критикой роста человеческой популяции.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Church_of_Euthanasia"
+      ],
+      "notes": "Отдельная организация, а не медицинская практика или синоним антинатализма вообще. Провокационные лозунги и самоназвание не использованы для вывода о божестве или о научной обоснованности убеждений; профиль пуст."
+    },
+    {
+      "sourceIndex": 928,
+      "sourceName": "Church of the Flying Spaghetti Monster",
+      "decision": "keep",
+      "canonicalName": "Пастафарианство — Церковь Летающего макаронного монстра",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Пародийное религиозное движение, возникшее в ответ на преподавание разумного замысла в государственных школах США.",
+      "profile": "",
+      "proposedQuestions": [
+        {
+          "id": "religious_satire",
+          "text": "Играют ли юмор и сатира на религиозные учения основную роль в вашей традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Различает явную религиозную пародию пастафарианства, динкоизма и Невидимого розового единорога и серьёзно практикуемые пути, также использующие художественные источники, например Earthseed или отдельные формы джедаизма. Художественное происхождение само по себе не означает сатиру; буквальный теизм и атеизм требуют отдельных вопросов.",
+          "supportedEntries": [
+            "Church of the Flying Spaghetti Monster",
+            "Dinkoism",
+            "Invisible Pink Unicorn"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Church_of_the_Flying_Spaghetti_Monster"
+      ],
+      "notes": "Church of the Flying Spaghetti Monster и Pastafarianism — подтверждённые названия одного движения. В religions.js и готовых партиях точной записи не найдено. Пародийный образ творца и собственные тексты не превращены в обязательное буквальное признание бога или откровенного писания."
+    },
+    {
+      "sourceIndex": 929,
+      "sourceName": "Church of the SubGenius",
+      "decision": "keep",
+      "canonicalName": "Церковь СубГения",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Пародийное движение Ивана Стэнга и Фило Драммонда с мифологией Боба Доббса и центральным понятием Slack.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Church_of_the_SubGenius"
+      ],
+      "notes": "Самостоятельное движение, а не alias дискордианства. Мифологические божества, пророк и конспирологические сюжеты описаны в источнике как часть сатирической системы; буквальная вера участников в них не установлена. Их художественная сложность не означает occult."
+    },
+    {
+      "sourceIndex": 930,
+      "sourceName": "Dinkoism",
+      "decision": "keep",
+      "canonicalName": "Динкоизм",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Индийское пародийное движение рационалистической среды, использующее персонажа комиксов Динкана для критики религиозных предрассудков.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dinkoism"
+      ],
+      "notes": "Dinkoism и Dinkamatham — названия одного движения. Не связано с народом динка и его религией. Пародийное почитание мыши-супергероя не подтверждает монотеизм или обязательное признание сверхъестественного; профиль оставлен пустым."
+    },
+    {
+      "sourceIndex": 931,
+      "sourceName": "Dudeism",
+      "decision": "keep",
+      "canonicalName": "Дудеизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Юмористический философско-религиозный путь, вдохновлённый персонажем фильма «Большой Лебовски», даосизмом и эпикурейской традицией.",
+      "profile": "+dao",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dudeism",
+        "https://dudeism.com/whatisdudeism/"
+      ],
+      "notes": "Church of the Latter-Day Dude — организационное название движения. Официальное описание подтверждает обращение к даосскому подходу; это не alias всего даосизма и не поклонение актёру Джеффу Бриджесу. Юмор не означает отсутствие серьёзно воспринимаемых жизненных принципов."
+    },
+    {
+      "sourceIndex": 932,
+      "sourceName": "Earthseed",
+      "decision": "keep",
+      "canonicalName": "Earthseed — Земное семя",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современная духовная община, вдохновлённая литературной религией Октавии Батлер и принципом «Бог есть изменение».",
+      "profile": "+scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Earthseed",
+        "https://godischange.org/about/",
+        "https://link.springer.com/article/10.1007/s11245-026-10410-9"
+      ],
+      "notes": "Исходная статья преимущественно описывает вымышленную религию романов. Реальный сайт Earthseed прямо заявляет о действующей религии и использует стихи «Книги живых» как основу теологии; академическая статья отдельно отмечает реальных практиков. Формула об изменении не превращена автоматически в теизм, пантеизм или атеизм. Не alias Terasem, хотя литературный источник вдохновлял и это движение."
+    },
+    {
+      "sourceIndex": 933,
+      "sourceName": "First Church of the Last Laugh",
+      "decision": "keep",
+      "canonicalName": "Первая церковь последнего смеха",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Сатирическое объединение Эда Холмса, связанное с ежегодным парадом Святого Глупца в Сан-Франциско.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saint_Stupid%27s_Day_Parade",
+        "https://www.ctinsider.com/entertainment/article/The-last-laugh-is-on-him-3149374.php"
+      ],
+      "notes": "Исходный URL посвящён параду, а не отдельной теологии. Независимая газетная публикация подтверждает название First Church of the Last Laugh, основателя и пародийный характер. Парад и организация не признаны точными синонимами; догматический профиль не установлен."
+    },
+    {
+      "sourceIndex": 934,
+      "sourceName": "Iglesia Maradoniana",
+      "decision": "keep",
+      "canonicalName": "Церковь Марадоны",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Основанное в Росарио фанатское движение, использующее религиозную символику и памятные даты вокруг Диего Марадоны.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Iglesia_Maradoniana"
+      ],
+      "notes": "Iglesia Maradoniana и Church of Maradona — названия одного объединения. Футбольное почитание и слово «бог» в игре D10S не доказывают буквального теизма. Участие может сочетаться с другой религиозной принадлежностью; общий христианский профиль не назначен."
+    },
+    {
+      "sourceIndex": 935,
+      "sourceName": "Invisible Pink Unicorn",
+      "decision": "keep",
+      "canonicalName": "Невидимый розовый единорог",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Пародийный религиозный образ и скептическая аналогия, иллюстрирующая проблемы непроверяемых утверждений о божестве.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Invisible_Pink_Unicorn"
+      ],
+      "notes": "Сохранён как самостоятельный концептуальный и пародийный феномен, а не подтверждённая церковь с обязательными догматами. Используется атеистами, агностиками и другими скептиками, поэтому единая позиция divine или agnostic не назначена. Не alias пастафарианства."
+    },
+    {
+      "sourceIndex": 936,
+      "sourceName": "Jediism",
+      "decision": "keep",
+      "canonicalName": "Джедаизм",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность современных философских и духовных путей, вдохновлённых образом джедаев и понятием Силы из «Звёздных войн».",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jediism",
+        "https://www.templeofthejediorder.org/doctrine"
+      ],
+      "notes": "Не сводится к шуточным ответам в переписях населения. Доктрина Temple of the Jedi Order прямо подтверждает медитацию и практическое духовное содержание; другие организации могут отличаться. Ни поклонение создателям фильма, ни вера в буквальное существование экранного мира не приписаны участникам."
+    },
+    {
+      "sourceIndex": 937,
+      "sourceName": "Kopimism",
+      "decision": "keep",
+      "canonicalName": "Копимизм",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение, сакрализующее копирование и обмен информацией и представленное Миссионерской церковью копимизма.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kopimism"
+      ],
+      "notes": "Исходник подтверждает организацию и представление о копировании как священной деятельности. Это не alias любого файлообмена или всех участников Pirate Bay. Регистрация религиозной общины в Швеции не означает признания сверхъестественного или законности любого копирования."
+    },
+    {
+      "sourceIndex": 938,
+      "sourceName": "Matrixism",
+      "decision": "review",
+      "canonicalName": "Матриксизм",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Провозглашённое в интернете движение, вдохновлённое фильмами «Матрица» и называвшее себя также The Path of the One.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Matrixism",
+        "https://era.ed.ac.uk/server/api/core/bitstreams/a8e19a54-05c3-457d-a94d-80c88b8238d9/content"
+      ],
+      "notes": "Review: исходник отмечает споры о серьёзности практики и опирается на собственные заявления о последователях. Академическая диссертация подтверждает исследовательское употребление названия, но не независимую проверку размеров общины и единой практики. Не alias бахаи, всех поклонников «Матрицы» или учения о симуляции."
+    },
+    {
+      "sourceIndex": 939,
+      "sourceName": "Shrekism",
+      "decision": "review",
+      "canonicalName": "Шрекизм — требуется уточнение",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Мемное обозначение пародийного почитания Шрека в интернет-фэндоме.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shrek_fandom",
+        "https://www.change.org/p/david-cameron-mp-make-shrekism-an-official-religion-of-the-uk"
+      ],
+      "notes": "Review: исходный URL посвящён всему Shrek fandom и не подтверждает отдельное единое учение Shrekism. Найденная петиция доказывает употребление названия, но не существование общей религиозной организации или достоверность заявлений о численности. Игровые вики и пользовательские словари не приняты как источники реального пантеона или обрядов."
+    },
+    {
+      "sourceIndex": 940,
+      "sourceName": "Silinism",
+      "decision": "keep",
+      "canonicalName": "Силинизм",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Пародийная духовная традиция Aerican Empire, использующая образ Великого Пингвина Форстери и идеи баланса и творческого хаоса.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aerican_Empire",
+        "https://www.aericanempire.com/silinism.html"
+      ],
+      "notes": "Исходник посвящён микронации; её собственная страница отдельно описывает Silinism и Path of Forsteri. Среди участников заявлены как религиозные, так и философские трактовки; буквальный бог, обязательный пантеон и магическая действенность не назначены. Не alias всей Aerican Empire или дискордианства."
+    },
+    {
+      "sourceIndex": 941,
+      "sourceName": "Sisters of Perpetual Indulgence",
+      "decision": "keep",
+      "canonicalName": "Сёстры вечной индульгенции",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Сеть благотворительных и общественных объединений, использующая образ монахинь, перформанс и юмор для поддержки ЛГБТ-сообщества и борьбы с дискриминацией.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sisters_of_Perpetual_Indulgence",
+        "https://www.thesisters.org/"
+      ],
+      "notes": "Организация подтверждена её официальным сайтом. Не единая конфессиональная доктрина и не католический монашеский орден. Духовная лексика и монашеская символика не означают принятия церковных догматов или одинакового отношения к божественному всеми членами."
+    },
+    {
+      "sourceIndex": 942,
+      "sourceName": "The All-Joking, All-Drunken Synod of Fools and Jesters",
+      "decision": "review",
+      "canonicalName": "Всешутейший, всепьянейший и сумасброднейший собор",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Придворное объединение Петра I, использовавшее пародии на церковные звания и обряды в своих увеселениях.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_All-Joking,_All-Drunken_Synod_of_Fools_and_Jesters"
+      ],
+      "notes": "Review: историческое существование клуба подтверждено, но источник описывает придворную сатиру и застолья, а не самостоятельное религиозное учение. Требуется решение о сохранении как организационного пародийного феномена. Не alias Русской православной церкви и не доказательство атеизма всех участников."
+    },
+    {
+      "sourceIndex": 943,
+      "sourceName": "The Cult of Kek",
+      "decision": "review",
+      "canonicalName": "Культ Кека",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Интернет-феномен, соединяющий образ Пепе, переосмысление египетского Кека и представления о «магии мемов».",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pepe_the_Frog",
+        "https://link.springer.com/article/10.1007/s12138-025-00724-1"
+      ],
+      "notes": "Review: исходный URL посвящён персонажу Pepe the Frog во всех его употреблениях. Академическая статья отдельно рассматривает Kekism, но подчёркивает постиронию и разнообразие отношения к сверхъестественному. Нужна фиксация охвата: не каждый пользователь мема связан с культом или политической идеологией, а сходство с египетским именем не означает преемственности древней религии."
+    },
+    {
+      "sourceIndex": 944,
+      "sourceName": "United Church of Bacon",
+      "decision": "keep",
+      "canonicalName": "Объединённая церковь бекона",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Атеистическое и скептическое объединение, использующее религиозную пародию, благотворительность и общественные церемонии.",
+      "profile": "-one_god -many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/United_Church_of_Bacon"
+      ],
+      "notes": "United Church of Bacon и Baconism обозначают одну организацию. Источник прямо сообщает об отсутствии веры в богов и проведении свадебных и погребальных церемоний. Бекон не принят за буквальное божество; перечень «заповедей» не доказывает веру в откровенное писание."
+    },
+    {
+      "sourceIndex": 945,
+      "sourceName": "Aum Shinrikyo",
+      "decision": "keep",
+      "canonicalName": "Аум синрикё",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Основанное Сёко Асахарой японское синкретическое движение с йогическими и буддийскими практиками, учением о карме и духовном освобождении.",
+      "profile": "+divine +scripture +meditation +reincarnation +karma +liberation +occult +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aum_Shinrikyo",
+        "https://nirc.nanzan-u.ac.jp/journal/6/issue/151/article/912",
+        "https://academic.oup.com/british-academy-scholarship-online/book/44964/chapter/385185280",
+        "https://irp.fas.org/congress/1995_rpt/aum/part03.htm"
+      ],
+      "notes": "Современная статья частично объединяет историческую Аум с последующим Aleph. Запись ограничена движением Асахары; профили позднейших ответвлений автоматически не выводятся. Университетские исследования подтверждают доктрины и практики. Совершённые руководителями и участниками теракты — исторический контекст, а не характеристика всех буддийских традиций."
+    }
+  ]
+}

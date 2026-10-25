@@ -1,0 +1,300 @@
+{
+  "range": [
+    16,
+    30
+  ],
+  "entries": [
+    {
+      "sourceIndex": 16,
+      "sourceName": "Baka traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования бака",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Лесная духовная традиция бака Камеруна и Габона с почитанием Дженги и представлением о высшем существе Комба.",
+      "profile": "+divine +nature_spirits +ritual +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Baka_people_(Cameroon_and_Gabon)",
+        "https://popups.ulg.ac.be/2034-8517/index.php?id=2755&lang=en"
+      ],
+      "notes": "Статья о народе, но раздел Religion and belief systems непосредственно описывает верования и обряды Luma и посвящение Дженги. Не переносить профиль на всех современных бака; почитание предков отдельно не подтверждено. Проверка 2026-10: полевое исследование Growing up in a changing world прямо описывает посвящение мальчиков в культ лесного духа jengi. Добавлен +initiatory_brotherhood в смысле посвящения в религиозное сообщество, соответствующем текущему тексту вопроса; это не утверждение о западном ордене.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 17,
+      "sourceName": "Bakossi beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования бакосси",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Исторические верования бакосси Камеруна, включавшие общества и обряды juju и представления о магических силах.",
+      "profile": "+ritual +occult +initiatory_brotherhood +ancestors +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bakossi_people",
+        "https://soas-repository.worktribe.com/OutputFile/405156"
+      ],
+      "notes": "Раздел Traditional beliefs подтверждает самостоятельный комплекс практик; juju не обозначает единую церковь. Страх перед ведьмами сам по себе не означает, что все последователи практиковали колдовство: +occult относится к описанным ритуальным силам juju. Многие бакосси сегодня христиане. Проверка 2026-10: исходный раздел Traditional beliefs прямо описывает общества juju с платой за посвящение (+initiatory_brotherhood). Исследование British and French Administration в SOAS описывает бакосси, подношения на горе Kupe и общение живых с умершими ради плодородия; добавлены +ancestors и +afterlife. Рассказ о якобы не умерших ekongi отдельно не использовался как доказательство загробной жизни.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 18,
+      "sourceName": "Balondo religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования балондо",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Местная религиозная традиция балондо на побережье Камеруна, включающая почитание предков и творца Овасе Лоба.",
+      "profile": "+divine +ancestors +ritual +personal +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Balondo_Civilization",
+        "https://www.paidafrica.org/paidwa/index.php/consultancy/advocacy/reports/item/download/8_6dc50d1df8b4aab2a46c5a50b7e8ec82",
+        "https://www.globalafricasciences.org/issues/issue-12/iba-iba-an-indigenous-humanitarian-practice-among-the-balondo-of-south-west-cameroon-c-1700-2019/"
+      ],
+      "notes": "Исходная статья описывает именно Balondo-ba-Konja; её этническая и языковая классификация спорна и не используется как доказательство религиозного родства. Отчёт PAID независимо упоминает почитание предков и природных объектов у балондо; доступен поисковый фрагмент, полный PDF при открытии вернул ошибку. Верховное божество не даёт достаточных оснований для +one_god. Проверка 2026-10: исходная статья описывает хвалу, обращения к Ovase Loba и возлияния предкам на новогоднем празднике (+personal). Полевые интервью Nanji, Iba-iba (Global Africa, 2025), прямо фиксируют представления о духах умерших предков, которые наблюдают за живыми и могут наказать; добавлен +afterlife. Исторические и этнические споры между авторами не используются для расширения профиля.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 19,
+      "sourceName": "Baluba religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия луба",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Религиозные традиции луба Центральной Африки с представлениями о творце, духах и предках, молитвами и подношениями.",
+      "profile": "+divine +ancestors +ritual +divination_oracles +spirit_possession +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Baluba_religion",
+        "https://agnes.queensu.ca/explore/collections/object/divination-container-mboko-with-contents/",
+        "https://africa.si.edu/collection/selected-artwork/1709",
+        "https://chrysler.emuseum.com/objects/11446/divination-figure"
+      ],
+      "notes": "Baluba и Luba — названия народа; это не основание объединять с иной записью без проверки. Статья прямо подтверждает bankambo (предков), духов и ритуалы; имеет предупреждения об источниках, поэтому конкретные имена божеств и исключительный монотеизм не кодируются. Проверка 2026-10: каталог Agnes Etherington Art Centre непосредственно описывает bilumbu: гадатель входит в транс, становится одержим консультирующим духом и толкует предметы mboko. Smithsonian описывает spirit mediums луба. +afterlife дополнительно подтверждается каталогом Chrysler Museum: используемая при kashekesheke фигура представляет дух предка; практика гадания и одержимости относится к специалистам, а не обязательно к каждому последователю.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 20,
+      "sourceName": "Bamileke religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования бамилеке",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Разнообразные местные традиции бамилеке Камеруна, в которых важны предки и семейные погребальные обряды.",
+      "profile": "+ancestors +ritual +divine +one_god +personal +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bamileke_people",
+        "https://bamilekemuseum.com/our-story?lang=en"
+      ],
+      "notes": "Раздел Religious beliefs статьи о народе описывает почитание предков и возлияния при похоронах. Это обобщающая запись о местных традициях, не единая конфессия и не характеристика каждого бамилеке. Проверка 2026-10: International Museum of the Bamiléké Genocide, раздел Traditional Bamiléké Spirituality, прямо называет традицию монотеистической, Si — создателем, описывает обращения к нему с подношениями и продолжающееся присутствие умерших предков. Добавлены +divine, +one_god, +personal и +afterlife; это описание традиционной духовности музеем сообщества, а не всех современных бамилеке.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 21,
+      "sourceName": "Bamum traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования бамум",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Исторические верования бамум Камеруна с почитанием духов предков и обрядами, связанными с черепами умерших.",
+      "profile": "+divine +ancestors +afterlife +ritual +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bamum_people",
+        "https://dicames.online/jspui/handle/20.500.12177/10418",
+        "https://bamounusa.org/about-us/"
+      ],
+      "notes": "Статья о народе непосредственно описывает ancestral spirits и умилостивительные церемонии. Современное мусульманское большинство не является профилем этой исторической традиции; исламские признаки не добавлены. Уточнение профиля: историческое исследование Nkomme (Université de Yaoundé I, 2022), основанное в том числе на наблюдении и устных источниках, прямо подтверждает продолжение жизни умерших и обращение к Богу через предков. Ассоциация Bamoun USA описывает паучье гадание и выбор места для черепа гадателем. Поэтому добавлены +divine, +afterlife и +divination_oracles; исламские черты не переносятся.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 22,
+      "sourceName": "Banyole traditional beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования баньоле",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Местные духовные практики баньоле Уганды, включая гадание lamuli и отношения с духами родственников и клана.",
+      "profile": "+ancestors +afterlife +occult +ritual +divination_oracles +spirit_possession",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Имеет ли ритуальное вселение духов в человека важное место в вашей традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Разделяет практики медиумизма и одержимости (Batuque, гадание lamuli у Banyole) и традиции, где общение с духами устроено иначе. Отсутствие упоминания одержимости в источнике не считать ответом «Нет».",
+          "supportedEntries": [
+            "Batuque",
+            "Banyole traditional beliefs"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Banyole",
+        "https://www.africabib.org/rec.php?RID=063740192"
+      ],
+      "notes": "Раздел Divination подтверждает обращение гадателей к духам и связь одержимости с родственными и клановыми духами. Использование Корана отдельными гадателями не доказывает +quran или общую исламскую принадлежность. Не приписывать практики всем баньоле. Уточнение профиля: описанные обращения lamuli к говорящим через человека духам и сеансы ohwebusa поддерживают +ritual, +divination_oracles и +spirit_possession. Продолжающие действовать духи умерших родственников поддерживают +afterlife. Это характеристика описанных практик, а не обязательное поведение всех баньоле; публикация полевого исследования Whyte уточняет контекст гадательных консультаций.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 23,
+      "sourceName": "Baoule traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования бауле",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Духовные традиции бауле Кот-д’Ивуара с представлениями о Ньямьене, природных сверхъестественных существах и мире предков blolo.",
+      "profile": "+divine +nature_spirits +ancestors +afterlife +ritual +icons +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Baoule_people",
+        "https://allenartcollection.oberlin.edu/objects/36139/female-figure"
+      ],
+      "notes": "Раздел Religion статьи о народе прямо описывает три области религиозного мира. Принадлежность народа к акан сама по себе не доказывает тождество религий; родительское направление не задано. Уточнение профиля: Allen Memorial Art Museum описывает выявление духа-супруга гаданием, изготовление его образа и подношения у ног фигуры. Это прямо поддерживает +divination_oracles, +icons и +ritual; наличие фигуры не выводится просто из этнического искусства.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 24,
+      "sourceName": "Bari traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования бари",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Традиционные верования бари верхнего Белого Нила с почитанием верховного божества и представлениями о духах.",
+      "profile": "+divine +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bari_people",
+        "https://www.treccani.it/enciclopedia/bari_res-417bc007-1d58-11de-bb24-0016357eee51/",
+        "https://maa.cam.ac.uk/objects-of-power-rain-stone"
+      ],
+      "notes": "Исходная статья содержит раздел Bari religion; Treccani независимо подтверждает почитание Ngum, связанного с дождём и земледелием. Не смешивать с южноамериканским народом бари и не выводить исключительный монотеизм только из верховенства божества. Уточнение профиля: Museum of Archaeology and Anthropology, Cambridge документирует именно бари Южного Судана, ритуалы вызывания дождя со священными камнями и власть дождевых специалистов; это поддерживает +ritual и +occult. Раздел Wikipedia смешивает сомнительные мотивы (включая Sabaseba, известного у южноамериканских бари); его подробности о деревьях, духах и загробном мире здесь не кодируются. Четвёртый признак пока не установлен независимым источником.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 25,
+      "sourceName": "Bassa traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования басса Либерии",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Духовные традиции басса Либерии, включающие заботу об умерших родственниках и получение помощи от предков.",
+      "profile": "+ancestors +afterlife +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bassa_people_(Liberia)",
+        "https://lammuseum.wfu.edu/2016/10/bassa-reliquary/"
+      ],
+      "notes": "Исходная ссылка о народе; музей Wake Forest University независимо описывает реликварии и продолжающиеся отношения с умершими родственниками. Не смешивать с басса Камеруна; христианская принадлежность многих современных басса не отменяет отдельной записи о традиционных практиках. Уточнение профиля: музейный источник прямо описывает сбор костей родственника для дальнейшей заботы, получения благословений и советов, а также венчающие эти реликварии скульптурные головы. Эта религиозная функция образа и продолжающаяся практика поддерживают +icons и +ritual.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 26,
+      "sourceName": "Batuque",
+      "decision": "keep",
+      "canonicalName": "Батуке",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Афробразильская религия, особенно связанная с Риу-Гранди-ду-Сул, почитанием ориша, ритуалами и медиумизмом.",
+      "profile": "+divine +many_gods +orisha +ritual +initiatory_brotherhood +spirit_possession",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Имеет ли ритуальное вселение духов в человека важное место в вашей традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Разделяет практики медиумизма и одержимости (Batuque, гадание lamuli у Banyole) и традиции, где общение с духами устроено иначе. Отсутствие упоминания одержимости в источнике не считать ответом «Нет».",
+          "supportedEntries": [
+            "Batuque",
+            "Banyole traditional beliefs"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Batuque_(religion)",
+        "https://www.lume.ufrgs.br/bitstream/handle/10183/107443/000941731.pdf",
+        "https://www.scielo.br/j/ha/a/5ZSHHSr4GNCQY4VsPYmZ9rf/?lang=pt"
+      ],
+      "notes": "Не синоним кандомбле: исследование Ари Педру Ору рассматривает Batuque как отдельную форму афро-риугранденского религиозного комплекса. Источник подтверждает ориша и разные nações. На исходном этапе данных о пантеоне было недостаточно; ниже добавлено независимое исследование. Уточнение профиля: полевое исследование «A cozinha é a base da religião» в Horizontes Antropológicos прямо называет ориша божествами, перечисляет их, описывает ступени посвящения как договор человека с ориша и вселение ориша в ходе обряда. Поэтому теперь поддержаны +divine, +many_gods, +initiatory_brotherhood и +spirit_possession. Профиль не переносится с кандомбле.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 27,
+      "sourceName": "Biri traditional religion",
+      "decision": "review",
+      "canonicalName": "Историческое религиозное движение бири у поджулу",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Описанное у поджулу Южного Судана движение начала XX века с посвящением без воды и странствующими обращающими последователями.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pojulu_people"
+      ],
+      "notes": "Исходное название Biri traditional religion двусмысленно: статья отличает Biri, принесённое Muna Akufi в 1910–1917 годах, от традиционных верований Pojulu. Независимого надёжного подтверждения конкретного движения найти не удалось; не переносить на него профиль всех Pojulu или народа Birri ЦАР. Нужна проверка исторического названия и источников. Сохраняется как review, не отбрасывается из-за исчезновения.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 28,
+      "sourceName": "Birongo",
+      "decision": "keep",
+      "canonicalName": "Биронго — афровенесуэльские духовные практики",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Комплекс афровенесуэльских магико-религиозных и целительских практик, сочетающих африканское наследие и почитание святых.",
+      "profile": "+occult +ritual +icons +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Birongo",
+        "https://periodico.uma.edu.ve/2018/07/26/birongo-tierra-de-magia/"
+      ],
+      "notes": "Исходная статья описывает духовную традицию, но имеет слабую структуру цитирования. Университетская газета независимо подтверждает местный религиозно-праздничный контекст поселения Birongo, а не самостоятельную конфессию под этим именем. Запись сохранена как локальный комплекс практик; границы термина и связь с одноимённым поселением требуют дальнейшей проверки. Не считать синонимом Palo или культа Марии Лионсы. Уточнение профиля: раздел Practices исходной статьи прямо описывает гадание с табаком, молитвы, ритуалы и образ св. Иоанна на алтаре; поддержаны +divination_oracles, +ritual и +icons. Качество этой статьи остаётся ограниченным: университетская заметка подтверждает местные праздники, но не все описанные целительские практики. Посвящение, одержимость и культ предков не добавлены из-за смешения в статье с культом Марии Лионсы и более широкими афровенесуэльскими практиками.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 29,
+      "sourceName": "Bizango",
+      "decision": "keep",
+      "canonicalName": "Бизанго",
+      "family": "indigenous",
+      "parent": "Гаитянское воду",
+      "description": "Тайные общества Гаити, многие практики которых связаны с гаитянским воду.",
+      "profile": "+ritual +initiatory_brotherhood +icons +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bizango",
+        "https://www.loc.gov/item/hlas-bi81101010/",
+        "https://laboratoire-laab.fr/catalogues/collection-anthropologique-sociale/collections-damerique/antilles/caraibes/fetiche-bizango/"
+      ],
+      "notes": "Сохраняется как религиозно-социальная организация, не как синоним всего воду. Статья подтверждает тип организации и связь с Vodou, но не даёт достаточного описания общего вероучения. Рассказы о превращениях и спорные гипотезы о зомбировании не кодируются как убеждения каждого участника. Уточнение профиля: аннотация Library of Congress к исследованию Michel Laguerre прямо перечисляет набор участников и обряд посвящения, поддерживая +ritual и +initiatory_brotherhood. Каталог LAAB описывает исследованную культовую фигуру Bizango, её защитные зеркала, магические вложения, подношения и возлияния; отсюда +icons и +occult. Это описанные ритуальные предметы и практики, а не утверждение о реальности зомбирования или убеждениях каждого участника.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 30,
+      "sourceName": "Bobo religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия бобо",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Традиция бобо Западной Африки с космогонией творца Вуро, почитанием Дво и духовной ролью масок.",
+      "profile": "+divine +nature_spirits +ritual +icons +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bobo_people",
+        "https://www.si.edu/object/nmafa_73-7-81",
+        "https://www.plu.edu/africanartcollection/masks/tere-mask/learn-more-tere-mask/"
+      ],
+      "notes": "Разделы Religion и Function статьи о народе описывают анимизм, космогонию и использование масок для восстановления равновесия. Не выводить монотеизм из наличия творца; не смешивать бобо с бва. Профиль относится к традиции, а не всем современным бобо. Уточнение профиля: Smithsonian описывает маски как проявления Дво и их применение в посвящении; коллекция Pacific Lutheran University подробно описывает многоступенчатое обучение тайному языку и праву исполнения масок. Это поддерживает +icons и +initiatory_brotherhood. Развлекательные маски сами по себе не считаются священными.",
+      "inheritFamilyProfile": false
+    }
+  ]
+}

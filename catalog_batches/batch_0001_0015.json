@@ -1,0 +1,327 @@
+{
+  "range": [
+    1,
+    15
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1,
+      "sourceName": "Abagusii religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия абагусии",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Традиционные верования гусии в Кении: создатель Энгоро и духи предков эбиреча.",
+      "profile": "+divine +one_god +ancestors +ritual +afterlife +divination_oracles",
+      "proposedQuestions": [
+        {
+          "id": "divination_oracles",
+          "text": "Считаете ли вы обращение к гаданию или оракулам важным способом духовного совета?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Позволяет описать оракулы азанде и гадателей абагусии без смешения с самостоятельным применением магии в occult. Отличает практику обращения к оракулам от одного лишь признания духов; отрицательные ответы других записей нужно проверять."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kisii_people",
+        "https://edepot.wur.nl/2000"
+      ],
+      "notes": "Статья о народе содержит отдельный раздел Religion, прямо подтверждающий эти признаки. Описана традиционная система, а не вера всех современных гусии; отмечено сочетание с христианством. Проверка 2026-10: полевое исследование Creativity in Everyday Practice описывает бессмертных предков, возлияния и посредничество abaragori; эти сведения подтверждают +afterlife, +ritual и +divination_oracles.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 2,
+      "sourceName": "Abakuá",
+      "decision": "keep",
+      "canonicalName": "Абакуа",
+      "family": "indigenous",
+      "parent": "Традиция Экпе",
+      "description": "Афро-кубинское религиозное мужское братство, восходящее к обществам Экпе региона Кросс-Ривер.",
+      "profile": "+divine +ritual +initiatory_brotherhood +ancestors +afterlife +occult",
+      "proposedQuestions": [
+        {
+          "id": "initiatory_brotherhood",
+          "text": "Занимает ли принадлежность к закрытому религиозному братству с посвящением центральное место в вашей практике?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отделяет институциональную форму Abakuá и исторического Abwoi от общего почитания предков и семейных обрядов. Для остальных традиций ответ требует проверки; отсутствие такого братства не выводится из молчания источника."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Abaku%C3%A1",
+        "https://www.persee.fr/doc/jsa_0037-9174_1969_num_58_1_2101"
+      ],
+      "notes": "Источником подтверждены высшее божество Абаси, закрытая структура и ритуальные действия. Членство может сочетаться с сантерией или пало, но это не делает Абакуа их синонимом. +one_god не выведен из одного наличия высшего божества. Проверка 2026-10: этнографическое описание Лидии Кабреры (1969) непосредственно описывает посвящение, союз с духовными силами для защиты, магические знаки, духов Танзе и Сикан и переход умершего в мир теней. Это основания +initiatory_brotherhood, +occult и +afterlife; почитание присутствий предков в алтарях также прямо описано исходной статьёй. Символическое рождение посвящаемого не кодируется как перерождение.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 3,
+      "sourceName": "Abwoi religion",
+      "decision": "keep",
+      "canonicalName": "Абвои",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Традиционный институт мужских посвящений и обрядов предков у ряда народов плато Центральной Нигерии.",
+      "profile": "+ancestors +ritual +initiatory_brotherhood +afterlife +divination_oracles",
+      "proposedQuestions": [
+        {
+          "id": "initiatory_brotherhood",
+          "text": "Занимает ли принадлежность к закрытому религиозному братству с посвящением центральное место в вашей практике?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отделяет институциональную форму Abakuá и исторического Abwoi от общего почитания предков и семейных обрядов. Для остальных традиций ответ требует проверки; отсутствие такого братства не выводится из молчания источника."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Abwoi_religion"
+      ],
+      "notes": "Сохраняется как локальный религиозный институт; общая генеалогия и единое время возникновения не установлены. Описанная символическая смерть и возвращение посвящаемого не доказывают веру в перерождение. Проверка 2026-10: разделы Practices и Initiation прямо описывают вступление в местную ложу через посвящение; вводная часть — голоса умерших предков и оракулы на общинных собраниях. +afterlife относится к продолжающемуся существованию умерших; маскарадный механизм голоса не кодируется как одержимость.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 4,
+      "sourceName": "Acholi religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования ачоли",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Разнообразные традиции ачоли, связанные с предками, силами йок и обрядами обращения к духам.",
+      "profile": "+ancestors +nature_spirits +ritual +afterlife +spirit_possession +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Acholi_people",
+        "https://www.lse.ac.uk/anthropology/assets/documents/OAL/OAL-o-Byrne-Beyond-the-Hamites.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3033100/",
+        "https://folia.unifr.ch/rerodoc/17432/files/HarlacherT.pdf",
+        "https://ossrea.net/images/borderlands_book.pdf"
+      ],
+      "notes": "Исходная ссылка ведёт на статью о народе и недостаточна для профиля. Дополнительное антропологическое исследование описывает предков, духов, святилища и обряды. Значение jok меняется по месту и историческому контексту; единобожие не кодируется. Проверка 2026-10: этнографическая работа Harlacher, Traditional ways of coping with consequences of traumatic stress in Acholiland, описывает умерших предков, духов и ajwaka как специалистов по диагностике и обрядовому общению с ними. Добавлены +afterlife, +spirit_possession и +divination_oracles; разные исторические значения jok по-прежнему не дают основания для исключительного единобожия. Глава Odongoh и Onyango в книге OSSREA прямо описывает ajwaka и святилища abila как средства гадательной консультации; PDF Harlacher найден по индексу, но при повторном открытии вернул 404.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 5,
+      "sourceName": "Afizere traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия афизере",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Традиционные верования афизере в создателя Адакунома, меньших божеств-посредников и духов.",
+      "profile": "+divine +many_gods +ancestors +afterlife +ritual +spirit_possession +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Afizere",
+        "https://www.afizereworld.org/religion.php",
+        "https://rogerblench.info/Language/Niger-Congo/BC/Plateau/Izeric/Language/Izere%20Dictionary%20composite%202019.pdf"
+      ],
+      "notes": "Статья о народе содержит предметный раздел Religion. Наличие христианства и ислама среди афизере не переносится на профиль традиционной религии. Почитание предков и одушевлённость всей природы в просмотренном разделе не подтверждены. Проверка 2026-10: опубликованное сообществом Afizere World описание Beliefs and Religion прямо называет души умерших посредниками, жертвы и возлияния предкам, а также одержимость маскированных танцоров во время Izhak и Igasang. Это уточняет прежнее ограничение: +ancestors, +afterlife, +ritual и +spirit_possession теперь имеют предметный источник. Полная страница при открытии недоступна; использован подробный поисковый фрагмент, поэтому источник требует повторной проверки доступности. Словарь Изере Blench и Kaze (2019), раздел Initiation (Ìgasang), отдельно подтверждает посвящение в тайны традиционной религии (+initiatory_brotherhood).",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 6,
+      "sourceName": "Afro-Chinese Santeria",
+      "decision": "keep",
+      "canonicalName": "Афро-китайские практики сантерии на Кубе",
+      "family": "indigenous",
+      "parent": "Сантерия / Лукуми",
+      "description": "Локальные сочетания сантерии с китайскими культами, включая Санфанкона, связанного с Гуань Юем и Чанго.",
+      "profile": "+divine +orisha +icons +personal +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Afro-Chinese_religion_in_Cuba",
+        "https://sacredart.caaar.duke.edu/artifacts/sanfancon-chango-statue/",
+        "https://www.tandfonline.com/doi/abs/10.2752/147800413X13515292098232",
+        "https://escholarship.org/uc/item/6qd146gm"
+      ],
+      "notes": "Сохраняется как локальная практика, а не отдельная единообразная конфессия. Исходная статья шире сантерии и посвящена афро-китайским религиозным взаимодействиям. Каталог Duke прямо относит Санфанкона к сантерии и описывает отождествление с Чанго; это не доказывает тождества всей китайской религии Кубы сантерии. Проверка 2026-10: каталог Duke непосредственно описывает культовую статую Санфанкона в практике сантерос; диссертация Imaging the Chinese in Cuban Literature and Culture содержит полевое интервью с проводником Kung Long Society и наблюдения обращений к Санфанкону у алтаря с просьбами. Это поддерживает +icons, +personal и +ritual именно локального культа; остальные признаки сантерии автоматически не наследуются.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 7,
+      "sourceName": "Akamba traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия акамба",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Традиция камба в Кении: создатель Нгаи-Мулунгу и предки-посредники маиму.",
+      "profile": "+divine +one_god +ancestors +ritual +afterlife +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kamba_people",
+        "https://digicoll.lib.berkeley.edu/record/286095/files/991082466059706532_C646862682.pdf",
+        "https://onlinelibrary.wiley.com/doi/10.1111/erev.12301"
+      ],
+      "notes": "Статья о народе прямо описывает традиционный монотеизм, семейные обряды и возлияния предкам. Наличие духов предков не приравнивается к многобожию. Проверка 2026-10: глава Religion этнографии Линдблома прямо описывает продолжение жизни души после смерти; исследование Gumo (2017) описывает обращения и жертвы создателю Mulungu/Ngai ради дождя. Добавлены +afterlife и +personal; исторический источник не используется для универсализации современного самоопределения камба.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 8,
+      "sourceName": "Akom",
+      "decision": "alias",
+      "canonicalName": "Аканская традиционная религия",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Аком — название традиционной религии акан.",
+      "profile": "+divine +many_gods +ancestors +nature_spirits",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Akan_religion"
+      ],
+      "notes": "Вводный абзац Akan religion прямо называет эту религию Akom. Каноническая запись уже есть в religions.js; это подтверждённый синоним, а не новая ветвь. Региональные варианты, включая асанте, не объединяются на этом основании.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 9,
+      "sourceName": "AmaMpondomise traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования мпондомисе",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Местные традиции мпондомисе Южной Африки с почитанием предков и особым отношением к змее умаджола.",
+      "profile": "+ancestors +ritual +afterlife +divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/AmaMpondomise",
+        "https://www.cambridge.org/core/journals/africa/article/morphology-of-mpondomise-descent-groups1/9F3C8F5AFBADCDAFA8978D7FD170EAE3"
+      ],
+      "notes": "Статья о народе подтверждает почитание предков и связь визита умаджола с их благосклонностью. Часто отмечается сочетание с христианством. Почитание конкретного животного не означает автоматически одушевлённости всей природы; профиль ограничен подтверждённым признаком. Проверка 2026-10: полевое исследование Hammond-Tooke, The Morphology of Mpondomise Descent Groups, прямо описывает представление о верховном существе, обрядовое обращение к теням умерших и жертвы предкам. Это подтверждает +divine, +afterlife и +ritual; смутное представление о верховном существе не доказывает +one_god.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 10,
+      "sourceName": "Arará",
+      "decision": "keep",
+      "canonicalName": "Арара",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Афро-кубинская религиозная традиция дагомейского происхождения, сохраняющая местные формы религиозной практики.",
+      "profile": "+divine +many_gods +orisha +ritual +divination_oracles +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arar%C3%A1"
+      ],
+      "notes": "Статья отдельно обсуждает Arará как религию; в литературе её трактуют и как самостоятельную традицию, и как ветвь сантерии. Это не подтверждённый синоним сантерии. Родитель не назначен из-за неоднозначной классификации; узкие признаки не выведены из общего африканского происхождения. Проверка 2026-10: разделы Beliefs и Practices непосредственно описывают vodú/foddún, их отождествление с ориша, общение через гадание и одержимость, а также освящение ритуальных барабанов. Признаки внесены по этим конкретным практикам, а не по дагомейскому происхождению; источником статьи служит исследование María Teresa Vélez (2000).",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 11,
+      "sourceName": "Asante religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия асанте",
+      "family": "indigenous",
+      "parent": "Аканская традиционная религия",
+      "description": "Асантийские формы аканской религии с Ньяме, Асасе Яа, абосом и предками.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +afterlife +spirit_possession +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Asase_Ya%2FAfua",
+        "https://en.wikipedia.org/wiki/Asase_Yaa",
+        "https://en.wikipedia.org/wiki/Akan_religion",
+        "https://documents1.worldbank.org/curated/en/952431491961293023/pdf/UDD45000Asante0nation0of0antithesis.pdf",
+        "https://www.manhyiaarchives.org/royal-history/history-of-asante-union/39-religion-and-the-union",
+        "https://ir.knust.edu.gh/server/api/core/bitstreams/4e2f9426-766d-470b-a99d-090b442457f9/content"
+      ],
+      "notes": "Исходная ссылка о божестве Асасе Яа, а не обо всей религии; исходный URL не открылся напрямую, доступен вариант Asase_Yaa. Дополнительная работа А. Грэма Типпла 1983 года прямо описывает Asante religion. Асанте — подгруппа акан с локальными формами; не считать синонимом всего Akom. Проверка 2026-10: Manhyia Archives описывает вселение духа умершего правителя в освящённый трон, жертвы, молитвы и возлияния; это подтверждает +afterlife и +ritual. Полевые интервью исследования KNUST Asante Art and Culture in the Administration of Asante описывают диагностику бросанием каури и вселение божества в жрицу; добавлены +divination_oracles и +spirit_possession.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 12,
+      "sourceName": "Azande traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования азанде",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Традиции азанде, включающие представления о создателе Мбори, колдовстве и обращении к оракулам.",
+      "profile": "+divine +divination_oracles +ritual +occult",
+      "proposedQuestions": [
+        {
+          "id": "divination_oracles",
+          "text": "Считаете ли вы обращение к гаданию или оракулам важным способом духовного совета?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Позволяет описать оракулы азанде и гадателей абагусии без смешения с самостоятельным применением магии в occult. Отличает практику обращения к оракулам от одного лишь признания духов; отрицательные ответы других записей нужно проверять."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zande_people",
+        "https://en.wikipedia.org/wiki/Azande_witchcraft",
+        "https://dougbafford.com/wp-content/uploads/2025/08/Evans-Pritchard-1937-1976.pdf"
+      ],
+      "notes": "Статья о народе содержит разделы Religion и Witchcraft. Не приравнивать Мбори к христианскому Богу и не выводить единобожие. Более узкая запись Azande witchcraft описывает комплекс практик внутри этой традиции, поэтому сохраняется отдельно. Проверка 2026-10: этнография Evans-Pritchard, Witchcraft, Oracles, and Magic among the Azande, описывает оракулы, обрядовое противодействие колдовству, применение защитной магии. Доступный PDF содержит избранные главы; загробная жизнь этими выдержками не подтверждена и не кодируется. +occult относится к описанным защитным средствам, а не к предположению, что каждый верующий сам является вредоносным колдуном.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 13,
+      "sourceName": "Azande witchcraft",
+      "decision": "keep",
+      "canonicalName": "Представления о колдовстве и оракулы азанде",
+      "family": "indigenous",
+      "parent": "Традиционные верования азанде",
+      "description": "Комплекс представлений азанде о мангу, причинах несчастий и способах установления их причин с помощью оракулов.",
+      "profile": "+divination_oracles +ritual",
+      "proposedQuestions": [
+        {
+          "id": "divination_oracles",
+          "text": "Считаете ли вы обращение к гаданию или оракулам важным способом духовного совета?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Позволяет описать оракулы азанде и гадателей абагусии без смешения с самостоятельным применением магии в occult. Отличает практику обращения к оракулам от одного лишь признания духов; отрицательные ответы других записей нужно проверять."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Azande_witchcraft",
+        "https://www.cambridge.org/core/books/abs/defining-magic/edward-e-evanspritchard/BE8F36963381502D77069301ACFC1502"
+      ],
+      "notes": "Сохраняется как узкий комплекс верований и практик, а не самостоятельная конфессия и не синоним всей религии азанде. Вера в чужое вредоносное колдовство не равна личному использованию магии: +occult не назначен. Источник описывает benge и другие оракулы. Проверка 2026-10: опубликованный Cambridge фрагмент Evans-Pritchard подтверждает ритуальную последовательность выявления виновника посредством оракулов и ответных действий. Добавлены +divination_oracles и +ritual; узкое содержание записи не даёт основания переносить на неё всю космологию азанде или автоматически назначать +occult.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 14,
+      "sourceName": "Badimo",
+      "decision": "keep",
+      "canonicalName": "Бадимо",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Почитание действующих в жизни потомков предков в традициях сото-тсвана.",
+      "profile": "+ancestors +afterlife +ritual +divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Badimo",
+        "https://sahistory.org.za/sites/default/files/archive-files3/jean_comaroff_john_l._comaroff_of_revelation_anbook4you.org_.pdf"
+      ],
+      "notes": "Badimo означает предков и обозначает практику их почитания, которая может сочетаться с христианской принадлежностью. Источник прямо описывает посмертное присутствие предков и подношения; не трактовать как обязательно исключительную конфессиональную идентичность. Проверка 2026-10: антропологическая монография Jean и John Comaroff, Of Revelation and Revolution, описывает badimo и Modimo в исторической системе тсвана. +divine обозначает её божественный контекст; исключительное единобожие и личное обращение к далёкому создателю из этой записи о почитании предков не выводятся.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 15,
+      "sourceName": "Bafia religion",
+      "decision": "review",
+      "canonicalName": "Традиционные верования бафиа",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Исторические религиозные представления бафиа Камеруна, включая космогонию мирового яйца.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bafia_people",
+        "https://soar.suny.edu/bitstreams/dfd25aff-837f-47fd-b792-78e8d5c542c0/download"
+      ],
+      "notes": "Исходная статья о народе содержит раздел Religion, но её религиозные утверждения недостаточно снабжены ссылками. Найден исторический текст Гюнтера Тессмана в академическом переиздании, где обсуждаются бафиа, яйцо и отсутствие загробной жизни; текст использует устаревшую расовую схему. Он отрицает Бога, тогда как текущая статья упоминает tatabell как создателя. Для уверенного профиля нужен современный этнографический источник. Сохраняется на проверку, не удаляется; даже -afterlife пока не переносится на всю традицию.",
+      "inheritFamilyProfile": false
+    }
+  ]
+}

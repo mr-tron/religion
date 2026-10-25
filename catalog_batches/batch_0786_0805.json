@@ -1,0 +1,363 @@
+{
+  "range": [
+    786,
+    805
+  ],
+  "entries": [
+    {
+      "sourceIndex": 786,
+      "sourceName": "Liberal theism",
+      "decision": "review",
+      "canonicalName": "Либеральный теизм — требуется уточнение",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Предположительно обозначение веры в божество без обязательной принадлежности к установленной религии.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Liberal_theism",
+        "https://www.routledge.com/A-Liberal-Theology-for-the-Twenty-First-Century-A-Passion-for-Reason/Langford/p/book/9780754605034"
+      ],
+      "notes": "Исходная статья даёт спорное определение и неподкреплённые обобщения. Найденная академическая книга о liberal theology описывает либеральное богословие внутри религий, а не подтверждает тождество с внеконфессиональным теизмом. Для надёжного выделения позиции нужно уточнить термин; нравственный релятивизм и отказ от всех доктрин не назначены."
+    },
+    {
+      "sourceIndex": 787,
+      "sourceName": "Moralistic therapeutic deism",
+      "decision": "keep",
+      "canonicalName": "Моралистический терапевтический деизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Социологическая модель распространённых религиозных установок: вера в создателя, нравственную доброжелательность, личное благополучие и посмертную награду добрым людям.",
+      "profile": "+divine +personal +one_god +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Moralistic_therapeutic_deism",
+        "https://oneinjesus.info/wp-content/uploads/2012/11/Smith-Moralistic.pdf"
+      ],
+      "notes": "Термин Кристиана Смита и Мелинды Лундквист Дентон описывает обнаруженную в интервью совокупность представлений, а не отдельную церковь или самоидентификацию всех подростков. deism не назначен: описанный Бог способен помогать в трудностях, что шире смысла невмешательства в questions.js."
+    },
+    {
+      "sourceIndex": 788,
+      "sourceName": "Neo-revelationism",
+      "decision": "keep",
+      "canonicalName": "Неоревеляционизм (традиции нового откровения)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательное обозначение движений, признающих дополнительные прямые откровения за пределами ранее принятого религиозного канона.",
+      "profile": "+revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Neo-revelationism",
+        "https://www.ezw-berlin.de/fileadmin/user_upload/ezw-berlin/publications/downloads/ezw_texte_169_inhalt.pdf"
+      ],
+      "notes": "Не самостоятельная единая церковь и не только учение Якоба Лорбера. Статья включает разные христианские и другие линии. new_revelation не назначен всей категории: вопрос требует нового всеобщего откровения, тогда как описанные сообщения могут иметь более узкий статус. Не смешан с богословием откровения Карла Барта."
+    },
+    {
+      "sourceIndex": 789,
+      "sourceName": "Philosophical theism",
+      "decision": "keep",
+      "canonicalName": "Философский теизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Философская вера в высшее божественное начало, обосновываемая вне обязательного принятия откровения и догматов определённой религии.",
+      "profile": "+divine -revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Philosophical_theism"
+      ],
+      "notes": "Сохраняется как позиция, а не религиозная организация. Сходство с деизмом не доказывает тождества: отношение к вмешательству божества может различаться. Разумное обоснование не приравнено к приоритету научного метода."
+    },
+    {
+      "sourceIndex": 790,
+      "sourceName": "Spinozism",
+      "decision": "keep",
+      "canonicalName": "Спинозизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Философская система, восходящая к Спинозе и рассматривающая Бога, или Природу, как единую бесконечную субстанцию без личных замыслов и целей.",
+      "profile": "+divine +pantheism -personal +naturalism -revelation -scripture -ritual +spinoza_necessity",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Spinoza",
+        "https://plato.stanford.edu/entries/spinoza/"
+      ],
+      "notes": "Исходная ссылка биографическая; Stanford Encyclopedia of Philosophy подтверждает учение об одной необходимой субстанции, натуралистическое объяснение, критику сверхъестественного откровения и авторитета Писания в философии. Обряды не являются центральным способом постижения Бога/Природы. Не alias общего пантеизма: спинозизм включает определённую метафизику и этику. pantheism соответствует широкому вопросу о единстве мира и божественного; академические разногласия о точной классификации Спинозы сохранены."
+    },
+    {
+      "sourceIndex": 791,
+      "sourceName": "Theistic naturalism",
+      "decision": "keep",
+      "canonicalName": "Теистический натурализм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Подход, соединяющий теизм с объяснением природных процессов через естественные законы и отказом от разрывного сверхъестественного вмешательства.",
+      "profile": "+divine",
+      "proposedQuestions": [
+        {
+          "id": "methodological_naturalism",
+          "text": "Следует ли объяснять природные явления естественными причинами, независимо от вашей веры или неверия в Бога?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отделяет метод объяснения природы от онтологического отрицания сверхъестественного. Позволяет описать теистический натурализм, не приписывая ему полную метафизическую позицию научного натурализма; применимость к другим теизмам требует проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Theistic_naturalism",
+        "https://link.springer.com/referenceworkentry/10.1007/978-1-4020-8265-8_1105"
+      ],
+      "notes": "Не синоним научного натурализма с отрицанием божественного. naturalism в questions.js означает полностью природное объяснение мира; его нельзя автоматически назначить теизму, сохраняющему трансцендентное основание законов природы."
+    },
+    {
+      "sourceIndex": 792,
+      "sourceName": "Theophilanthropy",
+      "decision": "keep",
+      "canonicalName": "Теофилантропия",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Деизм",
+      "description": "Историческое французское религиозное движение эпохи Директории, основанное на любви к Богу и людям, вере в Бога и бессмертие души.",
+      "profile": "+divine +afterlife +ritual -revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Theophilanthropy"
+      ],
+      "notes": "Конкретное движение с руководствами и церемониями, а не полный синоним деизма. «Светское» происхождение в революционном государстве не означает отрицания Бога; humanism не назначен, поскольку существующий вопрос исключает религиозный авторитет."
+    },
+    {
+      "sourceIndex": 793,
+      "sourceName": "Adevism",
+      "decision": "keep",
+      "canonicalName": "Адевизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторический термин Макса Мюллера для отрицания богов, особенно ведийских дэвов, в обсуждении индийской философии.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Adevism",
+        "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Adevism"
+      ],
+      "notes": "Британская энциклопедия 1911 года подтверждает специальное терминологическое употребление. Не установлена самостоятельная община или единое учение. Не сделан alias атеизма: отрицание конкретных богов в данном историческом контексте не обязательно исключает любое божественное начало. Профиль поэтому пустой."
+    },
+    {
+      "sourceIndex": 794,
+      "sourceName": "Agnostic atheism",
+      "decision": "keep",
+      "canonicalName": "Агностический атеизм",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": "Атеизм",
+      "description": "Позиция, сочетающая отсутствие веры в богов с отказом считать их существование или несуществование достоверно известным.",
+      "profile": "-divine +agnostic",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Agnostic_atheism"
+      ],
+      "notes": "Узкая комбинация позиции о вере и позиции о знании; не тождественна всему атеизму или всему агностицизму. Источник оговаривает, что разные философские определения атеизма меняют используемую классификацию."
+    },
+    {
+      "sourceIndex": 795,
+      "sourceName": "Agnostic theism",
+      "decision": "keep",
+      "canonicalName": "Агностический теизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Позиция, сочетающая веру в божество или божества с признанием ограниченности или невозможности достоверного знания о них.",
+      "profile": "+divine +agnostic",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Agnostic_theism"
+      ],
+      "notes": "Не синоним агностицизма вообще и не разновидность атеизма, несмотря на исходный раздел списка. Единобожие и конкретная конфессиональная принадлежность из этой позиции не следуют."
+    },
+    {
+      "sourceIndex": 796,
+      "sourceName": "Agnosticism",
+      "decision": "alias",
+      "canonicalName": "Агностицизм",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Позиция, оставляющая существование божественного открытым либо считающая его непознаваемым.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Agnosticism"
+      ],
+      "notes": "Совпадает с существующей записью «Агностицизм» в religions.js. Его теистические и атеистические сочетания сохранены отдельно как более узкие позиции."
+    },
+    {
+      "sourceIndex": 797,
+      "sourceName": "Apatheism",
+      "decision": "alias",
+      "canonicalName": "Апатеизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Отношение, при котором вопрос о существовании или отсутствии богов не имеет существенного значения для жизни.",
+      "profile": "",
+      "proposedQuestions": [
+        {
+          "id": "god_question_importance",
+          "text": "Имеет ли вопрос о существовании Бога или богов существенное значение для вашей жизни?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Позволяет различить апатеизм и заинтересованные формы агностицизма, атеизма или теизма. Отрицательный ответ не доказывает ни отсутствие веры, ни принципиальную непознаваемость божественного."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Apatheism"
+      ],
+      "notes": "Совпадает с существующей записью «Апатеизм» в religions.js. Не сводится к агностицизму: отсутствие интереса к вопросу отличается от позиции о познаваемости. Профиль существующей записи здесь не улучшается."
+    },
+    {
+      "sourceIndex": 798,
+      "sourceName": "Atheopaganism",
+      "decision": "keep",
+      "canonicalName": "Атеопаганизм",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Нетеистическое язычество",
+      "description": "Определённый современный путь Марка Грина внутри натуралистического язычества, соединяющий научную картину мира с символическими сезонными обрядами.",
+      "profile": "-divine +naturalism +scientific +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Atheopaganism",
+        "https://atheopaganism.org/atheopaganism/faq/"
+      ],
+      "notes": "Исходная статья озаглавлена по поддерживающей организации, но официальный FAQ прямо подтверждает само учение. Не alias более широкой записи «Нетеистическое язычество»: атеопаганизм имеет собственные принципы и годовой цикл. Символы божеств не означают веру в их буквальное существование; психологический ритуал не автоматически occult."
+    },
+    {
+      "sourceIndex": 799,
+      "sourceName": "Biosophy",
+      "decision": "review",
+      "canonicalName": "Биософия — требуется уточнение школы",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Название разных философских подходов к жизни, включая этико-духовное движение Фредерика Кеттнера и иные биологически ориентированные философские проекты.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Biosophy",
+        "https://biosophical.org/about-biosophy/",
+        "https://findingaids.library.upenn.edu/records/Peace_SCPC.CDG-A.BIOSOPHICALINSTITUTE"
+      ],
+      "notes": "Исходная статья объединяет Трокслера, Запффе, Кеттнера, Йон Бхака и разные программы без единого вероучения. Первичный сайт Biosophical Institute и архив Swarthmore подтверждают именно движение Кеттнера, вдохновлённое Спинозой, но не тождество всех значений. До уточнения охвата не назначены атеизм, научный натурализм или религиозный профиль."
+    },
+    {
+      "sourceIndex": 800,
+      "sourceName": "Christian agnosticism",
+      "decision": "keep",
+      "canonicalName": "Христианский агностицизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Христианство",
+      "description": "Христианская богословская позиция, сочетающая обращение к Иисусу и веру с признанием ограниченности религиозного знания и уверенности.",
+      "profile": "+divine +jesus +agnostic",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Christian_agnosticism"
+      ],
+      "notes": "Не синоним атеизма. Частное исповедание Лесли Уэзерхеда не перенесено целиком на всех носителей названия. Отказ от библейской непогрешимости не равен отсутствию авторитетного текста."
+    },
+    {
+      "sourceIndex": 801,
+      "sourceName": "Christian atheism",
+      "decision": "keep",
+      "canonicalName": "Христианский атеизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Христианство",
+      "description": "Ряд подходов, сохраняющих центральное значение Иисуса или христианского наследия при отказе от традиционного теистического представления о Боге.",
+      "profile": "+jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Christian_atheism"
+      ],
+      "notes": "Не alias атеизма вообще. Под названием объединяются буквальное неверие в божество, христианский нереализм и радикальная теология смерти Бога. Поэтому -divine не назначен всей категории: некоторые авторы сохраняют переосмысленное понятие божественного."
+    },
+    {
+      "sourceIndex": 802,
+      "sourceName": "Christian humanism",
+      "decision": "keep",
+      "canonicalName": "Христианский гуманизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Христианство",
+      "description": "Христианские интеллектуальные и этические подходы, связывающие достоинство человека и гуманитарное образование с христианским наследием.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Christian_humanism"
+      ],
+      "notes": "В источнике различены ренессансное и современное употребления. Не относится автоматически к нетеизму, несмотря на раздел исходного списка, и не синоним светского гуманизма. humanism в questions.js требует этики без религиозного авторитета и поэтому не назначен. Общее обозначение не задаёт единого конфессионального профиля."
+    },
+    {
+      "sourceIndex": 803,
+      "sourceName": "Christian pandeism",
+      "decision": "review",
+      "canonicalName": "Христианский пандеизм — требуется уточнение",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Предполагаемое обозначение сочетания христианских идей с пандеизмом; исходная ссылка такого единого направления не устанавливает.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Christianity_and_pandeism",
+        "https://plato.stanford.edu/entries/scottus-eriugena/"
+      ],
+      "notes": "Статья Christianity and pandeism преимущественно обсуждает критику пандеизма христианскими авторами и спорные ретроспективные классификации Эриугены, Бруно и других мыслителей. Это не доказательство отдельного самоназванного учения Christian pandeism. Не сделан alias пандеизма и не назначен автоматически христианский профиль; требуется целевой источник. Академический обзор характеризует систему Эриугены как христианский неоплатонизм, что дополнительно требует осторожности с ретроспективной этикеткой."
+    },
+    {
+      "sourceIndex": 804,
+      "sourceName": "Church of Humanity",
+      "decision": "keep",
+      "canonicalName": "Церковь человечества (английские позитивисты)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Религия человечества",
+      "description": "Историческое английское позитивистское религиозное объединение Ричарда Конгрива, вдохновлённое религией человечества Огюста Конта.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Church_of_Humanity"
+      ],
+      "notes": "Сохраняется конкретная церковная форма, а не вся философия позитивизма или вся религия человечества. Источник подтверждает проповеди и церемонии, но его неоднозначное отрицание характеристики «атеистическая» не использовано для вывода +divine; без более точного богословского источника этот признак оставлен открытым."
+    },
+    {
+      "sourceIndex": 805,
+      "sourceName": "Church of Satan",
+      "decision": "keep",
+      "canonicalName": "Церковь Сатаны",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Лавеевский сатанизм",
+      "description": "Организация, основанная Антоном Лавеем в 1966 году и представляющая атеистическое религиозное учение с символическим образом Сатаны.",
+      "profile": "-divine +ritual -afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Church_of_Satan",
+        "https://churchofsatan.com/faq-fundamental-beliefs/",
+        "https://churchofsatan.com/faq-replies-for-atheists/",
+        "https://churchofsatan.com/faq-selling-souls/"
+      ],
+      "notes": "Официальный FAQ подтверждает атеизм и психодраматические ритуалы; Сатана не считается буквальным существом. Организация сохранена отдельно от более общего лавеевского сатанизма и от The Satanic Temple. Отрицание душ и загробных миров подтверждено отдельной официальной страницей. Современная трактовка магии как метафоры не автоматически occult."
+    }
+  ]
+}

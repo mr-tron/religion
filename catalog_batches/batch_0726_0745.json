@@ -1,0 +1,363 @@
+{
+  "range": [
+    726,
+    745
+  ],
+  "entries": [
+    {
+      "sourceIndex": 726,
+      "sourceName": "Dianic Wicca",
+      "decision": "keep",
+      "canonicalName": "Дианическая викка",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Викка",
+      "description": "Современные ведьмовские традиции с преимущественным почитанием Богини и вниманием к женскому опыту; особенно известна линия Жужанны Будапешт.",
+      "profile": "+divine +ritual +occult",
+      "proposedQuestions": [
+        {
+          "id": "goddess_central",
+          "text": "Занимает ли почитание Богини преимущественное или исключительное место в вашей духовной практике?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Различает дианические и иные богинецентричные традиции и направления с равным почитанием Бога и Богини, например гарднерианскую Викку. Не предполагает, что богини всегда понимаются как отдельные существа."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dianic_Wicca"
+      ],
+      "notes": "Не синоним всей Викки. Дианические группы различаются по богословию и условиям участия, поэтому единобожие и один обязательный состав общины не назначены всем."
+    },
+    {
+      "sourceIndex": 727,
+      "sourceName": "Discordianism",
+      "decision": "keep",
+      "canonicalName": "Дискордианство",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Децентрализованное религиозное и культурное движение вокруг образа Эриды и книги «Principia Discordia», использующее юмор, парадокс и игру.",
+      "profile": "+scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Discordianism"
+      ],
+      "notes": "Священный текст занимает центральное место, но догматическая обязательность его положений отвергается или обыгрывается. Отношение к Эриде может быть буквальным или символическим; divine, one_god и nonreligious не назначены. Наличие пародии не означает отсутствия реальных религиозных участников."
+    },
+    {
+      "sourceIndex": 728,
+      "sourceName": "Druidry",
+      "decision": "alias",
+      "canonicalName": "Друидизм",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современные духовные пути, вдохновлённые кельтским наследием и отношениями с природой.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Druidry_(modern)"
+      ],
+      "notes": "Точный смысл существующей записи «Друидизм» в religions.js — современные пути, а не древнее жречество. Исходная статья прямо использует modern Druidry и Druidism для данного современного движения; запись является синонимом."
+    },
+    {
+      "sourceIndex": 729,
+      "sourceName": "Faerie faith",
+      "decision": "keep",
+      "canonicalName": "Faerie Faith (традиция Робертса и Эпоны)",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Викка Макфарланд",
+      "description": "Американская викканская линия, выросшая из традиции Макфарланд и использующая лунный древесный календарь Beth-Luis-Nion для духовного обучения.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Faerie_faith"
+      ],
+      "notes": "Источник прямо отличает её от Feri Андерсонов, Faery Wicca Кисмы Степанич и Radical Faeries. Календарь основан на современной интерпретации Роберта Грейвса; его древнекельтская достоверность не предполагается. Отдельного надёжного профиля общих убеждений недостаточно."
+    },
+    {
+      "sourceIndex": 730,
+      "sourceName": "Faery Wicca",
+      "decision": "review",
+      "canonicalName": "Faery Wicca — требуется уточнение традиции",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Название, применяемое в источниках к различным современным ведьмовским системам; целевое значение исходной записи неоднозначно.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Faery_Wicca",
+        "https://en.wikipedia.org/wiki/Faerie_faith",
+        "https://anderson-faery.org/history/",
+        "https://books.google.com/books/about/Faery_Wicca_The_Shamanic_practices_of_th.html?id=bdsycAAACAAJ"
+      ],
+      "notes": "Исходная статья описывает Кору Андерсон и Гвидиона Пендервена, что пересекается с Feri Tradition (732). Однако статья Faerie faith прямо отличает Faery Wicca Кисмы Степанич от Feri. Первичная история Anderson Faery подтверждает альтернативные написания названия линии Андерсонов; книга самой Степанич 1994 года подтверждает другую систему под названием Faery Wicca. До уточнения цели нельзя автоматически сделать alias или перенести любой из профилей."
+    },
+    {
+      "sourceIndex": 731,
+      "sourceName": "Feraferia",
+      "decision": "keep",
+      "canonicalName": "Фераферия",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Неоязыческая традиция Фредерика Адамса, соединяющая празднование дикой природы с эллинизирующим почитанием девственной Богини Коры.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Feraferia",
+        "https://feraferia.org/"
+      ],
+      "notes": "Современное движение, учреждённое в Калифорнии в 1967 году; не тождественно исторической греческой религии. Почитание природы не использовано само по себе для вывода о вере во множество духов."
+    },
+    {
+      "sourceIndex": 732,
+      "sourceName": "Feri Tradition",
+      "decision": "keep",
+      "canonicalName": "Традиция Фери",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Американская инициатическая традиция ведьмовства Виктора и Коры Андерсон, подчёркивающая экстатический опыт, телесность и непосредственное общение с божественным.",
+      "profile": "+divine +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Feri_Tradition",
+        "https://anderson-faery.org/history/"
+      ],
+      "notes": "Anderson Faery и Feri — варианты названия линии Андерсонов. Не объединена с Faerie Faith Робертса и Эпоны или с системой Faery Wicca Степанич. Некоторые линии избегают определения «викканские»; родителем Викка не назначена."
+    },
+    {
+      "sourceIndex": 733,
+      "sourceName": "Gaianism",
+      "decision": "keep",
+      "canonicalName": "Гайанство",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность философских и духовных взглядов, в которых Земля воспринимается как взаимосвязанное живое целое и предмет этической заботы.",
+      "profile": "",
+      "proposedQuestions": [
+        {
+          "id": "sacred_nature",
+          "text": "Считаете ли вы природу священной или самостоятельным источником духовного смысла?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Описывает общее основание гайанства, природных религий и реформированного друидизма без обязательной веры в духов. Существующий nature_spirits требует более конкретной анимистической позиции, которую эти направления разделяют не всегда."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gaianism"
+      ],
+      "notes": "Не синоним античного культа Геи или одного благотворительного фонда. Включает религиозные и натуралистические варианты, поэтому божественность Земли, пантеизм и отрицание сверхъестественного не назначены всему направлению."
+    },
+    {
+      "sourceIndex": 734,
+      "sourceName": "Gardnerian Wicca",
+      "decision": "keep",
+      "canonicalName": "Гарднерианская викка",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Викка",
+      "description": "Инициатическая викканская традиция, чьи линии посвящения восходят к Джеральду Гарднеру; центральны Богиня и Рогатый Бог.",
+      "profile": "+divine +many_gods +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gardnerian_Wicca"
+      ],
+      "notes": "Сохраняется как особая ветвь Викки. many_gods соответствует признанию двух главных божеств; единая трактовка их отношения к более высоким принципам не предполагается. Утверждения о непрерывном древнем происхождении отделены от подтверждённой современной истории."
+    },
+    {
+      "sourceIndex": 735,
+      "sourceName": "Georgian Wicca",
+      "decision": "keep",
+      "canonicalName": "Викка Джорджа Паттерсона",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Викка",
+      "description": "Американская викканская традиция, основанная Джорджем Паттерсоном с ученицами в 1970 году; сочетает посвящение, наследование ритуалов и творческую адаптацию.",
+      "profile": "+divine +many_gods +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Georgian_Wicca",
+        "https://georgianwicca.com/",
+        "https://georgianwicca.com/about/"
+      ],
+      "notes": "Georgian означает связь с Джорджем Паттерсоном, а не с Грузией. Официальный сайт подтверждает самостоятельную линию, почитание богов и магическую практику. Заимствование гарднерианских и александрийских форм не означает тождества этим линиям."
+    },
+    {
+      "sourceIndex": 736,
+      "sourceName": "Goddess Wicca",
+      "decision": "review",
+      "canonicalName": "Богинецентричная викка — требуется уточнение",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Викка",
+      "description": "Предположительно собирательное обозначение викканских направлений, придающих Богине преимущественное место.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wiccan_views_of_divinity",
+        "https://cog.org/about-witchcraft/overview"
+      ],
+      "notes": "Исходная ссылка ведёт на общий обзор Wiccan views of divinity, охватывающий дуотеизм, политеизм, пантеизм, дианическую Викку и символические трактовки. Она не устанавливает единую самостоятельную традицию Goddess Wicca и не доказывает тождества только дианической ветви. Нужен отдельный источник или уточнение охвата; профиль пока пустой."
+    },
+    {
+      "sourceIndex": 737,
+      "sourceName": "Huna",
+      "decision": "keep",
+      "canonicalName": "Хуна (учение Макса Фридома Лонга)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современная эзотерическая система Макса Фридома Лонга, использующая модель трёх уровней сознания и представления о жизненной силе.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Huna_(New_Age)"
+      ],
+      "notes": "Заявленное происхождение от древней гавайской мудрости не принято как установленная преемственность. Исходная статья отличает систему Лонга от коренной гавайской религии и отмечает её связи с New Thought и теософией. Поздние учения Сержа Кинга не перенесены на всех последователей."
+    },
+    {
+      "sourceIndex": 738,
+      "sourceName": "Ivanovism",
+      "decision": "keep",
+      "canonicalName": "Ивановство",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозное движение последователей Порфирия Иванова, связывающее сакрализованную Природу с духовным и телесным совершенствованием по системе «Детка».",
+      "profile": "+divine +personal +pantheism +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ivanovism"
+      ],
+      "notes": "Признаки относятся к описанному религиозному течению, а не к любому человеку, использующему закаливание. Степень обожествления Иванова и богословские интерпретации различаются; движение не сведено к родноверию или христианской ветви."
+    },
+    {
+      "sourceIndex": 739,
+      "sourceName": "Nature religion",
+      "decision": "keep",
+      "canonicalName": "Природные религии",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательная категория религий, в которых природный мир воспринимается как проявление священного, божественного или духовной силы.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nature_religion"
+      ],
+      "notes": "Не единая организация и не синоним анимизма: категория включает разные коренные и современные религии, а вера в отдельных духов не обязательна. Предлагаемое семейство nature_religions — «Природоцентричные религиозные пути», если каталог поддерживает такие надгрупповые категории; не следует автоматически переносить его признаки на все включённые традиции. Вопрос sacred_nature из записи 733 применим и здесь."
+    },
+    {
+      "sourceIndex": 740,
+      "sourceName": "Neoshamanism",
+      "decision": "keep",
+      "canonicalName": "Неошаманизм",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современные формы духовной практики, использующие изменённые состояния сознания и обращения к миру духов, часто вне традиционного общинного контекста.",
+      "profile": "+nature_spirits +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Neoshamanism"
+      ],
+      "notes": "Собирательная категория, а не синоним всех коренных шаманских традиций или только Core Shamanism Майкла Харнера. Конкретные техники и отношение к заимствованию культурных практик различаются."
+    },
+    {
+      "sourceIndex": 741,
+      "sourceName": "Odyssean Wicca",
+      "decision": "keep",
+      "canonicalName": "Одиссеанская викка",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Викка",
+      "description": "Канадская викканская традиция, связанная с Ричардом и Тамарой Джеймс и Wiccan Church of Canada; уделяет особое внимание подготовке публичного духовенства.",
+      "profile": "+divine +many_gods +ritual -one_god",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Odyssean_Wicca"
+      ],
+      "notes": "Источник описывает принятие дуотеизма и выбор почитаемого пантеона при неприятии монотеистической модели. Не отождествлена со всей Wiccan Church of Canada: это тесно связанная инициатическая традиция."
+    },
+    {
+      "sourceIndex": 742,
+      "sourceName": "Order of Bards, Ovates, and Druids",
+      "decision": "keep",
+      "canonicalName": "Орден бардов, оватов и друидов (OBOD)",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Друидизм",
+      "description": "Современный друидический орден, созданный Россом Николсом в 1964 году и предлагающий обучение по ступеням барда, овата и друида.",
+      "profile": "+ritual +meditation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Order_of_Bards,_Ovates,_and_Druids",
+        "https://en.wikipedia.org/wiki/Order_of_Bards,_Ovates_and_Druids",
+        "https://druidry.org/frequently-asked-questions"
+      ],
+      "notes": "Исходный URL с лишней запятой не загрузился; прочитаны статья по варианту без неё и официальный FAQ. Последний подтверждает сезонные обряды, обучение гаданию и духовной работе. Теологическое единство участников не предполагается; организация не синоним всего друидизма."
+    },
+    {
+      "sourceIndex": 743,
+      "sourceName": "Radical Faeries",
+      "decision": "keep",
+      "canonicalName": "Радикальные феи (Radical Faeries)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Децентрализованное движение квир-духовности и общинной жизни, возникшее в конце 1970-х годов и соединяющее духовное исследование с культурной и общественной деятельностью.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Radical_Faeries"
+      ],
+      "notes": "Описаны общинные встречи и ритуалы, но общей обязательной теологии нет: встречаются и светские духовные формы. Название не делает движение синонимом Feri, Faerie Faith или Faery Wicca; принадлежность к ЛГБТК сама по себе не религиозный профиль."
+    },
+    {
+      "sourceIndex": 744,
+      "sourceName": "Reclaiming",
+      "decision": "keep",
+      "canonicalName": "Реклейминг (Reclaiming)",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Феминистская традиция современного ведьмовства, соединяющая экстатический ритуал, магическую практику, заботу о Земле и общественную деятельность.",
+      "profile": "+divine +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Reclaiming_(Neopaganism)",
+        "https://witchcamp.org/",
+        "https://portlandreclaiming.org/Portland_Reclaiming/Priciples_of_Unity.html"
+      ],
+      "notes": "Публичные принципы подтверждают понимание священного как присутствующего в жизни и признание разных божественных образов. Связи с Feri и дианическими традициями не означают тождества. Экологический активизм не приравнен к светскому humanism."
+    },
+    {
+      "sourceIndex": 745,
+      "sourceName": "Reformed Druids of North America",
+      "decision": "keep",
+      "canonicalName": "Реформированные друиды Северной Америки (RDNA)",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Друидизм",
+      "description": "Друидическое движение, возникшее в Карлтонском колледже в 1963 году; признаёт духовную значимость природы при минимуме обязательных доктрин.",
+      "profile": "+ritual +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Reformed_Druids_of_North_America",
+        "https://www.rdna.info/faq.html"
+      ],
+      "notes": "Первичный FAQ подтверждает природные богослужения, посвящения и созерцательную практику. Участники могут сохранять другие религиозные взгляды; вера в одного бога, многих богов или буквальных духов не назначена всей организации. Вопрос sacred_nature из записи 733 применим и здесь."
+    }
+  ]
+}

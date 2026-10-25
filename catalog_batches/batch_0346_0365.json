@@ -1,0 +1,378 @@
+{
+  "range": [
+    346,
+    365
+  ],
+  "entries": [
+    {
+      "sourceIndex": 346,
+      "sourceName": "Sari Dharam",
+      "decision": "keep",
+      "canonicalName": "Сари-дхарам",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозная традиция санталов с почитанием Маранг-Буру и других божеств.",
+      "profile": "+divine +many_gods +scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sari_Dharam",
+        "https://knowledge.uchicago.edu/record/7511/files/Marty_uchicago_0330D_17031.pdf"
+      ],
+      "notes": "Не объявляется синонимом сарнаизма: исходная статья различает эти обозначения. Указаны священные тексты Jomsim Binti и Kherwal Bansa Dhorom Puthi; это не означает единого канона всех санталов. Дополнение 2026-10-25: Раздел Scriptures исходной статьи прямо характеризует Kherwal Bansa Dhorom Puthi как изложение практик поклонения Sari Hor Hopon; добавлен +ritual. Другие верования всех санталов или сарнаистов автоматически не перенесены. Ссылка Chicago при повторной проверке не дала извлекаемого текста и не использована для дополнительных признаков."
+    },
+    {
+      "sourceIndex": 347,
+      "sourceName": "Sarnaism",
+      "decision": "keep",
+      "canonicalName": "Сарнаизм",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность традиций адиваси восточной Индии, связанных со священными рощами и общинными обрядами.",
+      "profile": "+divine +nature_spirits +ancestors +ritual +many_gods +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sarnaism",
+        "https://www.environmentandsociety.org/sites/default/files/key_docs/Damodaran-1-2.pdf"
+      ],
+      "notes": "Зонтичное обозначение разных общин; названия божеств и богословские представления различаются. Сари-дхарам не объединён автоматически с сарнаизмом. Дополнение 2026-10-25: Исследование Vinita Damodaran, Environment and History, описывает почитание в sarna Deswali/Sarna Burhi и других божественных сил, от благосклонности которых зависит урожай: им совершают подношения (+many_gods/+personal). Подтверждение относится к описанным мунданским/ораонским формам внутри зонтичной традиции; общий единый пантеон не заявлен."
+    },
+    {
+      "sourceIndex": 348,
+      "sourceName": "Senoi ethnic religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования сенои",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные местные верования народов сенои Малайского полуострова.",
+      "profile": "+nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Senoi",
+        "https://www.sciencedirect.com/science/article/pii/027795368890233X"
+      ],
+      "notes": "Исходная статья о нескольких народах описывает неунифицированные анимистические верования, духов mara и gunig. Общая обязательная догматика не установлена. Дополнение 2026-10-25: Полевое исследование Marina Roseman, The pragmatics of aesthetics: The performance of healing among Senoi Temiar (1988), прямо описывает лечебные церемонии с музыкой и танцем. +ritual относится к подтверждённому комплексу Senoi Temiar внутри разнообразных сенои; популярная теория обязательного управления снами не назначена."
+    },
+    {
+      "sourceIndex": 349,
+      "sourceName": "Sora traditional beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования сора",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция народа сора в Индии с божествами, природными духами и предками.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +afterlife +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sora_people",
+        "https://therai.org.uk/events/2024-mn-srinivas-lecture-dr-piers-vitebsky/",
+        "https://www.bibliovault.org/BV.landing.epl?ISBN=9780226407876"
+      ],
+      "notes": "Статья о народе содержит отдельное описание традиционной религии. Профиль относится к ней, а не ко всем современным сора. Дополнение 2026-10-25: Полевые исследования Piers Vitebsky и его лекция Royal Anthropological Institute (2024) описывают центральные диалоги сора с умершими через говорящих в трансе шаманов (+ritual/+afterlife/+spirit_possession). Сохранён историко-традиционный предмет записи: автор отдельно отмечает отход молодых сора к христианским и индуистским движениям."
+    },
+    {
+      "sourceIndex": 350,
+      "sourceName": "Ta Oi animism",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования таой",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Верования таой Лаоса и Вьетнама о духах природы, умерших и связанных с ними обрядах.",
+      "profile": "+nature_spirits +ancestors +afterlife +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ta_Oi_people"
+      ],
+      "notes": "Статья прямо описывает души природных объектов, судьбу умерших и семейные церемонии; локальные различия не снимаются. Дополнение 2026-10-25: Раздел Love magic исходной статьи предметно описывает nang — магическое средство привлечения возлюбленной, связываемое со смолой птицы Ko-tach (+occult). Оговорка источника сохранена: средство известно в Лаосе и не доступно во Вьетнаме; не утверждается его использование каждым таой или наличие единого обряда для всех общин."
+    },
+    {
+      "sourceIndex": 351,
+      "sourceName": "Tampuan animism",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования тампуан",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Верования тампуан Камбоджи с духами окружающего мира и жертвенными обрядами.",
+      "profile": "+nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tampuan_people"
+      ],
+      "notes": "Источник описывает духов всех вещей, жертвоприношения и медиумов. Современная этническая принадлежность сама по себе не доказывает следование этой практике."
+    },
+    {
+      "sourceIndex": 352,
+      "sourceName": "Thánh Trần worship",
+      "decision": "keep",
+      "canonicalName": "Почитание святого Чан Хынг Дао",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Вьетнамская народная религия",
+      "description": "Вьетнамский культ обожествлённого полководца Чан Хынг Дао, известного как Тхань Чан.",
+      "profile": "+divine +ritual +spirit_possession +occult",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Важна ли для вашей духовной практики возможность общения с духами через вселение в человека или медиума?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Уточняет роль медиумных практик в почитании Тхань Чана и Дао Мау в сравнении с общим признанием духов. Повторяет уже предложенный в партии 86–105 вопрос; новые отрицательные ответы не назначаются без проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Th%C3%A1nh_Tr%E1%BA%A7n_worship",
+        "https://thesiamsociety.org/wp-content/uploads/2007/03/JSS_095_0k_Reviews.pdf",
+        "https://silkwormbooks.com/products/hero-and-deity"
+      ],
+      "notes": "Узкая традиция внутри вьетнамской народной религии, связанная с медиумными обрядами lên đồng. Связь с Дао Мау не делает их синонимами. Дополнение 2026-10-25: Академический разбор Possessed by the Spirits в Journal of the Siam Society 95 (2007), с изложением главы Pham Quynh Phuong, прямо подтверждает медиумов, воплощающих святого Чана, и его роль в изгнании духов (+spirit_possession/+occult). Издательская карточка её полевой монографии Hero and Deity независимо подтверждает предмет культа. Это собственная традиция Тхань Чана, не механический перенос профиля Дао Мау."
+    },
+    {
+      "sourceIndex": 353,
+      "sourceName": "Vietnamese folk religion",
+      "decision": "keep",
+      "canonicalName": "Вьетнамская народная религия",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Комплекс вьетнамских практик почитания предков, местных божеств, героев и природных сил.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +personal +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vietnamese_folk_religion"
+      ],
+      "notes": "Широкое обозначение локальных культов, а не одна церковь или единый набор обязательных верований. Дао Мау и культ Тхань Чана сохраняются как отдельные ветви. Дополнение 2026-10-25: Раздел Concept of linh исходной статьи прямо включает linh-ứng — отклик божества на молитвы (+personal), а также vong-linh/hương-linh — дух умершего до/после перехода (+afterlife). Не приписаны автоматически всем местным культам отдельные медиумные практики Дао Мау."
+    },
+    {
+      "sourceIndex": 354,
+      "sourceName": "Wancho religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования ванчо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционные верования ванчо северо-востока Индии, включая божеств Ранг и Бауранг.",
+      "profile": "+divine +many_gods +ritual +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wancho_Naga",
+        "https://longding.nic.in/festival/"
+      ],
+      "notes": "Статья о народе отделяет традиционные верования от христианских обращений. Два названных божества подтверждают множественность; остальные признаки не выведены из этничности. Дополнение 2026-10-25: Официальный сайт округа Longding описывает Oriah как священные подношения и молитвы Jowan Rang за урожай и благополучие (+ritual/+personal). Название Jowan поясняется как слово «Бог», а не имя дополнительного божества; новый политеистический аргумент из него не строится."
+    },
+    {
+      "sourceIndex": 355,
+      "sourceName": "Đạo Mẫu",
+      "decision": "keep",
+      "canonicalName": "Дао Мау",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Вьетнамская народная религия",
+      "description": "Вьетнамская традиция почитания богинь-матерей и связанных с ними духов.",
+      "profile": "+divine +many_gods +ritual +spirit_possession +personal +nature_spirits",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Важна ли для вашей духовной практики возможность общения с духами через вселение в человека или медиума?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Уточняет роль медиумных практик в почитании Тхань Чана и Дао Мау в сравнении с общим признанием духов. Повторяет уже предложенный в партии 86–105 вопрос; новые отрицательные ответы не назначаются без проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu",
+        "https://ich.unesco.org/en/decisions/11.COM/10.B.37",
+        "https://www.unesco.org/archives/multimedia/document-4389",
+        "https://ich.unesco.org/doc/src/30653.pdf"
+      ],
+      "notes": "UNESCO подтверждает культы богинь трёх сфер и обрядовую практику. Вариант четырёх дворцов не следует объявлять единственной формой Дао Мау. Дополнение 2026-10-25: UNESCO, решение 11.COM 10.B.37, прямо подтверждает обряд вселения духов, обращения к богиням за здоровьем/успехом и богинь сфер воды, гор и леса (+spirit_possession/+personal/+nature_spirits). Документ VICAS в номинационном досье независимо описывает тех же духов природы и обряды. Историческое пострижение Liễu Hạnh само по себе не означает +buddha для всей традиции."
+    },
+    {
+      "sourceIndex": 356,
+      "sourceName": "Adat Pu'un",
+      "decision": "keep",
+      "canonicalName": "Адат пуу́н",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционные религиозные обычаи кеньях и родственных общин Борнео, называемые adat pu’un.",
+      "profile": "+divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kenyah_people",
+        "https://repository.up.ac.za/bitstream/handle/2263/40240/Chong_Kenyah_2014.pdf?sequence=3",
+        "https://pdfs.semanticscholar.org/9145/ea023259a177175aec1716e123e8550ee428.pdf"
+      ],
+      "notes": "Раздел религии в исходной статье недостаточно снабжён ссылками; университетская диссертация подтверждает обозначение adet pu’un как традиционной религии кеньях/каян. Реформированная традиция Бунган не объявлена синонимом. Проверяемых общих ответов пока недостаточно. Дополнение 2026-10-25: Полевое исследование It Is Easy When You Are a Christian, Cultural and Religious Studies 4(4), 2016, p. 258, раздел From Adet Bungan to Christianity, прямо различает старые adet puun и реформу Bungan. Интервью о прежних adet sui описывают чтение птичьих голосов/полёта как знаков, определявших путешествия и работу (+divination_oracles). Пантеон реформированного Bungan автоматически не перенесён."
+    },
+    {
+      "sourceIndex": 357,
+      "sourceName": "Aluk",
+      "decision": "keep",
+      "canonicalName": "Алук то доло",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционная религия тораджа Сулавеси с почитанием предков, божеств и обрядовым законом алук.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +afterlife +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Torajan_people",
+        "https://australian.museum/learn/cultures/international-collection/indonesia/textiles-in-torajan-funerals/",
+        "https://www.indonesia.travel/gb/en/destination/sulawesi/south-sulawesi/tana-toraja---tau-tau-statues"
+      ],
+      "notes": "Aluk обозначает также обычай, путь и закон; здесь речь о религиозной традиции Aluk To Dolo. Административная классификация Hindu Alukta не делает её тождественной всему индуизму. Дополнение 2026-10-25: Australian Museum описывает погребальный pori lonjong как путь души в Puya, страну душ (+afterlife). Официальный Indonesia Travel описывает tau-tau как ритуальные изображения умерших и защитников могил/живых (+icons). Изображения не используются как основание ritual_masks: деревянная маска на фигуре не равна ношению ритуальных масок участниками."
+    },
+    {
+      "sourceIndex": 358,
+      "sourceName": "Amis religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия амис",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционные верования амис Тайваня, основанные на представлениях о kawas и общинных обрядах.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +personal +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kawas_(mythology)",
+        "https://www.cip.gov.tw/en/tribe/grid-list/50AABE9D1284F664D0636733C6861689/info.html?cumid=B54B5C7E1E0F994092EDA9D0B7048931",
+        "https://ihc.cip.gov.tw/EJournal/EJournalCat/308",
+        "https://www.ioe.sinica.edu.tw/WebTools/FilesDownload.ashx?Menuid=530400021400001437&Pname=2011+Shaman-Liu+Pi-chen-1.pdf&Siteid=530367205133077215&fd=ResearcherPublication",
+        "https://www.ioe.sinica.edu.tw/WebTools/FilesDownload.ashx?Menuid=530167136406372131&Pname=2019+%E7%AB%B9%E5%8D%A0_20210329151800.pdf&Siteid=530167135246736660&fd=ResearcherPublication"
+      ],
+      "notes": "Исходная ссылка посвящена понятию kawas, а не всей религии. Дополнена официальными материалами Совета коренных народов Тайваня о божествах, предках и обрядах; профиль не распространяется на всех современных амис. Дополнение 2026-10-25: Liu Pi-Chen (Academia Sinica), Encounters with Deities for Exchange (2011), описывает песенное взаимодействие с божествами и предками (+personal). Её исследование The Performance of Bamboo Divination among the Amis in Taiwan (2019), английская аннотация p. 122, анализирует 13 случаев бамбукового гадания у южных амис (+divination_oracles) и явно отличает их от северных общин. Не предполагается единообразие всех амис."
+    },
+    {
+      "sourceIndex": 359,
+      "sourceName": "Arioi",
+      "decision": "keep",
+      "canonicalName": "Ариои",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческое религиозное объединение островов Общества, связанное с культом бога Оро.",
+      "profile": "+divine +ritual +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arioi",
+        "https://onlinelibrary.wiley.com/doi/10.1002/arco.5314"
+      ],
+      "notes": "Сохраняется как религиозная организация, а не отдельная всеохватная этническая религия. Позднейшее движение Мамаиа связано с ариои исторически, но не является точным синонимом. Дополнение 2026-10-25: Археолого-этноисторическая работа Kahn, Pig and dog use in the pre-contact Society Island Chiefdoms (2024), прямо описывает обряды посвящения ариои с посвящёнными Оро жертвенными свиньями; исходная статья дополнительно документирует ступени и приём в объединение (+initiatory_brotherhood). Транс при приёме без дополнительного надёжного основания не превращён в новый +spirit_possession."
+    },
+    {
+      "sourceIndex": 360,
+      "sourceName": "Batak religion (Indonesia)",
+      "decision": "keep",
+      "canonicalName": "Традиционные религии батаков Индонезии",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность местных традиций батакских народов Суматры с представлениями о божествах, душах и предках.",
+      "profile": "+divine +many_gods +ancestors +afterlife +ritual +occult +divination_oracles +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Batak",
+        "https://guides.loc.gov/southeast-asian-rare-books-manuscripts/batak",
+        "https://wellcomecollection.org/works/phawkkyt"
+      ],
+      "notes": "Зонтичная запись; статья особенно подробно описывает тоба и каро. Парма́лим и пемена — более узкие традиции, а не точные синонимы всей записи. Не связана тождеством с батаками Палавана. Дополнение 2026-10-25: Library of Congress прямо описывает pustaha как гадательные рукописи батакских ритуальных специалистов datu. Каталог Wellcome MS Batak 330894 перечисляет оракул, гадательные диаграммы и защитную магию (+divination_oracles/+occult/+ritual). Раздел Traditional Batak medicine исходной статьи отдельно описывает у тоба/каро возвращение духа jinujung через говорящую в трансе guru sibaso (+spirit_possession). Это подтверждённые формы внутри зонтичной записи, не тождество всех батакских групп; практическое магическое руководство не объявлено единым священным каноном."
+    },
+    {
+      "sourceIndex": 361,
+      "sourceName": "Batak religion (Philippines)",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия батаков Палавана",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Верования батаков острова Палаван на Филиппинах о божествах, природных духах и посмертной участи души.",
+      "profile": "+divine +many_gods +nature_spirits +afterlife +ritual +personal +divination_oracles +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Batak_people_(Philippines)",
+        "https://ncca.gov.ph/about-ncca-3/subcommissions/subcommission-on-cultural-communities-and-traditional-arts-sccta/central-cultural-communities/the-batak/",
+        "https://www.iccaconsortium.org/wp-content/uploads/2018/04/Batak-Magic-and-worldview.pdf"
+      ],
+      "notes": "Речь о филиппинском народе Batak, отличном от батакских народов Индонезии. Статья перечисляет богов и духов, включая Ангоро, связанного с душами умерших. Дополнение 2026-10-25: NCCA (Noel Jagmis) описывает lambay с подношениями и обращение к лесным божествам в sagkat, где решение принимают по знакам во сне (+ritual/+personal/+divination_oracles). Полевое исследование Dario Novellino, JRAI 15 (2009), pp. 755–776, прямо рассматривает магические практики батаков Танабага (+occult). Транс сам по себе не объявлен вселением духов; не смешивать с Tagbanua."
+    },
+    {
+      "sourceIndex": 362,
+      "sourceName": "Bicolano religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования биколано",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Доколониальные религиозные представления биколано Филиппин, известные по преданиям о местных божествах.",
+      "profile": "+divine +many_gods +ritual +afterlife +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bicolano_people",
+        "https://escholarship.org/content/qt7429z776/qt7429z776_noSplash_701f6c754e2af24bed5773291d980ab1.pdf"
+      ],
+      "notes": "Статья о народе содержит перечень божеств. Он подтверждает мифологический пантеон, но недостаточен для утверждения единой современной обрядовой системы. Дополнение 2026-10-25: Диссертация Madeleine Amee Yakal, UCLA, Spanish Colonialism in Bikol (2023), p. 5, прямо описывает доколониальные обряды с anito, kamurawayan как место вечного блаженства и защитные amulets/anting-anting (+ritual/+afterlife/+occult). Это исторический комплекс, а не перенос католического профиля современной бикольской набожности."
+    },
+    {
+      "sourceIndex": 363,
+      "sourceName": "Blaan religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования блаан",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционные религиозные представления блаан Минданао с создателем Мелу и другими божествами.",
+      "profile": "+divine +many_gods +nature_spirits +ritual +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Blaan_people",
+        "https://ncca.gov.ph/about-ncca-3/subcommissions/subcommission-on-cultural-communities-and-traditional-arts-sccta/central-cultural-communities/the-blaans/"
+      ],
+      "notes": "Источник описывает местный пантеон, отдельно от современных христианских принадлежностей. Другие признаки не выводятся из мифологического перечня. Дополнение 2026-10-25: NCCA описывает духов-хранителей деревьев, гор, рек, растений и животных, обращение за разрешением к творцу через его хранителей и обряды земледельческого цикла (+nature_spirits/+personal/+ritual). Сведения относятся к традиционному комплексу, а не к конфессии каждого современного блаан."
+    },
+    {
+      "sourceIndex": 364,
+      "sourceName": "Capiznon religion",
+      "decision": "review",
+      "canonicalName": "Традиционные верования каписнон",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Кандидат на региональную запись о традиционных верованиях каписнон острова Панай.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Capiznon_people",
+        "https://ejournals.ph/article.php?id=15127"
+      ],
+      "notes": "Требуется проверка границ записи: исходная статья о народе перечисляет региональный пантеон с отсылками к соседнему Негросу и содержит внутреннюю ошибку о противнике Asuwang. Полевое исследование подтверждает местные земледельческие обряды, но не доказывает единство всего перечисленного пантеона. Профиль оставлен пустым; не объединять автоматически с сулуднон или всеми висайцами."
+    },
+    {
+      "sourceIndex": 365,
+      "sourceName": "Carolinian religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования рефалуваш",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционные верования каролинцев-рефалуваш Северных Марианских островов, связанные с предками и духами мест.",
+      "profile": "+divine +nature_spirits +ancestors +afterlife +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carolinian_people",
+        "https://www.pacificworlds.com/cnmi/stories/lang5.cfm"
+      ],
+      "notes": "Исходная статья относится к Refaluwasch Северных Мариан, а не ко всем жителям Каролинских островов. Описывает Ялафара, духов умерших, природных объектов и общение с предками. Дополнение 2026-10-25: Общинный материал Pacific Worlds о Tanapag, раздел Carolinian terminology, описывает mwáár как подношение духам на молодом кокосе в месте смерти или на могиле (+ritual). Страница доступна через поисковый индекс; прямое открытие дало 502. Практики всех Каролинских островов на рефалуваш не перенесены."
+    }
+  ]
+}

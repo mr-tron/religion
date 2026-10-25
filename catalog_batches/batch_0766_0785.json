@@ -1,0 +1,353 @@
+{
+  "range": [
+    766,
+    785
+  ],
+  "entries": [
+    {
+      "sourceIndex": 766,
+      "sourceName": "The Infinite Way",
+      "decision": "keep",
+      "canonicalName": "Бесконечный путь Джоэла Голдсмита",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовное учение и медитативная практика Джоэла Голдсмита, направленные на осознание присутствия Бога.",
+      "profile": "+divine +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Infinite_Way",
+        "https://goldsmithglobal.org/meditation-study-program-recordings-and-optional-study-material/"
+      ],
+      "notes": "Источник описывает четыре принципа и практику осознания Бога, допустимую независимо от конфессиональной принадлежности. Это учение, а не обязательная церковная организация. Прямой опыт Бога не приравнен к научному методу; цель медитации не заменена освобождением от перерождений."
+    },
+    {
+      "sourceIndex": 767,
+      "sourceName": "Church of Divine Science",
+      "decision": "keep",
+      "canonicalName": "Церковь божественной науки",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Направление «Новой мысли», связывающее духовную практику с вездеприсутствием Бога, учением Иисуса и духовным исцелением.",
+      "profile": "+divine +one_god +jesus +scripture +meditation -church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Church_of_Divine_Science",
+        "https://divinescience.org/about-us/"
+      ],
+      "notes": "Название Science не означает приоритет эмпирического научного метода. Официальное изложение подтверждает единство Бога, Библию, медитацию и следование примеру Иисуса; оно также отказывается от внешнего исполнения причастия и крещения. Панентеизм не кодируется как простое тождество Бога и мира."
+    },
+    {
+      "sourceIndex": 768,
+      "sourceName": "Church of the Truth",
+      "decision": "keep",
+      "canonicalName": "Церковь истины Альберта Грира",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Сеть общин «Новой мысли», основанная Альбертом Гриром и ориентированная на внутреннее пробуждение Христа и исцеляющую молитву.",
+      "profile": "+divine +jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Church_of_the_Truth"
+      ],
+      "notes": "Исходная статья чётко указывает основание в 1913 году, связь с New Thought и христоцентрическую миссию. Совпадение общих слов Church и Truth с Home of Truth не доказывает тождества. Особое церковное учительство, таинства и буквальная библейская исключительность не подтверждены."
+    },
+    {
+      "sourceIndex": 769,
+      "sourceName": "Home of Truth",
+      "decision": "keep",
+      "canonicalName": "Дом истины Энни Рикс Милиц",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Объединение «Новой мысли», выросшее из деятельности Энни Рикс Милиц и Харриет Рикс в Калифорнии.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Home_of_Truth",
+        "https://www.thehomeoftruth.org/"
+      ],
+      "notes": "Исходная статья подтверждает отдельную деноминацию, основательниц и связь с учением Эммы Кёртис Хопкинс. Не смешивается с Church of the Truth Альберта Грира или одноимёнными иными организациями. Рассказ об исцелении основательницы не даёт достаточных оснований для полного профиля каждого последователя; профиль оставлен пустым."
+    },
+    {
+      "sourceIndex": 770,
+      "sourceName": "Independent Scientology",
+      "decision": "keep",
+      "canonicalName": "Независимая саентология / Свободная зона",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Саентология",
+      "description": "Разнообразные группы и отдельные практики, использующие саентологию вне власти Церкви саентологии.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Free_Zone_(Scientology)"
+      ],
+      "notes": "Статья прямо связывает Free Zone и Independent Scientology, но допускает различия самообозначения и методов отдельных групп. Это самостоятельная ветвь, а не alias общей «Саентологии». Аудитинг не отождествлён с медитацией, церковными таинствами или эмпирической научностью. Рубрика New Thought в исходном списке не принята за доказанное родительство."
+    },
+    {
+      "sourceIndex": 771,
+      "sourceName": "Jewish Science",
+      "decision": "keep",
+      "canonicalName": "Еврейская наука / Jewish Science",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Еврейское духовное движение, развивающее утверждающую молитву и практику духовного исцеления под влиянием «Новой мысли».",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jewish_Science"
+      ],
+      "notes": "Исходная статья подтверждает отдельное движение и Society of Jewish Science, а не научные исследования еврейской культуры. Бог описан как пронизывающая действительность сила; пример обычного отеческого Бога не навязан. Ни название, ни посещение синагог не доказывают обязательность галахи, реинкарнации или единого взгляда всех участников на сверхъестественное."
+    },
+    {
+      "sourceIndex": 772,
+      "sourceName": "Psychiana",
+      "decision": "keep",
+      "canonicalName": "Психиана",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Фрэнка Брюса Робинсона, распространявшее с конца 1920-х годов уроки о доступной человеку божественной силе преимущественно по почте.",
+      "profile": "+divine -jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Psychiana",
+        "https://www.lib.uidaho.edu/digital/psychiana/items/psychiana60.html"
+      ],
+      "notes": "Сохранившаяся радиопередача Робинсона в архиве Университета Айдахо подтверждает представление о доступной здесь и сейчас God-Power и отрицание основных христианских чудес. Эти утверждения передаются как учение движения, не как установленные факты. Слово «закон» не доказывает scientific; новое всеобщее откровение не выведено из одной рекламной формулы."
+    },
+    {
+      "sourceIndex": 773,
+      "sourceName": "Religious Science",
+      "decision": "keep",
+      "canonicalName": "Религиозная наука / Наука разума",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовное направление Эрнеста Холмса, связывающее божественный Разум, творческую силу мышления и утверждающую молитву.",
+      "profile": "+divine +one_god +revelation +meditation +afterlife",
+      "proposedQuestions": [
+        {
+          "id": "mental_causation",
+          "text": "Считаете ли вы, что направленное мышление и утверждения изменяют жизненные обстоятельства через духовный закон?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отражает творческую силу мысли в Religious Science, Unity и ряде других направлений «Новой мысли». Отличает её от молитвы только как просьбы к Богу, психологической самопомощи и эмпирического scientific; не предполагает обязательного транса или магического обряда."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Religious_Science",
+        "https://csl.org/about-us/",
+        "https://www.cslportland.org/pages/what-we-believe"
+      ],
+      "notes": "Официальное изложение Холмса подтверждает единство Духа, бессмертие души и возможность непосредственного откровения через духовную интуицию. Панентеистическая формула сохраняет превосхождение Бога над творением и не заменена +pantheism. Science of Mind — название того же учения, а не отдельная эмпирическая наука."
+    },
+    {
+      "sourceIndex": 774,
+      "sourceName": "Scientology",
+      "decision": "alias",
+      "canonicalName": "Саентология",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Л. Рона Хаббарда, включающее учение о тэтане, прошлых жизнях и специальные практики духовного развития.",
+      "profile": "+reincarnation +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scientology"
+      ],
+      "notes": "Точное совпадение с существующей записью religions.js «Саентология». Исходная статья подтверждает духовное существо, переживающее телесную смерть и принимающее новое тело. Профиль существующей записи не скопирован: отношение к единому Богу и всеобщему новому откровению требует самостоятельного подтверждения. Не считается разновидностью New Thought только по рубрике religions.txt."
+    },
+    {
+      "sourceIndex": 775,
+      "sourceName": "Seicho-no-Ie",
+      "decision": "keep",
+      "canonicalName": "Сэйтё-но-иэ",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Японское синкретическое движение Масахару Танигути, подчёркивающее духовную природу человека, медитацию синсокан и благодарность предкам.",
+      "profile": "+divine +one_god +meditation +ancestors +afterlife +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Seicho-no-Ie",
+        "https://sni.org.br/seicho-no-ie/doutrinario/cerimonias-e-praticas/cerimonias-aos-antepassados-e-anjinhos-abortados/"
+      ],
+      "notes": "Источник описывает синкретическое новое движение с единым универсальным Богом. Официальная страница бразильской организации подтверждает молитвы душам предков и бессмертие духовного человека, а не только культурную благодарность живым родственникам. Связи с буддизмом, синто и христианством не превращены в универсальные +buddha, +kami или +jesus."
+    },
+    {
+      "sourceIndex": 776,
+      "sourceName": "Unity Church",
+      "decision": "keep",
+      "canonicalName": "Unity — движение единства",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Чарльза и Миртл Филлмор, соединяющее метафизическое прочтение Библии, пример Иисуса, молитву и медитацию.",
+      "profile": "+divine +jesus +scripture +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Unity_Church",
+        "https://www.unity.org/en/article/five-spiritual-principles-taught-unity"
+      ],
+      "notes": "Исходная статья и официальный материал подтверждают самостоятельное движение и творческое влияние мысли на опыт. Не alias унитаризма или унитарного универсализма: похожее английское имя не означает тождество. Библия названа основным духовным ресурсом, но не единственным окончательным авторитетом для всех участников."
+    },
+    {
+      "sourceIndex": 777,
+      "sourceName": "Universal Foundation for Better Living",
+      "decision": "keep",
+      "canonicalName": "Universal Foundation for Better Living",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Unity — движение единства",
+      "description": "Международное объединение церквей, центров и групп «Новой мысли», основанное Джонни Коулмон в 1974 году.",
+      "profile": "+divine +jesus +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Universal_Foundation_for_Better_Living",
+        "https://ufbl.org/"
+      ],
+      "notes": "Официальный сайт подтверждает центральность учения Иисуса, библейскую основу и утверждающую молитву. Статья описывает отделение Коулмон от Unity: общие принципы Филлморов не делают отдельное объединение синонимом Unity Church. Профиль не предполагает принятия никейского богословия."
+    },
+    {
+      "sourceIndex": 778,
+      "sourceName": "Cult of the Supreme Being",
+      "decision": "keep",
+      "canonicalName": "Культ Верховного существа",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Гражданский религиозный культ периода Французской революции, связанный с Робеспьером, верой в Бога и бессмертие души.",
+      "profile": "+divine +one_god +afterlife +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cult_of_the_Supreme_Being"
+      ],
+      "notes": "Исходная статья подтверждает официально провозглашённые принципы и общественные праздники 1794 года. Отдельная историческая форма, а не alias деизма вообще или атеистического культа Разума. Общая маркировка «деистический» не превращена в доказательство отсутствия провидения; +deism не назначен автоматически."
+    },
+    {
+      "sourceIndex": 779,
+      "sourceName": "Decadary Cult",
+      "decision": "review",
+      "canonicalName": "Декадарный культ",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Гражданские празднества периода Директории во Франции, связанные с десятидневной неделей республиканского календаря.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Decadary_Cult",
+        "https://www.alexautographs.com/auction-lot/the-celebration-of-the-anti-catholic-decadary-cult_2A64702B36"
+      ],
+      "notes": "Review: предмет гражданских церемоний подтверждён, но статья содержит сомнительную последовательность эпизодов с теофилантропией и не подтверждает рубрику Nonsectarian Theism исходного списка. Дополнительная публикация исторического объявления 1798 года подтверждает использование церковных зданий для гражданских праздников, но не единое богословие. Сохранена проверяемая обрядовая сторона; требуется сверить исторический объём по исследованию Матеза перед окончательным переносом. Не назначены ни +one_god, ни отрицание божественного."
+    },
+    {
+      "sourceIndex": 780,
+      "sourceName": "Deism",
+      "decision": "alias",
+      "canonicalName": "Деизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Философское направление, обосновывающее веру в создателя разумом и наблюдением природы, без опоры на обязательное откровение.",
+      "profile": "+divine +one_god +deism -revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deism"
+      ],
+      "notes": "Точное совпадение с существующей записью religions.js «Деизм». Исходная статья подтверждает веру в создателя и приоритет разума перед откровением; исторические варианты провидения и посмертия различаются, поэтому полный одинаковый профиль им не навязан."
+    },
+    {
+      "sourceIndex": 781,
+      "sourceName": "Egotheism",
+      "decision": "keep",
+      "canonicalName": "Эготеизм / обожествление собственного «я»",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательное обозначение представлений о божественности собственного «я» либо о возможности самообожествления.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Egotheism",
+        "https://upload.wikimedia.org/wikipedia/commons/8/80/The_Century_dictionary_-_an_encyclopedic_lexicon_of_the_English_language-_prepared_under_the_superintendence_of_William_Dwight_Whitney_%28IA_centurydictipt700whituoft%29.pdf",
+        "https://doi.org/10.1007/978-3-031-38971-9_1461-1"
+      ],
+      "notes": "Сохранено как философская категория, а не единая религиозная организация. Исторический словарь определяет как обожествление себя или собственную божественную природу; современная энциклопедия религиозной психологии обсуждает также создание представления о Боге по собственным ценностям. Различные употребления не дают единой практики, числа богов или отношения к личному Богу. Конкретные атрибуции Штирнеру, адвайта-веданте и другим школам из обзорной статьи не приняты за тождество всего их учения эготеизму."
+    },
+    {
+      "sourceIndex": 782,
+      "sourceName": "Enlightenment Deism",
+      "decision": "keep",
+      "canonicalName": "Деизм эпохи Просвещения в Англии и Франции",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": "Деизм",
+      "description": "Исторические формы деизма в английской и французской мысли XVII–XVIII веков, опирающиеся на естественный разум.",
+      "profile": "+divine +one_god -revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deism_in_England_and_France_in_the_18th_century"
+      ],
+      "notes": "Это ограниченный историко-региональный срез деизма, а не подтверждённый синоним всех его форм. Источник описывает различия Герберта Черберийского, Толанда и других мыслителей; представления о провидении и будущей жизни не одинаковы, поэтому общий +deism в узком смысле невмешательства и единый afterlife не назначены."
+    },
+    {
+      "sourceIndex": 783,
+      "sourceName": "Gottgläubig",
+      "decision": "review",
+      "canonicalName": "Gottgläubig — внеконфессиональная категория в нацистской Германии",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческое самообозначение и административная категория для лиц вне признанных религиозных общин, не желавших считаться неверующими.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gottgl%C3%A4ubig",
+        "https://www.leo-bw.de/themenmodul/ns-justiz-in-baden/glossar/gottglaeubig",
+        "https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/94069/Junginger_017.pdf?isAllowed=y&sequence=1"
+      ],
+      "notes": "Review: государственный исторический портал LEO-BW подтверждает прежде всего категорию учёта, часто выражавшую близость к национал-социализму. Это не достаточное доказательство единой религии или обязательных общих убеждений. Исходная статья описывает разные формы веры; не смешивается с отдельной Deutsche Glaubensbewegung или общим деизмом. До решения о включении административных идентичностей семейство и профиль оставлены пустыми."
+    },
+    {
+      "sourceIndex": 784,
+      "sourceName": "Henotheism",
+      "decision": "keep",
+      "canonicalName": "Генотеизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиоведческое обозначение преимущественного почитания одного божества без отрицания существования других.",
+      "profile": "+divine +many_gods -one_god",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Henotheism"
+      ],
+      "notes": "Сохранён как тип религиозных представлений, а не отдельная конфессия. Источник различает генотеизм, исключительное поклонение в монолатрии и последовательное выделение богов в катенотеизме; границы исторического употребления терминов не абсолютно единообразны. Приоритет одного божества не означает существование только одного, а +bhakti не выводится из этого автоматически."
+    },
+    {
+      "sourceIndex": 785,
+      "sourceName": "Kathenotheism",
+      "decision": "keep",
+      "canonicalName": "Катенотеизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": "Генотеизм",
+      "description": "Религиоведческий термин Макса Мюллера для последовательного почитания разных божеств как верховных в данный момент.",
+      "profile": "+divine +many_gods -one_god",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kathenotheism"
+      ],
+      "notes": "Источник прямо определяет поочерёдное выделение одного бога, особенно при описании ведийских гимнов. Это более узкое понятие, связанное с генотеизмом, а не точный синоним. Упоминание Вед в истории термина не означает, что каждый применяющий этот тип почитания признаёт их обязательным духовным авторитетом."
+    }
+  ]
+}

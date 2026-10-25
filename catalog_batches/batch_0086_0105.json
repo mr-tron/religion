@@ -1,0 +1,391 @@
+{
+  "range": [
+    86,
+    105
+  ],
+  "entries": [
+    {
+      "sourceIndex": 86,
+      "sourceName": "Koore religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования кооре",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции кооре Эфиопии с создателем Вонто, предками и духами-посредниками.",
+      "profile": "+divine +ancestors +ritual +afterlife +divination_oracles +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Koore_people",
+        "https://www.researchgate.net/publication/308549924_THE_KORE_OF_ETHIOPIA_A_HISTORICAL_SURVEY"
+      ],
+      "notes": "Исходная статья о народе содержит предметные разделы Religion и Death rituals. Удалённость Вонто не равна деизму: описаны посредники, жертвоприношения и посмертное существование предков. Единобожие не выведено из одного титула высшего Бога. Уточнение профиля: Исходный раздел Religion прямо называет laaha (прорицателей) посредниками и tsooze духами вселения: поддержан +divination_oracles. Полевое историческое исследование «The Kore of Ethiopia: A Historical Survey» отдельно описывает tsoozades, одержимых tsooze, переводящих слова духов людям; это прямое основание для +spirit_possession."
+    },
+    {
+      "sourceIndex": 87,
+      "sourceName": "Krahn religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования кран",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования кран и родственных ве в духов окружающего мира и их ритуальные проявления.",
+      "profile": "+nature_spirits +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Krahn_people",
+        "https://africa.si.edu/collection/selected-artwork/1406"
+      ],
+      "notes": "Статья о народе прямо описывает одушевлённые предметы, духов буша, подношения и церемониальные маски. Часть подробностей относится именно к ве Кот-д’Ивуара; не переносить все формы масок на каждого кран. Уточнение профиля: Описанные в исходной статье церемониальные маски создаются по требованию духов во сне и служат их ритуальному присутствию; добавлен +icons. Smithsonian независимо каталогизирует маску именно кран Либерии, но без подробного объяснения её функции. Дополнительные признаки предков, посвящения или числа божеств не выведены из общих верований ве."
+    },
+    {
+      "sourceIndex": 88,
+      "sourceName": "Kuku traditional beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования куку",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции куку Южного Судана с единым Богом Нгун и действующими через предков духовными силами.",
+      "profile": "+divine +one_god +ancestors +ritual +personal +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kuku_people",
+        "https://joshuaproject.net/people_groups/11271/od"
+      ],
+      "notes": "Раздел верований в статье о народе прямо говорит об одном Боге, предках и обрядах дождя/благодарения. Описывается традиционная система; современные христианские убеждения всех куку не предполагаются. Уточнение профиля: Раздел Religious beliefs прямо описывает милостивого Нгуна, посылающего сообщения через продолжающих действовать духов умерших предков, а также обращения за благословением и благодарственные обряды. Это поддерживает +personal и +afterlife; речь об описанной традиционной модели. Поздний противоречивый фрагмент о «пантеизме» не использован."
+    },
+    {
+      "sourceIndex": 89,
+      "sourceName": "Kumina",
+      "decision": "keep",
+      "canonicalName": "Кумина",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Афро-ямайская религиозная традиция общения с предками через музыку, танец и вселение духов.",
+      "profile": "+ancestors +ritual +afterlife +divine +spirit_possession",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Важна ли для вашей духовной практики возможность общения с духами через вселение в человека или медиума?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Позволяет отличать практики вселения и медиумизма в Kumina, Montamentu и Madi traditional religion от одного лишь признания духов или семейного поминовения предков. Для других записей отрицательный ответ следует проверять отдельно."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kumina",
+        "https://memorybankja.org.jm/collections/show/2",
+        "https://acij-ioj.org.jm/wp-content/uploads/2022/03/FACT-SHEET-1-KUMINA.pdf"
+      ],
+      "notes": "Исходная Wikipedia смешивает Kumina с Pukkumina/Pocomania. Профиль и самостоятельность Kumina проверены по African Caribbean Institute of Jamaica: церемонии, предки, посмертная судьба духа и Myal. Не объединять с Pocomania или всем Revivalism без отдельной проверки. Уточнение профиля: ACIJ/JMB Fact Sheet (2022), разделы Dual Soul и Kumina Ceremonies, прямо называет всемогущего Nzambi Mpungu и Myal — вхождение духов предков в танцоров. Добавлены +divine и +spirit_possession; эти признаки проверены по самой кумина, без переноса с гаитянского воду или Pukkumina."
+    },
+    {
+      "sourceIndex": 90,
+      "sourceName": "Kwe faith",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования баквери (кве)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции баквери Камеруна с почитанием предков и ежегодными праздниками.",
+      "profile": "+ancestors +ritual +afterlife +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kwe_people",
+        "https://lauda.ulapland.fi/bitstream/handle/10024/64958/Ayonghe_Akonwi.pdf?isAllowed=y&sequence=2",
+        "https://researchspace.ukzn.ac.za/server/api/core/bitstreams/54c52454-b7a9-457a-8a2b-fa4306014652/content"
+      ],
+      "notes": "Исходная страница Kwe people называет народ Bakweri, Kwe или Kpwe и прямо описывает сохранившееся почитание предков. Другой одноимённой записи в religions.txt или religions.js не найдено, поэтому keep. Морская среда сама по себе не доказывает +nature_spirits. Уточнение профиля: Полевое исследование Ayonghe (University of Lapland, 2021) описывает Maale/Njoku у баквери как связь живых с духами умерших, сохраняющимися в слоне; +afterlife. Исследование UKZN на основе фокус-групп и интервью прямо документирует вступление мужчин в Maalé через тайную церемонию в святилище; +initiatory_brotherhood. Эти признаки относятся к документированным традиционным обществам, а не к каждому баквери."
+    },
+    {
+      "sourceIndex": 91,
+      "sourceName": "Kélé",
+      "decision": "keep",
+      "canonicalName": "Келе (Сент-Люсия)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Йоруба и Ифа",
+      "description": "Афро-сент-люсийская традиция почитания Огуна, Шанго и Эшу с музыкальными обрядами.",
+      "profile": "+divine +many_gods +orisha +ritual +ancestors +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/K%C3%A9l%C3%A9",
+        "https://publications.iai.spk-berlin.de/servlets/MCRFileNodeServlet/Document_derivate_00002167/BIA_046_093_101.pdf",
+        "https://www.researchgate.net/publication/307810644_Visiting_Ancestors_St_Lucian_Djine_in_Communion_with_their_African_Kin"
+      ],
+      "notes": "Источник прямо описывает божеств и ритуальные предметы; отмечает йорубское происхождение. Это местная традиция, а не синоним всего направления «Йоруба и Ифа». Уточнение профиля: Manfred Kremser «Kélé in St. Lucia — A Minority Cult Emerging from the Underground» описывает жертвы африканским божествам и предкам; его полевое исследование «Visiting Ancestors» непосредственно рассматривает общение живых и умерших. Это поддерживает +ancestors и +afterlife. Основной PDF при полном открытии защищён проверкой доступа; использованы доступный индексированный текст и аннотация авторской статьи, без домысливания посвящения или транса."
+    },
+    {
+      "sourceIndex": 92,
+      "sourceName": "Libyco-Berber religion",
+      "decision": "keep",
+      "canonicalName": "Древние ливийско-берберские верования",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные исторические верования амазигов Северо-Западной Африки с местными пантеонами и средиземноморскими взаимовлияниями.",
+      "profile": "+divine +many_gods +ancestors +afterlife +ritual +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Libyco-Berber_religion",
+        "https://en.wikipedia.org/wiki/Berber_traditional_religion",
+        "https://libyanheritagehouse.org/religion/amazigh-religion-in-libya"
+      ],
+      "notes": "Исходный URL не загрузился; доступная статья Berber traditional religion прямо называет Libyco-Berber religion альтернативным названием. Это историческая совокупность местных систем, а не единая обязательная доктрина и не современные убеждения всех амазигов. Соответствующего дубля в religions.js нет. Уточнение профиля: Libyan Heritage House, раздел Ancestor Veneration, описывает у древних Awjila почитание действующих духов умерших и сон в гробницах ради предсказательных снов. Исходная статья также приводит свидетельства Геродота о Nasamones. Это поддерживает +ancestors, +afterlife, +ritual и +divination_oracles в рамках широкой исторической записи, без утверждения одинаковых обрядов у всех древних амазигов."
+    },
+    {
+      "sourceIndex": 93,
+      "sourceName": "Lobi animism",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования лоби",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции лоби с духами тхила, святилищами и ритуальными фигурами-посредниками.",
+      "profile": "+divine +nature_spirits +ancestors +ritual +icons +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lobi_people",
+        "https://africa.si.edu/collection/object/nmafa_2005-6-46.2",
+        "https://emuseum.miami.edu/objects/18245/figure"
+      ],
+      "notes": "Статья о народе содержит раздел Animism; сведения о гадании, духах и святилищах также подтверждает музейный каталог. Тхила могут описываться как духи мест, и их не следует автоматически отождествлять со всеми предками. Уточнение профиля: Lowe Art Museum (2007.48.98.2) прямо описывает консультацию гадателя, который передаёт указания thil изготовить bateba для семейного святилища, и регулярные жертвы этому образу. Это поддерживает +icons и +divination_oracles. Функция фигуры подтверждена музейным описанием, а не выведена из её внешнего вида."
+    },
+    {
+      "sourceIndex": 94,
+      "sourceName": "Louisiana Voodoo",
+      "decision": "keep",
+      "canonicalName": "Луизианское вуду",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Афро-креольская религиозная традиция Луизианы с духами, католическими святыми и защитно-целительными практиками.",
+      "profile": "+divine +ritual +occult +ancestors +afterlife +nature_spirits +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Louisiana_Voodoo",
+        "https://louisianastatemuseum.org/mystery-motion-louisiana-voodoo"
+      ],
+      "notes": "Сохраняется отдельно от существующего «Воду», которое religions.js прямо описывает как гаитянскую традицию. Общие африканские истоки и контакты не означают тождества. Источник подтверждает духов умерших, обращения к святым и изготовление gris-gris; +occult относится к подтверждённой практике, а не внешнему обвинению в колдовстве. Уточнение профиля: Louisiana State Museums в материале Mystery in Motion описывает одушевлённость вещей, связь с духами предков и природой и общение с духами через транс. Добавлены +nature_spirits, +ancestors, +afterlife и +spirit_possession. Музей отдельно оговаривает гаитянское влияние после 1940-х: трансовый признак относится к описанной современной практике, а не автоматически ко всему XIX веку."
+    },
+    {
+      "sourceIndex": 95,
+      "sourceName": "Luhya religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования лухья",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные местные традиции лухья Кении, связанные с высшим существом, духами и предками.",
+      "profile": "+divine +ancestors +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Luhya_people",
+        "https://doi.org/10.1098/rstb.2024.0271"
+      ],
+      "notes": "Статья о народе описывает доколониальные верования и жертвоприношения. Подгруппы различаются; непроверенное отождествление Were/Nyasaye с египетской Исидой из другого фрагмента статьи не использовано. Единый Бог и одушевлённость всей природы не кодируются. Уточнение профиля: Полевое исследование «Cultural transmission during Luhya mourning rituals» (Royal Society, 2025) непосредственно фиксирует представления о продолжающих действовать умерших, умилостивлении предков и переходе в загробный мир у нескольких подгрупп лухья. Это поддерживает +afterlife без вывода из одной лишь похоронной церемонии."
+    },
+    {
+      "sourceIndex": 96,
+      "sourceName": "Luvale religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования лувале",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции лувале с Калунгой, природными и родовыми духами махамба и обрядами обращения к ним.",
+      "profile": "+divine +nature_spirits +ancestors +ritual +divination_oracles +icons +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Luvale_people",
+        "https://ich.unesco.org/en/RL/makishi-masquerade-00140"
+      ],
+      "notes": "Раздел Religion статьи о народе прямо описывает Калунгу, махамба, подношения и гадание. Наличие верховного божества не использовано как достаточное доказательство строгого монотеизма. Уточнение профиля: Раздел Religion исходной статьи прямо описывает nganga и гадание корзиной, поддерживая +divination_oracles. UNESCO документирует именно лувале среди носителей mukanda/Makishi, обучение в лагере посвящения и маски духовных персонажей: поддержаны +initiatory_brotherhood и +icons, без переноса всех черт соседних чокве."
+    },
+    {
+      "sourceIndex": 97,
+      "sourceName": "Maasai religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия масаи",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция масаи, сосредоточенная на Энкае, скотоводстве и обрядах жизненного цикла.",
+      "profile": "+divine +one_god +ritual +personal +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maasai_religion",
+        "https://www.maasai-association.org/maasai-cultural-ceremonies",
+        "https://ich.unesco.org/en/RL/enkipaata-eunoto-and-olng-esherr-three-male-rites-of-passage-of-the-maasai-community-01390",
+        "https://combonimissionaries.co.uk/index.php/2026/04/15/people-culture-kenya-maasai-the-concept-of-god/"
+      ],
+      "notes": "Источник прямо описывает одного Энкая и работу лайбонов, жертвоприношения и возлияния. Красный и чёрный Энкай представлены как проявления одной силы, а не два Бога. Уважение к природе не приравнивается к одушевлённости природы; отсутствие акцента на посмертии не превращено в -afterlife. Уточнение профиля: Maasai Association прямо описывает обращения к Энкаю и религиозные этапы вступления в возрастную группу; UNESCO независимо документирует Enkipaata, Eunoto и Olng’esherr. Добавлены +personal (молитвенное обращение к Энкаю) и +initiatory_brotherhood (обрядовое вступление и передача знания). Личный характер обращения также подтверждается опубликованными молитвами; он не означает обязательного мужского или женского пола божества."
+    },
+    {
+      "sourceIndex": 98,
+      "sourceName": "Madi traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования мади",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции мади с действующими после смерти духами предков ори, медиумами и жертвоприношениями.",
+      "profile": "+ancestors +afterlife +ritual +divination_oracles",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Важна ли для вашей духовной практики возможность общения с духами через вселение в человека или медиума?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Позволяет отличать практики вселения и медиумизма в Kumina, Montamentu и Madi traditional religion от одного лишь признания духов или семейного поминовения предков. Для других записей отрицательный ответ следует проверять отдельно."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Madi_people"
+      ],
+      "notes": "Статья о народе содержит предметный раздел Ori. Заголовок использует слово reincarnated, но описанный текст говорит о выживании в форме духов, а не ясно о рождении в новом теле: +reincarnation не назначен. Уточнение профиля: Раздел Ori прямо описывает обращение к odzo/odzogo для выяснения, какой дух предка вызывает бедствие; добавлен +divination_oracles. Сам термин «медиум» без описания вселения не использован как достаточное основание для +spirit_possession. Поздние смешанные представления о Rubanga не превращены в доктрину всей дохристианской традиции."
+    },
+    {
+      "sourceIndex": 99,
+      "sourceName": "Makonde witchcraft",
+      "decision": "keep",
+      "canonicalName": "Колдовство и защитные практики маконде",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Традиционные верования маконде",
+      "description": "Комплекс представлений маконде о невидимых воздействиях, защитном знании и противодействии колдовству.",
+      "profile": "+occult +divination_oracles +ritual +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Makonde_witchcraft_and_sorcery",
+        "https://press.uchicago.edu/ucp/books/book/chicago/K/bo3615616.html"
+      ],
+      "notes": "Сохраняется как локальный комплекс верований и практик, не как отдельная унифицированная конфессия и не как характеристика каждого маконде. Этнография Гарри Уэста подтверждает конструктивную контрмагию и её неоднозначность. Вера в опасность чужого колдовства сама по себе не означает личного применения магии; ниже признаки ограничены документированными практиками специалистов. Уточнение профиля: Профиль уточнён именно для названного комплекса практик: Harry West на основе десятилетнего полевого исследования описывает конструктивную контрмагию как реальную практику специалистов, а не одно лишь опасение чужого колдовства; это поддерживает +occult. Исходная статья с точными ссылками на страницы West описывает yangele (гадание) и многолетнее ученичество, завершающееся shipitu — обрядом допуска к самостоятельной практике. Поддержаны +divination_oracles, +ritual и +initiatory_brotherhood для данной линии специалистов. Обвинения в каннибализме и убийствах не кодируются как обязательные убеждения или действия маконде."
+    },
+    {
+      "sourceIndex": 100,
+      "sourceName": "Makua religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования макуа",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции макуа с Мулуку, предками и духами природы.",
+      "profile": "+divine +ancestors +nature_spirits +ritual +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Makua_people",
+        "https://www.easpublisher.com/get-articles/2717"
+      ],
+      "notes": "Статья о народе содержит отдельный раздел Religion с этими признаками. Проценты приверженности и единообразие по всем областям не переносятся в каталог; наличие главного божества не доказывает строгого монотеизма. Уточнение профиля: Историческое исследование Mbuju и Kapinga (2022) о макуа в Масаси документирует сохранившиеся обряды предков, приготовление пищи/isadaka в память умерших и традиционные посвящения, в том числе среди принявших христианство. Это поддерживает +ritual и +initiatory_brotherhood как местные традиционные практики, без переноса исламского mawlid/tufo прибрежных общин на всех макуа."
+    },
+    {
+      "sourceIndex": 101,
+      "sourceName": "Manjak religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования манджак",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные практики манджак с родовыми святилищами питчап и обращением к предкам.",
+      "profile": "+divine +many_gods +ancestors +ritual +afterlife +divination_oracles +spirit_possession +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Manjak_people",
+        "https://www.quest-journal.net/shikanda/african_religion/socio.htm",
+        "https://www.persee.fr/doc/casec_0761-9871_1998_num_30_1_2279"
+      ],
+      "notes": "Статья о народе подробно описывает святилища и возлияния. Предки не обязательно воспринимаются как морально высшие существа; описываются и отношения равенства/подчинения. Практики неодинаковы в диаспоре. Возвращение умершего в родное святилище не кодируется как перерождение в новом теле. Проверка 2026-10: Полевое исследование van Binsbergen прямо описывает пантеон, обращения к конкретным божествам и оракулы napene; работа о контрколдовстве манджак (1998) описывает опрос умершего и речь ucay через одержимую жрицу. Это основания +divine, +many_gods, +personal, +afterlife, +divination_oracles и +spirit_possession. Не перенесено на каждого современного манджак."
+    },
+    {
+      "sourceIndex": 102,
+      "sourceName": "Mbole religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования мболе",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции мболе с духами, представлениями о возвращении предков и институтом посвящения лилва.",
+      "profile": "+divine +reincarnation +ritual +afterlife +initiatory_brotherhood +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mbole_people",
+        "https://www.metmuseum.org/art/collection/search/311032"
+      ],
+      "notes": "Раздел Religion прямо сообщает о создателе и повторном рождении духов предков с прежними свойствами. Почитание предков описано как ограниченное похоронным периодом, поэтому общий +ancestors не назначен. Лилва — институт внутри культуры, а не доказанный синоним всей религии мболе. Проверка 2026-10: Каталог Met по ofika непосредственно описывает посвящение в Lilwa (+initiatory_brotherhood); исходный раздел Religion описывает посмертное существование души и защитный предмет из рога, коры и других веществ (+afterlife, +occult). Магическая защита кодируется по практике, а не по одним обвинениям в колдовстве. Изображения наказанных нарушителей не приравниваются автоматически к священным иконам."
+    },
+    {
+      "sourceIndex": 103,
+      "sourceName": "Moba ethnic religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования моба",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции моба и бимоба с родовыми святилищами и фигурами чичери.",
+      "profile": "+divine +ancestors +ritual +icons +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Moba_people",
+        "https://lnmm.gov.lv/en/latvian-national-museum-of-art/learn/explore-yourself/tukku-magi-rhythms/tchitcheri-figures",
+        "https://www.plu.edu/africanartcollection/figures/tchitcheri-shrine-figure/learn-more-tchitcheri-shrine-figure/"
+      ],
+      "notes": "Исходная статья о народе в религиозном разделе переходит к Bimoba. Независимый музейный каталог прямо описывает Moba Того и Ганы, предков и ритуальные фигуры; он подтверждает минимальный профиль без предположения полного тождества всех местных форм моба/бимоба. Проверка 2026-10: Каталоги LNMM и Pacific Lutheran University прямо описывают фигуры tchitcheri как центральные культовые изображения; diviner определяет необходимость изготовления фигуры и назначения подношений. Добавлены +icons и +divination_oracles по конкретной практике моба; полное тождество моба и бимоба по-прежнему не предполагается."
+    },
+    {
+      "sourceIndex": 104,
+      "sourceName": "Montamentu",
+      "decision": "keep",
+      "canonicalName": "Монтаменту",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Афро-кюрасаоская религиозная традиция обращения к духам с обрядами, музыкой и вселением.",
+      "profile": "+divine +many_gods +ancestors +ritual +spirit_possession +personal",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Важна ли для вашей духовной практики возможность общения с духами через вселение в человека или медиума?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Позволяет отличать практики вселения и медиумизма в Kumina, Montamentu и Madi traditional religion от одного лишь признания духов или семейного поминовения предков. Для других записей отрицательный ответ следует проверять отдельно."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Montamentu",
+        "https://canoncuracao.cw/44-religie-en-religieuze-vieringen/",
+        "https://dcdp.uoc.cw/content/AA/00/00/03/09/00024/ABC%2021%20221-228%20ALLEN%202010%2010%2005.pdf",
+        "https://wijsheidsweb.nl/wijsheid/trommelgeesten-curacao-en-slot/"
+      ],
+      "notes": "Исходная статья описывает сочетание почитания божеств разных истоков. Исторический проект Curaçao подтверждает пантеон, предков и возможность сочетания с христианской принадлежностью. Медиумизм отдельно подтверждён антропологическим исследованием Роуз Мэри Аллен; не отождествлять автоматически с brua или гаитянским воду. Проверка 2026-10: Canon Curaçao прямо описывает обращение к Papa Legba за разрешением говорить с духами, что подтверждает +personal. Дополнительное описание Montamentu, основанное на полевых исследованиях Bernadina, поясняет название как «быть оседланным духом» и роль montadó (+spirit_possession). Старый PDF Allen при текущем открытии вернул 404; ссылка сохранена для проверки."
+    },
+    {
+      "sourceIndex": 105,
+      "sourceName": "Mursi animism",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования мурси",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция мурси Эфиопии с силой Тумви и общественными обрядами комору.",
+      "profile": "+divine +ritual +personal +ancestors +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mursi_people",
+        "https://www.mursi.org/introducing-the-mursi/copy_of_duelling"
+      ],
+      "notes": "Статья о народе описывает Тумви и комору как посредника, совершающего обряды дождя и защиты. Одного внешнего ярлыка animism недостаточно для утверждения об одушевлённости всей природы. Наследственность должности не означает культ предков; +ancestors не назначен. Проверка 2026-10: Совместный исследовательский ресурс Mursi Online, Religion and Healing, описывает обрядовое общение с Tumwi и передачу доли платы целительнице её духу предка mênênga. Это предметное основание +personal, +ancestors и +afterlife, которого не давала одна наследственная должность комору. Приёмы рук leto извлекают болезнь; из них не выведена передача энергии через руки."
+    }
+  ]
+}

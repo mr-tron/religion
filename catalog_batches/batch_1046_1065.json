@@ -1,0 +1,376 @@
+{
+  "range": [
+    1046,
+    1065
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1046,
+      "sourceName": "Eastern Lightning",
+      "decision": "keep",
+      "canonicalName": "Восточная молния — Церковь Всемогущего Бога",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Христианство",
+      "description": "Возникшее в Китае движение, считающее, что Христос вновь воплотился в женщине и передал новое учение.",
+      "profile": "+divine +jesus +scripture +new_revelation -trinity",
+      "proposedQuestions": [
+        {
+          "id": "christ_returned_in_founder",
+          "text": "Считаете ли вы, что Христос вновь воплотился в основателе или руководителе вашего движения?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Различает движения с признанием уже произошедшего нового воплощения Христа и христианские традиции, ожидающие его возвращения. Обычный вопрос jesus отражает центральность Иисуса, но не это различие.",
+          "supportedEntries": [
+            "Eastern Lightning",
+            "Last Testamentism",
+            "Mentuhui"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eastern_Lightning",
+        "https://hts.org.za/index.php/hts/rt/printerFriendly/10291/28047"
+      ],
+      "notes": "Eastern Lightning и Church of Almighty God — названия одной организации, не всей китайской домашней церкви. Библия и «Слово является во плоти» названы авторитетными текстами; утверждение о воплощении передано как вера движения."
+    },
+    {
+      "sourceIndex": 1047,
+      "sourceName": "Faizrakhmanist",
+      "decision": "keep",
+      "canonicalName": "Файзрахманисты",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Ислам",
+      "description": "Община последователей Файзрахмана Саттарова в Татарстане, возникшая в исламской среде и признающая пророческие притязания основателя.",
+      "profile": "+divine +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Faizrakhmanist"
+      ],
+      "notes": "Сохраняется конкретная община, называющая своих участников верующими. Признание нового пророка не тождественно отрицанию исторической роли Мухаммада, поэтому -muhammad не выставлен. Нет достаточных оснований переносить весь суннитский профиль."
+    },
+    {
+      "sourceIndex": 1048,
+      "sourceName": "Gafatar",
+      "decision": "keep",
+      "canonicalName": "Гафатар — движение последователей Миллах Авраам",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Миллах Авраам",
+      "description": "Индонезийское общественное и духовное движение, участники которого следовали учению Миллах Авраам, соединяющему авраамические традиции.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Milah_Abraham",
+        "https://www.amnesty.org/en/documents/asa21/3787/2016/en/",
+        "https://www.upr-info.org/sites/default/files/documents/2018-02/js34_upr27_idn_e_annexe3.pdf"
+      ],
+      "notes": "Исходная статья объединяет названия, но независимые материалы различают учение Миллах Авраам и организацию Gafatar, созданную его последователями. Сохраняется организационный уровень; не признан точным синонимом всего учения или ислама."
+    },
+    {
+      "sourceIndex": 1049,
+      "sourceName": "Grail Movement",
+      "decision": "keep",
+      "canonicalName": "Движение Грааля",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение вокруг учения Оскара Эрнста Бернхардта, известного как Абд-ру-шин, и книги «В Свете Истины. Послание Грааля».",
+      "profile": "+divine +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Grail_Movement"
+      ],
+      "notes": "Сохраняется конкретное движение, а не все предания о Святом Граале. Внутренние представления о сверхчеловеческом статусе основателя передаются как убеждения. Богословские отличия от церковного христианства исключают автоматическое наследование его профиля."
+    },
+    {
+      "sourceIndex": 1050,
+      "sourceName": "Heraka",
+      "decision": "keep",
+      "canonicalName": "Херака",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Реформаторское религиозное движение среди нага Северо-Восточной Индии, связанное с Хайпоу Джадонангом и Рани Гайдинлю.",
+      "profile": "+divine +one_god +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heraka",
+        "https://journals.sagepub.com/doi/10.1177/006996671104500202",
+        "https://www.research.ed.ac.uk/en/publications/exploring-the-diversity-of-religion-the-geo-political-dimensions-/"
+      ],
+      "notes": "Исходная ссылка перенаправляет на биографию Джадонанга. Исследования Лонгкумера подтверждают отдельное движение и переход к почитанию Тингванга как единого Бога. Его местное происхождение не соответствует рубрике Abrahamic-derived в списке; не alias христианства или индуизма."
+    },
+    {
+      "sourceIndex": 1051,
+      "sourceName": "Holy Spirit of Blood and Water Church",
+      "decision": "review",
+      "canonicalName": "Церковь Святого Духа крови и воды",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Церковь Нового Завета",
+      "description": "Возникшая на Тайване община Цзо Куня, отделившаяся от Церкви Нового Завета и заявляющая восстановление ранней христианской церкви.",
+      "profile": "+restoration",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Holy_Spirit_of_Blood_and_Water_Church",
+        "https://hrwf.eu/wp-content/uploads/2022/01/China-2021-bis.pdf"
+      ],
+      "notes": "Исходник в основном перечисляет административные и конфессионально-полемические оценки и почти не раскрывает учение; поэтому review. Второй источник подтверждает основателя и отделение в 1988 году. Не alias всей Церкви Нового Завета; обвинительные ярлыки не приняты как нейтральная характеристика."
+    },
+    {
+      "sourceIndex": 1052,
+      "sourceName": "Ishikism",
+      "decision": "review",
+      "canonicalName": "Ишикизм (Ышыкчылык, чынарджылык)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Алевизм",
+      "description": "Современное направление переосмысления алевитской идентичности и истории, связанное с книгами Эрдогана Чынара.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ishikism",
+        "https://bilimvegelecek.com.tr/index.php/2024/11/01/alisiz-alevilik-olur-mu"
+      ],
+      "notes": "Спорные гипотезы о лувийском происхождении и древности алевизма нельзя принимать как доказанную преемственность. Требуется проверка границ движения и репрезентативности его описаний; review. Не alias алевизма в целом; исторические заявления сами по себе не подтверждают магическую практику."
+    },
+    {
+      "sourceIndex": 1053,
+      "sourceName": "Kan Imam San",
+      "decision": "keep",
+      "canonicalName": "Кан Имам Сан",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Ислам",
+      "description": "Религиозная община камбоджийских чамов, следующая традиции Имама Сана и сохраняющая собственные формы исламской молитвы и передачи знания.",
+      "profile": "+scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kan_Imam_San",
+        "https://englishkyoto-seas.org/2021/08/vol-10-no-2-book-reviews-william-noseworthy/"
+      ],
+      "notes": "Исходник называет священным текстом Gheet; не переносится стандартный суннитский профиль. Еженедельная пятничная молитва отличает общину от распространённой практики пяти ежедневных молитв. Община Камбоджи не автоматически тождественна всем группам чам-бани во Вьетнаме."
+    },
+    {
+      "sourceIndex": 1054,
+      "sourceName": "Koreshanity",
+      "decision": "keep",
+      "canonicalName": "Корешанство (Koreshanity)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Созданное Сайрусом Тидом религиозное учение и общинное движение, известное представлением о жизни на внутренней поверхности полой Земли.",
+      "profile": "+divine +reincarnation +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Koreshanity",
+        "https://www.floridamemory.com/learn/exhibits/koreshan/",
+        "https://floridamemory.com/learn/exhibits/koreshan/origins/"
+      ],
+      "notes": "Государственный архив Флориды подтверждает самостоятельную общину, двуполое божество и перевоплощение. Koreshan Unity — организация последователей. Не смешивать с Дэвидом Корешем и ветвью Давидовой. Эксперименты сторонников и слово «наука» в самоописании не доказывают +scientific."
+    },
+    {
+      "sourceIndex": 1055,
+      "sourceName": "Lalpa Kohhran Thar",
+      "decision": "keep",
+      "canonicalName": "Лалпа Коххран Тхар — Новая церковь Господа",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Христианство",
+      "description": "Возникшая в Мизораме община Кхуангтуахи и его преемников, ожидающая тысячелетнего царствования Иисуса на основе книги Откровения.",
+      "profile": "+jesus +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lalpa_Kohhran_Thar"
+      ],
+      "notes": "Lalpa Kohhran Thar, Chana Pawl и Ziona Pawl относятся к одной общине в разные периоды руководства, а не к новым конфессиям для каждого имени. Общинная практика и многожёнство не перенесены в общий профиль христианства; тринитарное богословие источником не установлено."
+    },
+    {
+      "sourceIndex": 1056,
+      "sourceName": "Last Testamentism",
+      "decision": "keep",
+      "canonicalName": "Церковь Последнего Завета (учение Виссариона)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Возникшее вокруг Сергея Торопа, известного как Виссарион, движение с учением о его возвращении в качестве Христа и многотомным «Последним Заветом».",
+      "profile": "+jesus +scripture +reincarnation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vissarion"
+      ],
+      "notes": "Исходная ссылка посвящена основателю, но прямо подтверждает название организации, текст и учение. Last Testamentism обозначает движение, а не всех последователей поздних откровений. Признание Виссариона Христом передаётся как доктрина; юридические события не используются для формирования признаков."
+    },
+    {
+      "sourceIndex": 1057,
+      "sourceName": "Mama Tata",
+      "decision": "review",
+      "canonicalName": "Мама Тата (Мама Чи)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Возникшее среди нгабе Панамы движение, связанное с видениями Бесико и сочетанием христианских и местных религиозных элементов.",
+      "profile": "+jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mama_Tata",
+        "https://www.telemetro.com/nacionales/2020/09/29/mama-tatda-iglesia-sincretista-que-libero-al-pueblo-ngaebe-bugle-de-panama/3287585.html"
+      ],
+      "notes": "У исходной статьи предупреждения об оригинальном исследовании и качестве источников; review. Репортаж EFE с высказываниями местных представителей подтверждает самостоятельную церковь и проповедь слов Иисуса. Эксклюзивные утверждения о спасении из слабого исходника не перенесены в профиль."
+    },
+    {
+      "sourceIndex": 1058,
+      "sourceName": "Mentuhui",
+      "decision": "keep",
+      "canonicalName": "Мэньтухуэй — Собрание учеников",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Кричащие (Shouters)",
+      "description": "Китайское движение Цзи Саньбао, основанное в 1989 году и связывающее основателя со вторым пришествием Христа.",
+      "profile": "+jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mentuhui"
+      ],
+      "notes": "Mentuhui и Three-Redemptive Christ — альтернативные названия одной организации. Ответвление «Кричащих» не тождественно всему этому направлению или Восточной молнии; особенности других китайских движений не заимствованы."
+    },
+    {
+      "sourceIndex": 1059,
+      "sourceName": "Modekngei",
+      "decision": "review",
+      "canonicalName": "Модекнгеи",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозное движение Палау, соединяющее местные верования, почитание предков и богов с христианскими элементами и передающее учение через песнопения.",
+      "profile": "+divine +many_gods +ancestors",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Modekngei",
+        "https://www.airuniversity.af.edu/Portals/10/AFCLC/04.%20Ready%20Airman/Field%20Guides/INDOPACOM/CG%20Palau%202025r.pdf"
+      ],
+      "notes": "Исходная статья предупреждает о недостатке ссылок; review. Независимое страноведческое руководство Air University подтверждает синтез, богов, предков и песнопения kesekes. Не вся религия Палау и не разновидность одной христианской конфессии."
+    },
+    {
+      "sourceIndex": 1060,
+      "sourceName": "Neo-Templarism",
+      "decision": "keep",
+      "canonicalName": "Неотамплиерство",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность современных объединений, обращающихся к образу и наследию средневековых тамплиеров, включая эзотерические и церемониально-рыцарские организации.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Neo-Templarism"
+      ],
+      "notes": "Допустимая собирательная запись. Разнородность прямо подтверждена: часть групп практикует эзотерику, часть ограничивается рыцарской символикой. Поэтому общего +occult или христианского профиля нет. Заявления о непрерывной преемственности от средневекового ордена не доказаны."
+    },
+    {
+      "sourceIndex": 1061,
+      "sourceName": "Noahidism",
+      "decision": "keep",
+      "canonicalName": "Ноахидизм (Бней Ноах)",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Иудаизм",
+      "description": "Движение неевреев, следующих семи законам потомков Ноя в рамках иудейской традиции этического монотеизма.",
+      "profile": "+divine +one_god +revelation",
+      "proposedQuestions": [
+        {
+          "id": "noahide_laws",
+          "text": "Являются ли семь законов потомков Ноя основой вашей религиозной практики?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Выделяет ноахидизм среди иудейских и других монотеистических традиций. Признание семи законов не приравнивается к обязательности полного набора заповедей для евреев.",
+          "supportedEntries": [
+            "Noahidism"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Noahidism",
+        "https://www.chabad.org/library/article_cdo/aid/62221/jewish/The-7-Noahide-Laws.htm"
+      ],
+      "notes": "Семь законов рассматриваются как божественные, а не только светская этика. Это не обращение в иудаизм и не обязательство исполнять все 613 заповедей; полный раввинистический профиль не наследуется."
+    },
+    {
+      "sourceIndex": 1062,
+      "sourceName": "P'ikareum",
+      "decision": "review",
+      "canonicalName": "Пикарым (P’ikareum) — понятие ритуального очищения крови",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Термин для приписываемой некоторым корейским новым религиозным движениям сексуальной практики ритуального очищения.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/P%27ikareum",
+        "https://www.tparents.org/Library/Unification/Books/UCmovement-221100.pdf"
+      ],
+      "notes": "Исходная запись обозначает практику и полемический термин, а не отдельную традицию. Нужна редакционная проверка уместности самостоятельного результата. Конкретные обвинения против разных движений оспариваются; не приписывать эту практику Церкви объединения или всем корейским мессианским общинам."
+    },
+    {
+      "sourceIndex": 1063,
+      "sourceName": "Pai Marire",
+      "decision": "keep",
+      "canonicalName": "Пай-марире",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Маорийское религиозное движение Те Уа Хаумене, соединяющее библейские и местные духовные представления и возникшее в Новой Зеландии в 1860-х годах.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pai_M%C4%81rire"
+      ],
+      "notes": "Историческое Hauhau часто относится к этому движению, но колониальное употребление распространило ярлык на вооружённых маори вообще; не использовать его как безусловный синоним любой такой группы. Рингату заимствовало отдельные элементы, но остаётся самостоятельным движением."
+    },
+    {
+      "sourceIndex": 1064,
+      "sourceName": "Pilgrims of Ares",
+      "decision": "keep",
+      "canonicalName": "Паломники Арэса",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Французское духовное движение Мишеля Потэ вокруг полученных, по его утверждению, в 1974 и 1977 годах откровений и паломничества в Арэс.",
+      "profile": "+divine +scripture +new_revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pilgrims_of_Ar%C3%A8s",
+        "https://www.mayer.lt/resources/2001_MAYER_Revelation_Ares_Pelerinage_Contemporain.pdf",
+        "https://www.michelpotayblog.net/en/the-2019-pilgrimage/"
+      ],
+      "notes": "Книга «Откровение Арэса» и паломничество подтверждены независимым исследованием и первичными материалами. Не alias традиционной христианской церкви или всех паломничеств. Критика организованной религии в учении не означает атеизм."
+    },
+    {
+      "sourceIndex": 1065,
+      "sourceName": "Ringatu",
+      "decision": "review",
+      "canonicalName": "Рингату",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Христианство",
+      "description": "Маорийская церковь, возникшая вокруг Те Кооти и его библейских толкований; название связано с поднятой в благодарении Богу рукой.",
+      "profile": "+divine +scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ringat%C5%AB",
+        "https://teara.govt.nz/en/nga-hahi-maori-and-christian-denominations/page-7",
+        "https://mro.massey.ac.nz/items/9e167d45-0e0e-4f5d-8a52-20f52ae79b65"
+      ],
+      "notes": "Исходная статья предупреждает о недостатке ссылок; review. Te Ara и исследование Университета Мэсси подтверждают основателя, библейскую основу и самостоятельную литургическую практику. Не alias Пай-марире или Ратаны; общая маорийская среда не означает единства церквей."
+    }
+  ]
+}

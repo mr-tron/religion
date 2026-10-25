@@ -1,0 +1,360 @@
+{
+  "range": [
+    906,
+    925
+  ],
+  "entries": [
+    {
+      "sourceIndex": 906,
+      "sourceName": "Ariosophy",
+      "decision": "keep",
+      "canonicalName": "Ариософия",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность расистских эзотерических учений, прежде всего связанных с Гвидо фон Листом и Йоргом Ланцем фон Либенфельсом в начале XX века.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ariosophy",
+        "https://books.google.com/books/about/The_Occult_Roots_of_Nazism.html?id=NJaxAAAAIAAJ"
+      ],
+      "notes": "В широком исследовательском употреблении включает несколько линий, различающихся богословием. Не синоним всего движения фёлькиш, арманизма в узком смысле или послевоенного эзотерического неонацизма. Мифы об арийском превосходстве описываются как убеждения движения, а не исторический факт."
+    },
+    {
+      "sourceIndex": 907,
+      "sourceName": "British Israelism",
+      "decision": "keep",
+      "canonicalName": "Британский израилизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозно-историческое учение, отождествляющее британцев и связанные народы с потомками потерянных колен древнего Израиля.",
+      "profile": "+scripture",
+      "proposedQuestions": [
+        {
+          "id": "israelite_national_descent",
+          "text": "Считаете ли вы происхождение вашего народа от древних израильтян существенной частью вашего религиозного мировоззрения?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отражает определяющее убеждение британского и североевропейского израилизма и Christian Identity. Отличает заявленную религиозную генеалогию от обычного почитания предков; не удостоверяет историческую истинность такого происхождения и не отождествляет разные группы."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/British_Israelism"
+      ],
+      "notes": "Англо-израилизм — другое название в источнике. Это интерпретация библейской истории, а не установленная генеалогия. Не синоним иудаизма или всего Christian Identity; конкретные христианские догматы различаются между организациями."
+    },
+    {
+      "sourceIndex": 908,
+      "sourceName": "Christian Identity",
+      "decision": "keep",
+      "canonicalName": "Христианская идентичность (Christian Identity)",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Британский израилизм",
+      "description": "Совокупность расистских и антисемитских богословских течений, приписывающих европейским народам исключительное израильское происхождение и богоизбранность.",
+      "profile": "+divine +scripture",
+      "proposedQuestions": [
+        {
+          "id": "racial_spiritual_hierarchy",
+          "text": "Определяет ли, по-вашему, расовое происхождение человека его духовный статус или доступ к спасению?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Позволяет описывать расовую иерархию в богословии Christian Identity и сопоставлять её с другими явно расистскими учениями. Отличается от культурной или этнической принадлежности к традиции и от почитания предков; ответы остальных движений требуют отдельных источников."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Christian_Identity"
+      ],
+      "notes": "Источники описывают движение как неоднородное; конкретные учения о происхождении евреев и спасении различаются. Родство с британским израилизмом не означает тождества. Библия используется как религиозный авторитет, но одинаковое толкование всем участникам не приписано."
+    },
+    {
+      "sourceIndex": 909,
+      "sourceName": "Creativity",
+      "decision": "keep",
+      "canonicalName": "Креативизм (религия Creativity)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное атеистическое расистское движение Бена Классена, делающее сохранение и господство белой расы предметом религиозной идеологии.",
+      "profile": "-divine +naturalism",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Creativity_(religion)"
+      ],
+      "notes": "Исходный смысл — конкретное религиозное движение, а не творчество как деятельность. Не синоним всего атеизма, натурализма или отдельных организаций-преемников. Антисемитизм и расовое превосходство относятся к содержанию его идеологии; отсутствие бога не означает светский гуманизм."
+    },
+    {
+      "sourceIndex": 910,
+      "sourceName": "Esoteric Nazism",
+      "decision": "keep",
+      "canonicalName": "Эзотерический неонацизм",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность преимущественно послевоенных течений, соединяющих неонацистскую идеологию с оккультными, мистическими и мифологическими построениями.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Esoteric_Nazism"
+      ],
+      "notes": "Исходная статья отождествляет Esoteric Nazism с Esoteric neo-Nazism. Это не синоним исторического исследования Occultism in Nazism (918). Обожествление Гитлера и специфические индуистские или гностические конструкции принадлежат отдельным авторам и не назначены всем."
+    },
+    {
+      "sourceIndex": 911,
+      "sourceName": "Evolaism",
+      "decision": "keep",
+      "canonicalName": "Эволаизм (философия Юлиуса Эволы)",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Круг традиционалистских, эзотерических и политических идей Юлиуса Эволы и их последующее влияние.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julius_Evola",
+        "https://civitas.edu.pl/wp-content/uploads/2024/10/the-upcoming-fascism.pdf"
+      ],
+      "notes": "Исходная ссылка биографическая и сама по себе не устанавливает единую религиозную организацию. Сохраняется философская позиция и интеллектуальное наследие, а не предполагаемая церковь всех читателей Эволы. Академическая публикация обсуждает Evolianism как комплекс идей; отдельные изучавшиеся автором религиозные практики не назначены всем последователям."
+    },
+    {
+      "sourceIndex": 912,
+      "sourceName": "Fascist mysticism",
+      "decision": "keep",
+      "canonicalName": "Фашистская мистика (итальянская школа)",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческое итальянское течение политико-религиозной мысли, связывавшее фашистскую доктрину и культ Муссолини с безусловной верой и дисциплиной.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fascist_mysticism"
+      ],
+      "notes": "Источник подтверждает конкретную школу в Милане с 1930 года. Политическая преданность и метафорическое «поклонение» не использованы как доказательство веры в сверхъестественного Бога. Не синоним любого оккультизма ультраправых и не то же, что послевоенный эзотерический неонацизм."
+    },
+    {
+      "sourceIndex": 913,
+      "sourceName": "Fascist Occultism",
+      "decision": "review",
+      "canonicalName": "Фашистский оккультизм — требуется уточнение",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Предполагаемое собирательное обозначение сочетаний ультраправой идеологии и эзотеризма.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Occultism_and_the_far_right_(disambiguation)",
+        "https://en.wikipedia.org/wiki/Occultism_and_the_far_right",
+        "https://journals.phil.muni.cz/studia-historica-brunensia/article/view/38891"
+      ],
+      "notes": "Исходный URL со словом disambiguation не загрузился; действующая страница Occultism and the far right является перечнем значений: ариософия, фашистская мистика, оккультизм в нацизме и другие темы. Она не подтверждает отдельную традицию Fascist Occultism или тождество только одному из перечисленных течений. До выбора значения профиль пустой."
+    },
+    {
+      "sourceIndex": 914,
+      "sourceName": "French Israelism",
+      "decision": "review",
+      "canonicalName": "Французский израилизм — требуется подтверждение",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Согласно исходной статье, представление о происхождении франков или Меровингов от древних израильтян, прежде всего колена Вениамина.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/French_Israelism",
+        "https://www.tandfonline.com/doi/abs/10.1080/17409292.2023.2185424"
+      ],
+      "notes": "Исходная статья представляет короткое определение без проверяемых ссылок на исследования или первичные документы движения. Надёжного подтверждения именно этой самостоятельной категории при поиске не получено. Академическое употребление «израэлитизма» в истории французского иудаизма имеет иной смысл и не должно подменять эту запись. Профиль не назначен."
+    },
+    {
+      "sourceIndex": 915,
+      "sourceName": "German Faith Movement",
+      "decision": "keep",
+      "canonicalName": "Германское религиозное движение (Deutsche Glaubensbewegung)",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Нехристианское религиозное объединение Якоба Вильгельма Хауэра в Германии 1930-х годов, связывавшее веру с расово-националистическим пониманием немецкой общности.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/German_Faith_Movement",
+        "https://academic.oup.com/jcs/article/67/3/csaf020/8178447",
+        "https://www.deutsche-biographie.de/118773429.html"
+      ],
+      "notes": "Не синоним национал-социалистических «Немецких христиан». Академическое исследование 2025 года подтверждает самостоятельное объединение и показывает расхождения с упрощёнными датировками и численностью исходной статьи; такие цифры здесь не воспроизводятся. Общее вероучение разнородных участников не заполнено по шаблону германского язычества."
+    },
+    {
+      "sourceIndex": 916,
+      "sourceName": "Israelism",
+      "decision": "review",
+      "canonicalName": "Израилизм — требуется уточнение охвата",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Возможное общее обозначение учений об израильском происхождении различных народов или религиозных общин.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Groups_claiming_affiliation_with_Israelites",
+        "https://en.wikipedia.org/wiki/British_Israelism"
+      ],
+      "notes": "Исходная ссылка ведёт на перечень групп, заявляющих связь с израильтянами, включая разные иудейские, христианские и иные общности. Она не устанавливает единой религии Israelism. В частности, британский израилизм, происхождение отдельных еврейских общин и мормонское усыновление в Израиле — разные утверждения; профиль или alias одному из них не назначен."
+    },
+    {
+      "sourceIndex": 917,
+      "sourceName": "Levashovism",
+      "decision": "keep",
+      "canonicalName": "Левашовство",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное эзотерическое учение Николая Левашова, соединяющее представления о тонких телах, перевоплощении и духовной эволюции с авторской космологией.",
+      "profile": "+scripture +reincarnation +liberation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Levashovism"
+      ],
+      "notes": "Источник подтверждает использование «Славяно-арийских вед» и «Велесовой книги», но это не индийские Веды из вопроса vedas. Претензии на научность не означают приоритет проверяемого научного метода. Сходство с инглиизмом не делает их синонимами; отдельное движение и собственные сочинения подтверждены."
+    },
+    {
+      "sourceIndex": 918,
+      "sourceName": "Nazi Occultism",
+      "decision": "review",
+      "canonicalName": "Нацистский оккультизм — требуется уточнение",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Предполагаемое обозначение исторических связей нацизма с оккультными идеями либо более поздних построений об этих связях.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Occultism_in_Nazism",
+        "https://journals.phil.muni.cz/studia-historica-brunensia/article/view/38891",
+        "https://www.jstor.org/stable/10.7722/j.ctt17mvhhk"
+      ],
+      "notes": "Исходная статья посвящена историческим исследованиям, спекуляциям и массовой культуре, а не одному учению с единым составом последователей. Академические работы различают фактические связи, репрессии против оккультистов и позднейшие мифы. Нельзя автоматически сделать alias послевоенному эзотерическому неонацизму (910) или назначить всем нацистам эзотерические признаки."
+    },
+    {
+      "sourceIndex": 919,
+      "sourceName": "Nordic Israelism",
+      "decision": "keep",
+      "canonicalName": "Североевропейский израилизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Британский израилизм",
+      "description": "Варианты израилистского учения, отождествляющие скандинавские и другие североевропейские народы с потерянными коленами Израиля.",
+      "profile": "+scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nordic_Israelism"
+      ],
+      "notes": "Близок к британскому израилизму, но источник прямо описывает отличающиеся идентификации колен и собственные организации. Поэтому сохранён отдельно. Эти генеалогии представлены как религиозные утверждения, а не научно установленное происхождение. Вопрос israelite_national_descent из записи 907 применим и здесь."
+    },
+    {
+      "sourceIndex": 920,
+      "sourceName": "Order of Nine Angles",
+      "decision": "keep",
+      "canonicalName": "Орден девяти углов (ONA)",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Децентрализованная эзотерическая среда с сатанистским самоназванием, инициатическими программами и связями с неонацистской идеологией.",
+      "profile": "+occult +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Order_of_Nine_Angles"
+      ],
+      "notes": "Источник подтверждает собственные формы магии, включая церемониальную. Интерпретации Сатаны и космологии различаются, поэтому буквальный теизм не назначен автоматически. Не синоним Церкви Сатаны, всего сатанизма или всего эзотерического неонацизма."
+    },
+    {
+      "sourceIndex": 921,
+      "sourceName": "Peterburgian Vedism",
+      "decision": "keep",
+      "canonicalName": "Петербургский ведизм",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Родноверие",
+      "description": "Современное славянское религиозное течение, связанное с Виктором Безверхим и последующими петербургскими общинами, с представлением о едином божественном целом и его многочисленных проявлениях.",
+      "profile": "+divine +many_gods +pantheism +ancestors",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Peterburgian_Vedism"
+      ],
+      "notes": "Отличается от «Русского ведизма Кандыбы (кандыбизма)» в партии 746–765: иные основатели и история. Не alias всего родноверия. Название «ведизм» не доказывает авторитета индийских Вед; верования отдельных петербургских линий различаются."
+    },
+    {
+      "sourceIndex": 922,
+      "sourceName": "Sylenkoism",
+      "decision": "keep",
+      "canonicalName": "РУН-вера (силенкоизм)",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Родноверие",
+      "description": "Украинская религиозная традиция Льва Силенко, почитающая Дажбога как единое божественное начало и использующая священную книгу «Мага Вира».",
+      "profile": "+divine +one_god +scripture -personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Native_Ukrainian_National_Faith"
+      ],
+      "notes": "Исходная статья прямо подтверждает Sylenkoism и Native Ukrainian National Faith как названия одной традиции. Совпадений с уже сохранёнными узкими записями нет; существующее «Родноверие» шире. Профиль отражает основную доктрину Силенко; участие некоторых последователей в политеистических мероприятиях не превращено в общее вероучение."
+    },
+    {
+      "sourceIndex": 923,
+      "sourceName": "Völkisch movement",
+      "decision": "keep",
+      "canonicalName": "Движение фёлькиш",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность немецких этнонационалистических культурных, политических и религиозных течений XIX–XX веков.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/V%C3%B6lkisch_movement"
+      ],
+      "notes": "Не единая религия и не синоним ариософии. Исходная статья описывает спектр от расиализированного христианства до новых нехристианских религий; единые признаки божественного, многобожия, откровения или оккультной практики всем участникам не назначены."
+    },
+    {
+      "sourceIndex": 924,
+      "sourceName": "Wotansvolk",
+      "decision": "keep",
+      "canonicalName": "Вотансфольк",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное расистское религиозно-идеологическое движение, связанное с Дэвидом Лейном и Роном Макваном и использующее образ Вотана и германскую мифологию.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wotansvolk"
+      ],
+      "notes": "Сохраняется конкретное движение, а не весь вотанизм, асатру или хетенри. Источник описывает синтез расового сепаратизма, юнгианских и эзотерических идей; из этого не выведены единое буквальное многобожие и одинаковая обрядовая практика всех участников."
+    },
+    {
+      "sourceIndex": 925,
+      "sourceName": "Ynglism",
+      "decision": "keep",
+      "canonicalName": "Инглиизм",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное движение Александра Хиневича, основанное на авторской космологии Инглии, множестве божественных проявлений и корпусе «Славяно-арийских вед».",
+      "profile": "+divine +many_gods +scripture +fire +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ynglism"
+      ],
+      "notes": "Священные тексты опубликованы в современную эпоху; заявления об их глубокой древности не приняты как установленный факт. Это не индийские Веды из вопроса vedas. Сохраняется отдельно от родноверия в целом, петербургского ведизма и левашовства; религиозный статус огня и обрядов прямо описан источником."
+    }
+  ]
+}

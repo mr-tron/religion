@@ -1,0 +1,357 @@
+{
+  "range": [
+    1266,
+    1285
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1266,
+      "sourceName": "Keizan",
+      "decision": "review",
+      "canonicalName": "Кэйдзан Дзёкин (учитель Сото-дзен)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Сото-дзен",
+      "description": "Японский учитель XIII–XIV веков, почитаемый вместе с Догэном как один из двух основателей школы Сото-дзен.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Keizan",
+        "https://www.sotozen.com/eng/library/glossary/individual.html?key=keizan"
+      ],
+      "notes": "Review: исходная статья является биографией, а не описанием отдельной религии «Keizan». Официальный словарь Сото подтверждает личность учителя и широкую линию преемственности через него, но не отдельную конфессию с таким названием. До уточнения предполагаемого объёма запись не превращена в alias всего Сото-дзен и не получила его профиль."
+    },
+    {
+      "sourceIndex": 1267,
+      "sourceName": "Kempon Hokke",
+      "decision": "keep",
+      "canonicalName": "Кэмпон-хоккэ-сю",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Нитирэн-буддизм",
+      "description": "Японская нитирэновская школа линии Нитидзю с главным храмом Мёман-дзи и особым авторитетом Лотосовой сутры.",
+      "profile": "+buddha +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kempon_Hokke",
+        "https://nichiren-monka.org/organization/id8/",
+        "https://myomanji.jp/",
+        "https://www.nichirenlibrary.org/en/dic/Content/T/271"
+      ],
+      "notes": "исходная статья содержит полемические оценки других школ, неподкреплённые утверждения и предупреждение о недостатке ссылок. Сайт объединения последователей Нитирэна подтверждает самостоятельную линию Нитидзю, связь с Мёман-дзи и Лотосовой сутрой. Обвинения в подложности чужих текстов и исключительной истинности не приняты как нейтральные факты. Не alias всей Нитирэн-сю. Дополнительный словарь отдельно называет эту школу."
+    },
+    {
+      "sourceIndex": 1268,
+      "sourceName": "Kwan Um School",
+      "decision": "keep",
+      "canonicalName": "Школа дзен Кван Ум",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Корейский сон",
+      "description": "Международная школа корейского происхождения, основанная Сун Саном и соединяющая сидячую медитацию, работу с конганами, пение и поклоны.",
+      "profile": "+buddha +meditation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kwan_Um_School_of_Zen"
+      ],
+      "notes": "Исходник описывает конкретную организацию и её практику совместного действия. Не alias всего корейского сон или ордена Чоге; связанные формы практики не делают её синонимом Буддизма Чистой земли."
+    },
+    {
+      "sourceIndex": 1269,
+      "sourceName": "Linji school",
+      "decision": "keep",
+      "canonicalName": "Школа Линьцзи",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Чань-буддизм",
+      "description": "Китайская школа чань, связанная с Линьцзи Исюанем, передачей учительских наставлений и созерцательной работой с гунъанями и хуатоу.",
+      "profile": "+buddha +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Linji_school"
+      ],
+      "notes": "Исходник отличает китайскую историю школы от её японского развития в Риндзай. Сохранена китайская традиция; японская региональная ветвь имеет собственную институциональную и практическую историю. Не alias всего Чань-буддизма. Поздние рассказы о передаче учения не приняты за буквальную документальную историю каждого раннего события."
+    },
+    {
+      "sourceIndex": 1270,
+      "sourceName": "Madhyamaka",
+      "decision": "keep",
+      "canonicalName": "Мадхьямака",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Махаяна",
+      "description": "Махаянская философская традиция Нагарджуны и его последователей, исследующая зависимое возникновение и отсутствие самобытия у личности и явлений.",
+      "profile": "+buddha +no_self",
+      "proposedQuestions": [
+        {
+          "id": "emptiness_of_phenomena",
+          "text": "Близко ли вам учение, что все явления лишены независимого собственного существования или самобытия?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Передаёт шуньяту мадхьямаки и её ветвей, включая прасангику. Отличает это учение от одного лишь отрицания неизменного личного «я», уже представленного no_self; помогает сравнивать с философиями самостоятельных субстанций. Не означает, что явления вообще не существуют."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Madhyamaka",
+        "https://plato.stanford.edu/entries/madhyamaka/"
+      ],
+      "notes": "SEP подтверждает критику независимой сущности, различение условной и высшей истины и разнообразие исторических толкований. Пустотность не превращена в нигилизм или утверждение, что ничего нет. Не alias всей Махаяны или отдельной Прасангики."
+    },
+    {
+      "sourceIndex": 1271,
+      "sourceName": "Maha Nikaya",
+      "decision": "keep",
+      "canonicalName": "Маханикая (Таиланд)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тхеравада",
+      "description": "Крупный тайский монашеский орден тхеравады, объединяющий линии вне Дхаммаюттика-никаи.",
+      "profile": "+buddha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maha_Nikaya"
+      ],
+      "notes": "Исходная статья в нынешнем виде посвящена Таиланду. Это организационное объединение, исторически сложившееся в том числе по остаточному принципу, а не единая особая практика всех участников. Не alias всей Тхеравады или камбоджийской организации только по сходному названию. Дополнительные доктринальные признаки не выведены из родительской традиции."
+    },
+    {
+      "sourceIndex": 1272,
+      "sourceName": "Mahasthabir Nikaya",
+      "decision": "keep",
+      "canonicalName": "Махастхабир-никая (Бангладеш)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тхеравада",
+      "description": "Одна из двух основных монашеских традиций современной тхеравады Бангладеш, исторически отличная от Сангхарадж-никаи.",
+      "profile": "+buddha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mahasthabir_Nikaya",
+        "https://fphil.uniba.sk/fileadmin/fif/katedry_pracoviska/kvas/SOS_23_1/SOS_23_1_final.pdf",
+        "https://www.undv.org/vesak2011/pdf/Bangladesh%20-%20HHMost%20Ven%20Sanghanayaka%20S%20Dharmapal%20Mahathero.pdf"
+      ],
+      "notes": "Исходная статья очень кратка. Исследование в журнале Studia Orientalia Slovaca и документ самой сангхи независимо подтверждают организацию. Сходство с Maha Nikaya не доказывает тождества тайскому ордену. Отличительные обязательные метафизические убеждения по доступным сведениям не установлены."
+    },
+    {
+      "sourceIndex": 1273,
+      "sourceName": "Newar Buddhism",
+      "decision": "keep",
+      "canonicalName": "Неварский буддизм",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Ваджраяна",
+      "description": "Традиция буддистов-неваров долины Катманду, сочетающая махаянские и ваджраянские тексты с особой наследственной ритуальной организацией.",
+      "profile": "+buddha +scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Newar_Buddhism"
+      ],
+      "notes": "Источник описывает жрецов-ваджрачарьев и шакья, семейные и общественные обряды, сутры и тантры. Это не религия всех неваров без исключения и не alias всего непальского или тибетского буддизма. Отсутствие целибатной монашеской системы не означает отсутствия духовенства."
+    },
+    {
+      "sourceIndex": 1274,
+      "sourceName": "Nichiren Buddhism",
+      "decision": "alias",
+      "canonicalName": "Нитирэн-буддизм",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Японские буддийские традиции, восходящие к Нитирэну и сосредоточенные на Лотосовой сутре.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nichiren_Buddhism"
+      ],
+      "notes": "Alias существующего «Нитирэн-буддизма» в religions.js. Это широкое направление, а не одна из отдельных школ Нитирэн-сю, Нитирэн-сёсю или конкретное движение Nichirenism."
+    },
+    {
+      "sourceIndex": 1275,
+      "sourceName": "Nichiren Shōshū",
+      "decision": "keep",
+      "canonicalName": "Нитирэн-сёсю",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Нитирэн-буддизм",
+      "description": "Японская нитирэновская школа с главным храмом Тайсэки-дзи, придающая центральное значение Нитирэну как Изначальному Будде и практике даймоку.",
+      "profile": "+buddha +scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nichiren_Sh%C5%8Dsh%C5%AB",
+        "https://nstmyoshinji.org/wp-content/uploads/2019/09/Nichiren-Shoshu-Basics-of-Practice.pdf",
+        "https://www.nichirenshoshu.or.jp/eng/ceremonies.html",
+        "https://www.nichirenlibrary.org/en/dic/Content/N/48"
+      ],
+      "notes": "исходник предупреждает о зависимости от связанных источников и содержит резко полемические обобщения о других школах. Собственное руководство подтверждает Лотосовую сутру, чтение даймоку и особый статус Нитирэна; эти положения переданы как самоописание школы. Не alias Нитирэн-сю, Сока Гаккай или Хоккэко. Дополнительный словарь фиксирует школу и её институциональную историю; его оценки спора со Сока Гаккай не использованы."
+    },
+    {
+      "sourceIndex": 1276,
+      "sourceName": "Nichiren Shū",
+      "decision": "keep",
+      "canonicalName": "Нитирэн-сю",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Нитирэн-буддизм",
+      "description": "Объединение японских нитирэновских линий, почитающее Шакьямуни как Вечного Будду и Нитирэна как наставника Лотосовой сутры.",
+      "profile": "+buddha +scripture +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nichiren_Sh%C5%AB",
+        "https://en.wikipedia.org/wiki/Nichiren-sh%C5%AB",
+        "https://www.nichiren.or.jp/english/teachings/teachings_nichiren/"
+      ],
+      "notes": "Исходный URL с подчёркиванием не загрузился; статья Nichiren-shū и официальный портал подтверждают ту же организацию, чтение даймоку и гохондзон. Не alias Нитирэн-сёсю или всех нитирэновских школ. Авторитет сутры и обрядовые формы проверены независимо от полемических сравнений исходной статьи."
+    },
+    {
+      "sourceIndex": 1277,
+      "sourceName": "Nichirenism",
+      "decision": "keep",
+      "canonicalName": "Нитирэнизм (Nichirenshugi)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Нитирэн-буддизм",
+      "description": "Современное общественно-религиозное прочтение учения Нитирэна, связанное с Танакой Тигаку и другими авторами и нередко с японским национализмом.",
+      "profile": "+buddha +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nichirenism",
+        "https://escholarship.org/uc/item/53m639t5"
+      ],
+      "notes": "Не alias общего Нитирэн-буддизма и не только организации Кокутюкай. Исходник и исследование Игучи описывают современную религиозную и политическую программу; разные деятели расходились, поэтому единая политическая позиция всем направлениям не навязана. Имперская программа части движения не перенесена на всех нитирэновских буддистов."
+    },
+    {
+      "sourceIndex": 1278,
+      "sourceName": "Nyingma",
+      "decision": "keep",
+      "canonicalName": "Ньингма",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тибетский буддизм",
+      "description": "Тибетская буддийская традиция старых переводов, включающая тантрические линии, канон Ньингма-гьюбум и практику дзогчен.",
+      "profile": "+buddha +scripture +meditation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nyingma"
+      ],
+      "notes": "Источник подтверждает девять путей, предварительные и тантрические практики, тексты и дзогчен. Не alias всего тибетского буддизма, самого Дзогчена или религии Бон. Открываемые терма не приравнены автоматически к новому всеобщему откровению new_revelation."
+    },
+    {
+      "sourceIndex": 1279,
+      "sourceName": "Ohigashi",
+      "decision": "review",
+      "canonicalName": "О-хигаси (неоднозначная ссылка на раскол)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Дзёдо-синсю, ветвь Отани",
+      "description": "В исходной статье — конфликт и раскол внутри ветви Отани школы Дзёдо-синсю, связанный с реформаторским движением Добокай.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ohigashi_schism",
+        "https://www.shin-ibs.edu/documents/pwj-new/new5/10Tanaka.pdf"
+      ],
+      "notes": "Review: sourceName Ohigashi может указывать на название общины или ветви, однако URL описывает событие раскола, а не отдельную конфессию. Несколько групп, образовавшихся в ходе конфликта, не объединены в придуманное учение. Дополнительная академическая библиография подтверждает литературу о кризисе Отани, но не разрешает неоднозначность исходного ярлыка; профиль пустой."
+    },
+    {
+      "sourceIndex": 1280,
+      "sourceName": "Otokan",
+      "decision": "keep",
+      "canonicalName": "Линия Отокан",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Риндзай",
+      "description": "Японская линия передачи Риндзай, названная по учителям Дайо, Дайто и Кандзан и включающая последующую традицию Хакуина.",
+      "profile": "+buddha +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/%C5%8Ct%C5%8Dkan",
+        "https://zen.rinnou.net/whats_zen/history.html"
+      ],
+      "notes": "Официальная история Риндзай и Обаку подтверждает существование линии и её основателей. Это линия преемственности внутри школы, а не alias всего исторического Риндзай. Частное утверждение исходника о принадлежности Обаку этой линии не перенесено без проверки."
+    },
+    {
+      "sourceIndex": 1281,
+      "sourceName": "Prasaṅgika",
+      "decision": "keep",
+      "canonicalName": "Прасангика",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Мадхьямака",
+      "description": "Направление интерпретации мадхьямаки, связываемое с Буддапалитой и Чандракирти и использованием выявления неприемлемых следствий позиции оппонента.",
+      "profile": "+buddha +no_self",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Prasa%E1%B9%85gika",
+        "https://plato.stanford.edu/entries/madhyamaka/",
+        "https://iep.utm.edu/madhyamaka-buddhist-philosophy/"
+      ],
+      "notes": "Исходный URL не загрузился; SEP и IEP подтверждают направление и его содержание. Название оформилось в поздней тибетской классификации и не было самоназванием индийских авторов. Сохранена конкретная философская традиция, а не новая организация; различия её тибетских трактовок не скрыты. Не alias всей Мадхьямаки."
+    },
+    {
+      "sourceIndex": 1282,
+      "sourceName": "Pure Land Buddhism",
+      "decision": "alias",
+      "canonicalName": "Буддизм Чистой земли",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Буддийские традиции, сосредоточенные на Амитабхе и стремлении к рождению в его Чистой земле.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pure_Land_Buddhism"
+      ],
+      "notes": "Alias существующего «Буддизма Чистой земли» в religions.js. Исходная статья охватывает широкую восточноазиатскую традицию; она не сводится к одной японской школе Дзёдо-сю или Дзёдо-синсю."
+    },
+    {
+      "sourceIndex": 1283,
+      "sourceName": "Rinzai",
+      "decision": "keep",
+      "canonicalName": "Риндзай",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Школа Линьцзи",
+      "description": "Японская школа дзен китайской линии Линьцзи, подчёркивающая кэнсё, дзадзен, работу с коанами и последующее углубление практики.",
+      "profile": "+buddha +meditation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rinzai_school"
+      ],
+      "notes": "Сохранена как японская институциональная ветвь, развившая собственные линии, методы обучения и храмовые объединения, а не просто новое написание имени китайской школы. Не alias всего Дзен-буддизма или одной линии Отокан. Источник подтверждает наставничество, медитацию и чтение сутр и дхарани."
+    },
+    {
+      "sourceIndex": 1284,
+      "sourceName": "Sakya",
+      "decision": "keep",
+      "canonicalName": "Сакья",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тибетский буддизм",
+      "description": "Тибетская буддийская школа, центральное место в которой занимает система Ламдрэ — «Путь и плод», связанная с Хеваджра-тантрой.",
+      "profile": "+buddha +scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sakya_(Tibetan_Buddhist_school)"
+      ],
+      "notes": "Исходник подтверждает Ламдрэ, тантрические циклы и отдельные подшколы. Это не alias всего тибетского буддизма или движения Римэ. Наследственное руководство определённых исторических линий не превращено в духовную обязанность всех практикующих."
+    },
+    {
+      "sourceIndex": 1285,
+      "sourceName": "Sanbo Kyodan",
+      "decision": "keep",
+      "canonicalName": "Самбо-кёдан (Самбо-дзен)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Дзен-буддизм",
+      "description": "Основанная Ясутани Хакууном в 1954 году дзенская организация с сильной мирянской составляющей, соединяющая традицию Сото с коанным обучением Риндзай.",
+      "profile": "+buddha +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sanbo_Kyodan",
+        "https://sanbo-zen-international.org/en/about/history/"
+      ],
+      "notes": "Официальная история подтверждает самостоятельную организацию и сочетание подходов. Sanbo Kyodan и современное Sanbo Zen относятся к одному объединению; при этом не всякая независимая линия Харада—Ясутани остаётся его частью. Политические взгляды основателя не назначены всем нынешним участникам."
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "range": [
+    1486,
+    1505
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1486,
+      "sourceName": "Ethiopian Orthodox Church",
+      "decision": "keep",
+      "canonicalName": "Эфиопская православная церковь Тевахедо",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Древневосточные православные церкви",
+      "description": "Эфиопская христианская церковь древневосточной православной традиции с собственным библейским каноном и богослужебным наследием.",
+      "profile": "+jesus +scripture +church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ethiopian_Orthodox_Church"
+      ],
+      "notes": "Исходный URL перенаправляет на Ethiopian Orthodox Tewahedo Church. Отдельная церковь, не alias всей группы Oriental Orthodox, Коптской или Эритрейской церкви. Соблюдение субботы и воскресенья и расширенный канон нельзя свести к общему профилю всех православных церквей; эти различия здесь не расширены без необходимости."
+    },
+    {
+      "sourceIndex": 1487,
+      "sourceName": "Evangelical Anglicanism",
+      "decision": "keep",
+      "canonicalName": "Евангелическое англиканство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Англиканство",
+      "description": "Направление англиканства, подчёркивающее верховенство Писания, искупление через Христа, личное обращение и благовестие.",
+      "profile": "+jesus +scripture +bible_alone",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Evangelical_Anglicanism"
+      ],
+      "notes": "Не alias всего англиканства или всего евангельского протестантизма. Положительный bible_alone отражает supremacy of Scripture, а не отказ от любой литургии, исторического учения и церковного устройства. Не назначено -church: евангелическое крыло сохраняет англиканские формы церковной жизни."
+    },
+    {
+      "sourceIndex": 1488,
+      "sourceName": "Evangelical Catholic",
+      "decision": "review",
+      "canonicalName": "Evangelical Catholic — требуется уточнение смысла",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Многозначное христианское обозначение евангельской верности и кафолической преемственности, употребляемое в нескольких церковных традициях.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Evangelical_Catholic",
+        "https://lutheranchurchinternational.org/about-our-church"
+      ],
+      "notes": "Review: статья описывает прежде всего лютеранское употребление, но также римокатолическое, старокатолическое, методистское и отдельные новые церковные организации. Собственное объяснение Lutheran Church International подтверждает один лютеранский смысл, не единственность значения. Нельзя выбрать одну каноническую ветвь или назначить общий ответ о папстве, пока не уточнено, какую именно традицию имел в виду исходный список."
+    },
+    {
+      "sourceIndex": 1489,
+      "sourceName": "Evangelicalism",
+      "decision": "alias",
+      "canonicalName": "Евангельский протестантизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Протестантизм",
+      "description": "Межденоминационное протестантское движение, подчёркивающее спасение через Христа, личное обращение, Библию и благовестие.",
+      "profile": "+jesus +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Evangelicalism"
+      ],
+      "notes": "Подтверждённый синоним сохранённой записи Evangelical Protestantism (1145): статья прямо называет evangelical Protestantism альтернативным названием Evangelicalism. Не создаётся дубль по различию английских формулировок. Не alias одной баптистской, пятидесятнической или иной деноминации."
+    },
+    {
+      "sourceIndex": 1490,
+      "sourceName": "Folk Catholicism",
+      "decision": "review",
+      "canonicalName": "Народный католицизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Католический религиозный контекст",
+      "description": "Совокупность локальных и этнических форм католической практики, взаимодействующих с народными обычаями.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Folk_Catholicism",
+        "https://archium.ateneo.edu/phstudies/vol30/iss1/2/"
+      ],
+      "notes": "Review: исходник описывает аналитический класс разнообразных традиций от местных католических обычаев до синкретических форм с самостоятельными названиями. Без указания региона и общины не устанавливается единая отдельная ветвь или общий профиль. Не alias всего католицизма, вуду, сантерии или кандомбле; каждый конкретный случай требует отдельной идентификации. Статья Vergote подтверждает академическое использование и неоднозначность термина."
+    },
+    {
+      "sourceIndex": 1491,
+      "sourceName": "Folk Christianity",
+      "decision": "review",
+      "canonicalName": "Народное христианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Христианские народные традиции",
+      "description": "Общее этнографическое обозначение локальных верований и обычаев в христианской среде.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Folk_Christianity",
+        "https://en.wikipedia.org/wiki/Folk_religion"
+      ],
+      "notes": "Review: исходный URL перенаправляет на Folk religion, то есть обзор народной религиозности разных конфессий, а не конкретное христианское учение. Нужно определить географический и конфессиональный объём. Народное католичество и народное православие — вложенные категории, а не точные синонимы всей записи; единые ответы по магии, духам, таинствам или канону не установлены."
+    },
+    {
+      "sourceIndex": 1492,
+      "sourceName": "Folk Orthodoxy",
+      "decision": "review",
+      "canonicalName": "Народное православие",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Православный религиозный контекст",
+      "description": "Этнографическое обозначение локальных обычаев, верований и религиозной практики в православной среде.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Folk_Orthodoxy",
+        "https://www.routledge.com/Popular-Religion-in-Russia-Double-Belief-and-the-Making-of-an-Academic-Myth/Rock/p/book/9780203592281",
+        "https://www.new-directions.sps.ed.ac.uk/bandak-boylston-orthodoxy-orthodoxy/"
+      ],
+      "notes": "Review: источник объединяет разные территории и периоды; граница народного и канонического не фиксирована. Тезис о неизменном «двоеверии» и простом сохранении язычества оспаривается в исследовании Stella Rock. Требуются конкретная община, эпоха или комплекс практик; всем участникам не приписаны духи природы, многобожие или магия. Не alias всего православия и не единая дохристианская религия."
+    },
+    {
+      "sourceIndex": 1493,
+      "sourceName": "French Huguenot",
+      "decision": "keep",
+      "canonicalName": "Гугеноты",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Реформатское христианство",
+      "description": "Французская реформатская протестантская традиция и исторические общины её последователей.",
+      "profile": "+jesus +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Huguenot"
+      ],
+      "notes": "French Huguenot — французские гугеноты; это конкретная историко-конфессиональная традиция, не alias всего кальвинизма или всего французского протестантизма. Потомки эмигрантов не обязательно сохраняют ту же религиозную принадлежность, поэтому этническое происхождение не приравнено к личной вере."
+    },
+    {
+      "sourceIndex": 1494,
+      "sourceName": "Gallicanism",
+      "decision": "keep",
+      "canonicalName": "Галликанизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Католицизм",
+      "description": "Историческое католическое церковно-политическое направление, ограничивающее папскую власть правами соборов, епископов и светской власти.",
+      "profile": "+church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gallicanism"
+      ],
+      "notes": "Не alias всего французского католицизма или англиканства. Ограничение верховной власти и непогрешимости папы не означает полного отрицания его первенства: поэтому знак по pope не назначен. Различаются церковные и государственные формы галликанизма; современные одноимённые независимые церкви автоматически не включены."
+    },
+    {
+      "sourceIndex": 1495,
+      "sourceName": "Georgian Orthodox Church",
+      "decision": "keep",
+      "canonicalName": "Грузинская православная церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточное православие",
+      "description": "Автокефальная православная церковь Грузии, сохраняющая собственную литургическую и церковную традицию.",
+      "profile": "+church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Georgian_Orthodox_Church"
+      ],
+      "notes": "Отдельная поместная церковь, не alias всего православия. Не смешивается с грузинскими дохристианскими верованиями; даты ранней автокефалии и текущие имена иерархов не превращены в классификационные признаки."
+    },
+    {
+      "sourceIndex": 1496,
+      "sourceName": "Gnosticism",
+      "decision": "review",
+      "canonicalName": "Гностицизм — объём категории требует уточнения",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное собирательное обозначение ряда древних религиозных учений, связывающих спасение с особым духовным знанием.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gnosticism",
+        "https://academic.oup.com/edited-volume/61673/chapter-abstract/548932182"
+      ],
+      "notes": "Review: исходник и Oxford Classical Dictionary подчёркивают неоднородность и спорные границы термина. Есть узкое употребление для групп около раннего христианства и более широкое для независимой ближневосточной религиозности. Нельзя свести всю категорию к одному христианскому учению, мандейству или манихейству; почитание Иисуса и отношение к материальному миру различаются. Для исторического ближневосточного употребления возможно предложенное семейство ancient_neareastern, но сначала нужно выбрать объём; family оставлено null."
+    },
+    {
+      "sourceIndex": 1497,
+      "sourceName": "God Worshipping Society",
+      "decision": "keep",
+      "canonicalName": "Общество поклонения Богу — Бай Шанди хуэй",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Китайское религиозное движение Хун Сюцюаня, соединявшее собственное понимание христианских текстов с культом Шанди и ставшее религиозной основой тайпинского движения.",
+      "profile": "+divine +jesus +scripture +revelation -trinity",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/God_Worshipping_Society"
+      ],
+      "notes": "Сохраняется конкретное религиозное общество XIX века; не alias всей китайской народной религии или исторического культа Шанди. Протестантское влияние не означает принятия никейской Троицы: источник прямо называет движение нетринитарным и описывает собственное понимание Хуном своего родства с Иисусом. Военно-политическая история Тайпинского государства не принята за профиль каждого верующего."
+    },
+    {
+      "sourceIndex": 1498,
+      "sourceName": "Great Church",
+      "decision": "review",
+      "canonicalName": "Великая церковь — историческое понятие",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Раннее христианство",
+      "description": "Историографическое обозначение формировавшегося основного церковного течения раннего христианства, употребляемое также как название периода.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_Church"
+      ],
+      "notes": "Review: исходник смешивает период приблизительно 180–313 годов, историческое течение и различные церковные притязания на преемственность. Это не одно однозначно ограниченное самостоятельное исповедание. Требуется согласовать с будущей записью Proto-orthodox Christianity и уточнить хронологию; без этого нельзя уверенно определить alias или отдельную историческую традицию. Не отождествляется автоматически с современной Римско-католической церковью или Константинопольским патриархатом."
+    },
+    {
+      "sourceIndex": 1499,
+      "sourceName": "Greek Byzantine Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Греческая византийская католическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Греческая католическая церковь византийского обряда в общении с Римом.",
+      "profile": "+church +pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Greek_Byzantine_Catholic_Church"
+      ],
+      "notes": "Конкретная восточнокатолическая церковь, не общее название всех грекокатоликов и не alias Украинской, Венгерской или Итало-албанской церкви. Не смешивается с греческими православными церквами; язык или византийский обряд сами по себе не означают одинаковой юрисдикции."
+    },
+    {
+      "sourceIndex": 1500,
+      "sourceName": "Greek Orthodox Church",
+      "decision": "review",
+      "canonicalName": "Greek Orthodox Church — требуется уточнение юрисдикции",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточное православие",
+      "description": "Неоднозначное обозначение православия в целом, греческих православных церквей или конкретно Элладской церкви.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Greek_Orthodox_Church",
+        "https://www.oca.org/questions/teaching/what-is-the-proper-name-for-the-orthodox-church"
+      ],
+      "notes": "Review: исходник прямо различает три значения; официальный ответ OCA подтверждает, что национальные названия сами по себе не обозначают иную веру. Но список допускает отдельные поместные церкви, поэтому без выбора значения нельзя ни сделать точный alias «Православие», ни создать запись «Элладская церковь». Не смешивается с Греческой византийской католической церковью."
+    },
+    {
+      "sourceIndex": 1501,
+      "sourceName": "Holiness movement",
+      "decision": "keep",
+      "canonicalName": "Движение святости",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Протестантизм — преимущественно уэслианское наследие",
+      "description": "Христианское движение, исторически связанное прежде всего с методизмом и учением о полном освящении как особом действии благодати.",
+      "profile": "+divine +jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Holiness_movement"
+      ],
+      "notes": "Межденоминационное движение, не alias всего методизма или пятидесятничества. «Второе действие благодати» и полное освящение не означают автоматически говорения на языках; знаки spirit_gifts не назначены всему движению."
+    },
+    {
+      "sourceIndex": 1502,
+      "sourceName": "Hungarian Byzantine Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Венгерская грекокатолическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Венгерская католическая церковь византийского обряда с собственной иерархией и литургическим наследием.",
+      "profile": "+church +pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hungarian_Byzantine_Catholic_Church",
+        "https://en.wikipedia.org/wiki/Hungarian_Greek_Catholic_Church",
+        "https://cnewa.org/eastern-christian-churches/the-catholic-eastern-churches/from-the-orthodox-church/the-hungarian-catholic-church/"
+      ],
+      "notes": "Исходный URL не загрузился; альтернативная статья Hungarian Greek Catholic Church и обзор CNEWA подтверждают ту же церковь. Byzantine Catholic и Greek Catholic в этих названиях обозначают одну конкретную венгерскую традицию, ранее отдельной записью не найденную. Не alias всех грекокатоликов или латинского католицизма Венгрии."
+    },
+    {
+      "sourceIndex": 1503,
+      "sourceName": "Hussites",
+      "decision": "keep",
+      "canonicalName": "Гуситы",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Чешская Реформация",
+      "description": "Историческое христианское движение последователей Яна Гуса, включавшее умеренные и радикальные направления чешской Реформации.",
+      "profile": "+jesus +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hussites"
+      ],
+      "notes": "Не alias одной современной Чехословацкой гуситской церкви, моравских братьев или только таборитов. Источник различает утраквистов и радикальные группы; их отношение к церковной власти и таинствам неодинаково, поэтому общий знак church не назначен."
+    },
+    {
+      "sourceIndex": 1504,
+      "sourceName": "Hutterite",
+      "decision": "keep",
+      "canonicalName": "Гуттериты",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Анабаптизм",
+      "description": "Анабаптистская христианская традиция, соединяющая крещение по исповеданию веры, ненасилие и религиозную общность хозяйственного имущества.",
+      "profile": "+jesus +scripture +adult_baptism +ahimsa",
+      "proposedQuestions": [
+        {
+          "id": "communal_property",
+          "text": "Является ли религиозная общность хозяйственного имущества нормой жизни вашей общины?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Выявляет важную норму гуттеритской общинной жизни, отсутствующую в вопросах о крещении, ненасилии и таинствах. Позволит различать гуттеритов и другие анабаптистские линии, включая амишей и меннонитов; ответы других общин нужно проверять отдельно, а добровольные пожертвования не равнозначны общности имущества."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hutterite",
+        "https://hutterites.org/our-beliefs/summary-beliefs/",
+        "https://hutterites.org/our-beliefs/community-goods/",
+        "https://hutterites.org/our-beliefs/"
+      ],
+      "notes": "Официальные источники подтверждают отдельность от амишей и меннонитов при общих анабаптистских корнях. Общность имущества не означает отсутствия личных вещей; экономические ресурсы колонии принадлежат общине. Для предложенного вопроса communal_property типичный ответ «Да». Ненасилие подтверждено как религиозная норма, а не выведено из общего стереотипа о простом образе жизни."
+    },
+    {
+      "sourceIndex": 1505,
+      "sourceName": "Hyper-Calvinism",
+      "decision": "keep",
+      "canonicalName": "Гиперкальвинизм — учение об ограниченном евангельском призыве",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Реформатское богословие",
+      "description": "Обозначение богословских позиций, отрицающих всеобщую обязанность спасительно веровать или обращение евангельского предложения ко всем слушателям.",
+      "profile": "+divine +jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hyper-Calvinism",
+        "https://cprc.co.uk/articles/whatishypercalvinism/"
+      ],
+      "notes": "Термин нередко полемичен и определяется неодинаково; здесь сохранён узкий историко-богословский смысл denial of duty-faith/universal gospel offer, обсуждаемый в исходнике и реформатском изложении CPRC. Не alias всего строгого кальвинизма, учения о предопределении или каждого баптиста Gospel Standard. Критические оценки оппонентов не представлены как самоописание всех затронутых групп."
+    }
+  ]
+}

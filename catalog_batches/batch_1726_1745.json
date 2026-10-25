@@ -1,0 +1,372 @@
+{
+  "range": [
+    1726,
+    1745
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1726,
+      "sourceName": "Reform Judaism",
+      "decision": "alias",
+      "canonicalName": "Реформистский иудаизм",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное направление иудаизма, подчёркивающее развитие традиции, этику и личную религиозную автономию.",
+      "profile": "-halakha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Reform_Judaism"
+      ],
+      "notes": "Reform Judaism — точное название существующей записи religions.js «Реформистский иудаизм». Отсутствие обязательности галахи не означает отсутствия любых обрядов, изучения Торы или веры; профиль остальных семейных признаков не наследуется."
+    },
+    {
+      "sourceIndex": 1727,
+      "sourceName": "Religious Zionism",
+      "decision": "keep",
+      "canonicalName": "Религиозный сионизм",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Ортодоксальный иудаизм",
+      "description": "Религиозно-общественное направление, связывающее ортодоксальный иудаизм с сионизмом и религиозным значением Земли Израиля.",
+      "profile": "+torah +halakha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Religious_Zionism"
+      ],
+      "notes": "Шире хареди-леуми и отдельной Religious Zionist Party; не alias этих подгрупп или всего ортодоксального иудаизма. Тора, народ и земля обозначены источником как центральные составляющие. Единая партийная программа и конкретные территориальные решения всем последователям не приписаны."
+    },
+    {
+      "sourceIndex": 1728,
+      "sourceName": "Sabbateans",
+      "decision": "keep",
+      "canonicalName": "Саббатианство",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческое мессианское движение последователей Шабтая Цви, возникшее в еврейской среде XVII века.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sabbateans"
+      ],
+      "notes": "Не alias франкизма или дёнме: они связаны с саббатианским контекстом, но имеют более узкие и самостоятельные истории. После обращения Шабтая Цви в ислам последователи выбирали разные пути; единая догматика и нормативность галахи всему движению не приписаны."
+    },
+    {
+      "sourceIndex": 1729,
+      "sourceName": "Sadducees",
+      "decision": "keep",
+      "canonicalName": "Саддукеи",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Иудаизм периода Второго храма",
+      "description": "Древнеиудейское религиозное и общественное направление, связанное со священнической элитой и храмом.",
+      "profile": "+torah -afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sadducees"
+      ],
+      "notes": "Источники приписывают саддукеям отрицание бессмертия души и посмертного воздаяния. Сведения переданы преимущественно другими группами; собственный корпус не сохранился. Не alias боэтусеев, ессеев или караимов. Отрицание фарисейского устного предания не означает отсутствия собственного религиозного закона."
+    },
+    {
+      "sourceIndex": 1730,
+      "sourceName": "Second Temple Judaism",
+      "decision": "keep",
+      "canonicalName": "Иудаизм периода Второго храма",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческое обозначение религиозной жизни и разных течений иудаизма между восстановлением и разрушением Второго храма.",
+      "profile": "+torah",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Second_Temple_Judaism"
+      ],
+      "notes": "Широкая историческая категория, не единая секта и не alias отдельного раввинистического, фарисейского или саддукейского направления. Различия в воскресении, ангелологии и храмовой практике не сведены к одному профилю."
+    },
+    {
+      "sourceIndex": 1731,
+      "sourceName": "Sephardic Haredi",
+      "decision": "review",
+      "canonicalName": "Сефардский харедимный иудаизм",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Харедимный иудаизм",
+      "description": "Харедимное направление сефардских и мизрахских еврейских общин с собственными правовыми и образовательными традициями.",
+      "profile": "+halakha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sephardic_Haredi",
+        "https://en.wikipedia.org/wiki/Sephardic_Haredim",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9734595/"
+      ],
+      "notes": "Исходный URL не загрузился; доступна статья Sephardic Haredim с предупреждением о недостатке ссылок. Академическое исследование независимо подтверждает направление и следование еврейскому закону. Не все сефарды, не все харедим и не точный синоним политической партии ШАС. Различные отношения к государству не сведены к одной позиции."
+    },
+    {
+      "sourceIndex": 1732,
+      "sourceName": "Sicarii",
+      "decision": "keep",
+      "canonicalName": "Сикарии",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Иудаизм периода Второго храма",
+      "description": "Древнеиудейское повстанческое движение I века, известное борьбой против римского господства и противников внутри иудейского общества.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sicarii"
+      ],
+      "notes": "Религиозно-политическое движение, а не подтверждённая отдельная религия с полным особым вероучением. Иосиф Флавий различает сикариев и зелотов; автоматического alias нет. Насильственные действия не превращены в отдельный профиль веры и не перенесены на иудаизм вообще."
+    },
+    {
+      "sourceIndex": 1733,
+      "sourceName": "Synagogal Judaism",
+      "decision": "review",
+      "canonicalName": "Синагогальный иудаизм — исследовательская модель",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историографическая модель нераввинистических и нехристианских иудейских общин поздней античности, связанных с синагогами и священнической средой.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Synagogal_Judaism",
+        "https://www.persee.fr/doc/crai_0065-0536_2015_num_159_1_95489",
+        "https://books.openbookpublishers.com/10.11647/obp.0219.03.pdf"
+      ],
+      "notes": "Мимуни прямо предлагает новый научный концепт, а не фиксирует самоназвание одной древней секты. Единая доктрина и чёткая граница всех включаемых общин не установлены. Не alias современного синагогального богослужения, всего иудаизма или раввинизма. До уточнения масштаба модель сохранена с review и пустым профилем."
+    },
+    {
+      "sourceIndex": 1734,
+      "sourceName": "Therapeutae",
+      "decision": "keep",
+      "canonicalName": "Терапевты (древнеиудейские аскеты)",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Созерцательная аскетическая община, описанная Филоном Александрийским преимущественно в окрестностях Мареотидского озера.",
+      "profile": "+scripture +meditation +sabbath",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Therapeutae"
+      ],
+      "notes": "Профиль ограничен описанием созерцания, изучения писаний и собрания в седьмой день у Филона. Связь с ессеями, ранним христианским монашеством и гипотеза буддийского влияния не доказывают тождества; соответствующие признаки и alias не назначены. Термин не относится к современной психотерапии."
+    },
+    {
+      "sourceIndex": 1735,
+      "sourceName": "Yudghanites",
+      "decision": "review",
+      "canonicalName": "Юдганиты",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Средневековое иудейское движение последователей Юдгана из Хамадана, известное по внешним историческим свидетельствам.",
+      "profile": "+torah +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yudghanites",
+        "https://sefaria.jewishencyclopedia.com/articles/8999-judah-judghan",
+        "https://cris.tau.ac.il/en/publications/y%C5%ABdgh%C4%81n/"
+      ],
+      "notes": "Исходная статья нуждается в дополнительных ссылках; Jewish Encyclopedia подтверждает движение и аллегорическое толкование Торы, но реконструкции ранней истории ограничены. Учение о перевоплощении прямо спорно; не назначено. Пророческий статус Юдгана не автоматически означает новое всеобщее откровение. Не alias всех исавитов или караимов."
+    },
+    {
+      "sourceIndex": 1736,
+      "sourceName": "Zealots",
+      "decision": "keep",
+      "canonicalName": "Зелоты",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Иудаизм периода Второго храма",
+      "description": "Древнеиудейское религиозно-политическое повстанческое движение, связывавшее борьбу против римского господства с верностью Богу и его закону.",
+      "profile": "+one_god",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zealots"
+      ],
+      "notes": "Источник различает собственно фракцию зелотов и более широкое употребление названия для повстанцев. Не alias сикариев: исследователи различают соперничавшие группировки. Слабо документированный раздел о связи с Павлом не использован; ранняя «четвёртая философия» не отождествлена без оговорок с единой непрерывной организацией."
+    },
+    {
+      "sourceIndex": 1737,
+      "sourceName": "Azalism",
+      "decision": "keep",
+      "canonicalName": "Азалитский бабизм",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": "Бабизм",
+      "description": "Ветвь бабизма, признававшая Субх-и-Азаля преемником Баба и не принявшая притязание Бахауллы.",
+      "profile": "+revelation +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Azalism",
+        "https://www.iranicaonline.org/articles/azali-babism/"
+      ],
+      "notes": "Исходный URL вернул 403; самостоятельную фракцию и её происхождение подтверждает статья Дениса МакИона в Iranica. Не alias всего бабизма или веры бахаи. Численность и организация из исторического источника не представлены как проверенные современные данные; светские взгляды отдельных активистов не приписаны всему направлению."
+    },
+    {
+      "sourceIndex": 1738,
+      "sourceName": "Baháʼí Faith",
+      "decision": "alias",
+      "canonicalName": "Вера бахаи",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Самостоятельная религия Бахауллы с учением о единстве человечества и последовательности божественных откровений.",
+      "profile": "+one_god +new_revelation +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith"
+      ],
+      "notes": "Точное совпадение с существующей записью religions.js «Вера бахаи». Историческая связь с бабизмом не делает эти религии синонимами; отдельные направления преемства рассмотрены отдельно."
+    },
+    {
+      "sourceIndex": 1739,
+      "sourceName": "Bábism",
+      "decision": "alias",
+      "canonicalName": "Бабизм",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозное движение XIX века, возникшее вокруг откровения и писаний Баба.",
+      "profile": "+new_revelation +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/B%C3%A1bism"
+      ],
+      "notes": "Bábism — точный синоним существующего «Бабизма». Не alias более узкого азалитского бабизма или последующей веры бахаи. Собственные писания Баба подтверждены исходником."
+    },
+    {
+      "sourceIndex": 1740,
+      "sourceName": "Caravan of East and West",
+      "decision": "review",
+      "canonicalName": "Караван Востока и Запада",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Образовательная и культурная организация Ахмада Сохраба и семьи Чанлеров, исторически связанная с независимыми инициативами в среде бахаи.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Caravan_of_East_and_West",
+        "https://bahai-library.com/pdf/l/lee_bahai_faith_africa.pdf",
+        "https://a860-gpp.nyc.gov/downloads/vd66w100t?locale=en"
+      ],
+      "notes": "Исходной статье недостаёт ссылок. Энтони Ли подтверждает организацию и международную переписку в контексте New History Society, но это не доказательство единой конфессиональной принадлежности всех участников. Официальный историко-архитектурный отчёт Нью-Йорка указывает на последующую утрату связи с бахаи. Семейство iranian отражает только исходный религиозный контекст; включение нынешней светской организации как религии требует решения редактора. Не alias самой веры бахаи."
+    },
+    {
+      "sourceIndex": 1741,
+      "sourceName": "Druze",
+      "decision": "alias",
+      "canonicalName": "Друзская традиция",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Самостоятельная ближневосточная религиозная традиция друзов с эзотерическим учением и верой в перевоплощение.",
+      "profile": "+one_god +reincarnation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Druze"
+      ],
+      "notes": "Druze в данной исходной статье обозначает общину и её религиозную традицию, уже представленную в religions.js как «Друзская традиция». Не весь исмаилизм; историческое происхождение не означает нынешней тождественности."
+    },
+    {
+      "sourceIndex": 1742,
+      "sourceName": "Free Baháʼís",
+      "decision": "review",
+      "canonicalName": "Свободные бахаи",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": "Вера бахаи",
+      "description": "Название независимых бахаистских инициатив, отвергающих религиозно-административный авторитет Шоги Эффенди.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Attempted_schisms_in_the_Bah%C3%A1%CA%BC%C3%AD_Faith",
+        "https://freebahais.org/",
+        "https://freebahais.org/shoghi-effendi-2/",
+        "https://freebahais.org/early-bahais/hermann-zimmer/"
+      ],
+      "notes": "Исходная ссылка ведёт к общему обзору расколов, а не отдельному учению. Исторический проект Германа Циммера и современный сайт Free Baha’i Faith используют сходное название; непрерывность одной организации не установлена. Собственный сайт подтверждает критику Хранительства, но его обвинения не приняты как независимые исторические факты. Не alias православных бахаи: они признают Шоги Эффенди и спорят о последующей преемственности. Профиль оставлен пустым до уточнения объекта."
+    },
+    {
+      "sourceIndex": 1743,
+      "sourceName": "Mandaeism",
+      "decision": "alias",
+      "canonicalName": "Мандейство",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Самостоятельная ближневосточная религия с почитанием Великой Жизни и центральными обрядами омовения в проточной воде.",
+      "profile": "+ritual +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mandaeism"
+      ],
+      "notes": "Mandaeism — точный синоним существующего «Мандейства». Не alias всех сабиев, ессеев или гемеробаптистов: исторические сопоставления не доказывают тождества. Повторяемое омовение не кодируется adult_baptism, поскольку этот вопрос о предпочтении сознательного христианского крещения."
+    },
+    {
+      "sourceIndex": 1744,
+      "sourceName": "Orthodox Baháʼí Faith",
+      "decision": "keep",
+      "canonicalName": "Православные бахаи (линия Рими — Марангеллы)",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": "Вера бахаи",
+      "description": "Бахаистское направление, признающее продолжение Хранительства после Шоги Эффенди через Мейсона Рими и соответствующую линию преемства.",
+      "profile": "",
+      "proposedQuestions": [
+        {
+          "id": "continued_bahai_guardianship",
+          "text": "Признаёте ли вы продолжение института Хранительства бахаи через преемников после Шоги Эффенди?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отделяет Orthodox Baháʼí Faith, признающую дальнейших Хранителей, от основного сообщества бахаи, не признающего преемника после 1957 года. Признание самого Шоги Эффенди — отдельный вопрос, поэтому Free Baháʼís нельзя автоматически отнести к той же позиции.",
+          "supportedEntries": [
+            "Orthodox Baháʼí Faith",
+            "Baháʼí Faith",
+            "Free Baháʼís"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Orthodox_Bah%C3%A1%CA%BC%C3%AD_Faith"
+      ],
+      "notes": "Название Orthodox не означает православного христианства. Не alias всех последователей Рими: его преемники разделились на несколько организаций. Основное сообщество бахаи не признаёт эти притязания. Отдельный общепринятый профиль преемственности отсутствует в questions.js; общий профиль веры бахаи автоматически не перенесён."
+    },
+    {
+      "sourceIndex": 1745,
+      "sourceName": "Samaritanism",
+      "decision": "keep",
+      "canonicalName": "Самаритянская религия",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Самостоятельная израильская монотеистическая традиция самаритян, признающая Самаритянское Пятикнижие и священное значение горы Гаризим.",
+      "profile": "+one_god +torah +sabbath",
+      "proposedQuestions": [
+        {
+          "id": "gerizim_chosen_sanctuary",
+          "text": "Считаете ли вы гору Гаризим избранным Богом местом главного святилища, в отличие от Иерусалима?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Выражает основное различие самаритянской традиции и иудаизма, связанного с Иерусалимом; одного общего признака авторитета Торы для этого недостаточно.",
+          "supportedEntries": [
+            "Samaritanism",
+            "Rabbinic Judaism",
+            "Second Temple Judaism"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Samaritanism"
+      ],
+      "notes": "Семейство jewish — ближайшая техническая группа для родственных израильских традиций, а не утверждение, что самаритянство является раввинистическим иудаизмом. Не alias караимов или «самаритянских христиан». Авторитет Торы не означает принятия Талмуда; halakha в смысле еврейского раввинистического закона не назначена. Роль Гаризима подтверждена исходным описанием."
+    }
+  ]
+}

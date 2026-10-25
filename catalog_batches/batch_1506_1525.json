@@ -1,0 +1,368 @@
+{
+  "range": [
+    1506,
+    1525
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1506,
+      "sourceName": "Independent Catholic churches",
+      "decision": "keep",
+      "canonicalName": "Независимые католические церкви",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнородные самостоятельные церковные объединения католического типа, действующие вне юрисдикции Римской католической церкви.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Independent_Catholic_churches",
+        "https://en.wikipedia.org/wiki/Independent_Catholicism",
+        "https://cacina.org/home/index.php/about-us/independent-catholicism"
+      ],
+      "notes": "Исходный URL не загрузился; обзор Independent Catholicism и собственное описание CACINA подтверждают категорию. Это не единая деноминация, не всё старокатоличество и не политическое течение Liberal Catholicism. Доктрины, церковное устройство и подходы к рукоположению различаются, поэтому профиль не обобщается."
+    },
+    {
+      "sourceIndex": 1507,
+      "sourceName": "Italo-Albanian Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Итало-албанская католическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Восточнокатолическая церковь византийского обряда в Италии, связанная с арберешской традицией.",
+      "profile": "+church +pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Italo-Albanian_Catholic_Church"
+      ],
+      "notes": "Источник прямо отличает её от Албанской византийской католической церкви на Балканах (партия 1426–1445). Совпадение албанского языка и обрядовое родство не означают тождества. Подтверждены статус sui iuris и общение с папой Римским."
+    },
+    {
+      "sourceIndex": 1508,
+      "sourceName": "Jacobite Syrian Christian Church",
+      "decision": "keep",
+      "canonicalName": "Яковитская сирийская христианская церковь Индии",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Сирийская православная церковь",
+      "description": "Автономная церковная структура западносирийской традиции в Индии, подчинённая Антиохийскому сирийскому патриархату.",
+      "profile": "+church +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jacobite_Syrian_Christian_Church",
+        "https://www.jscnews.in/about-us/"
+      ],
+      "notes": "В источнике также Malankara Syriac Orthodox Church и Syriac Orthodox Church in India. Это не Маланкарская православная сирийская церковь с отдельным католикосатом и не весь Сирийский патриархат. Официальное медиа подтверждает подчинение Антиохийскому престолу; конкурирующие исторические притязания сторон не используются как факты вероучения."
+    },
+    {
+      "sourceIndex": 1509,
+      "sourceName": "Jehovah's Witnesses",
+      "decision": "alias",
+      "canonicalName": "Свидетели Иеговы",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Христианское реставрационистское движение, развившееся из круга исследователей Библии.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses"
+      ],
+      "notes": "Точное совпадение с существующей записью religions.js «Свидетели Иеговы». Не alias всему движению исследователей Библии (строка 1448), которое включает независимые ветви. Профиль существующей записи здесь не изменяется."
+    },
+    {
+      "sourceIndex": 1510,
+      "sourceName": "Jewish Christianity",
+      "decision": "keep",
+      "canonicalName": "Древнее иудеохристианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Ранние движения последователей Иисуса, сохранявших еврейскую религиозную принадлежность и соблюдение Торы.",
+      "profile": "+jesus +torah",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jewish_Christianity"
+      ],
+      "notes": "Исходная статья явно посвящена историческому кругу и отличает его от современных Hebrew Christian movement и Messianic Judaism. Это не единая церковь и не всякое христианство человека еврейского происхождения. Точный канон писаний и христология разных древних групп неоднородны; равенство с последующей раввинистической галахой не предполагается."
+    },
+    {
+      "sourceIndex": 1511,
+      "sourceName": "Johannine Community",
+      "decision": "review",
+      "canonicalName": "Иоаннова община — историческая гипотеза",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Гипотетическая раннехристианская среда, реконструируемая исследователями по Евангелию и посланиям Иоанна.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Johannine_Community",
+        "https://www.hugomendez.com/publications/did-the-johannine-community-exist/"
+      ],
+      "notes": "Община — научная реконструкция, а не надёжно установленная отдельная деноминация. Hugo Méndez оспаривает вывод об исторической общине из литературных связей текстов; его аргументы не представлены как единственная позиция. Источник описывает также сторонников гипотезы. Нельзя назначить единый профиль реальной группы по спорной реконструкции."
+    },
+    {
+      "sourceIndex": 1512,
+      "sourceName": "Judaizers",
+      "decision": "keep",
+      "canonicalName": "Иудействующие в раннем христианстве",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Древнее иудеохристианство",
+      "description": "Обозначение раннехристианских сторонников обязательного соблюдения Моисеева закона также обращёнными из язычников.",
+      "profile": "+jesus +torah",
+      "proposedQuestions": [
+        {
+          "id": "mosaic_law_for_gentile_christians",
+          "text": "Считаете ли вы соблюдение Моисеева закона, включая обрезание мужчин, обязательным для христиан нееврейского происхождения?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Передаёт предмет раннехристианского спора об иудействовании и отличает требование к язычникам от соблюдения Торы самими еврейскими последователями Иисуса. Torah и halakha не задают адресата обязанности и не передают этого различия. Не следует назначать этот ответ всем современным мессианским общинам.",
+          "supportedEntries": [
+            "Judaizers"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Judaizers"
+      ],
+      "notes": "Сохранён раннехристианский смысл исходной статьи, а не средневековая русская «ересь жидовствующих». Термин полемический и не доказывает единой организации. Не alias всему иудеохристианству: соблюдение Торы евреями отличается от требования её соблюдения язычниками. Современная раввинистическая галаха автоматически не приписывается."
+    },
+    {
+      "sourceIndex": 1513,
+      "sourceName": "Latter Day Saint movement",
+      "decision": "alias",
+      "canonicalName": "Мормонизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Семейство независимых христианских церквей, восходящих к Джозефу Смиту и идее восстановления раннего христианства.",
+      "profile": "+jesus +scripture +restoration",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Latter_Day_Saint_movement",
+        "https://en.wikipedia.org/wiki/Mormonism",
+        "https://academic.oup.com/edited-volume/62249/chapter-abstract/551418768",
+        "https://assets.cambridge.org/97810095/37674/excerpt/9781009537674_excerpt.pdf"
+      ],
+      "notes": "Оксфордская энциклопедия и Cambridge используют Mormonism как коллективное название движения и родственных церквей, восходящих к Джозефу Смиту. В партии 1166–1185 это уже сохранено как «Мормонизм»; оба широких названия объединены. Крупнейшая Церковь Иисуса Христа Святых последних дней остаётся отдельной ветвью."
+    },
+    {
+      "sourceIndex": 1514,
+      "sourceName": "Liberal Catholicism",
+      "decision": "review",
+      "canonicalName": "Либеральный католицизм XIX–XX веков",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Римский католицизм",
+      "description": "Историческое католическое общественно-политическое течение, защищавшее гражданские свободы и независимость церкви от государства.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Liberal_Catholicism",
+        "https://academic.oup.com/book/45521/chapter/396007317"
+      ],
+      "notes": "Исходная статья отмечена недостатком ссылок. Академическое исследование в Oxford University Press подтверждает историческую категорию с несколькими волнами, включая круг Ламенне и Монталамбера. Это не эзотерическая Liberal Catholic Church, не все прогрессивные католики и не отдельная деноминация. Из политической свободы не выводятся secular, humanism или отказ от папства."
+    },
+    {
+      "sourceIndex": 1515,
+      "sourceName": "Lollardy",
+      "decision": "keep",
+      "canonicalName": "Лоллардство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Позднесредневековые английские религиозные течения, связанные с влиянием Джона Уиклифа и авторитетом Писания на народном языке.",
+      "profile": "+scripture +bible_alone -icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lollardy"
+      ],
+      "notes": "Источник описывает устойчивые установки при отсутствии единого детального символа веры. Lollard было также полемическим ярлыком; здесь имеется в виду английский уиклифитский круг, а не все средневековые группы со сходным прозвищем. Позднейшие протестантские доктрины в полном составе не переносятся."
+    },
+    {
+      "sourceIndex": 1516,
+      "sourceName": "Lutheranism",
+      "decision": "alias",
+      "canonicalName": "Лютеранство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Христианская традиция Реформации, связанная с Мартином Лютером.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lutheranism"
+      ],
+      "notes": "Точное совпадение с существующей записью religions.js «Лютеранство». Профиль существующей записи не пересматривается в этой партии."
+    },
+    {
+      "sourceIndex": 1517,
+      "sourceName": "Macedonian Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Македонская грекокатолическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Восточнокатолическая церковь византийского обряда в Северной Македонии.",
+      "profile": "+church +pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Macedonian_Greek_Catholic_Church"
+      ],
+      "notes": "Исходная ссылка уточняет краткое Macedonian Catholic Church как Macedonian Greek Catholic Church. Не Македонская православная церковь и не весь католицизм территории; латинская юрисдикция не становится её синонимом. Подтверждены общение с Римом и византийское богослужение."
+    },
+    {
+      "sourceIndex": 1518,
+      "sourceName": "Malankara Orthodox Syrian Church",
+      "decision": "keep",
+      "canonicalName": "Маланкарская православная сирийская церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Древневосточные православные церкви",
+      "description": "Индийская церковь западносирийской традиции с самостоятельным католикосатом и центром в Коттаяме.",
+      "profile": "+church +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Malankara_Orthodox_Syrian_Church"
+      ],
+      "notes": "Источник прямо отличает современную церковь от исторического общего Malankara Church и от Jacobite Syrian Christian Church (строка 1508). Indian Orthodox Church в контексте этой статьи — альтернативное название. Не alias всего древневосточного православия. Споры о церковных правах не преобразованы в оценочный профиль."
+    },
+    {
+      "sourceIndex": 1519,
+      "sourceName": "Marcionism",
+      "decision": "keep",
+      "canonicalName": "Маркионизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Раннехристианское движение Маркиона, различавшее Творца, описанного в еврейских писаниях, и благого Бога, открытого Иисусом.",
+      "profile": "+jesus +scripture",
+      "proposedQuestions": [
+        {
+          "id": "creator_distinct_from_good_god",
+          "text": "Считаете ли вы создателя материального мира отличным от высшего благого Бога, открытого Иисусом?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отражает центральное различение маркионизма и отличает его от христианского отождествления благого Бога с Творцом. Не требует считать Творца вторым Богом в равном смысле: академические исследования спорят о корректности описания Маркиона как двоебожника. Поэтому one_god и many_gods не заменяют этот вопрос.",
+          "supportedEntries": [
+            "Marcionism"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Marcionism",
+        "https://academic.oup.com/jts/article-abstract/72/1/231/6400341",
+        "https://academic.oup.com/book/39211/chapter-abstract/338714528"
+      ],
+      "notes": "Не маронитская церковь и не Marcianists. Современное академическое исследование подтверждает различение Творца и высшего Бога, но оспаривает простое описание как веры в двух равноправных богов. Поэтому one_god, many_gods и автоматическая принадлежность ко всему гностицизму не назначены. Враждебные биографические предания не приняты без оговорок."
+    },
+    {
+      "sourceIndex": 1520,
+      "sourceName": "Maronite Church",
+      "decision": "keep",
+      "canonicalName": "Маронитская церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Восточнокатолическая патриаршая церковь сирийской традиции с историческим центром в Ливане.",
+      "profile": "+church +pope +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maronite_Church"
+      ],
+      "notes": "Самостоятельная церковь sui iuris в общении с Римом; не маркионизм и не весь восточный католицизм. Пешитта и западносирийская литургическая традиция прямо указаны в источнике. Спорные исторические реконструкции древней христологии не назначены современным последователям."
+    },
+    {
+      "sourceIndex": 1521,
+      "sourceName": "Martinism",
+      "decision": "keep",
+      "canonicalName": "Мартинизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Круг христианско-эзотерических учений и орденов, связанных с Мартинесом де Паскуалли, Луи-Клодом де Сен-Мартеном и идеей реинтеграции человека.",
+      "profile": "+divine +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Martinism",
+        "https://www.martinists.org/texts"
+      ],
+      "notes": "Широкий круг учений не тождествен одному современному Martinist Order, масонству или розенкрейцерству. Собственные материалы Traditional Martinist Order подтверждают инициатический характер, эзотерические темы и цель реинтеграции; особенности одной ветви не перенесены на все линии. Реинтеграция не кодируется liberation, который в questions.js означает освобождение от перерождений."
+    },
+    {
+      "sourceIndex": 1522,
+      "sourceName": "Melkite Greek Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Мелькитская грекокатолическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Восточнокатолическая патриаршая церковь византийского обряда, исторически связанная с Антиохией.",
+      "profile": "+church +pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Melkite_Greek_Catholic_Church"
+      ],
+      "notes": "Источник подтверждает полное общение с Римом. Не Антиохийская православная церковь: общие истоки и литургическое наследие не устраняют разделения юрисдикций. Современное название также не означает всех исторических «мелькитов»."
+    },
+    {
+      "sourceIndex": 1523,
+      "sourceName": "Mennonite",
+      "decision": "alias",
+      "canonicalName": "Меннонитство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Анабаптизм",
+      "description": "Христианская анабаптистская традиция, получившая название по Менно Симонсу.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mennonite"
+      ],
+      "notes": "Mennonite / Mennonites точно соответствует существующей записи religions.js «Меннонитство». Не alias одного направления амишей или всего анабаптизма; профиль существующей записи не меняется."
+    },
+    {
+      "sourceIndex": 1524,
+      "sourceName": "Messianic Judaism",
+      "decision": "keep",
+      "canonicalName": "Мессианский иудаизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное движение последователей Иешуа-Иисуса как Мессии, сочетающее веру в него с еврейской идентичностью и практиками.",
+      "profile": "+jesus +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Messianic_Judaism",
+        "https://mjaa.org/statement-of-faith-2/"
+      ],
+      "notes": "Внешняя академическая классификация обычно относит движение к христианству, тогда как участники определяют себя иначе; family christian — ближайшая категория каталога, а не отрицание их самоописания. Исповедание MJAA подтверждает центральность Иешуа и библейский авторитет. Не alias древнего иудеохристианства, всего иудаизма или организации Jews for Jesus; подробная галаха, обрядность и христология всех общин не унифицированы."
+    },
+    {
+      "sourceIndex": 1525,
+      "sourceName": "Methodism",
+      "decision": "alias",
+      "canonicalName": "Методизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Христианское движение, исторически связанное с Джоном и Чарлзом Уэсли и акцентом на освящении жизни.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Methodism"
+      ],
+      "notes": "Точное совпадение с существующей записью religions.js «Методизм». Не alias отдельных кальвинистских методистов Уэльса (строка 1459) или одной современной методистской деноминации."
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "range": [
+    1426,
+    1445
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1426,
+      "sourceName": "Sahaja Yoga",
+      "decision": "keep",
+      "canonicalName": "Сахаджа-йога Нирмалы Деви",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Нирмалы Шриваставы, возникшее в 1970 году и связывающее самореализацию с пробуждением кундалини и медитацией.",
+      "profile": "+divine +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sahaja_Yoga"
+      ],
+      "notes": "Сохранено конкретное современное движение Шри Матаджи, а не любое историческое употребление слов sahaja yoga. Не alias вайшнавской сахаджии или сурат-шабд-йоги. Утверждения об особом духовном статусе основательницы переданы как убеждения последователей, без медицинских или научных выводов."
+    },
+    {
+      "sourceIndex": 1427,
+      "sourceName": "Siddha Yoga",
+      "decision": "keep",
+      "canonicalName": "Сиддха-йога Муктананды",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современная духовная линия Муктананды, соединяющая медитацию, мантры, чтение индийских священных текстов и посвящение шактипат.",
+      "profile": "+divine +scripture +meditation +bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Siddha_Yoga"
+      ],
+      "notes": "Название Siddha Yoga имеет также более ранние родовые употребления; здесь сохраняется конкретная линия Муктананды и SYDA. Шактипат описан как религиозное посвящение, а не как установленный физиологический механизм. Не alias любого направления с названием Siddhayoga, кашмирского шиваизма или всех сиддхов."
+    },
+    {
+      "sourceIndex": 1428,
+      "sourceName": "Sivananda yoga",
+      "decision": "alias",
+      "canonicalName": "Центры йоги и веданты Шивананды",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Йогическая система Шивананды и Вишнудевананды, распространяемая международными центрами йоги и веданты Шивананды.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sivananda_yoga",
+        "https://en.wikipedia.org/wiki/Sivananda_Yoga_Vedanta_Centres",
+        "https://sivananda.org/teachings/"
+      ],
+      "notes": "Соответствует сохранённой записи Sivananda Yoga Vedanta Centres (1099): её исходный URL перенаправляет на ту же статью Sivananda yoga, а описание уже охватывает эту систему. Здесь название дано на уровне метода, там — распространяющей его сети; для каталога этой конкретной линии отдельный повтор не создаётся. Не alias Divine Life Society или всех учеников Шивананды."
+    },
+    {
+      "sourceIndex": 1429,
+      "sourceName": "Surat Shabd Yoga",
+      "decision": "keep",
+      "canonicalName": "Сурат-шабд-йога",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Сант-мат — современные линии внутреннего света и звука",
+      "description": "Медитативный путь соединения внимания или души с внутренним божественным звуком, практикуемый несколькими линиями сант-мата.",
+      "profile": "+divine +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Surat_Shabd_Yoga",
+        "https://rssb.org/2016-12-02.html",
+        "https://rssb.org/pdfs/2016-08.pdf"
+      ],
+      "notes": "Исходник имеет предупреждения о качестве источников; базовое значение и медитацию подтверждает собственный ресурс Radha Soami Satsang Beas. Сохраняется метод и традиция в нескольких линиях, не alias всей средневековой традиции сантов (1374) или одной организации RSSB. Называние метода «наукой» в религиозной литературе не даёт +scientific."
+    },
+    {
+      "sourceIndex": 1430,
+      "sourceName": "Tantric Yoga",
+      "decision": "review",
+      "canonicalName": "Тантрическая йога — требуется уточнение объёма",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Обозначение йогических методов в тантрических традициях, используемое также современными школами с разным содержанием.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tantric_Yoga",
+        "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/tantric-yoga"
+      ],
+      "notes": "Review: исходный URL не загрузился. Альтернативная энциклопедическая статья описывает широкое сочетание методов и современную сексуально-энергетическую интерпретацию, но не устанавливает одну конкретную школу исходной записи. Нужно отделить индуистские и буддийские исторические линии, общий класс методов и современную неотантру. Нельзя автоматически считать alias всей тантры, каулы или кундалини-йоги; профиль оставлен пустым."
+    },
+    {
+      "sourceIndex": 1431,
+      "sourceName": "Adventism",
+      "decision": "keep",
+      "canonicalName": "Адвентизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Протестантизм",
+      "description": "Совокупность христианских движений, придающих особое значение ожидаемому Второму пришествию Христа и исторически связанных с миллеритской средой.",
+      "profile": "+jesus +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Adventism"
+      ],
+      "notes": "Шире существующей записи «Адвентизм седьмого дня»: исходник различает несколько адвентистских деноминаций. Суббота, тринитарность и признание конкретного пророческого авторитета не назначены всем ветвям."
+    },
+    {
+      "sourceIndex": 1432,
+      "sourceName": "Albanian Greek Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Албанская грекокатолическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Албанская католическая община византийского обряда, находящаяся в общении с Римом.",
+      "profile": "+church +pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Albanian_Greek_Catholic_Church"
+      ],
+      "notes": "Отдельная церковная традиция, не alias всего католицизма или Итало-албанской католической церкви. Сохраняется историческая и обрядовая идентичность без закрепления текущих административных границ или имён иерархов."
+    },
+    {
+      "sourceIndex": 1433,
+      "sourceName": "Albanian Orthodox Church",
+      "decision": "keep",
+      "canonicalName": "Албанская православная церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточное православие",
+      "description": "Автокефальная православная церковь Албании, сохраняющая византийскую литургическую традицию.",
+      "profile": "+scripture +church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Albanian_Orthodox_Church"
+      ],
+      "notes": "Отдельная поместная церковь, не alias всего православия. Автокефалия признана в 1937 году; региональная юрисдикция сама по себе не означает особого национального догмата. Не смешивается с албанской грекокатолической церковью."
+    },
+    {
+      "sourceIndex": 1434,
+      "sourceName": "American Civil Religion",
+      "decision": "review",
+      "canonicalName": "Американская гражданская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Социологическое обозначение публичных верований, символов и ритуалов, придающих национальной жизни США религиозный смысл.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/American_civil_religion",
+        "https://www.religion-online.org/book-chapter/chapter-1-religion-and-the-legitimation-of-the-american-republic/"
+      ],
+      "notes": "Review: это аналитическое понятие и разнородный публичный комплекс, а не одна церковь или единая исповедальная принадлежность. Роберт Белла обсуждает спорность самого понятия и его связь с политической легитимацией. Исходное помещение в Christianity не доказывает общего христианского профиля; национальные документы не приравнены к священному писанию. Если подобные комплексы входят в область каталога, предлагается отдельное семейство civil_religion (гражданские религиозные традиции), после уточнения критериев включения."
+    },
+    {
+      "sourceIndex": 1435,
+      "sourceName": "Amish",
+      "decision": "keep",
+      "canonicalName": "Амиши",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Анабаптизм",
+      "description": "Группа анабаптистских христианских традиций, восходящих к Якобу Амману и придающих значение общинной дисциплине и крещению сознательных верующих.",
+      "profile": "+adult_baptism",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amish"
+      ],
+      "notes": "Не alias всех меннонитов или анабаптистов. Ограничения техники и бытовые правила различаются между объединениями, поэтому образ исключительно конного транспорта или полного отказа от электричества не назначен всему направлению."
+    },
+    {
+      "sourceIndex": 1436,
+      "sourceName": "Amyraldism",
+      "decision": "keep",
+      "canonicalName": "Амиральдизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Реформатское богословие",
+      "description": "Богословская позиция Моиза Амираута о всеобщем условном предназначении искупления при сохранении безусловного избрания тех, кто придёт к вере.",
+      "profile": "+divine +jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amyraldism"
+      ],
+      "notes": "Самостоятельная богословская позиция внутри реформатской традиции, не отдельная обязательная церковная организация. Не alias арминианства: учение сохраняет безусловное избрание. Гипотетический универсализм не равнозначен утверждению, что все люди обязательно спасутся."
+    },
+    {
+      "sourceIndex": 1437,
+      "sourceName": "Anabaptists",
+      "decision": "alias",
+      "canonicalName": "Анабаптизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Радикальная Реформация",
+      "description": "Христианская традиция Радикальной Реформации, связанная с крещением сознательно исповедующих веру.",
+      "profile": "+adult_baptism",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anabaptism"
+      ],
+      "notes": "Точное соответствие существующей записи «Анабаптизм» в religions.js. Anabaptists обозначает представителей того же направления; не alias баптизма, историческая связь которого с анабаптистами обсуждается отдельно."
+    },
+    {
+      "sourceIndex": 1438,
+      "sourceName": "Ancient Church of the East",
+      "decision": "keep",
+      "canonicalName": "Древняя церковь Востока",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточносирийская традиция Церкви Востока",
+      "description": "Восточносирийская церковь, образовавшая отдельную церковную структуру после раскола с Ассирийской церковью Востока в XX веке.",
+      "profile": "+church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ancient_Church_of_the_East"
+      ],
+      "notes": "Ancient Church of the East — конкретная церковь после разделения 1964 года, а не просто перевод названия исторической Церкви Востока. Поэтому не alias существующей «Ассирийская церковь Востока». Общая традиция не отменяет отдельной церковной принадлежности; календарные разногласия не превращены в новый универсальный вопрос."
+    },
+    {
+      "sourceIndex": 1439,
+      "sourceName": "Anglicanism",
+      "decision": "alias",
+      "canonicalName": "Англиканство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Христианская традиция, сформировавшаяся из английской Реформации и сохраняющая разнообразные реформаторские и литургические направления.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anglicanism"
+      ],
+      "notes": "Точное соответствие существующей записи «Англиканство» в religions.js. Общий профиль не дополнен признаками, неодинаковыми для евангелического и англо-католического крыла."
+    },
+    {
+      "sourceIndex": 1440,
+      "sourceName": "Anglo-Catholicism",
+      "decision": "keep",
+      "canonicalName": "Англо-католицизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Англиканство",
+      "description": "Богословское и литургическое направление англиканства, подчёркивающее преемственность с древней Церковью и значение таинств.",
+      "profile": "+church -bible_alone",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anglo-Catholicism"
+      ],
+      "notes": "Не alias всего англиканства или римского католицизма. Отрицание bible_alone относится к признанию авторитета предания древней Церкви наряду с Писанием, а не к отрицанию Библии. Отношение к папству и социальным вопросам неоднородно, поэтому общие знаки по ним не назначены."
+    },
+    {
+      "sourceIndex": 1441,
+      "sourceName": "Arianism",
+      "decision": "keep",
+      "canonicalName": "Арианство — исторические неникейские направления",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Раннехристианские христологические споры",
+      "description": "Историческое обозначение учения Ария и ряда различных направлений IV века, не признававших никейского равенства Сына Отцу.",
+      "profile": "+divine +jesus -trinity",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arianism",
+        "https://plato.stanford.edu/entries/trinity/trinity-history.html",
+        "https://academic.oup.com/edited-volume/61673/chapter-abstract/548508999"
+      ],
+      "notes": "Исходная статья содержит внутренне расходящиеся формулировки; исторический объём уточнён по Stanford Encyclopedia of Philosophy и Oxford Classical Dictionary. «Арианство» часто было полемическим собирательным названием, а не самоназванием одной организации. -trinity означает непринятие классической никейской Троицы; различия взглядов на Сына и Духа не сведены к одному неизменному тезису. Не alias арминианства или современных унитарных церквей."
+    },
+    {
+      "sourceIndex": 1442,
+      "sourceName": "Armenian Apostolic Church",
+      "decision": "keep",
+      "canonicalName": "Армянская апостольская церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Древневосточные православные церкви",
+      "description": "Христианская церковь армянской литургической традиции, относящаяся к древневосточному православию.",
+      "profile": "+scripture +church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Armenian_Apostolic_Church"
+      ],
+      "notes": "Отдельная церковь, не alias всей группы Oriental Orthodox. Миaфизитская христология не обозначена как отрицание человеческой природы Христа и не смешана с учением Евтихия. Не alias Армянской католической церкви."
+    },
+    {
+      "sourceIndex": 1443,
+      "sourceName": "Arminianism",
+      "decision": "keep",
+      "canonicalName": "Арминианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Протестантское богословие",
+      "description": "Богословская традиция Якоба Арминия и её продолжателей, утверждающая предваряющую благодать и возможность сопротивления ей.",
+      "profile": "+divine +jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arminianism"
+      ],
+      "notes": "Межденоминационная богословская позиция с классическим и уэслианским вариантами, не alias всего методизма или одной церкви ремонстрантов. Не учение о спасении без благодати и не амиральдизм. Не смешивается с арианством или этническим обозначением армян."
+    },
+    {
+      "sourceIndex": 1444,
+      "sourceName": "Assyrian Church of the East",
+      "decision": "alias",
+      "canonicalName": "Ассирийская церковь Востока",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточносирийская традиция Церкви Востока",
+      "description": "Восточносирийская христианская церковь, продолжающая историческую традицию Церкви Востока.",
+      "profile": "+church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Assyrian_Church_of_the_East"
+      ],
+      "notes": "Точное соответствие записи «Ассирийская церковь Востока» в religions.js. Не alias Древней церкви Востока, отделившейся в XX веке, или древней ассирийской дохристианской религии."
+    },
+    {
+      "sourceIndex": 1445,
+      "sourceName": "Baptists",
+      "decision": "alias",
+      "canonicalName": "Баптизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Протестантизм",
+      "description": "Христианские традиции, подчёркивающие крещение верующих по сознательному исповеданию веры.",
+      "profile": "+adult_baptism",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Baptists"
+      ],
+      "notes": "Точное соответствие записи «Баптизм» в religions.js; Baptists — название последователей того же направления. Не alias анабаптизма. Разные баптистские союзы и богословские школы не сведены к единому отношению ко всем остальным вопросам."
+    }
+  ]
+}

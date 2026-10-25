@@ -1,0 +1,354 @@
+{
+  "range": [
+    406,
+    425
+  ],
+  "entries": [
+    {
+      "sourceIndex": 406,
+      "sourceName": "Sama Bajau religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования сама-баджао",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции сама-баджао с почитанием духов моря, природных сил и предков.",
+      "profile": "+nature_spirits +ancestors +ritual +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sama-Bajau",
+        "https://borneojournal.um.edu.my/article/download/17605/9994/"
+      ],
+      "notes": "Сохраняется традиционный комплекс, а не религия всех сама-баджао: статья различает ислам, христианство и местные практики. Их сочетания варьируются. Данные о божествах древней мифологии не навязаны всем современным группам. Дополнение: полевое исследование Hanafi Hussin, Borneo Research Journal, Special Issue 2019, pp. 9–25, описывает в magduwata Bajau Kubang мужских и женских jin, овладевающих медиумом в танце igal-jin: +spirit_possession. Это локальная практика, сочетающаяся с исламом, а не обязательная вера всех сама-баджао."
+    },
+    {
+      "sourceIndex": 407,
+      "sourceName": "Sambal religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия самбал",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Доколониальная религиозная традиция самбал Филиппин с почитанием Мальяри и ритуальными специалистами байок.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sambal_people"
+      ],
+      "notes": "Исходная статья о народе отдельно описывает религию, жертвоприношения и духов земледелия. Верховное божество само по себе не доказывает исключительного единобожия. Дополнительная проверка: материал KWF о Sambal Botolan Ayta относится к конкретной группе айта; его молитвы и духовные представления не перенесены без уточнения границ на весь исторический профиль самбал."
+    },
+    {
+      "sourceIndex": 408,
+      "sourceName": "Saminism Movement",
+      "decision": "keep",
+      "canonicalName": "Саминизм",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Яванское религиозно-этическое движение Суронтико Самина, известное также как вера Адама.",
+      "profile": "+reincarnation +afterlife +divine +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saminism_Movement",
+        "https://www.ulumuna.or.id/index.php/ujis/article/view/210",
+        "https://journal.uinsgd.ac.id/index.php/hanifiya/article/view/16620"
+      ],
+      "notes": "Религиозное и антиколониальное движение, не сводимое к политической организации. Источник описывает посмертное рождение человеком, животным или растением. Ненасильственное сопротивление не превращено автоматически в строгий принцип ахимсы. Дополнение: Mohammad Rosyid, Ulumuna 16(2), описывает Бога Yai в Agama Adam: +divine. Его полевое исследование Komunitas Samin: Agama Adam dan Ajarannya (Hanifiya 6(2), 2023) прямо называет semedi в домашнем sanggar pamujan религиозной практикой: +meditation. Выборка относится к Kudus; отрицания обрядов или текстов для всего движения из неё не выведены."
+    },
+    {
+      "sourceIndex": 409,
+      "sourceName": "Sangirese religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования сангирцев",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции сангирцев с природными и родовыми духами и посредничеством жрецов.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sangirese_people"
+      ],
+      "notes": "Статья прямо называет древние верования политеистическими и описывает магические практики, духов и обряды. Профиль не относится ко всем современным христианам или мусульманам сангирского происхождения. Дополнительная проверка не дала достаточно точного первичного описания гадания или вселения духов именно у сангирцев; новые ответы по этим практикам оставлены неизвестными."
+    },
+    {
+      "sourceIndex": 410,
+      "sourceName": "Semai religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия семаи",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Традиционные верования сенои",
+      "description": "Традиции семаи Малайского полуострова с духами, табу и целительским посредничеством халаа.",
+      "profile": "+nature_spirits +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Semai_people",
+        "https://www.drustvo-antropologov.si/AN/PDF/2011_3/Anthropological_Notebooks_XVII_3_Arabestani.pdf",
+        "https://ejournal.usm.my/kajh/article/view/kajh_vol27-no-1-2020_2"
+      ],
+      "notes": "Семаи относятся к сенои, но более узкая запись не является синонимом всех традиций сенои. Дополнительное полевое исследование описывает религию как часть adat, не отдельную церковь. Сравнение санкций с кармой в статье не принято за подтверждение +karma. Дополнение: полевое исследование Siwang группы Bah Lut (KEMANUSIAAN 27(1), 2020) различает лечебный Siwang Kebut и развлекательный Siwang Asik: +ritual. Arabestani и Edo описывают халаа, направляющего сверхъестественную силу на лечение: +occult. Сценические адаптации не выданы за обязательное богослужение; посредничество без прямого описания вселения не закодировано как possession."
+    },
+    {
+      "sourceIndex": 411,
+      "sourceName": "Semaq Beri religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования семак-бери",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Традиционные верования сенои",
+      "description": "Местные верования семак-бери Малайзии с запретами talon и представлениями о космических последствиях нарушений.",
+      "profile": "+divine +personal +nature_spirits +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Semaq_Beri_people",
+        "https://www.jstage.jst.go.jp/article/jsos/25/0/25_85/_pdf"
+      ],
+      "notes": "Исходная статья подтверждает систему табу; сведения о духах и обрядах уточнены полевым исследованием. Связь с другими сенои не использована для наследования признаков. Исходная рубрика Austronesian лингвистически неточна: язык австроазиатский. Дополнение: Ramle bin Abdullah, Piyey: An Analysis of the Heritage Dwellings in the Indigenous Semaq Beri Community in Terengganu (People and Culture in Oceania 25, 2009), разделы 3.2–4, описывает созидающие силы в лесах и горах, обращения к ним через посредников, продолжающих действовать умерших ruwai и обряд Piyey: +divine +personal +nature_spirits +afterlife +ritual. Исследование основано на наблюдении и интервью в Terengganu, где ислам сосуществует с местными верованиями. Не перенесены признаки ислама или батек; выход ruwai из тела не равен вселению духа."
+    },
+    {
+      "sourceIndex": 412,
+      "sourceName": "Subanon religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия субанон",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции субанон Минданао с божествами и духами природы, обрядами балиан и праздниками буклог.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +afterlife +ritual +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Subanon_people",
+        "https://ich.unesco.org/en/decisions/14.COM/10.A.4",
+        "https://ich.unesco.org/en/USL/buklog-thanksgiving-ritual-system-of-the-subanen-01495"
+      ],
+      "notes": "Источник различает локальные космологии и современные обращения. UNESCO подтверждает буклог, обращение к природным духам и приглашение умерших на пир. Буклог — ритуальный комплекс внутри более широкой традиции, а не точный синоним всей религии. Дополнение: описание Buklog в номинации UNESCO прямо включает просьбу разрешения у духов леса и призывание духов земли и воды: +personal. Это обращение к адресатам ритуала, а не вывод из общего слова «анимизм»."
+    },
+    {
+      "sourceIndex": 413,
+      "sourceName": "Sumbawa religion",
+      "decision": "review",
+      "canonicalName": "Традиционные верования сумбавцев",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Кандидат на запись о местных верованиях и обрядах сумбавцев острова Сумбава.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sumbawa_people",
+        "https://www.repository.uinjkt.ac.id/dspace/handle/123456789/48335"
+      ],
+      "notes": "Границы записи требуют уточнения: статья описывает преимущественно мусульманский народ и сохранившиеся представления о духах и целителях. Университетская работа о свадебных обрядах подтверждает аккультурацию ислама и местного adat, но не самостоятельное единое учение «Sumbawa religion». Не приписаны ни исламский профиль всем носителям, ни общая анимистическая догматика."
+    },
+    {
+      "sourceIndex": 414,
+      "sourceName": "Sunda Wiwitan",
+      "decision": "keep",
+      "canonicalName": "Сунда-вивитан",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция сунданцев западной Явы с почитанием Санг Хьянг Керсы, предков и местными нормами поведения.",
+      "profile": "+divine +many_gods +ancestors +scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sunda_Wiwitan",
+        "https://repository.untar.ac.id/id/eprint/31185/"
+      ],
+      "notes": "Исходный источник описывает подчинённых божеств и текст Sanghyang Siksa Kandang Karesian. Наличие верховной силы не кодируется как исключительное единобожие. Влияния индуизма и ислама не означают тождества этим религиям; местные варианты различаются. Дополнение: полевое исследование Ritual Sajen pada Sunda Wiwitan (Universitas Tarumanagara, 2020) описывает сохраняющиеся подношения sajen у последователей в Cigugur: +ritual. Региональный обряд не объявлен одинаковым у всех сунданских групп; перечень элементов подношения сам по себе не доказывает особый культ огня."
+    },
+    {
+      "sourceIndex": 415,
+      "sourceName": "Tagalog religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия тагалов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Тагальские традиции почитания Батхалы, других божеств, природных и родовых духов анито.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +afterlife +ritual +personal +icons +divination_oracles +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tagalog_religion",
+        "https://www.gutenberg.org/files/13701/13701-h/13701-h.htm"
+      ],
+      "notes": "Исторические описания неоднородны; профиль ограничен подтверждёнными представлениями и обрядами. Анито — многозначный термин, не название одной отдельной организации. Это не синоним всех филиппинских религий. Дополнение: Juan de Plasencia, Relation of the Worship of the Tagalogs (1589), в The Philippine Islands, vol. VII, pp. 177–180, описывает обращения с просьбами к изображениям lic-ha, толкование птичьих знамений и гадание об оружии, а также вхождение духа в catolonan: +personal +icons +divination_oracles +spirit_possession. Колониальный автор называет местных духов «дьяволом»; этот миссионерский ярлык не принят как самоописание и не перенесён в профиль."
+    },
+    {
+      "sourceIndex": 416,
+      "sourceName": "Tagbanwa religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия тагбанва",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции тагбанва Палавана с духами окружающего мира, умерших и общинными подношениями.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +afterlife +ritual +personal +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Indigenous_religious_beliefs_of_the_Tagbanwa_people",
+        "https://ncca.gov.ph/about-culture-and-arts/culture-profile/glimpses-peoples-of-the-philippines/tagbanwa/",
+        "https://www.britishcouncil.ph/sites/default/files/lifecollege_inc.pdf"
+      ],
+      "notes": "Исходная статья имеет предупреждение об одном источнике. Дополнена официальным материалом NCCA о ритуале pagdiwata; местные различия внутри тагбанва сохраняются, а не заменяются единым обязательным набором верований. Дополнение: LifeCollege, Tina Weaving Community (2022), p. 41, на основе интервью и общинного плана Tina описывает babaylan, в которой во время pagdiwata вселяется призываемое божество: +spirit_possession +personal. Исследование относится к общине центрального Палавана; не распространено автоматически на все каламианские группы."
+    },
+    {
+      "sourceIndex": 417,
+      "sourceName": "Taivoan animism",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования тайвоан",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции тайвоан Тайваня с почитанием высших предковых духов и ежегодной Ночной церемонией.",
+      "profile": "+ancestors +ritual +divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taivoan_people",
+        "https://www.cdway.com.tw/gov/ipcfmaz/PDFX/26eng.pdf"
+      ],
+      "notes": "Источник описывает Hiang, сезонные табу, ритуальные предметы и почитание предковых духов Anag. Эти сведения конкретнее общего ярлыка animism; одушевлённость всей природы не выведена лишь из названия записи. Даосские влияния не делают традицию синонимом даосизма. Дополнение: Indigenous Peoples Cultural Foundation, 原視界 2019/12, p. 47, описывает Kuva/Anang как почитаемых божеств тайвоан, которым в Ночной церемонии приносят свинью: +divine. Число божеств и вселение духов из этого описания не установлены."
+    },
+    {
+      "sourceIndex": 418,
+      "sourceName": "Tala-ē-fonua",
+      "decision": "review",
+      "canonicalName": "Тала-э-фонуа",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Тонганская устная историко-космологическая традиция о земле и людях.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tongan_religion",
+        "https://openresearch-repository.anu.edu.au/items/0124d744-1b5c-4cd9-86bc-037e939b9049/full",
+        "https://natlib.govt.nz/records/20739548"
+      ],
+      "notes": "Review: исходная ссылка посвящена древней тонганской религии в целом, тогда как диссертация Окуситино Махины определяет tala-e-fonua как историко-культурную устную традицию и мировоззрение. Нужно уточнить, переносить ли именно этот комплекс или зонтичную религию Тонга; тождество не установлено. Не путать с традициями народа тонга Малави."
+    },
+    {
+      "sourceIndex": 419,
+      "sourceName": "Tao native religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия тао (ями)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционные верования тао острова Ланьюй о нескольких божествах, духах умерших и морском обрядовом календаре.",
+      "profile": "+divine +many_gods +afterlife +ritual +occult +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tao_people",
+        "https://www.cip.gov.tw/en/tribe/grid-list/6521E76602C72C42D0636733C6861689/info.html?cumid=D0636733C6861689"
+      ],
+      "notes": "Тао здесь — коренной народ Тайваня, также называемый ями, а не даосское учение. Статья описывает божеств разных уровней мира, посмертное странствие души и обряды летучей рыбы. Современное христианство и сочетания практик не кодируются как обязательные. Дополнение: Council of Indigenous Peoples, Yami, раздел Craft, описывает сверхъестественное лечение с золотом и ритуальные изображения глаз лодки, изгоняющие зло и охраняющие плавание: +occult +icons. Защитные глаза лодки — сакральные изображения, а не ритуальные маски. Христианский крест в современной резьбе не принят за коренной признак."
+    },
+    {
+      "sourceIndex": 420,
+      "sourceName": "Tboli religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия тболи",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Политеистические традиции тболи Минданао с местными божествами и сакральными представлениями, связанными с ремёслами.",
+      "profile": "+divine +many_gods +personal +ritual +divination_oracles +nature_spirits",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tboli_people",
+        "https://ncca.gov.ph/about-ncca-3/subcommissions/subcommission-on-cultural-communities-and-traditional-arts-sccta/central-cultural-communities/the-tboli/",
+        "https://sites.google.com/dfa.gov.ph/wondrous-weaves/home/tboli-tnalak"
+      ],
+      "notes": "Источник прямо описывает политеизм и Фу Далу, связанного с узорным ткачеством. Мифологические подробности не превращены в неподтверждённые общие ответы об обрядах. Современные смешанные формы различаются. Дополнение: NCCA, The T’boli, описывает жертвенные подношения desu для получения благосклонности духов и прекращение начинания по песне птицы muhen: +personal +ritual +divination_oracles. Выставка Department of Foreign Affairs Wondrous Weaves прямо называет Fu Dalu духом абаки: +nature_spirits. Сон ткачихи не приравнен к всеобщему новому откровению."
+    },
+    {
+      "sourceIndex": 421,
+      "sourceName": "Teduray religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия тедурай",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционные представления тедурай Минданао о Тулусе, Минаден и иных сверхъестественных существах.",
+      "profile": "+divine +many_gods +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Teduray_people",
+        "https://ncca.gov.ph/about-ncca-3/subcommissions/subcommission-on-cultural-communities-and-traditional-arts-sccta/central-cultural-communities/the-teduray/"
+      ],
+      "notes": "Статья о народе содержит отдельный мифологический раздел. Он подтверждает множественность божественных фигур, но не единую современную догматику. Последовательное создание людей в мифе не принято за личное перерождение. Дополнение 2026-10-25: NCCA описывает земледельческие молитвы, подношения и семидневные погребальные обряды (+ritual). Объяснение Tegodon прямо называет душу умершего, к которой обращаются с просьбой не вмешиваться в жизнь родственников (+afterlife). Обычай не объявлен обязательной догматикой всех современных тедурай."
+    },
+    {
+      "sourceIndex": 422,
+      "sourceName": "Temuan religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия темуанов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция adat pepati темуанов Малайзии с предками, богом и духами-хранителями мест.",
+      "profile": "+divine +nature_spirits +ancestors +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Temuan_people"
+      ],
+      "notes": "Источник прямо описывает обряды sewang/sawai, целительские практики и магию. Защитные огни не приравнены к самостоятельному культу священного огня; верховный бог не означает отрицания прочих существ."
+    },
+    {
+      "sourceIndex": 423,
+      "sourceName": "Visayan religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные религии висайцев",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Зонтичное обозначение исторических местных религий висайских народов с божествами и природными духами.",
+      "profile": "+divine +many_gods +nature_spirits +afterlife +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Visayans",
+        "https://intersections.anu.edu.au/issue48/ngu1.html",
+        "https://www.nationalmuseum.gov.ph/2022/06/29/pintados-festival/"
+      ],
+      "notes": "Широкая историческая запись, не синоним отдельных традиций каписнон, себуано или сулуднон. Исходная статья описывает местных diwata, Каптана и Магвайен; общие признаки не означают одинакового пантеона во всех регионах. Дополнение 2026-10-25: Историческое исследование Gender Fluidity and Shamanism in the Spanish Philippines (Intersections 48) прямо разбирает записанный Пигафеттой в Себу в 1521 году обряд babaylan (+ritual). National Museum of the Philippines описывает почитание изображений в доколониальном комплексе висайцев, воспроизводимом в современных представлениях Pintados (+icons). Современный праздник Santo Niño не основание переносить jesus или церковные таинства на исторические висайские религии."
+    },
+    {
+      "sourceIndex": 424,
+      "sourceName": "Wai Apu religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования ваи-апу",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции ваи-апу острова Буру с создателем Ополасталой, природными и родовыми духами.",
+      "profile": "+divine +nature_spirits +ancestors +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wai_Apu_people",
+        "https://www.iosrjournals.org/iosr-jhss/papers/Vol.27-Issue9/Ser-7/H2709074251.pdf"
+      ],
+      "notes": "Исходная статья подтверждает Ополасталу и священный ландшафт. Дополнительное историческое исследование на основе интервью описывает pamali природы и предков, подношения и обряды долины Wai Apu; это не тождество всем религиям острова Буру. Дополнение 2026-10-25: Проверен текст IG. Krisnadi и Eko Crys Endrayadi, IOSR-JHSS 27(9), 2022, p. 47: ancestral pamali прямо понимается как почитание духов предков, а умершим продолжают давать их любимую пищу несколько лун (+afterlife). Речь о документированных верованиях долины Wai Apu; сами по себе погребальные подарки не считаются доказательством универсальной доктрины."
+    },
+    {
+      "sourceIndex": 425,
+      "sourceName": "Caucasian Albanian paganism",
+      "decision": "keep",
+      "canonicalName": "Дохристианские культы Кавказской Албании",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические культы Кавказской Албании, включая почитание небесных божеств и храмовые обряды.",
+      "profile": "+divine +many_gods +ritual +spirit_possession +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Caucasian_Albanian_paganism",
+        "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/11D%2A.html",
+        "https://dergipark.org.tr/tr/pub/buifd/article/681512",
+        "https://www.persee.fr/doc/ista_0000-0000_2021_act_1522_1_3893?pageId=T10_200"
+      ],
+      "notes": "Предлагаемое семейство ancient_caucasian: древние религии Кавказа. Исходная статья недоступна при повторной попытке; описание проверено по Страбону, География XI.4.7, и научной статье о дохристианских верованиях. Греческие имена Гелиос, Зевс и Селена — передача внешнего наблюдателя; их не следует принимать за доказательство полного тождества греческому пантеону. Не отождествлять с балканской Албанией, всем зороастризмом или современной религией удин. Дополнение 2026-10-25: Страбон XI.4.7 прямо описывает храмовых служителей, охваченных религиозным исступлением и произносящих пророчества, и толкование падения жертвы (+spirit_possession/+divination_oracles). Это свидетельство внешнего античного автора о конкретном лунном святилище, а не подтверждение всех подробностей как общекавказского или современного обряда."
+    }
+  ]
+}

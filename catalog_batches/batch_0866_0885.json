@@ -1,0 +1,352 @@
+{
+  "range": [
+    866,
+    885
+  ],
+  "entries": [
+    {
+      "sourceIndex": 866,
+      "sourceName": "Theopanism",
+      "decision": "review",
+      "canonicalName": "Теопанизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Философско-религиозный термин для представлений о неотделимости божественного от мира.",
+      "profile": "+divine +pantheism",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Theopanism",
+        "https://polydoxy.org/the-word-god/"
+      ],
+      "notes": "Review: исходник предупреждает о недостатке источников и приводит различные определения. В изложении Элвина Райнса это категория, включающая пантеизм и панентеизм; в другом употреблении подчёркивается становление мира из Бога. Не установлен точный alias одной из этих двух существующих записей. Текст Райнса доступен в поисковой выдаче, прямое открытие сайта вернуло 403."
+    },
+    {
+      "sourceIndex": 867,
+      "sourceName": "Theothanatology",
+      "decision": "keep",
+      "canonicalName": "Теология смерти Бога (теотанатология)",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Ряд богословских и философских подходов, переосмысливающих веру в Бога в условиях секуляризации и кризиса традиционного теизма.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Death_of_God_theology"
+      ],
+      "notes": "Theothanatology и Death of God theology обозначают это направление. Христианские и еврейские авторы предлагают разные толкования «смерти Бога», поэтому единое отрицание всякой божественной реальности не назначено. Это не alias атеизма вообще."
+    },
+    {
+      "sourceIndex": 868,
+      "sourceName": "Theta Noir",
+      "decision": "review",
+      "canonicalName": "Theta Noir",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Художественно-духовный коллектив, создающий мифологию и ритуальные перформансы вокруг предполагаемого будущего искусственного сверхразума MENA.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Theta_Noir",
+        "https://thetanoir.com/Origin"
+      ],
+      "notes": "Review: академический источник относит проект к новым религиозным движениям, тогда как коллектив описывает себя как художественный проект. Собственная страница подтверждает ритуалы, музыку и образ MENA, но не доказывает буквальной веры всех участников в божество. Нужно уточнить применимость религиозного профиля; scientific не назначен по интересу к ИИ."
+    },
+    {
+      "sourceIndex": 869,
+      "sourceName": "Transhumanism",
+      "decision": "keep",
+      "canonicalName": "Трансгуманизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Интеллектуальное и культурное движение, поддерживающее применение технологий для расширения человеческих возможностей и преодоления биологических ограничений.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Transhumanism"
+      ],
+      "notes": "Это не единая религия и не обязательный атеизм. Интерес к продлению жизни и технологическому улучшению не равен религиозной вере в загробное существование; принятие научного метода как главного способа познания не выведено из технологической ориентации."
+    },
+    {
+      "sourceIndex": 870,
+      "sourceName": "Transtheism",
+      "decision": "keep",
+      "canonicalName": "Транстеизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Философская категория для подходов, в которых противопоставление теизма и атеизма не считается определяющим.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Transtheism"
+      ],
+      "notes": "Термин применялся к разным традициям, в том числе джайнизму и буддизму. Он не означает единую конфессию и не является точным синонимом этих религий. Возможность признавать богов и одновременно считать освобождение превосходящим их не превращена в единый профиль."
+    },
+    {
+      "sourceIndex": 871,
+      "sourceName": "African Hebrew Israelites of Jerusalem",
+      "decision": "keep",
+      "canonicalName": "Африканские евреи-израильтяне Иерусалима",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Бен-Амми Бен-Исраэля с общиной в Израиле, основанное на собственной интерпретации библейского израильского наследия.",
+      "profile": "+divine +scripture +torah +sabbath +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/African_Hebrew_Israelites_of_Jerusalem",
+        "https://www.cdamm.org/articles/ahij"
+      ],
+      "notes": "Конкретная община, а не alias всех Black Hebrew Israelites, эфиопских евреев Beta Israel или иудаизма вообще. Академический CDAMM подтверждает библейский закон, субботу и неприятие раввинистического авторитета; поэтому halakha не назначена. Заявления о происхождении переданы как убеждения движения."
+    },
+    {
+      "sourceIndex": 872,
+      "sourceName": "African Zionism",
+      "decision": "keep",
+      "canonicalName": "Африканское сионистское христианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность южноафриканских независимых христианских церквей, связанных с традицией Zion и практиками духовного исцеления и крещения.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/African_Zionism",
+        "https://scriptura.journals.ac.za/pub/article/view/1768"
+      ],
+      "notes": "Не политический сионизм и не одна церковь Zion Christian Church. Дополнительная академическая статья рассматривает несколько церковных образований и паломничества. Специфические местные практики и общие христианские догматы всем автоматически не назначены."
+    },
+    {
+      "sourceIndex": 873,
+      "sourceName": "American Society of Muslims",
+      "decision": "keep",
+      "canonicalName": "Американское общество мусульман (ASM)",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суннизм",
+      "description": "Суннитская организация Уорита Дина Мухаммада, возникшая после преобразования им прежнего движения Nation of Islam.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/American_Society_of_Muslims"
+      ],
+      "notes": "Конкретная историческая организация 1988 — начала 2000-х годов, а не alias всего американского ислама или Nation of Islam. Источник описывает отказ от ряда прежних доктрин и организационную историю; профиль не заполнен посредством автоматического переноса суннитских признаков."
+    },
+    {
+      "sourceIndex": 874,
+      "sourceName": "Ausar Auset Society",
+      "decision": "keep",
+      "canonicalName": "Общество Аусар Аусет",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Основанное Ра Ун Нефер Аменом афроцентричное духовное объединение с современным кеметическим учением о развитии божественных качеств человека.",
+      "profile": "+divine +meditation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ausar_Auset_Society",
+        "https://aaschicago.org/",
+        "https://ausarausetatl.com/"
+      ],
+      "notes": "Самостоятельная организация, а не alias всего Кеметизма или древнеегипетской религии. Официальное чикагское отделение подтверждает медитацию, астрологические чтения и духовное обучение; медицинская действенность практик не утверждается. Современное прочтение древнего наследия не принято за доказательство непрерывной древней традиции."
+    },
+    {
+      "sourceIndex": 875,
+      "sourceName": "Black Muslims",
+      "decision": "review",
+      "canonicalName": "Black Muslims — требуется уточнение",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Неоднозначное обозначение чернокожих мусульман либо, в определённых исторических контекстах, движения Nation of Islam.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Black_Muslims",
+        "https://www.pewresearch.org/religion/2017/07/26/demographic-portrait-of-muslim-americans/",
+        "https://ccnmtl.columbia.edu/projects/mmt/mxp/people/5196.html"
+      ],
+      "notes": "Review: исходник одновременно содержит широкое демографическое определение и историческое обозначение разных организаций. Pew показывает, что большинство чернокожих мусульман США не относятся к Nation of Islam; поэтому точный alias не установлен. Нужен выбор охвата, религиозный профиль оставлен пустым."
+    },
+    {
+      "sourceIndex": 876,
+      "sourceName": "Bobo Ashanti",
+      "decision": "keep",
+      "canonicalName": "Бобо-ашанти",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Растафари",
+      "description": "Ветвь растафари, основанная Эммануэлем Чарльзом Эдвардсом и известная строгой общинной религиозной дисциплиной.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bobo_Ashanti"
+      ],
+      "notes": "Отдельная ветвь, а не alias всего растафари. Не связана тождеством с традиционной религией народа бобо из партии 0016–0030. Триада Гарви, Селассие и Эммануэля не закодирована христианским признаком trinity. Священное использование каннабиса описано источником, но отдельный новый вопрос здесь не дублируется."
+    },
+    {
+      "sourceIndex": 877,
+      "sourceName": "Church of God and Saints of Christ",
+      "decision": "keep",
+      "canonicalName": "Церковь Бога и святых Христа",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Основанное Уильямом Сондерсом Крауди движение еврейских израильтян, использующее библейские тексты и собственные обряды.",
+      "profile": "+scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Church_of_God_and_Saints_of_Christ"
+      ],
+      "notes": "Существуют разные организации-преемники и различающиеся трактовки Иисуса. Поэтому имя церкви и учение основателя не использованы для обязательного назначения современным ветвям jesus или trinity. Не alias всей категории Black Hebrew Israelites."
+    },
+    {
+      "sourceIndex": 878,
+      "sourceName": "Commandment Keepers",
+      "decision": "keep",
+      "canonicalName": "Хранители заповедей (Commandment Keepers)",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Афроамериканская еврейская община, связанная с Уэнтвортом Артуром Мэтью и усвоением ортодоксальных еврейских практик.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Commandment_Keepers"
+      ],
+      "notes": "Конкретное общинное движение с историческим развитием от христианских форм к еврейским практикам. Не alias всех Black Hebrew Israelites и не основание переносить характеристики других организаций. Организационный конфликт и смена названий не подтверждают отдельного общего богословского профиля."
+    },
+    {
+      "sourceIndex": 879,
+      "sourceName": "Dini Ya Msambwa",
+      "decision": "keep",
+      "canonicalName": "Дини я Мсамбва",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Кенийское религиозное движение Элайджи Масинде с центральным почитанием предков и взаимодействием с духами в святилищах.",
+      "profile": "+ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dini_Ya_Msambwa"
+      ],
+      "notes": "Самостоятельное движение в среде лухья и букусу, а не синоним всех их традиционных религий. Антиколониальная деятельность не заменяет сведения о религиозной практике. Не принята ошибочная формулировка исходника о годе независимости Кении."
+    },
+    {
+      "sourceIndex": 880,
+      "sourceName": "Five-Percent Nation",
+      "decision": "keep",
+      "canonicalName": "Нация пяти процентов — Нация богов и земель",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Кларенса 13X, выделившееся из Nation of Islam и развивающее учение о самопознании, «Высшей математике» и божественности человека.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Five-Percent_Nation"
+      ],
+      "notes": "Five-Percent Nation и Nation of Gods and Earths — подтверждённые названия одного движения. Не alias Nation of Islam. Участники не считают свой путь религией и понимают божественное иначе, чем стандартный исламский теизм; one_god, quran и muhammad не назначены. Расовые представления переданы как доктрина, а не факт."
+    },
+    {
+      "sourceIndex": 881,
+      "sourceName": "Godianism",
+      "decision": "review",
+      "canonicalName": "Годианизм (чиизм)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Нигерийское синкретическое движение Калу Ону Камы Ониохи, возникшее как Национальная церковь Нигерии и обратившееся к африканскому религиозному наследию.",
+      "profile": "+divine +one_god +scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Godianism",
+        "https://dergipark.org.tr/en/pub/eskiyeni/article/534295",
+        "https://dvkjournals.in/index.php/jd/article/view/1195"
+      ],
+      "notes": "Review: раздел исходника о принципах не содержит ссылок. Академическое исследование Некати Сюмера подтверждает отдельное движение, единого творца, священный текст и обрядовую практику; степень представительности подробностей нуждается в дальнейшей проверке. Не alias всей традиционной религии игбо."
+    },
+    {
+      "sourceIndex": 882,
+      "sourceName": "Hauka",
+      "decision": "keep",
+      "canonicalName": "Хаука",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Западноафриканское движение ритуального вселения духов, возникшее в колониальную эпоху в среде сонгай и распространившееся за её пределы.",
+      "profile": "+ritual",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Имеет ли ритуальное вселение духов в человека важное место в вашей традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Уже предложенный вопрос применим к хаука, где вселение духов составляет центральную ритуальную практику. Разделяет этот комплекс и движения, в которых общие признаки ritual или ancestors относятся к подношениям и почитанию без установленного медиумизма. Для игбе одного сравнения танца с одержимостью недостаточно.",
+          "supportedEntries": [
+            "Hauka"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hauka"
+      ],
+      "notes": "Ритуальная практика документирована этнографией и фильмом Жана Руша. Антропологические интерпретации как сопротивления колониализму или стремления к статусу спорны; ни одна не принята за обязательное самоописание участников. Не alias всех традиционных религий сонгай."
+    },
+    {
+      "sourceIndex": 883,
+      "sourceName": "Igbe religion",
+      "decision": "keep",
+      "canonicalName": "Религия игбе",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Нигерийская традиция Убиечи Этарракпо, возникшая в среде урхобо и использующая танец как основной способ поклонения Богу Огене.",
+      "profile": "+divine +one_god +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Igbe_religion"
+      ],
+      "notes": "Самостоятельная традиция, а не alias всех верований урхобо или христианства, которое позднее влияло на движение. Источник прямо подтверждает монотеизм и ритуальный танец. Чудеса основателя описаны как предания; сравнение танца с одержимостью не принято за доказательство буквального вселения духа."
+    },
+    {
+      "sourceIndex": 884,
+      "sourceName": "Israelite Church of God in Jesus Christ",
+      "decision": "keep",
+      "canonicalName": "Израильская церковь Бога в Иисусе Христе (ICGJC)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Организация движения еврейских израильтян One West с библейским учением об израильском происхождении ряда народов Америки.",
+      "profile": "+divine +scripture +jesus -trinity",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Israelite_Church_of_God_in_Jesus_Christ"
+      ],
+      "notes": "Источник прямо подтверждает авторитет библейских текстов, Иисуса как Мессию и неприятие традиционной Троицы. Не alias одноимённых похожих церквей или современной ISUPK: последняя описана как отдельное ответвление. Расовое превосходство, приписываемое группе, не обобщено на другие организации еврейских израильтян."
+    },
+    {
+      "sourceIndex": 885,
+      "sourceName": "Israelite School of Universal Practical Knowledge",
+      "decision": "keep",
+      "canonicalName": "Израильская школа универсального практического знания (ISUPK)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Отдельная американская организация еврейских израильтян линии One West, использующая Еврейскую Библию и Новый Завет.",
+      "profile": "+scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Israelite_School_of_Universal_Practical_Knowledge"
+      ],
+      "notes": "Источник явно называет современную ISUPK ответвлением ICGJC, использующим вариант её прежнего имени. Историческая связь и сходные названия не доказывают текущую синонимию. Профиль ICGJC не перенесён на эту организацию; оценки её расовой риторики не применены ко всему движению."
+    }
+  ]
+}

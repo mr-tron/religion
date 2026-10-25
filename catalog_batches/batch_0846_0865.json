@@ -1,0 +1,376 @@
+{
+  "range": [
+    846,
+    865
+  ],
+  "entries": [
+    {
+      "sourceIndex": 846,
+      "sourceName": "Process theology",
+      "decision": "keep",
+      "canonicalName": "Теология процесса",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Богословский подход, восходящий к философии процесса Уайтхеда и Хартсхорна и рассматривающий Бога во взаимодействии с изменяющимся миром.",
+      "profile": "+divine",
+      "proposedQuestions": [
+        {
+          "id": "divine_change",
+          "text": "Допускаете ли вы, что божественное меняется под воздействием происходящего в мире?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отражает взаимное влияние Бога и мира в теологии процесса и отличает эту модель от учений о полностью неизменном Боге. Само признание божественного или панентеизма такого ответа не определяет."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Process_theology"
+      ],
+      "notes": "Не нетеизм, несмотря на исходный раздел. Не alias панентеизма: это особая модель божественного действия и изменения. Частные христианские трактовки Иисуса и различные взгляды на посмертное существование не перенесены на всех."
+    },
+    {
+      "sourceIndex": 847,
+      "sourceName": "Rational mysticism",
+      "decision": "keep",
+      "canonicalName": "Рациональный мистицизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательное обозначение подходов, стремящихся соотнести мистический опыт с разумным, философским или научным исследованием.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rational_mysticism",
+        "https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/rational-mysticism-and-new-testament-christianity/EEBE44A328229BE4C348F2C2A8363B9A"
+      ],
+      "notes": "Термин применялся к различным философам и исследовательским программам, а не к единой общине. Статья Кларка 1911 года подтверждает историческое употребление в христианском контексте. Участие в исследовании транса не означает личного применения occult или отрицания божественного; профиль пустой."
+    },
+    {
+      "sourceIndex": 848,
+      "sourceName": "Religion of Humanity",
+      "decision": "keep",
+      "canonicalName": "Религия человечества",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Позитивистская религиозная система Огюста Конта, организующая нравственную жизнь и публичное почитание человечества посредством календаря, литургии и обрядов.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Religion_of_Humanity"
+      ],
+      "notes": "Не синоним всей философии позитивизма, всего религиозного гуманизма или отдельной английской Церкви человечества (804). Терминология «Высшего Существа» относится к человечеству и не использована как самостоятельное доказательство сверхъестественного божества."
+    },
+    {
+      "sourceIndex": 849,
+      "sourceName": "Religious humanism",
+      "decision": "keep",
+      "canonicalName": "Религиозный гуманизм",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Гуманистический жизненный подход, выражаемый в общинных религиозных формах, церемониях и деятельности, сосредоточенных на человеческих потребностях.",
+      "profile": "+humanism +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Religious_humanism"
+      ],
+      "notes": "В современном смысле источника речь о несверхъестественном гуманизме с общинной формой, а не о любом гуманизме внутри теистических религий. Не alias светского гуманизма или христианского гуманизма; обязательная вера в бога не предполагается."
+    },
+    {
+      "sourceIndex": 850,
+      "sourceName": "Religious naturalism",
+      "decision": "keep",
+      "canonicalName": "Религиозный натурализм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Натуралистическое мировоззрение с религиозным или духовным отношением к природе, смыслу жизни и нравственной ответственности.",
+      "profile": "+naturalism +scientific",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Religious_naturalism",
+        "https://religiousnaturalism.org/faqs/",
+        "https://www.cambridge.org/core/elements/religious-naturalism/D8E00970EC19D6F51368C39B5DF664DB"
+      ],
+      "notes": "Первичный FAQ подтверждает естественные процессы и научный способ их исследования, без единой обязательной практики. Не alias научного натурализма вообще: существенна духовная ориентация. В некоторых вариантах используется натуралистическое понятие божественного, поэтому -divine не назначен."
+    },
+    {
+      "sourceIndex": 851,
+      "sourceName": "Renaissance Humanism",
+      "decision": "keep",
+      "canonicalName": "Ренессансный гуманизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческое интеллектуальное и образовательное движение, обращавшееся к классическим языкам, литературе, риторике и нравственной философии.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Renaissance_Humanism",
+        "https://en.wikipedia.org/wiki/Renaissance_humanism"
+      ],
+      "notes": "Не единая религия и не синоним современного светского гуманизма. Многие участники были христианами; помещённая в исходный список атеистическая классификация не задаёт вероисповедания. Общего профиля по вопросам о божественном нет. Исходный адрес с заглавным Humanism не загрузился; прочитан вариант с обычным регистром."
+    },
+    {
+      "sourceIndex": 852,
+      "sourceName": "Secular Buddhism",
+      "decision": "alias",
+      "canonicalName": "Светский буддизм",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Буддизм",
+      "description": "Современные буддийские подходы и практики без обязательного принятия традиционных сверхъестественных представлений.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Secular_Buddhism"
+      ],
+      "notes": "Точный синоним существующей записи «Светский буддизм» в religions.js. Частные взгляды учителей и проблема метафизических утверждений не превращают его в отдельный новый элемент."
+    },
+    {
+      "sourceIndex": 853,
+      "sourceName": "Secular humanism",
+      "decision": "alias",
+      "canonicalName": "Светский гуманизм",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Нерелигиозный гуманистический подход, связывающий этику с человеческим опытом, благополучием и критическим исследованием.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Secular_humanism"
+      ],
+      "notes": "Точный синоним существующей записи «Светский гуманизм» в religions.js; профиль этой записи здесь не корректируется."
+    },
+    {
+      "sourceIndex": 854,
+      "sourceName": "Secular paganism",
+      "decision": "keep",
+      "canonicalName": "Светское (натуралистическое) язычество",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Нетеистическое язычество",
+      "description": "Природоцентричные языческие подходы, использующие языческие ценности и символы в светском натуралистическом мировоззрении.",
+      "profile": "-divine +naturalism",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Secular_paganism",
+        "https://atheopaganism.org/atheopaganism/faq/"
+      ],
+      "notes": "Источник называет naturalistic paganism и humanistic paganism альтернативными названиями. Существующее «Нетеистическое язычество» описано шире — без обязательной веры в богов, но без требования натурализма; полное тождество не установлено. Атеопаганизм Марка Грина (798) — конкретный путь внутри данного направления, а не его полный синоним."
+    },
+    {
+      "sourceIndex": 855,
+      "sourceName": "Secular religion",
+      "decision": "review",
+      "canonicalName": "Светская религия — требуется уточнение охвата",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Аналитическая категория для коллективных систем, которым приписываются религиоподобные функции без обычной сверхъестественной теологии.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Secular_religion",
+        "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AB0C5FC7B4446EFDF645A0F7C25C5A66/9781108486538AR.pdf/Law_as_Religion__Religion_as_Law.pdf"
+      ],
+      "notes": "Исходная статья имеет предупреждение об оригинальном исследовании и смешивает политическую религию, светские культы и другие аналогии. Академическая глава различает гражданскую и политическую религию как формы сакрализации политики. Категория не устанавливает одного самоназванного учения или единого отрицания божественного; до уточнения охвата профиль пустой."
+    },
+    {
+      "sourceIndex": 856,
+      "sourceName": "Secular spirituality",
+      "decision": "keep",
+      "canonicalName": "Светская духовность",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Подходы к поиску смысла, внутреннего благополучия и связи с людьми и природой вне обязательной религиозной принадлежности.",
+      "profile": "+nonreligious",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Secular_spirituality"
+      ],
+      "notes": "Не alias существующей «Духовности без религии»: исходная запись religions.js имеет более широкую возможность веры в божественное, тогда как здесь выделена светская ориентация. Вера в бога и медитация не назначены автоматически; отдельные участники могут использовать различные практики."
+    },
+    {
+      "sourceIndex": 857,
+      "sourceName": "Secular theology",
+      "decision": "review",
+      "canonicalName": "Секулярная теология — требуется уточнение границ",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Либеральное христианское богословие",
+      "description": "Обозначение современных богословских проектов, переосмысляющих религиозную традицию в условиях секулярной культуры.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Secular_theology",
+        "https://theologicalstudies.net/wp-content/uploads/2022/08/38.1.2.pdf",
+        "https://theologicalstudies.net/wp-content/uploads/2022/08/39.3.4.pdf"
+      ],
+      "notes": "Исходная статья обобщает неоднородные позиции Огдена, ван Бюрена, Робинсона и других авторов. Статья Бергера предлагает критическую классификацию; опубликованный ответ Огдена прямо оспаривает её применимость к его собственной программе. Поэтому единое отрицание личного Бога, сверхъестественного или историчности Иисуса не назначено. Нужен согласованный охват категории, а не профиль из всех перечисленных авторов."
+    },
+    {
+      "sourceIndex": 858,
+      "sourceName": "Secularism",
+      "decision": "keep",
+      "canonicalName": "Секуляризм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Общественно-политический принцип религиозной нейтральности государства, свободы совести и равного отношения к разным убеждениям.",
+      "profile": "",
+      "proposedQuestions": [
+        {
+          "id": "secular_state",
+          "text": "Должно ли государство быть нейтральным к религиям и нерелигиозным убеждениям, не предоставляя им особых привилегий?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Описывает секуляризм независимо от личного теизма, атеизма или религиозной принадлежности. Позволяет не смешивать политическую нейтральность государства с отсутствием веры; ответы отдельных конфессий требуют самостоятельной проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Secularism",
+        "https://academic.oup.com/book/28394/chapter-abstract/228768528?login=false",
+        "https://understandinghumanism.org.uk/secularism/"
+      ],
+      "notes": "Не синоним атеизма, светского гуманизма или личной нерелигиозности: принцип могут поддерживать верующие и неверующие. Существующие вопросы о божественном не отражают непосредственно эту политическую позицию, поэтому профиль пустой."
+    },
+    {
+      "sourceIndex": 859,
+      "sourceName": "Spiritual ecology",
+      "decision": "keep",
+      "canonicalName": "Духовная экология",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Междисциплинарное направление, связывающее духовную жизнь и религиозные ценности с заботой об экосистемах и ответственностью за Землю.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Spiritual_ecology"
+      ],
+      "notes": "Не единая конфессия и не только натурализм: источник включает коренные, христианские, мусульманские, иудейские и другие подходы. Экологическая забота не доказывает общую веру в духов или общий пантеизм. Уже предложенный sacred_nature может описывать часть направлений, но не заменяет проверку каждого."
+    },
+    {
+      "sourceIndex": 860,
+      "sourceName": "Spiritual naturalism",
+      "decision": "alias",
+      "canonicalName": "Религиозный натурализм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Натуралистическая духовная ориентация, воспринимающая природный мир как основание смысла, нравственной жизни и благоговения.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Spiritual_naturalism",
+        "https://www.snsociety.org/about-sns/what-is-spiritual-naturalism/"
+      ],
+      "notes": "Первичный FAQ Spiritual Naturalist Society прямо определяет Spiritual Naturalism как «also called religious naturalism». В данном современном мировоззренческом значении это alias записи 850. Отдельное литературно-эстетическое употребление термина у Гюисманса не принято за новую религию."
+    },
+    {
+      "sourceIndex": 861,
+      "sourceName": "Statolatry",
+      "decision": "keep",
+      "canonicalName": "Статолатрия (сакрализация государства)",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Термин для абсолютизации или квазирелигиозного почитания государства, употребляемый в политической философии и критике идеологий.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Statolatry",
+        "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29061931_non-abbiamo-bisogno.html"
+      ],
+      "notes": "Не установлена отдельная община с таким самоназванием или общим богословием. Энциклика Пия XI подтверждает именно критическое употребление термина в отношении фашистского режима; критическая метафора не означает буквальной веры в государство как сверхъестественное божество. Сохранён термин, без переноса оценок на произвольных сторонников государства."
+    },
+    {
+      "sourceIndex": 862,
+      "sourceName": "Syntheism",
+      "decision": "keep",
+      "canonicalName": "Синтеизм",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное движение, исследующее создание религиозной общности и переживание благоговения среди атеистов, пантеистов и других участников без обычного теизма.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Syntheism"
+      ],
+      "notes": "Не синоним теологии процесса или пантеизма, хотя использует связанные философские идеи. Представления о божественном как человеческом творении допускают разные трактовки, поэтому фиксированные +divine и -divine не назначены; происхождение нового движения само по себе не доказывает новое откровение."
+    },
+    {
+      "sourceIndex": 863,
+      "sourceName": "Terasem",
+      "decision": "keep",
+      "canonicalName": "Терасем",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное трансрелигиозное движение, связывающее коллективное сознание, любовь и разнообразие с надеждой на технологическое продолжение личности.",
+      "profile": "",
+      "proposedQuestions": [
+        {
+          "id": "technological_personal_continuity",
+          "text": "Занимает ли надежда на технологическое сохранение или восстановление вашей личности центральное место в вашем мировоззрении?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отражает ключевое обещание Терасем и отличает технологическую преемственность личности от обычной веры в загробную жизнь. Не предполагает, что такое восстановление уже осуществимо или обязательно сохраняет личное сознание."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Terasem_Movement",
+        "https://terasemfaith.net/beliefs/"
+      ],
+      "notes": "Исходная статья описывает несколько организаций, но официальный раздел Beliefs подтверждает само учение и четыре основные установки. «Технологический Бог» понимается как создаваемый, а надежда на восстановление сознания не приравнена автоматически к обычной загробной жизни. Это религиозные утверждения о возможных технологиях, а не доказательство уже достигнутого цифрового бессмертия."
+    },
+    {
+      "sourceIndex": 864,
+      "sourceName": "The Satanic Temple",
+      "decision": "keep",
+      "canonicalName": "Сатанинский храм (The Satanic Temple)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современная нетеистическая религиозная организация, использующая литературный образ Сатаны и принципы сострадания, личной автономии и научной добросовестности.",
+      "profile": "-divine +naturalism +scientific +humanism -scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Satanic_Temple",
+        "https://thesatanictemple.com/pages/faq"
+      ],
+      "notes": "Официальный FAQ подтверждает несверхъестественное учение и отсутствие священного канона. Личные убеждения всех зарегистрированных сторонников могут отличаться; профиль описывает заявленные принципы. Обряды возможны, но не обязательны, поэтому центральность ритуала не назначена. Не синоним Церкви Сатаны или лавеевского сатанизма."
+    },
+    {
+      "sourceIndex": 865,
+      "sourceName": "Theistic humanism",
+      "decision": "keep",
+      "canonicalName": "Теистический гуманизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Подходы, соединяющие гуманистические ценности с верой в божественное и его значимость для человеческой жизни.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Theistic_humanism",
+        "https://www.harvardsquarelibrary.org/theology-philosophy/theistic-humanism/"
+      ],
+      "notes": "Исходный раздел нетеизма не соответствует содержанию. Первичное эссе Хартсхорна подтверждает реальное теистическое употребление; его конкретный панентеизм не назначен всем вариантам, включая африканские употребления термина. humanism из questions.js требует отсутствия религиозного авторитета, поэтому это не автоматический признак по совпадению названия."
+    }
+  ]
+}

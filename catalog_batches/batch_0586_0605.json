@@ -1,0 +1,362 @@
+{
+  "range": [
+    586,
+    605
+  ],
+  "entries": [
+    {
+      "sourceIndex": 586,
+      "sourceName": "Shang ancestor worship",
+      "decision": "keep",
+      "canonicalName": "Шанское почитание предков",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Религия династии Шан",
+      "description": "Исторический культ шанских предков, получавших подношения и обращения потомков.",
+      "profile": "+divine +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shang_ancestral_deification",
+        "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-dynasty/shang-dynasty-2/"
+      ],
+      "notes": "Узкий предковый комплекс внутри шанской религии, а не её полный синоним. Источники особенно хорошо освещают царскую линию и её ритуалы; не следует переносить все дворцовые правила на любые группы населения. Конкретные отождествления ДИ с совокупностью предков спорны и не закодированы."
+    },
+    {
+      "sourceIndex": 587,
+      "sourceName": "Shang religion",
+      "decision": "keep",
+      "canonicalName": "Религия династии Шан",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Древнекитайские шанские верования и обряды с предками, природными силами и божественными сущностями.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual",
+      "proposedQuestions": [
+        {
+          "id": "divination_oracles",
+          "text": "Считаете ли вы обращение к гаданию или оракулам важным способом духовного совета?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Описывает шанские гадания и практики специалистов у без смешения со всей магией или эзотерикой; повторяет предложение из партии 1–15. Для других традиций ответы требуют проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Religion_of_the_Shang_dynasty",
+        "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-dynasty/shang-dynasty-2/",
+        "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/70153325-0848-44d5-9b08-9f1b71055d72/content"
+      ],
+      "notes": "Исторический комплекс, главным образом известный из царских гадательных надписей и археологии. Дополнение Smithsonian подтверждает посредничество предков и гадания. Интерпретации ДИ как единого высшего бога либо множественного обозначения божественной власти различаются; +one_god не назначен."
+    },
+    {
+      "sourceIndex": 588,
+      "sourceName": "Shangdi",
+      "decision": "keep",
+      "canonicalName": "Почитание Шан-ди",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Китайские культы и богословские представления о Шан-ди, верховном небесном владыке.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shangdi"
+      ],
+      "notes": "Исходная статья о божестве, а не отдельной церкви. Сохранён засвидетельствованный культ: источник описывает жертвоприношение Небу и позднейшие формы почитания. Значение имени и соотношение с Тянь менялись; употребление Shangdi в христианстве не означает тождества всех культов христианскому монотеизму."
+    },
+    {
+      "sourceIndex": 589,
+      "sourceName": "Shendao",
+      "decision": "review",
+      "canonicalName": "Шэньдао шэцзяо",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Философская концепция нравственного воспитания и общественного порядка посредством религиозных представлений.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shendao_shejiao",
+        "https://www.asianpa.net/assets/upload/articles/fpxjroSXGiGQ26Na.pdf"
+      ],
+      "notes": "Review: короткое исходное Shendao неоднозначно, а ссылка посвящена Shendao shejiao — взгляду на религию и воспитание. Дополнительная научная статья подтверждает именно концепцию. Не установлено, предполагался ли этот философский подход или широкая китайская религиозная традиция; не alias китайской народной религии. Личная вера в богов не следует из признания воспитательной роли культа."
+    },
+    {
+      "sourceIndex": 590,
+      "sourceName": "Songsarek",
+      "decision": "keep",
+      "canonicalName": "Сонгсарек",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционная религия гаро с Татара Рабугой, Миси Салджонгом и земледельческими обрядами.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Songsarek"
+      ],
+      "notes": "Статья прямо называет религию гаро и её божеств, включая богиню Сусиме, а также Вангала. Верховный бог не означает исключительного единобожия. Современные гаро могут следовать другим религиям."
+    },
+    {
+      "sourceIndex": 591,
+      "sourceName": "Taiwanese folk beliefs",
+      "decision": "keep",
+      "canonicalName": "Тайваньские народные верования",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Региональный комплекс тайваньских народных культов с предками, местными божествами и храмовыми практиками.",
+      "profile": "+divine +many_gods +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taiwanese_folk_beliefs"
+      ],
+      "notes": "В статье основной акцент на китайских народных традициях Тайваня и их местном развитии. Более узкие культы Ванъе и религии отдельных коренных народов не объявлены полными синонимами этой записи. Профиль не описывает всех жителей Тайваня и не навязывает им единую смесь религий."
+    },
+    {
+      "sourceIndex": 592,
+      "sourceName": "Tangsa religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования тангса",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции тангса с духами и обрядами, включая обращения к духу земли Виху.",
+      "profile": "+nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tangsa_Naga"
+      ],
+      "notes": "Статья о народе описывает праздник Wihu Kuh с молитвами, песнями и жертвами. Буддийские, христианские и традиционные принадлежности различаются по группам; одна традиция не приписана всем тангса."
+    },
+    {
+      "sourceIndex": 593,
+      "sourceName": "Tingkao Ragwang Chapriak",
+      "decision": "keep",
+      "canonicalName": "Тингкао Рагванг Чаприак",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция зелиангронг с верховным Тингкао Рагвангом, другими божествами и общинными обрядами.",
+      "profile": "+divine +many_gods +ancestors +afterlife +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tingkao_Ragwang_Chapriak",
+        "https://www.bhu.ac.in/Images/files/Anvikshiki%20Vol_%20XVII%202021-BHU%20Press.pdf",
+        "https://archives.christuniversity.in/items/show/17917"
+      ],
+      "notes": "Научные источники различают политеистическую TRC и родственную реформированную Херака, несмотря на общее высшее божество. Не alias Херака. Исходная статья описывает семейное поминовение умерших и жертвенные обряды Гаан-Нгаи; современные организационные реформы не отменяют местных различий."
+    },
+    {
+      "sourceIndex": 594,
+      "sourceName": "Toto religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия тото",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционные культы тото Западной Бенгалии с божествами Ишпа и Чейма и подношениями.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Toto_people"
+      ],
+      "notes": "Статья о народе прямо называет двух божеств и различает места и формы их почитания. Наличие христианских обращений не делает христианские признаки общими для традиции."
+    },
+    {
+      "sourceIndex": 595,
+      "sourceName": "Wang Ye worship",
+      "decision": "keep",
+      "canonicalName": "Почитание Ванъе",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Китайская народная религия",
+      "description": "Культ Ванъе, также называемых Ong Yah, с защитными процессиями и проводами божеств на ритуальных лодках.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wang_Ye_worship"
+      ],
+      "notes": "Сохранён конкретный культ божеств-защитников, особенно известный в Фуцзяни и на Тайване. Горение ритуальной лодки не закодировано как самостоятельное почитание священного огня. Не синоним всех тайваньских народных верований."
+    },
+    {
+      "sourceIndex": 596,
+      "sourceName": "Wuism",
+      "decision": "keep",
+      "canonicalName": "Китайские шаманские традиции у",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Китайская народная религия",
+      "description": "Китайские традиции ритуальных специалистов у, общения с духами, гадания и целительства.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [
+        {
+          "id": "divination_oracles",
+          "text": "Считаете ли вы обращение к гаданию или оракулам важным способом духовного совета?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Описывает шанские гадания и практики специалистов у без смешения со всей магией или эзотерикой; повторяет предложение из партии 1–15. Для других традиций ответы требуют проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chinese_shamanism"
+      ],
+      "notes": "Wuism здесь обозначает китайские практики у, не корейский Muism/мусок. Источник оговаривает изменение значения wu и спорность полного перевода термином «шаманизм». Зонтичная запись не объединяет автоматически все отдельные маньчжурские, монгольские или тибетские традиции."
+    },
+    {
+      "sourceIndex": 597,
+      "sourceName": "Xínghaode",
+      "decision": "keep",
+      "canonicalName": "Синхаодэ — общества благих дел",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Китайская народная религия",
+      "description": "Местные китайские религиозные объединения Хэбэя, организующие праздники, паломничества и почитание божеств.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Associations_of_good-doing",
+        "https://api.repository.cam.ac.uk/server/api/core/bitstreams/bd234e7a-1a9a-43ed-bdcc-fbe9dda593f3/content"
+      ],
+      "notes": "Этнографическая работа подтверждает домашние храмовые праздники, shenshen и ритуальных специалистов. Название обозначает местные группы, а не единую всеобщую церковь. Сотрудничество с медиумами не делает каждого участника медиумом; термин «благое дело» не равен светскому гуманизму."
+    },
+    {
+      "sourceIndex": 598,
+      "sourceName": "Yumaism",
+      "decision": "keep",
+      "canonicalName": "Юмаизм",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Реформированное движение лимбу, сосредоточенное на Юме и её религиозном воплощении в Сиккиме.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yuma_Sammang",
+        "https://journals.openedition.org/ateliers/14311",
+        "https://doaj.org/article/034265feff3e46178abbdbf0f8b4f289",
+        "https://skosmos-hav.aussereurop.univie.ac.at/collections/limbu/node/290/"
+      ],
+      "notes": "Исходная ссылка о богине Yuma Sammang и более широкой Yuma Samyo, поэтому дополнена исследованием Mélanie Vandenhelsken (2021) и полевой коллекцией Венского университета. Они отдельно описывают новое движение Yumaism и его отличия от традиционных шаманских практик лимбу. Не alias всего киратизма или любого культа Юмы; представления о воплощении лидера не приравнены общей доктрине перерождения."
+    },
+    {
+      "sourceIndex": 599,
+      "sourceName": "Zahv",
+      "decision": "keep",
+      "canonicalName": "Захв — традиционная религия акха",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция акха с родовыми предками, духами и повседневными и сезонными обрядами.",
+      "profile": "+nature_spirits +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Akha_people"
+      ],
+      "notes": "Источник прямо называет религию акха zahv. Родство людей и духов, подношения предкам и ритуальный год подтверждены; при этом статья отмечает, что простое сведение традиции к ярлыкам «анимизм» и «культ предков» может искажать её смысл."
+    },
+    {
+      "sourceIndex": 600,
+      "sourceName": "Zhou religion",
+      "decision": "keep",
+      "canonicalName": "Религия раннего и Западного Чжоу",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Древнекитайские верования раннего Чжоу с Тянь, предками, небесным мандатом и жертвенными обрядами.",
+      "profile": "+divine +many_gods +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Religion_of_the_Predynastic_and_Western_Zhou"
+      ],
+      "notes": "Исходная статья ограничена додинастическим и западночжоуским периодами; не описывает автоматически всю религиозную историю Восточного Чжоу. Имена Тянь и ДИ и их отношения с предками интерпретируются по-разному; полного тождества шанской религии или конфуцианству не установлено."
+    },
+    {
+      "sourceIndex": 601,
+      "sourceName": "Ahom religion",
+      "decision": "keep",
+      "canonicalName": "Ахомская религия",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция ахомов Ассама с почитанием предков дам, божеств пхи и ритуалами Ме-Дам-Ме-Пхи.",
+      "profile": "+divine +many_gods +ancestors +afterlife +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ahom_religion"
+      ],
+      "notes": "Источник прямо описывает посмертное становление предков Dam и Phi, обряды и современные возрождения практик. Это местная тайская традиция, не синоним всей тайской народной религии или индуизма; поздние самоназвания Am-Su-Shin Phuralung указаны в источнике."
+    },
+    {
+      "sourceIndex": 602,
+      "sourceName": "Giay animism",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования зяй",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции зяй Вьетнама с предками, божествами земли и леса и местными подношениями.",
+      "profile": "+divine +many_gods +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Giay_people",
+        "https://en.wikipedia.org/wiki/Gi%C3%A1y_people",
+        "https://special.nhandan.vn/giay-ethnic-minority-group/index.html"
+      ],
+      "notes": "Исходный URL Giay_people не открылся; открыта статья с названием Giáy_people и найдено подробное подтверждение в Nhan Dan. Описаны семейный алтарь и разные божества. Не делать вывод об одинаковой религии всех носителей языка буи или всего народа чжуан."
+    },
+    {
+      "sourceIndex": 603,
+      "sourceName": "Hlai animism",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования хлаи",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции хлаи острова Хайнань с анимистическими представлениями и обрядами, связанными с животными и земледелием.",
+      "profile": "+nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hlai_people"
+      ],
+      "notes": "Статья о народе описывает одушевлённость и почитание быков, их домашнее представление как «души быка» и ежегодный праздник. Мифологическое происхождение кланов от животных не превращено в неподтверждённые ответы о перерождении или числе богов."
+    },
+    {
+      "sourceIndex": 604,
+      "sourceName": "Kam religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия кам (дун)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции кам с несколькими божествами, предками, природными духами и общинными обрядами.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kam_people"
+      ],
+      "notes": "Источник описывает политеизм, предков и божеств разных мест, а также гадания. Буддийские, даосские и конфуцианские влияния не делают весь комплекс тождественным любому из этих направлений. Sa Sui особенно важна, но предполагаемое исходное тождество богине земли не считается доказанным."
+    },
+    {
+      "sourceIndex": 605,
+      "sourceName": "Kev Dab Kev Qhuas",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия хмонгов (Kev Dab Qhuas)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Практики хмонгов с природными и домашними духами, предками, подношениями и ритуальными специалистами.",
+      "profile": "+divine +nature_spirits +ancestors +afterlife +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Miao_folk_religion"
+      ],
+      "notes": "Исходное Kev Dab Kev Qhuas сопоставлено с обозначением Kev Dab Qhuas в статье. Статья Miao folk religion шире: общие черты разных мяо не означают, что хмонги почитают всех перечисленных богов, например Мать-Бабочку. Не alias отдельной американской церкви Hmongism. Варианты перерождения и смешанные современные практики не назначены обязательными всем."
+    }
+  ]
+}

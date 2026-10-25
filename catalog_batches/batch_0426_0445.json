@@ -1,0 +1,360 @@
+{
+  "range": [
+    426,
+    445
+  ],
+  "entries": [
+    {
+      "sourceIndex": 426,
+      "sourceName": "Khabzeism",
+      "decision": "keep",
+      "canonicalName": "Традиционная черкесская религия (хабзэизм)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренная черкесская религия с почитанием Тхьэшхо, подчинённых божественных сил и духов предков.",
+      "profile": "+divine +ancestors +ritual +afterlife +personal +nature_spirits +icons +fire +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Circassian_paganism",
+        "https://dergipark.org.tr/en/download/article-file/729687",
+        "https://www.circassianworld.com/pdf/Circassian_Religion.pdf"
+      ],
+      "notes": "Исходная статья прямо связывает название Khabzeism с религией, отдельно отличая её от светского кодекса Адыгэ Хабзэ. Исследовательская статья также различает религию и кодекс. Споры о монотеизме и политеизме не кодируются; соблюдение этикета не означает исповедания этой религии. Дополнение 2026-10-25: Работа Amjad Jaimoukha о черкесских религиях на Circassian World приводит собственно традиционные обращения к Тхьэ и описывает деревья как вместилища духовных сил (+personal/+nature_spirits). Поздние христианские и мусульманские варианты молитв в работе выделены отдельно; их конфессиональные признаки и гипотетическая палеолитическая датировка не перенесены. Дополнительная сверка той же работы, pp. 27, 29–34, 45–47: гадание по лопаткам животных (+divination_oracles), обрядовые изображения богини дождя и Созереша (+icons), почитание огня и домашнего очага (+fire). Вера во вредоносных ведьм не использована как доказательство собственной практики колдовства."
+    },
+    {
+      "sourceIndex": 427,
+      "sourceName": "Vainakh religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия вайнахов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Дохристианские и доисламские верования вайнахов с божествами, святилищами и обрядами местных общин.",
+      "profile": "+divine +many_gods +ritual +nature_spirits +ancestors +personal +afterlife +fire +icons +divination_oracles +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vainakh_religion",
+        "https://djvu.online/file/kdds11qtO0TKq"
+      ],
+      "notes": "Источники содержат реконструкции пантеона и сравнительно-мифологические гипотезы. Частные сопоставления с кельтами и другими народами не включены; сходство божеств не означает тождества религий. Ислам современных чеченцев и ингушей не назначается этому историческому профилю. Дополнение 2026-10-25: Amjad Jaimoukha, The Chechens: A Handbook (RoutledgeCurzon, 2005), глава Religion and beliefs, описывает дохристианские древесные и предковые культы; исходная статья отдельно подтверждает деревья как жилища духов (+nature_spirits/+ancestors). Проверено индексируемое издание монографии. Сравнения с кельтскими праздниками не превращены в новые признаки; исламские обряды современных вайнахов сюда не переносились. Дополнительная сверка монографии, pp. 119–120, 156–157: молитвы Тушоли о потомстве и урожае (+personal), духи предков в загробном мире (+afterlife), сакральный очаг (+fire), культовая статуя Тушоли в святилище (+icons), гадательные практики (+divination_oracles), защитные амулеты и практикуемое conjury/bozbu-unchalla (+occult). Свидетельства о настоящих практиках отделены от рассказов о сверхъестественных ведьмах; не утверждается современная обязательность этих обрядов."
+    },
+    {
+      "sourceIndex": 428,
+      "sourceName": "Khond traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования кхондов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования кхондов восточной Индии с почитанием земли, духов мест, предков и обрядами плодородия.",
+      "profile": "+divine +ancestors +nature_spirits +ritual +many_gods +personal +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Khonds",
+        "https://ostm.in/galleries/",
+        "https://repository.tribal.gov.in/upload/bitstream/123456789/60650/1/SCST_2019_book_0022.pdf"
+      ],
+      "notes": "Исходная статья о народе подробно выделяет традиционный религиозный компонент. Данные о современных религиозных самоопределениях не подменяют его. Колониальные сообщения о человеческих жертвоприношениях не назначаются как современная практика всем кхондам. Дополнение 2026-10-25: Odisha State Tribal Museum описывает Dharni Penu и её супруга Kotyuewali Penu/Kotiasal у донгрия-кандха, подношения ради защиты и плодородия (+many_gods/+personal). Музейный каталог, p. 48, прямо описывает композицию камней, представляющую богиню и шестнадцать её спутников в святилище (+icons). Это донгрийская форма внутри кхондов; каменное представление божества не приписано каждой подгруппе, исторические человеческие жертвы не объявлены современной практикой."
+    },
+    {
+      "sourceIndex": 429,
+      "sourceName": "Kota religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия кота Нилгири",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозная традиция кота Нилгири с божествами-отцом и матерью, храмовыми праздниками и сакральной ролью кузнечного дела.",
+      "profile": "+divine +many_gods +ritual +personal +afterlife +spirit_possession +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kota_people_(India)",
+        "https://dash.harvard.edu/entities/publication/73120378-a06e-6bd4-e053-0100007fdf3b",
+        "https://dash.harvard.edu/bitstream/handle/1/10307761/Rain_god_unity.pdf?sequence=1"
+      ],
+      "notes": "Исходная статья о конкретном индийском народе подтверждает божества, подношения и медиумов. Гипотезы о происхождении из шиваизма и шактизма не делают её точным синонимом этих направлений; не путать с африканскими кота. Дополнение 2026-10-25: Полевой труд Richard Kent Wolf, Rain, God, and Unity among the Kotas (1997), описывает призывание бога и обращения к деревенскому прорицателю в обряде дождя (+personal/+divination_oracles); примечание 94 прямо фиксирует обрядовое вселение в прорицателя Ticga·r в 1991 году (+spirit_possession). Примечание 39 описывает землю умерших (+afterlife). Прямое скачивание Harvard PDF дало 405; текст доступен в поисковом индексе и библиография подтверждена репозиторием. Локальные варианты и изменения XX века сохранены."
+    },
+    {
+      "sourceIndex": 430,
+      "sourceName": "Koyapunem",
+      "decision": "keep",
+      "canonicalName": "Кояпунем",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренная религия гондов, известная также как Гонди Пунем, с почитанием Барадео, клановых и деревенских божеств и предков.",
+      "profile": "+divine +many_gods +ancestors +ritual +personal +nature_spirits +spirit_possession +afterlife +icons +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gondi_people",
+        "https://www.trijharkhand.in/en/gondi"
+      ],
+      "notes": "Исходный раздел требует дополнительных ссылок; государственный исследовательский институт независимо описывает название и культ. Кояпунем отличён от исповедуемых частью гондов индуизма, сарнаизма, ислама и христианства. Это не общее обозначение всех религий народа. Дополнение 2026-10-25: TRI Jharkhand, раздел Koyanpunem, прямо описывает обращения к деревенской богине против бедствий (+personal), водяных духов и дерево как обитель божества (+nature_spirits), возможность вселения клановых божеств (+spirit_possession), сохраняющих интерес к живым умерших (+afterlife), изображения Dulha-Pen (+icons) и толкование количества жертвенной крови как знака будущего дождя (+divination_oracles). Это перечисленные местные формы гондского комплекса; сходство salla/gangra с кармой не превращено в karma, а munjok со самообороной не объявлен особенно строгой ахимсой."
+    },
+    {
+      "sourceIndex": 431,
+      "sourceName": "Sauria Paharia religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования саурия-пахария",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования саурия-пахария с почитанием духов предков Дживе Урккья, солнечного божества и местных духов госайн.",
+      "profile": "+divine +ancestors +nature_spirits +ritual +afterlife +many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sauria_Paharia_people",
+        "https://censusindia.gov.in/nada/index.php/catalog/32803/download/35984/42482_1961_KUM.pdf"
+      ],
+      "notes": "Исходная статья о народе даёт отдельное религиозное описание с обрядами при посеве, жатве и поминовении умерших. Вера в опасность колдовства сама по себе не используется как доказательство практики колдовства. Дополнение 2026-10-25: Census of India, Village Survey Kumarbhaja (1961), раздел Religion, отдельно перечисляет традиционных Gosains, представляющих солнце, луну и звёзды, и отличает их от поздних индуистских Лакшми и Кали (+many_gods). Заимствованное слово Bhagwan не доказывает единобожия. Негативное отношение к колдовству не использовано как +occult."
+    },
+    {
+      "sourceIndex": 432,
+      "sourceName": "Toda religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия тода",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренная религия тода Нилгири, в которой священные буйволы, молочные святилища и жрецы-молочники занимают важное место.",
+      "profile": "+divine +many_gods +ritual +afterlife +personal +nature_spirits +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Toda_people",
+        "https://www.fs.usda.gov/rm/pubs/rmrs_p049/rmrs_p049_487_495.pdf",
+        "https://www.gutenberg.org/files/71828/71828-h/71828-h.htm"
+      ],
+      "notes": "Исходная статья о народе описывает пантеон, обряды молочного хозяйства и погребальную участь умерших. Вегетарианство не приравнено к особенно строгому принципу ахимсы; индуистское влияние не доказывает тождества индуизму. Дополнение 2026-10-25: Tarun Chhabra, Toda Relationship With Nature, USDA proceedings, pp. 487–495, описывает священные вершины как присутствие конкретных божеств, обращения к ним и почитание природных мест (+nature_spirits/+personal). Rivers, The Todas (1906), прямо разбирает магические формулы и обряды тода (+occult). Колониальные эволюционистские оценки Rivers не приняты как научная характеристика, природоохранное поведение не подменяет ответ ahimsa."
+    },
+    {
+      "sourceIndex": 433,
+      "sourceName": "Albanian paganism",
+      "decision": "keep",
+      "canonicalName": "Албанские традиционные верования",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Комплекс албанских дохристианских и доисламских представлений и обрядов, сохранявшихся в народной культуре.",
+      "profile": "+divine +nature_spirits +ritual +fire +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Albanian_paganism",
+        "https://www.researchgate.net/publication/357514572_Albanian_Myths_and_Custom_Law_in_Literature/fulltext/61d19a2fda5d105e5513de0f/Albanian-Myths-and-Custom-Law-in-Literature.pdf"
+      ],
+      "notes": "Статья описывает разнородные исторические и фольклорные пласты, а не единую современную конфессию. Космическое обновление в мифах не приравнивается к личному перерождению. Балканская Албания отличена от Кавказской Албании. Дополнение 2026-10-25: Dhurata Lamçja, Albanian Myths and Custom Law in Literature, European Journal of Social Science Education and Research 9(1), 2022, описывает огонь как живую сакральную силу в очистительных и жертвенных обрядах (+fire), а также лечебные магические обряды у Living Stone в Тетовском нагорье (+occult). Это фольклорные пласты разных областей; единая современная конфессия или личное перевоплощение не заявлены."
+    },
+    {
+      "sourceIndex": 434,
+      "sourceName": "Ancient Greek religion",
+      "decision": "keep",
+      "canonicalName": "Древнегреческая религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторический комплекс местных и общегреческих культов божеств Древней Греции. ",
+      "profile": "+divine +many_gods +ritual +personal +afterlife +ancestors +occult +icons +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ancient_Greek_religion",
+        "https://www.metmuseum.org/ja/essays/death-burial-and-the-afterlife-in-ancient-greece",
+        "https://www.emfc.gr/en/exhibits/gods-worship-and-magic",
+        "https://www.cambridge.org/core/books/technologies-of-the-marvellous-in-ancient-greek-religion/technical-divination-and-mechanics-of-sacred-space/841D81F04C5C22D54DB2A92F7F1A2489"
+      ],
+      "notes": "Предлагаемое семейство ancient_european: исторические религии Европы и Средиземноморья. Существующее pagan ориентировано на неоязычество и эзотерику. Отдельная историческая запись, не alias существующего «Эллинизм», описанного в religions.js как современное почитание. Разнообразие городских культов и философских взглядов не сведено к обязательному единому катехизису. Дополнение 2026-10-25: The Met описывает сохранение psyche после смерти и регулярные семейные посещения могил с пищей и возлияниями (+afterlife/+ancestors). Acropolis Museum описывает обращения к семейным богам за защитой и использование талисманов (+personal/+occult). Открытая глава Technical Divination and Mechanics of Sacred Space (Cambridge, 2025) описывает многочисленные методы гадания и молитвы культовой статуе перед обращением к Трофонию (+divination_oracles/+icons). Местные культы и эпохи различались; набор не объявлен единым катехизисом всех греков."
+    },
+    {
+      "sourceIndex": 435,
+      "sourceName": "Ancient Iranian religion",
+      "decision": "keep",
+      "canonicalName": "Древнеиранская религия",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические религиозные традиции ранних иранских народов с почитанием божеств, жертвенным обрядом язна, хаомой и огнём.",
+      "profile": "+divine +many_gods +ritual +fire +afterlife +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ancient_Iranian_religion",
+        "https://www.iranicaonline.org/articles/indo-iranian-religion/",
+        "https://www.iranicaonline.org/articles/iran-iv-myths-and-legends/"
+      ],
+      "notes": "Семейство iranian подходит по названию, но его общий профиль не наследуется. Дозороастрийские и раннеиранские культы не считаются точным синонимом всего зороастризма; использование Авесты историками не доказывает одинаковый письменный канон у всех ранних общин. Дополнение 2026-10-25: Gherardo Gnoli, Encyclopaedia Iranica, INDO-IRANIAN RELIGION, прямо описывает реконструируемое раннеиранское существование духов после смерти (+afterlife). Статья IRAN iv. MYTHS AND LEGENDS приводит обращения к Хаоме за силой и защитой (+personal). Поздняя зороастрийская эсхатология не перенесена целиком; ботанические споры о хаоме и степень опьянения не использованы для автоматического entheogenic_ritual."
+    },
+    {
+      "sourceIndex": 436,
+      "sourceName": "Anglo-Saxon paganism",
+      "decision": "keep",
+      "canonicalName": "Англосаксонские дохристианские верования",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические верования англосаксов с Воденом, Тунором, Тивом и другими божествами, духами мест и жертвенными обрядами.",
+      "profile": "+divine +many_gods +nature_spirits +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anglo-Saxon_paganism",
+        "https://discovery.ucl.ac.uk/id/eprint/10138133/13/Brennan%20PhD%20Thesis%20edited%20with%20redactions.pdf"
+      ],
+      "notes": "Предлагаемое семейство ancient_european: исторические религии Европы и Средиземноморья. Существующее pagan ориентировано на неоязычество и эзотерику. Не alias современного германского неоязычества и не тождественно всем континентальным и скандинавским германским религиям. Подробности реконструкции остаются ограниченными письменными и археологическими источниками. Дополнение 2026-10-25: Исследование UCL о культовой лексике англосаксов сопоставляет wēoh, wēofod и wēohsteall с рассказом Беды о Goodmanham и археологией святилищ: культовые изображения составляли их фокус (+icons). Христианская полемика Беды учитывается. Поздние христианские charms не объявлены прямым доказательством всей дохристианской магии; реконструированное единое загробное учение не назначено."
+    },
+    {
+      "sourceIndex": 437,
+      "sourceName": "Aristotelianism",
+      "decision": "keep",
+      "canonicalName": "Аристотелизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Широкая философская традиция, развивающая логику, метафизику, учение о причинах и этику Аристотеля.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aristotelianism"
+      ],
+      "notes": "Сохраняется как философское мировоззрение. Включает античные, исламские, иудейские и христианские интерпретации; общую конфессиональную принадлежность, нерелигиозность или одинаковое учение о душе всем формам не назначаем. Существующие вопросы недостаточно различают эту широкую традицию."
+    },
+    {
+      "sourceIndex": 438,
+      "sourceName": "Benandanti",
+      "decision": "keep",
+      "canonicalName": "Бенанданти",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местная аграрная визионерская традиция Фриули XVI–XVII веков с рассказами о ночных духовных битвах ради защиты урожая.",
+      "profile": "+ritual +occult +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Benandanti",
+        "https://www.press.jhu.edu/books/title/10645/night-battles",
+        "https://research-information.bris.ac.uk/files/38162196/WildHunt_first_edit.pdf"
+      ],
+      "notes": "Предлагаемое семейство european_folk: европейские народные религиозные практики. Участники могли считать себя христианами; описания инквизиции нельзя принимать за их собственное признание дьяволопоклонства. Издатель исследования Карло Гинзбурга подтверждает визионерские практики; гипотеза прямого происхождения от дохристианского шаманизма не принята как установленная. Дополнение 2026-10-25: Ronald Hutton, The Wild Hunt and the Witches’ Sabbath (2014), по инквизиционным протоколам, разобранным Гинзбургом, описывает бенанданти, заявлявших об общении с умершими и знании судьбы их душ (+afterlife). Контакты с мёртвыми засвидетельствованы у части участников; процессии умерших автор считает периферийным мотивом, не универсальным обрядом всех бенанданти."
+    },
+    {
+      "sourceIndex": 439,
+      "sourceName": "Celtic Animism",
+      "decision": "review",
+      "canonicalName": "Анимистические аспекты древних кельтских верований",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": "Древние кельтские религии",
+      "description": "Предполагаемая отдельная запись об одушевлённости природы в древних кельтских религиозных традициях.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Celtic_Animism",
+        "https://thehistorypress.co.uk/publication/the-gods-of-the-celts/"
+      ],
+      "notes": "Предлагаемое семейство ancient_european: исторические религии Европы и Средиземноморья. Существующее pagan ориентировано на неоязычество и эзотерику. Review: фактическая точность исходной статьи явно оспаривается. Научные исследования обсуждают анимизм как аспект кельтских верований, но не доказывают отдельную конфессию Celtic Animism и её тождество всей Celtic religion. Требуется редакторское решение о статусе тематической записи; профиль оставлен пустым."
+    },
+    {
+      "sourceIndex": 440,
+      "sourceName": "Celtic religion",
+      "decision": "keep",
+      "canonicalName": "Древние кельтские религии",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные местные политеистические традиции кельтских обществ древности с божествами, святилищами и обрядами.",
+      "profile": "+divine +many_gods +ritual +afterlife +personal +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ancient_Celtic_religion",
+        "https://press.uchicago.edu/ucp/books/book/distributed/R/bo125520734.html",
+        "https://www.perseus.tufts.edu/hopper/text?doc=Caes.+Gal.+6",
+        "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/4D%2A.html"
+      ],
+      "notes": "Предлагаемое семейство ancient_european: исторические религии Европы и Средиземноморья. Существующее pagan ориентировано на неоязычество и эзотерику. Зонтичная историческая запись, а не alias современного «Друидизм». Письменные свидетельства часто внешние и поздние; локальные пантеоны не предполагаются одинаковыми. Celtic Animism рассматривается отдельно как спорная тематическая запись. Дополнение 2026-10-25: Цезарь, Gallic War VI.14–17, описывает неуничтожимость души и обращения к богам посредством обетов в опасности (+afterlife/+personal). Страбон IV.4.4–5 прямо выделяет прорицателей vates и гадательные обряды (+divination_oracles). Античные авторы — внешние наблюдатели с политической повесткой; сведения о Галлии не делают пантеон и практики одинаковыми у всех кельтских обществ. Неоднозначное transire ad alios не использовано для безусловного reincarnation всей категории."
+    },
+    {
+      "sourceIndex": 441,
+      "sourceName": "Cimbri religion",
+      "decision": "keep",
+      "canonicalName": "Религиозные практики древних кимвров",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Фрагментарно известные религиозные практики кимвров, включая жреческое гадание и жертвенные обряды в античных рассказах.",
+      "profile": "+ritual +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cimbri",
+        "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D7",
+        "https://www.utupub.fi/bitstream/10024/93639/2/diss2013Lampinen.pdf"
+      ],
+      "notes": "Предлагаемое семейство ancient_european: исторические религии Европы и Средиземноморья. Существующее pagan ориентировано на неоязычество и эзотерику. Исходная статья о народе имеет религиозный раздел, основанный на внешних античных свидетельствах. Этноязыковая принадлежность кимвров спорна; ни полный германский, ни кельтский пантеон автоматически не назначается. Не тождественно всем древнегерманским религиям. Углубление: Страбон, География VII.2.3, прямо описывает предсказания жриц по крови и внутренностям. Исследование Lampinen о религиозном borealism (с. 123) подчёркивает стереотипные черты внешних античных рассказов. Поэтому добавлено только divination_oracles как засвидетельствованная практика в этих рассказах; не реконструирован общий германский пантеон и не объявлена доказанной каждая подробность жертвоприношений."
+    },
+    {
+      "sourceIndex": 442,
+      "sourceName": "Dacian religion",
+      "decision": "keep",
+      "canonicalName": "Религия древних даков",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические религиозные традиции даков и связанных с ними гетских общностей с жречеством и представлениями о бессмертии души.",
+      "profile": "+divine +ritual +afterlife +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dacians",
+        "https://lexundria.com/hdt/4.94.1/mcly",
+        "https://www.persee.fr/doc/dha_0755-7256_1980_num_6_1_1403"
+      ],
+      "notes": "Предлагаемое семейство ancient_european: исторические религии Европы и Средиземноморья. Существующее pagan ориентировано на неоязычество и эзотерику. Статья о народе содержит религиозный раздел; сведения о Залмоксисе и бессмертии переданы античными авторами. Соотношение Залмоксиса и Гебелейзиса и устройство пантеона спорны, поэтому строгий монотеизм или единый список богов не назначены. Не alias современной реконструкции залмоксианства. Углубление: Геродот IV.94 прямо описывает передачу Залмоксису просьб через посланца — основание personal. Исследование Alexandrescu (1980) показывает различия между версиями Геродота о природе Залмоксиса и их греческое происхождение. Рассказ о гетах не принят за полный догмат всех даков; one_god и many_gods не назначены, неоднозначный рассказ о возвращении учителя не превращён в reincarnation."
+    },
+    {
+      "sourceIndex": 443,
+      "sourceName": "Epicureanism",
+      "decision": "keep",
+      "canonicalName": "Эпикуреизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Философская традиция Эпикура, соединяющая атомистическое объяснение природы с этикой спокойствия, дружбы и освобождения от страха.",
+      "profile": "+naturalism -afterlife -reincarnation +divine +many_gods -divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Epicureanism",
+        "https://plato.stanford.edu/entries/epicurus/",
+        "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0258%3Abook%3D10%3Achapter%3D1"
+      ],
+      "notes": "Смертность материальной души и отсутствие посмертного существования подтверждены академическим обзором. Эпикуреизм не обозначен автоматически атеизмом: классическая традиция допускала богов, не вмешивающихся в человеческие дела. Не синоним любого гедонизма. Углубление: SEP, раздел об этике и благочестии, прямо описывает бессмертных богов в представлениях эпикурейцев и молитву как восприимчивость к их блаженству; это основания divine и many_gods без приписывания провидения. Диоген Лаэртский X.135 передаёт прямое отвержение гадания Эпикуром — отрицательный divination_oracles относится к классической школе, сохранявшей его учение. Отказ от вмешательства богов не назван deism: вопрос требует бога-создателя, которого эпикурейская физика не предполагает. Этические упражнения не приравнены автоматически к meditation."
+    },
+    {
+      "sourceIndex": 444,
+      "sourceName": "Frankish paganism",
+      "decision": "keep",
+      "canonicalName": "Дохристианская религия франков",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические верования франков до и во время христианизации, связанные с германскими традициями и местными римскими влияниями.",
+      "profile": "+divine +many_gods +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Frankish_paganism",
+        "https://sourcebooks.web.fordham.edu/basis/gregory-hist.asp"
+      ],
+      "notes": "Предлагаемое семейство ancient_european: исторические религии Европы и Средиземноморья. Существующее pagan ориентировано на неоязычество и эзотерику. Исходная статья прямо подчёркивает реконструктивный характер многих сведений. Общие германские параллели не назначаются как независимо засвидетельствованные франкские обряды; это локальная историческая запись, не alias всех германских религий или современного неоязычества. Углубление: Григорий Турский, История франков II.10, прямо приписывает франкам изготовление и почитание изображений и жертвоприношения им. Добавлены ritual и icons. Это внешнее христианское полемическое описание, сопровождаемое библейскими цитатами; именно цитаты о молитве деревянному идолу не использованы как независимое свидетельство франкского personal, а упоминание леса/воды не превращено автоматически в nature_spirits."
+    },
+    {
+      "sourceIndex": 445,
+      "sourceName": "Gallaecian religion",
+      "decision": "keep",
+      "canonicalName": "Религиозные традиции древних галлеков",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические культы древних галлеков северо-запада Иберийского полуострова, известные прежде всего по местным и римским надписям.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gallaeci",
+        "https://musarqourense.xunta.gal/sites/default/files/doc/peza_mes/pm_2023_12_esp.pdf"
+      ],
+      "notes": "Предлагаемое семейство ancient_european: исторические религии Европы и Средиземноморья. Существующее pagan ориентировано на неоязычество и эзотерику. Исходная статья о народе содержит раздел о божествах. Местные культы не тождественны всей кельтской или римской религии. Предполагаемые отождествления отдельных богов с римскими и другими кельтскими божествами не включены в профиль. Углубление: Археологический музей Оренсе, Pieza del mes, декабрь 2023, описывает местные вотивные надписи к Reve и Nabia рядом с римскими культами и алтарями с местными эпитетами. Это непосредственная материальная основа ritual для галлекского религиозного комплекса римского времени; не доказательство единого доримского канона и не основание переносить весь римский профиль."
+    }
+  ]
+}

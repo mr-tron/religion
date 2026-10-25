@@ -1,0 +1,357 @@
+{
+  "range": [
+    1246,
+    1265
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1246,
+      "sourceName": "Dwara Nikaya",
+      "decision": "review",
+      "canonicalName": "Двара-никая — неуточнённая бирманская линия",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тхеравада",
+      "description": "Обозначение бирманской монашеской традиции Двара, связанной с реформами Окпхо Саядо и последующими разделениями.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dwara_Nikaya",
+        "https://eprints.soas.ac.uk/17369/1/Bhikkhu_3520.pdf",
+        "https://journal.kci.go.kr/svn/archive/articlePdf?artiId=ART002533211"
+      ],
+      "notes": "Исходный URL недоступен. Академические исследования различают три dvāra gaing: Махадвара, Муладвара и Анауккьяунг Двара. Неясно, относится ли исходное Dwara Nikaya к общему кругу или одной из ветвей; review, без преждевременного alias и без переноса признаков соседней никаи."
+    },
+    {
+      "sourceIndex": 1247,
+      "sourceName": "East Asian Yogācāra",
+      "decision": "keep",
+      "canonicalName": "Восточноазиатская йогачара",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Махаяна",
+      "description": "Традиции восточноазиатской махаяны, развившие индийские учения йогачары о сознании, включая китайскую фасян и японскую хоссо.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/East_Asian_Yog%C4%81c%C4%81ra"
+      ],
+      "notes": "Собирательная региональная ветвь индийской йогачары, не отдельное новое учение каждого варианта названия. Учение «только сознание» не автоматически равно пантеизму, нетеизму или современному психологическому идеализму; подробный профиль пока пуст."
+    },
+    {
+      "sourceIndex": 1248,
+      "sourceName": "Fuju-fuse",
+      "decision": "keep",
+      "canonicalName": "Фудзю-фусэ",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Нитирэн-буддизм",
+      "description": "Нитирэновская традиция, связанная с Нитио и строгим отказом принимать пожертвования от иноверцев и давать им религиозные подношения.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fuju-fuse"
+      ],
+      "notes": "Сохраняется самостоятельное историческое направление и его продолжения. Не alias всего нитирэновского буддизма. Спор о подлинности текста, обосновывающего принцип, не решён в пользу одной стороны; отношение к иноверцам не превращено в отрицание общих этических принципов."
+    },
+    {
+      "sourceIndex": 1249,
+      "sourceName": "Fuke-shū",
+      "decision": "review",
+      "canonicalName": "Фукэ-сю — традиция комусо",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Японский дзен",
+      "description": "Историческая японская традиция комусо, связанная с игрой на сякухати и позднейшими формами «дующего дзен».",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fuke-sh%C5%AB",
+        "https://eprints.soas.ac.uk/18260/1/Mau_3575.pdf",
+        "https://japanhouse.illinois.edu/education/insights/shakuhachi"
+      ],
+      "notes": "Исходник перенаправляет на статью о комусо. Исследование SOAS показывает, что современные рассказы о суйдзэн не следует безоговорочно переносить на всю раннюю историю Фукэ; review. Отдельная историческая среда, не alias всего Риндзай или музыкального инструмента. Медитация не кодируется как универсальная древняя доктрина."
+    },
+    {
+      "sourceIndex": 1250,
+      "sourceName": "Galduwa Forest Tradition",
+      "decision": "keep",
+      "canonicalName": "Лесная традиция Галдува (Шри Кальяни Йогашрама Самстха)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тхеравада",
+      "description": "Шри-ланкийская лесная монашеская организация тхеравады, основанная в 1951 году и подчёркивающая дисциплину Винаи и медитацию.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sri_Kalyani_Yogasrama_Samstha"
+      ],
+      "notes": "Исходник прямо указывает Galduwa Forest Tradition как обычное название организации. Не alias всей Раманна-никаи или тхеравады; разные монастыри могут преподавать разные методы. Организационный уровень и монашеская преемственность подтверждены."
+    },
+    {
+      "sourceIndex": 1251,
+      "sourceName": "Gelug",
+      "decision": "keep",
+      "canonicalName": "Гелуг",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тибетский буддизм",
+      "description": "Тибетская буддийская школа Цонкапы, соединяющая систематическое изучение, монашескую дисциплину и ступенчатый путь практики.",
+      "profile": "+meditation +no_self",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gelug"
+      ],
+      "notes": "Подтверждены аналитическая медитация и исследование пустоты самости и явлений. Не alias всего тибетского буддизма, Далай-ламы как личности или единственной тантрической практики. Политическое влияние школы не является отдельным богословским признаком."
+    },
+    {
+      "sourceIndex": 1252,
+      "sourceName": "Giin",
+      "decision": "keep",
+      "canonicalName": "Линия Кангэн Гиина (Хиго, Сото)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Сото",
+      "description": "Историческая линия японского Сото, связанная с Кангэн Гиином и общиной Дайдзи-дзи на Кюсю.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kangan_Giin",
+        "https://religion-in-japan.univie.ac.at/k/img_auth.php/2/2b/Hershock_2014.pdf"
+      ],
+      "notes": "Исходная статья — биография, но прямо называет Гиина основателем школы Хиго. Независимое исследование Сото подтверждает отдельную общину и линию. Запись сохранена как линия передачи, не как новая религия вокруг самого имени. Гиин и Гиун — разные наставники."
+    },
+    {
+      "sourceIndex": 1253,
+      "sourceName": "Honganji-ha",
+      "decision": "keep",
+      "canonicalName": "Хонгандзи-ха (Дзёдо-синсю)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Дзёдо-синсю",
+      "description": "Ветвь Дзёдо-синсю с главным храмом Ниси Хонгандзи в Киото, следующая учению Синрана.",
+      "profile": "+scripture +bhakti +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jodo_Shinshu_Hongwanji-ha",
+        "https://www.hongwanji.or.jp/english/teaching/index.html"
+      ],
+      "notes": "Honganji и Hongwanji — варианты передачи одного названия. Не alias Дзёдо-синсю в целом: существуют другие ветви, включая Отани-ха. Официальный источник подтверждает три сутры Чистой земли, доверие Амиде и рождение в Чистой земле после смерти."
+    },
+    {
+      "sourceIndex": 1254,
+      "sourceName": "Honmon Butsuryū-shū",
+      "decision": "keep",
+      "canonicalName": "Хоммон Буцурю-сю",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Нитирэн-буддизм",
+      "description": "Самостоятельная нитирэновская буддийская организация, возникшая в XIX веке вокруг Нагамацу Ниссё и практики чтения одаймоку.",
+      "profile": "+buddha +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Honmon_Butsury%C5%AB-sh%C5%AB",
+        "https://en.honmon-butsuryushu.or.jp/",
+        "https://seifuji.org/en/about-honmon-butsuryu-shu/"
+      ],
+      "notes": "Официальный сайт подтверждает Лотосовую сутру и чтение «Наму Мёхо Рэнгэ Кё». Историческая связь с Хоммон Хоккэ-сю не означает тождества организаций. Сохранена буддийская принадлежность независимо от разных исследовательских классификаций как нового или традиционного движения."
+    },
+    {
+      "sourceIndex": 1255,
+      "sourceName": "Huayan school",
+      "decision": "keep",
+      "canonicalName": "Школа Хуаянь",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Махаяна",
+      "description": "Восточноазиатская школа махаяны, основанная на «Аватамсака-сутре» и учении о взаимопроникновении явлений.",
+      "profile": "+buddha +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Huayan_school"
+      ],
+      "notes": "Хуаянь и китайское Hua-yen — варианты имени школы. Японское кэгон и корейское хваом связаны исторически, но не объединяются автоматически как одна организация. Взаимопроникновение явлений не кодируется как тождество вселенной Богу."
+    },
+    {
+      "sourceIndex": 1256,
+      "sourceName": "Indonesian Esoteric Buddhism",
+      "decision": "keep",
+      "canonicalName": "Индонезийский эзотерический буддизм",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Ваджраяна",
+      "description": "Исторические тантрические буддийские традиции Явы, Суматры и соседних регионов, связанные с центрами Шривиджаи и средневековой Явы.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Indonesian_Esoteric_Buddhism"
+      ],
+      "notes": "Исходник подтверждает ритуальные руководства посвящения и мандалы. Региональный исторический круг, не все современные буддисты Индонезии и не alias ваджраяны вообще. Сохранившиеся тексты и архитектура не устанавливают одинаковую практику каждого населения региона."
+    },
+    {
+      "sourceIndex": 1257,
+      "sourceName": "Jakuen",
+      "decision": "review",
+      "canonicalName": "Линия Дзякуэна (Хокё-дзи, Сото)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Сото",
+      "description": "Линия японского Сото, связанная с китайским наставником Дзякуэном и основанным им храмом Хокё-дзи.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jakuen",
+        "https://www.mlit.go.jp/tagengo-db/R2-01282.html",
+        "https://religion-in-japan.univie.ac.at/k/img_auth.php/2/2b/Hershock_2014.pdf"
+      ],
+      "notes": "Исходная статья — биография с предупреждением о недостатке точных ссылок; review. Дополнительные материалы подтверждают храм, практику дзадзэн и линию, но расходятся в вопросе непосредственной передачи от Догэна или Эдзё. Не превращать спорную биографическую генеалогию в доказанную отдельную конфессию."
+    },
+    {
+      "sourceIndex": 1258,
+      "sourceName": "Japanese Zen",
+      "decision": "keep",
+      "canonicalName": "Японский дзен",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Дзен-буддизм",
+      "description": "Собирательное обозначение японских буддийских линий, развившихся из китайского чань, включая Сото, Риндзай и Обаку.",
+      "profile": "+meditation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Japanese_Zen"
+      ],
+      "notes": "Сохранён региональный уровень: существующий «Дзен-буддизм» в religions.js описан без географических границ и может употребляться шире японских институтов. Поэтому точное тождество не заявлено; связь пересечения отмечена для редактора. Не alias всего китайского чань."
+    },
+    {
+      "sourceIndex": 1259,
+      "sourceName": "Ji-shū",
+      "decision": "keep",
+      "canonicalName": "Дзи-сю",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Буддизм Чистой земли",
+      "description": "Японская школа Чистой земли Иппэна и его последователей, известная странствующим проповедничеством и танцевальным нэмбуцу.",
+      "profile": "+bhakti +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ji-shu"
+      ],
+      "notes": "Самостоятельная школа, не другое написание Дзёдо-сю или Дзёдо-синсю. Танцевальное воспевание имени Амиды и распространение нэмбуцу-офуда подтверждены; обереги не автоматически означают одинаковое магическое мировоззрение всех участников."
+    },
+    {
+      "sourceIndex": 1260,
+      "sourceName": "Jogye Order",
+      "decision": "keep",
+      "canonicalName": "Орден Чоге",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Корейский сон",
+      "description": "Корейская буддийская организация с традицией сон, монастырской практикой и собственными институтами управления.",
+      "profile": "+scripture +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jogye_Order",
+        "https://jokb.org/bbs/board.php?bo_table=8010&wr_id=46"
+      ],
+      "notes": "Источники подтверждают авторитет «Алмазной сутры» и практику сон. Чоге — конкретный орден, а не точный синоним всех корейских буддистов или всего корейского сон. Его история включает древние линии и современную организационную форму."
+    },
+    {
+      "sourceIndex": 1261,
+      "sourceName": "Jonang",
+      "decision": "keep",
+      "canonicalName": "Джонанг",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тибетский буддизм",
+      "description": "Тибетская буддийская школа, сохраняющая линии Калачакры и философское истолкование шентонг.",
+      "profile": "+meditation +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jonang",
+        "https://jonangfoundation.org/jonang-masters-background-information/",
+        "https://jonangfoundation.org/wp-content/uploads/2007/02/kalachakra-practice-outline-110506.pdf"
+      ],
+      "notes": "Официальные материалы фонда подтверждают непрерывную передачу и медитативную традицию. Не alias Гелуг или общего тибетского буддизма. Учение о природе Будды и шентонг не приравнены к персональному Богу, пантеизму или неизменному индивидуальному Я."
+    },
+    {
+      "sourceIndex": 1262,
+      "sourceName": "Jōdo Shinshū",
+      "decision": "keep",
+      "canonicalName": "Дзёдо-синсю",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Буддизм Чистой земли",
+      "description": "Японская традиция Синрана, связывающая рождение в Чистой земле с доверием изначальному обету Амиды.",
+      "profile": "+bhakti +scripture +afterlife",
+      "proposedQuestions": [
+        {
+          "id": "shinjin_other_power",
+          "text": "Считаете ли вы искреннее доверие обету Амиды, а не повторение его имени, главным основанием рождения в Чистой земле?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Передаёт центральное различие Дзёдо-синсю: нэмбуцу выражает благодарность и доверие, а не самостоятельно создаёт спасительную заслугу. Общие признаки bhakti и scripture не различают это истолкование с другими школами Чистой земли. Применение к конкретным ветвям требует проверки их учения.",
+          "supportedEntries": [
+            "Jōdo Shinshū",
+            "Honganji-ha"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB",
+        "https://www.hongwanji.or.jp/english/teaching/index.html"
+      ],
+      "notes": "Shin Buddhism и True Pure Land Buddhism — названия этой традиции. Не alias всех школ Чистой земли, одной Хонгандзи-ха или школы Хонэна Дзёдо-сю. Нэмбуцу понимается как выражение благодарности; отсутствие опоры на собственные заслуги не означает отсутствия этики и обрядов."
+    },
+    {
+      "sourceIndex": 1263,
+      "sourceName": "Jōdo-shū",
+      "decision": "keep",
+      "canonicalName": "Дзёдо-сю",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Буддизм Чистой земли",
+      "description": "Японская школа Чистой земли Хонэна, подчёркивающая повторение имени Амиды — нэмбуцу.",
+      "profile": "+bhakti +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/J%C5%8Ddo-sh%C5%AB"
+      ],
+      "notes": "Подтверждены три сутры Чистой земли и «Сэнтякусю». Не alias существующего общего «Буддизма Чистой земли» и не тождество Дзёдо-синсю. При сходстве названий школы имеют разные линии и истолкования практики."
+    },
+    {
+      "sourceIndex": 1264,
+      "sourceName": "Kagyu",
+      "decision": "keep",
+      "canonicalName": "Кагью",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тибетский буддизм",
+      "description": "Совокупность тибетских буддийских линий устной передачи, связанных с Марпой, Миларепой, Гампопой и другими учителями.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kagyu"
+      ],
+      "notes": "Не alias одной Карма Кагью, Шангпа Кагью или всех школ тибетского буддизма. Подтверждены практики махамудры и передачи созерцательного опыта. Устная передача не равна отрицанию авторитета письменных текстов."
+    },
+    {
+      "sourceIndex": 1265,
+      "sourceName": "Karma Kagyu",
+      "decision": "keep",
+      "canonicalName": "Карма Кагью (Камцанг Кагью)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Кагью",
+      "description": "Ветвь Кагью, связанная с линией Кармап и практиками махамудры и ваджраяны.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Karma_Kagyu"
+      ],
+      "notes": "Karma Kagyu и Kamtsang Kagyu — названия одной линии. Не alias всей Кагью или сети «Алмазный путь» Нидалов. Споры о признании отдельных современных Кармап не решены выбором одного претендента и не используются как религиозный признак."
+    }
+  ]
+}

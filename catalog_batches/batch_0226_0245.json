@@ -1,0 +1,368 @@
+{
+  "range": [
+    226,
+    245
+  ],
+  "entries": [
+    {
+      "sourceIndex": 226,
+      "sourceName": "Esselen beliefs",
+      "decision": "review",
+      "canonicalName": "Традиционные верования эсселен",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные духовные традиции эсселен центрального побережья Калифорнии.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Esselen",
+        "https://www.esselentribe.org/news",
+        "https://scvhistory.com/scvhistory/nlf_entradasouth_deir_app5-5.pdf"
+      ],
+      "notes": "Исходная статья о народе не даёт полноценного религиозного описания. Этнографические материалы прямо отмечают фрагментарность ранних свидетельств; современное племенное представительство подтверждает священные места, но этого мало для восстановления единого исторического профиля. Сохранено на проверку; не отождествлять с Esalen Institute или автоматически с Kuksu."
+    },
+    {
+      "sourceIndex": 227,
+      "sourceName": "Four Mothers Society",
+      "decision": "keep",
+      "canonicalName": "Общество Четырёх Матерей",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Межплеменное традиционалистское общество юго-восточных народов Северной Америки с церемониальными общинами.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Four_Mothers_Society",
+        "https://www.keetoowahsociety.org/whitepath.htm"
+      ],
+      "notes": "Источник подтверждает религиозную и общественно-политическую деятельность, церемониальные площадки, танцы и собрания. Связи Редбёрда Смита с обществом не делают его синонимом Keetoowah Nighthawk Society: свидетельство самого общества Keetoowah описывает последующее расхождение. Проверка 2026-10: Найдены подтверждения существования межплеменного традиционалистского общества, но самостоятельное проверяемое изложение его пантеона и посмертия недостаточно. Учения отдельных Cherokee/Keetoowah общин не приписаны всему Four Mothers Society по одному организационному пересечению."
+    },
+    {
+      "sourceIndex": 228,
+      "sourceName": "Garifuna spirituality",
+      "decision": "keep",
+      "canonicalName": "Традиционная духовность гарифуна",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Афро-индейские традиции гарифуна с почитанием предков и обрядами дугу и чугу.",
+      "profile": "+divine +ancestors +ritual +afterlife +spirit_possession +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Garifuna",
+        "https://www.loc.gov/item/hlas-bi83101077/",
+        "https://folkways-media.si.edu/docs/folkways/artwork/FW04032.pdf",
+        "https://alexandria.ucsb.edu/downloads/gf06g2974"
+      ],
+      "notes": "Раздел духовных практик в статье о народе прямо описывает предков, Бунгиу и ритуальных специалистов buyei. Католическая принадлежность многих гарифуна не равна полному тождеству традиционной духовности католицизму. Внешнее сравнение с voodoo не основание объединения. Проверка 2026-10: Foster, Spirit possession in southern Belize, и запись Smithsonian Folkways The Garifuna Dugu документируют духов умерших и их участие в обряде (+afterlife, +spirit_possession). Первичная этнография UCSB описывает консультации buyei, получающего сообщения духов о причинах болезни и необходимых действиях (+divination_oracles). Это данные о dugu, а не перенос католических догматов на весь комплекс."
+    },
+    {
+      "sourceIndex": 229,
+      "sourceName": "Guarayos beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования гуарайо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические верования гуарайо Боливии, включая представления о Тамои и пути души после смерти.",
+      "profile": "+divine +afterlife +many_gods +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Guarayos",
+        "https://www.everyculture.com/South-America/Guarayu.html",
+        "https://apcob.org.bo/guarayu/",
+        "https://www.pueblos-originarios.ucb.edu.bo/digital/106002055.pdf"
+      ],
+      "notes": "Исходная статья о народе недостаточна для доктринального профиля. Этнографическая статья Нэнси Флауэрс описывает Тамои как Великого Предка и путь души к нему после смерти. Почитание одного мифологического прародителя не использовано как доказательство универсального семейного культа предков; христианские миссионерские формы выделены в источнике отдельно. Проверка 2026-10: APCOB прямо перечисляет традиционных Tamoi как божеств и ka’a iyar как духов-хозяев растений, животных, вод и холмов (+many_gods, +nature_spirits). Этнографическая публикация Alfred Métraux описывает погребальные обряды и путь души в страну Tamoi (+ritual). Расхождения исторических и современных описаний сохранены; мифологический Великий Предок не приравнен автоматически к семейному культу предков."
+    },
+    {
+      "sourceIndex": 230,
+      "sourceName": "Guayupe religion",
+      "decision": "keep",
+      "canonicalName": "Исторические верования гуайюпе",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции гуайюпе Колумбии с небесными божествами и обрядами.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Guayupe"
+      ],
+      "notes": "Статья о народе имеет раздел Religion, называющий Солнце, Луну, Инайнагуи и ритуальные растения. Сходство с муисками не подтверждает синонимию. Сведения отражают исторические описания, не обязательные взгляды современных потомков. Проверка 2026-10: Расширение ограничено: обрядовые растения упомянуты, но независимого достаточно подробного подтверждения их центральной роли, гадания и посмертных представлений пока нет. Сходство с соседними муисками и сведения об общих аравакских практиках не использованы для добавления признаков."
+    },
+    {
+      "sourceIndex": 231,
+      "sourceName": "Gwich'in beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования гвичин",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные духовные традиции гвичин с особой связью земли, людей и карибу.",
+      "profile": "+nature_spirits +afterlife +occult +divination_oracles +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gwich%27in_people",
+        "https://alaskawild.org/wilderness-and-traditional-indigenous-beliefs/",
+        "https://www.govinfo.gov/content/pkg/CHRG-116hhrg35816/pdf/CHRG-116hhrg35816.pdf",
+        "https://www.collectionscanada.gc.ca/obj/s4/f2/dsk2/ftp03/NQ34567.pdf",
+        "https://oldcrow.ca/youth%20gathering08/pdf/youthregistration.pdf"
+      ],
+      "notes": "Исходный URL не загрузился. Найдены современные прямые свидетельства представительницы Gwich’in Steering Committee Бернадетт Демьентьефф о духовной связи с карибу и священных территориях. Они подтверждают традицию, но одна связь с карибу не доказывает общий ответ об одушевлённости всей природы или обязательный культ предков. Профиль оставлен пустым. Проверка 2026-10: Полевое исследование The Costs of Power Sharing приводит рассказы Sarah Abel и других Gwich’in о личных отношениях с животными-покровителями, сверхобычном предсказании прибытия карибу и уходе духа умершего к стаду (+nature_spirits, +occult, +divination_oracles, +afterlife). Программа Vuntut Gwitchin First Nation отдельно документирует традиционные лечебные церемонии и молитвы Randall Tetlichi (+ritual). Это локальные свидетельства, не доктрина каждого гвичина; святость земли сама по себе не использована как доказательство духов."
+    },
+    {
+      "sourceIndex": 232,
+      "sourceName": "Huaorani religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования ваорани",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Амазонские традиции ваорани Эквадора с неразделённостью повседневного и духовного мира.",
+      "profile": "+nature_spirits +ritual +occult +entheogenic_ritual +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Huaorani_people",
+        "https://www.pbs.org/wgbh/nova/shaman/shaman4.html",
+        "https://www.dlib.si/stream/URN%3ANBN%3ASI%3ADOC-MY4OW0CQ/9ce6471f-5494-4208-abaa-9be338c8a7b8/PDF"
+      ],
+      "notes": "Раздел Worldview статьи о народе прямо описывает духов, присутствующих повсюду, и традиционное анимистическое мировоззрение. Huaorani и Waorani — варианты названия; другой дублирующей записи в готовом каталоге не найдено. Современная христианизация части групп не переносится в этот профиль. Проверка 2026-10: Прямой репортаж NOVA о Mengatoi и работе Rocio Alarcon документирует приготовление Mi’i из Banisteriopsis, транс и общение с духами для установления причин болезни, а также извлечение болезни (+ritual, +entheogenic_ritual, +divination_oracles, +occult). Полевая статья Wierucka о 2007–2012 годах подчёркивает различия и изменения шаманских практик; пример одного специалиста не превращён в утверждение обо всех современных ваорани."
+    },
+    {
+      "sourceIndex": 233,
+      "sourceName": "Huastec religion",
+      "decision": "keep",
+      "canonicalName": "Историческая религия уастеков",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Древние местные культы уастекской цивилизации Мексики, включая почитание божества ветра Ээкатля.",
+      "profile": "+divine +ritual +many_gods +icons +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Huastec_civilization",
+        "https://lugares.inah.gob.mx/en/node/4287",
+        "https://www.amnh.org/research/anthropology/curatorial-research/meso-american-archaeology/projects/5-huasteca"
+      ],
+      "notes": "Исходная статья о цивилизации прямо описывает почитание Ээкатля и связанные храмовые сооружения. Одного названного божества недостаточно для +one_god или +many_gods. Общие божества с ацтеками не делают традиции тождественными; это не современное «Мезоамериканское возрождение». Проверка 2026-10: Museo de la Cultura Huasteca (INAH) прямо описывает Teem, Mam и Dhipaak, религиозную скульптуру и погребальные подношения, помогавшие умершим достичь подземного мира (+many_gods, +icons, +afterlife). AMNH подтверждает культовые фигурки в археологическом контексте. Спорная идентификация каждой отдельной женской статуи как богини не предполагается."
+    },
+    {
+      "sourceIndex": 234,
+      "sourceName": "Huichol religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия уичолей (виксарика)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции виксарика Мексики со священными ландшафтами, предками-божествами и паломничеством в Вирикута.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +entheogenic_ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Huichol_people",
+        "https://whc.unesco.org/en/list/1704",
+        "https://wixarika.org/es/sitios-sagrados",
+        "https://ich.unesco.org/en/decisions/8.COM/7.A.8",
+        "https://universoshuicholes.inah.gob.mx/en/simbolos.html"
+      ],
+      "notes": "Признаки исходной статьи дополнительно сверены по UNESCO: природные элементы рассматриваются как предки-божества, описаны паломничества и подношения. Слово trinity в исходном популярном описании не относится к христианской Троице; +trinity не назначен. Проверка 2026-10: UNESCO прямо подтверждает обрядовое употребление пейота в паломничестве Wirikuta (+entheogenic_ritual). INAH описывает nierika как религиозные изображения и предметы, через которые открывается доступ к иному миру (+icons). Инициация целителей не объявлена отдельным инициатическим братством без дополнительных данных."
+    },
+    {
+      "sourceIndex": 235,
+      "sourceName": "Hupda cosmgony",
+      "decision": "keep",
+      "canonicalName": "Космология хупда",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные космологические представления хупда с несколькими уровнями мира и мифологическими существами.",
+      "profile": "+divine +ritual +ancestors +afterlife +entheogenic_ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hupda_people",
+        "https://pib.socioambiental.org/en/Povo:Hupd'%C3%A4h"
+      ],
+      "notes": "Исходное sourceName содержит опечатку cosmgony и сохранено без изменения. Раздел Cosmology статьи описывает сверхположенные миры и Кег-тех как создателя земных существ. Само наличие животных в мифах не доказывает одушевлённости каждого природного объекта; остальные признаки опущены. Проверка 2026-10: ISA на основе Reid, Pozzobon и Athias прямо описывает для комплекса Uaupés, включающего Hupdu, посещение старшими мира предков с Banisteriopsis ради получения имени ребёнка (+ancestors, +ritual, +entheogenic_ritual, +occult), а также пребывание умерших в мире света (+afterlife). Источник явно разграничивает этот региональный комплекс и другие группы; сведения о Yuhupdeh не добавлены по одному языковому родству."
+    },
+    {
+      "sourceIndex": 236,
+      "sourceName": "Illinois religion",
+      "decision": "keep",
+      "canonicalName": "Исторические верования иллинойсов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции народов конфедерации иллинойсов с обращением к духам и ритуальными целителями.",
+      "profile": "+ritual +divine +nature_spirits +personal +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Illinois_Confederacy",
+        "https://www.museum.state.il.us/muslink/nat_amer/post/htmls/be_religion.html",
+        "https://www.museum.state.il.us/muslink/nat_amer/post/htmls/be_manitou.html"
+      ],
+      "notes": "Раздел Religion исходной статьи прямо описывает духовную помощь охотникам и воинам и участие шаманов в исцелении. Из этих данных не выведены единый пантеон или тезис об одушевлённости всей природы. Миссионерское обращение части населения отделено от традиционных практик. Проверка 2026-10: Illinois State Museum описывает Kitchesmanetoa (+divine), животных-manitou как личных духов-покровителей (+nature_spirits), обращения к ним за помощью (+personal), а также выставление шкур и перьев как их действенных священных представлений (+icons). Первенство одного божества над остальными духами не приравнено к исключительному единобожию."
+    },
+    {
+      "sourceIndex": 237,
+      "sourceName": "Inuit religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные религии инуитов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные арктические традиции инуитов с духовными силами, душами животных и ритуальными посредниками.",
+      "profile": "+nature_spirits +ritual +divination_oracles +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Inuit_religion",
+        "https://aina.ucalgary.ca/arviajuaq/Caribou_Inuit.html"
+      ],
+      "notes": "Исходная статья прямо описывает природных духов, души животных и angakut. Региональные системы различаются, особенно в вопросах посмертия и перерождения, поэтому эти признаки не обобщены. Это не синоним всей Alaska Native religion: последняя включает также другие народы и ограничена другим географическим охватом. Проверка 2026-10: Материал Arvia’juaq Национального исторического места описывает конкретно Caribou Inuit: шаман входит в транс, спрашивает духов о причине несчастья и получает указания для исцеления (+divination_oracles, +occult). Эти прямо засвидетельствованные практики включены в широкий профиль инуитских традиций с сохранением региональной оговорки; конкретная единая схема загробного мира не приписана."
+    },
+    {
+      "sourceIndex": 238,
+      "sourceName": "Iroquoian religions",
+      "decision": "keep",
+      "canonicalName": "Религиозные традиции ирокезоязычных народов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Зонтичная группа духовных традиций ирокезоязычных народов Северной Америки.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Iroquoian_peoples"
+      ],
+      "notes": "Исходная ссылка о языково-культурной группе, включая хауденосауни, чероки, вендат и другие народы. Краткое упоминание orenda не подтверждает единой доктрины всех перечисленных общностей. Сохраняется как широкая категория с пустым профилем; не синоним Longhouse religion или всей религии одних хауденосауни. Проверка 2026-10: Широкая языково-культурная категория охватывает самостоятельные религиозные традиции. Общего первичного источника, устанавливающего конкретные признаки для всего объёма категории, не найдено. Профиль не заполнен суммой черт Cherokee, Wendat и Haudenosaunee: такая сумма ложно создала бы единую религию."
+    },
+    {
+      "sourceIndex": 239,
+      "sourceName": "Jivaroan religion",
+      "decision": "keep",
+      "canonicalName": "Религиозные традиции чичам (хиваро)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Группа родственных амазонских традиций шуар, ачуар, авахун и других народов чичам.",
+      "profile": "+nature_spirits +ritual +entheogenic_ritual +occult +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jivaroan_peoples",
+        "https://magivanga.com/wp-content/uploads/2012/05/michael_harner_hallucinogens_and_shamanism.pdf",
+        "https://www.ucpress.edu/book/9780520050655/the-jivaro"
+      ],
+      "notes": "Источник даёт широкое сравнительное описание духовных сил и обрядов. Это родительская категория, а не подтверждённый синоним отдельных Achuar religion или Aguaruna religion из готовой партии. Название Chicham в открытой статье соответствует прежнему Jivaroan; особенности одной группы не назначаются всем. Проверка 2026-10: Harner в первичном этнографическом описании The Sound of Rushing Water прямо описывает natemä, приобретение tsentsak, магические действия и получение сведений в видениях (+entheogenic_ritual, +occult, +divination_oracles). Его материал преимущественно относится к Shuar/untsuri suarii восточного Эквадора 1956–1969 годов; он подтверждает практики внутри широкой категории, но не их обязательность у всех Chicham."
+    },
+    {
+      "sourceIndex": 240,
+      "sourceName": "Kalapalo beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования калапало",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции калапало Верхнего Шингу с музыкальными обрядами и взаимодействием с могущественными существами.",
+      "profile": "+ritual +nature_spirits +ancestors +occult +afterlife +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kalapalo_people",
+        "https://pib.socioambiental.org/en/Povo:Kalapalo",
+        "https://www.pib.socioambiental.org/pt/Povo%3AKalapalo",
+        "https://www.scribd.com/document/1042530921/The-Kalapalo-Indians-of-central-Brazil-Basso"
+      ],
+      "notes": "Исходная статья о народе мало раскрывает религиозные признаки. Этнографический материал Instituto Socioambiental подробно подтверждает музыкальные обряды, их сезонность и отношения с itseke. Из понятия могущественных существ не выведен единый ответ о богах или духах всей природы. Проверка 2026-10: ISA описывает духов леса, вод и вихрей itseke (+nature_spirits), чествование умерших наследственных лидеров Egitsu (+ancestors) и ритуальное управление опасными силами (+occult). Первичная этнография Ellen Basso, The Kalapalo Indians of Central Brazil, описывает деревню умерших и шаманское гадание в трансе с сообщениями умерших о причинах бедствий (+afterlife, +divination_oracles). Наличие могущественных существ не превращено автоматически в отдельный пантеон богов."
+    },
+    {
+      "sourceIndex": 241,
+      "sourceName": "Kalinago religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования калинаго",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные духовные традиции калинаго Малых Антильских островов.",
+      "profile": "+nature_spirits +divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kalinago",
+        "https://www.nps.gov/places/the-arrival-of-the-kalinago.htm",
+        "https://museum.gd/kalinago/",
+        "https://education.gov.kn/wp-content/uploads/2021/09/Enhanced-Curriculum-Grade-Five-5-Social-Studies.pdf"
+      ],
+      "notes": "Исходная статья содержит очень краткий раздел Religion и исторические обобщения. Дополнительный материал National Park Service прямо описывает духовное оживление природных элементов у калинаго; профиль ограничен этим признаком. Историческое слово Caribs неоднозначно и не доказывает тождества с Kalina материковой Южной Америки или Garifuna. Проверка 2026-10: Официальное учебное пособие Министерства образования Сент-Китса и Невиса прямо описывает исторических калинаго как политеистов и упоминает церемонии почитания богов (+divine, +many_gods, +ritual). Это исторический контекст; сведения о земи и посмертии таино из соседней строки таблицы не перенесены на калинаго."
+    },
+    {
+      "sourceIndex": 242,
+      "sourceName": "Karankawa religion",
+      "decision": "keep",
+      "canonicalName": "Исторические верования каранкава",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные религиозные практики каранкава побережья Техаса, известные по ограниченным ранним описаниям.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Karankawa_people",
+        "https://www.tshaonline.org/handbook/entries/karankawa-indians",
+        "https://texashistory.unt.edu/ark%3A/67531/metapth29754/m1/70/"
+      ],
+      "notes": "Раздел Religion and ritual прямо подчёркивает ограниченность европейских сведений и неизвестность смысла ряда действий, но описывает ночные церемонии вокруг огня с напитком yaupon и песнями. Указание на небо не превращено в веру в конкретного Бога; погребальный инвентарь не считается достаточным доказательством единого +afterlife. Проверка 2026-10: TSHA и первичная этнографическая сводка Gatschet подтверждают церемонии с yaupon; Gatschet одновременно прямо отмечает скудость данных о религиозных идеях. Дополнительных признаков не добавлено: употребление кофеинового напитка само по себе не доказывает энтеогенный обряд, а гипотеза о магическом присвоении мужества врага не превращена в универсальную практику."
+    },
+    {
+      "sourceIndex": 243,
+      "sourceName": "Kayabi religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования каяби (кавайвете)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции кавайвете Бразилии с многоуровневым миром, духами-хозяевами животных и шаманским целительством.",
+      "profile": "+nature_spirits +ritual +divine +many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kayabi_people",
+        "https://pib.socioambiental.org/pt/Povo:Kawaiwete_(Kaiabi)",
+        "https://pib.socioambiental.org/en/Povo:Kawaiwete_(Kaiabi)"
+      ],
+      "notes": "Исходный URL не загрузился. Материал Instituto Socioambiental прямо связывает Kawaiwete и Kaiabi, описывает хозяев животных/рыб, духов и шаманское лечение. Подробный текст получен из поискового индекса; прямое открытие альтернативной страницы завершилось тайм-аутом. Этот предел доступа указан, признаки не взяты из одного названия народа. Проверка 2026-10: Англоязычный материал Instituto Socioambiental теперь открыт непосредственно: раздел Cosmology прямо называет богов Ma’it, небесных великих шаманов, и демиургов (+divine, +many_gods). Отдельное наличие ai’an у человека не доказывает продолжение жизни после смерти; воинское возрастное посвящение не закодировано как религиозное братство."
+    },
+    {
+      "sourceIndex": 244,
+      "sourceName": "Keetoowah Society",
+      "decision": "review",
+      "canonicalName": "Общество китува и движение найтхоков",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические традиционалистские организации чероки, связанные с сохранением культуры и религиозных практик.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Keetoowah_Nighthawk_Society",
+        "https://www.okhistory.org/publications/enc/entry.php?entry=RE015",
+        "https://sova.si.edu/record/naa.ms3226"
+      ],
+      "notes": "Название строки Keetoowah Society шире исходной ссылки Keetoowah Nighthawk Society. Oklahoma Historical Society различает исходное политическое общество и более позднюю группу Редбёрда Смита, возникшую после расхождения по политике земельного распределения. Надёжного подтверждения полного тождества нет. Требуется уточнить, какую организацию каталогизировать; спорные неснабжённые ссылками разделы Wikipedia в профиль не перенесены."
+    },
+    {
+      "sourceIndex": 245,
+      "sourceName": "Kichwa religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования амазонских кичва",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции амазонских кичва с душами растений, животных и духами леса и рек.",
+      "profile": "+nature_spirits +ritual +entheogenic_ritual +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amazonian_Kichwas",
+        "https://www.neip.info/novo/wp-content/uploads/2015/04/highpine_origin-of-ayahuasca_neip_2012.pdf"
+      ],
+      "notes": "Исходная ссылка описывает Amazonian Kichwas, а религиозные подробности главным образом относятся к Napo Runa. Каноническое название сужено до амазонского контекста. Не синоним всех «Андских традиций»: языковое родство не тождество. Подтверждены души растений/животных и ритуальное общение; перенос на все кичва не допускается. Проверка 2026-10: Полевое описание Gayle Highpine, основанное на почти двух годах жизни среди Napo Runa, прямо различает целительные церемонии и гадательные функции аяуаски (+entheogenic_ritual, +divination_oracles). Добавления относятся к уже оговорённому амазонскому контексту Napo Runa; гипотеза автора о происхождении аяуаски и представления всех андских кичва не использованы."
+    }
+  ]
+}

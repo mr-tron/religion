@@ -1,0 +1,382 @@
+{
+  "range": [
+    306,
+    325
+  ],
+  "entries": [
+    {
+      "sourceIndex": 306,
+      "sourceName": "Teotihuacan religion",
+      "decision": "keep",
+      "canonicalName": "Религиозные практики Теотиуакана",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические культы Теотиуакана с храмовыми обрядами, божественными изображениями и подношениями.",
+      "profile": "+divine +many_gods +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Teotihuacan",
+        "https://visitateotihuacan.inah.gob.mx/explora/plaza-de-la-luna/"
+      ],
+      "notes": "Археологическая статья подтверждает культовые сооружения, изображения нескольких божественных фигур и обряды. Точные имена, пол и первенство отдельных фигур, особенно «Великой богини», являются интерпретациями; они не закреплены в профиле. Не alias религии ацтеков или современных «Мезоамериканских возрождений». Проверка 2026-10: Официальное описание INAH Plaza de la Luna подтверждает процессионный, церемониальный и жертвенный контекст, но не предоставляет самостоятельного надёжного ответа о судьбе души или посвящении в религиозное братство. Профиль не расширен. Маски и условные лица на отдельных археологических предметах без доказательства их ритуального ношения не превращены в ritual_masks."
+    },
+    {
+      "sourceIndex": 307,
+      "sourceName": "Tepehuan beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования тепеуан",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные религиозные традиции тепеуан Мексики с обрядами для умерших и взаимодействием с католическими формами.",
+      "profile": "+ancestors +afterlife +ritual +divine +many_gods +personal +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tepehuan",
+        "https://atlas.inpi.gob.mx/tepehuanos-del-sur-etnografia/"
+      ],
+      "notes": "Исходная статья объединяет северные и южные группы, чьи практики различаются; описание отдельных погребальных действий местами неясно. Использованы только прямые сведения об умерших родственниках, душе и подношениях. Повреждённые формулировки об обращении с телом и единая доктрина для всех групп не реконструируются. Проверка 2026-10: INPI прямо описывает южнотепеуанские обращения к нескольким нативным божествам, Солнцу и интегрированным святым, включая просьбу к божеству-посреднику при лечении (+divine, +many_gods, +personal). Извлечение нападающих на больного объектов, магические очищения и защита от воздействия умерших подтверждают практику ритуальных специалистов (+occult). Это данные южных o’dam внутри широкой записи; не утверждение об обязательных взглядах каждого северного тепеуанца. Огонь в центре танца без отдельного объяснения его сакральной роли не кодируется."
+    },
+    {
+      "sourceIndex": 308,
+      "sourceName": "Ticuna shamanism",
+      "decision": "keep",
+      "canonicalName": "Шаманские практики тикуна",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционные практики тикуна Амазонии с шаманским посредничеством и местными космогоническими представлениями.",
+      "profile": "+divine +nature_spirits +ritual +occult +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ticuna",
+        "https://www.everyculture.com/South-America/Ticuna-Religion-and-Expressive-Culture.html",
+        "https://pib.socioambiental.org/en/Povo:Ticuna"
+      ],
+      "notes": "Религиозный раздел статьи о народе прямо подтверждает исторический шаманизм и создателя Та’э. Общее название шаманизм не использовано для наследования nature_spirits, ancestors или occult без конкретного подтверждения. Современная христианская принадлежность многих тикуна не отменяет историческую практику и не приписывается всей записи. Проверка 2026-10: Предметная статья Encyclopedia of World Cultures о тикуна прямо описывает духов определённых деревьев, от которых шаман получает магическую силу, извлечение болезни, табачные лечебные обряды и две посмертные души (+nature_spirits, +ritual, +occult, +afterlife). Это содержание этнографического источника, а не признаки из одного слова «шаманизм». Описаны маски существ в обряде moça nova/la pelazón, но для узкой записи о шаманских практиках ещё нужно подтвердить их связь именно с деятельностью шамана; ritual_masks здесь не предлагается автоматически по всему народному комплексу. Возрастная инициация девушки не объявлена членством в религиозном братстве."
+    },
+    {
+      "sourceIndex": 309,
+      "sourceName": "Tiwanaku religion",
+      "decision": "keep",
+      "canonicalName": "Религиозные практики Тиуанако",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические культы Тиуанако, известные по церемониальной архитектуре, ритуальным предметам и изображениям божеств.",
+      "profile": "+divine +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tiwanaku_Empire",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6561276/",
+        "https://doi.org/10.1073/pnas.1820749116"
+      ],
+      "notes": "Исходная статья прямо предупреждает, что знания основаны на археологической интерпретации и поздних мифах. Подтверждены культовые объекты и изображения; число божеств и отождествление фигуры Врат Солнца с Виракочей не считаются установленным общим учением. Тиуанако не синоним всех андских традиций или религии инков. Проверка 2026-10: Археологические исследования PNAS подтверждают ритуальные комплексы эпохи Тиуанако, но химически исследованный свёрток Cueva del Chileno происходит из другого района и датируется периодом распада государства. Сама статья оговаривает, что нюхательные принадлежности существовали до и после влияния Тиуанако. Поэтому находка не превращена автоматически в центральный общеобязательный энтеогенный обряд всей религии Тиуанако; новых признаков не добавлено."
+    },
+    {
+      "sourceIndex": 310,
+      "sourceName": "Tlapanec religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия тлапанеков (ме’пхаа)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции ме’пхаа Герреро с мифами о Солнце, Луне, огне и силах природного мира.",
+      "profile": "+divine +many_gods +ritual +fire",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tlapanec_people",
+        "https://atlas.inpi.gob.mx/tlapanecos-etnografia/",
+        "https://www.danieledehouve.com/images/articles/dehouve2018._The_New_Fire.pdf"
+      ],
+      "notes": "Статья о народе содержит религиозный раздел с Акха, Гон, Акуун Мбацун и Акуун Нье. Наличие бога огня не доказывает центральность священного огня в практике, поэтому fire не выставлен. Католические и протестантские принадлежности современных ме’пхаа не смешиваются с традиционным профилем. Проверка 2026-10: INPI прямо описывает земледельческие и дождевые обряды ме’пхаа (+ritual). Danièle Dehouve, The New Fire and Corporal Penance (2018), на собственном материале нескольких тлапанекских общин документирует ритуальное зажигание и гашение Нового Огня, жертвенные подношения ему и связь огня с жизнью общины и сменой властей (+fire). Это новое прямое свидетельство о практике, устраняющее прежний предел: признак больше не основывается лишь на имени бога огня."
+    },
+    {
+      "sourceIndex": 311,
+      "sourceName": "Tlingit religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные религиозные представления тлинкитов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Тлинкитские представления о душе, духовных отношениях с животными, посмертной жизни и родовом перерождении.",
+      "profile": "+nature_spirits +afterlife +reincarnation +ritual +occult +divination_oracles +spirit_possession +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Philosophy_and_religion_of_the_Tlingit",
+        "https://repository.si.edu/bitstream/handle/10088/91722/Social%20Condition%20Beliefs%20and%20Linguistic%20Relationship%20Tlingit.pdf",
+        "https://repository.si.edu/bitstream/handle/10088/1355/SCtA-0007.2-Lo_res.pdf?isAllowed=y&sequence=2"
+      ],
+      "notes": "Источник описывает духов животных, обращение с останками, посмертный мир и возвращение части души в родового потомка. Утверждение статьи, что шаманы исчезли и практика никогда не возродится, не используется как проверенный современный факт. Родовая локальная традиция не alias зонтичной записи о коренных религиях Аляски. Проверка 2026-10: Swanton, Social Condition, Beliefs, and Linguistic Relationship of the Tlingit Indians, с. 469, описывает шаманское установление виновника болезни и извлечение магического объекта (+divination_oracles, +occult). De Laguna, Under Mount Saint Elias, ч. 2, раздел Shamanism, прямо обсуждает ритуальную одержимость и речь духов через шамана (+spirit_possession). Swanton описывает наборы шаманских масок с изображениями духов (+icons; основание ritual_masks для генератора). Исторические представления об источниках болезни не являются обвинениями современных людей и не утверждают медицинскую эффективность."
+    },
+    {
+      "sourceIndex": 312,
+      "sourceName": "Toba religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования ком (тоба)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции ком Южноамериканского Чако с природными существами и шаманским посредничеством.",
+      "profile": "+divine +nature_spirits +ritual +occult +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Toba_people",
+        "https://iighi.conicet.gov.ar/wp-content/uploads/sites/29/2018/03/FH28.pdf"
+      ],
+      "notes": "Раздел Religion подтверждает высшее существо и анимистические и шаманские представления. Тоба здесь — южноамериканские ком, не одноимённые группы Индонезии или исторические табгачи Китая. Профиль не приписывает древние практики всем нынешним ком, включая христиан. Проверка 2026-10: Полевое исследование de Chazal La Guerra del Chaco en perspectiva indígena приводит рассказы ком о песенных действиях шаманов, отправке духов-помощников для получения недоступных обычному наблюдению сведений о противнике и их защитном вмешательстве (+ritual, +occult, +divination_oracles). Объяснение взято из конкретных рассказов ком, а не из общей характеристики религий Чако. Это зафиксированные верования и воспоминания, не подтверждение описанных чудес; вход и выход духов из тела не объявлены автоматически ритуальной одержимостью."
+    },
+    {
+      "sourceIndex": 313,
+      "sourceName": "Totonac religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия тотонаков",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Тотонакские традиции с богинями-матерями, земледельческими обрядами и представлениями о посмертной судьбе души.",
+      "profile": "+divine +many_gods +ritual +afterlife +nature_spirits +icons +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Totonac",
+        "https://atlas.inpi.gob.mx/totonacos-etnografia/"
+      ],
+      "notes": "Статья о народе подтверждает богинь-матерей и кукурузное божество, подношения и посмертную участь души ребёнка. Католические формы исторически взаимодействуют с местными культами. Утверждение статьи об отсутствии других крупных исследований не принято как исчерпывающая оценка науки. Это не синоним всех традиций классического Веракруса. Проверка 2026-10: INPI описывает священных хозяев пещер и холмов, культ изображений antiguas и святых, а также алтари с фигурами сверхъестественных существ из бумаги amate (+nature_spirits, +icons). Раздел Medicina tradicional прямо документирует работу brujos с заклинаниями и магическими средствами, включая целительные применения (+occult). Различаются обычные curanderos и специальные brujos; признак описывает практику внутри традиции, а не обвиняет любого тотонака в колдовстве. Само производство деревянных масок без описания конкретного обряда не использовано для ritual_masks."
+    },
+    {
+      "sourceIndex": 314,
+      "sourceName": "Tzeltal religion",
+      "decision": "keep",
+      "canonicalName": "Религиозные традиции цельталей",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции цельталей Чьяпаса с культами святых, общинными праздниками и обрядами восстановления духовного равновесия.",
+      "profile": "+divine +ritual +nature_spirits +personal +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tzeltal_people",
+        "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/tzotzil-and-tzeltal-pantelho",
+        "https://atlas.inpi.gob.mx/tseltales-tzeltales-etnografia/"
+      ],
+      "notes": "Источник прямо описывает местные сочетания католических и коренных элементов, годовой цикл праздников и ритуальное целительство. Верить во вредоносную магию не означает лично использовать её, поэтому occult не назначен каждому носителю традиции. Цельтали и цоцили родственны, но имеют отдельные местные комплексы, не alias. Проверка 2026-10: Предметная статья Encyclopedia of World Cultures о цоцилях и цельталях Пантело прямо описывает духов-животных chulel, молитвы святым и уход за их культовыми изображениями (+nature_spirits, +personal, +icons). Это данные непосредственно о цельтальских общинах исследуемого района, а не перенос признаков цоцилей по языковому родству. INPI подтверждает вариативный местный католическо-коренной комплекс. Упоминание веры во вредоносную магию по-прежнему не кодируется как использование магии."
+    },
+    {
+      "sourceIndex": 315,
+      "sourceName": "Tzotzil religion",
+      "decision": "keep",
+      "canonicalName": "Религиозные традиции цоцилей",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции цоцилей Чьяпаса с природными божествами, предковыми фигурами и общинными подношениями.",
+      "profile": "+divine +many_gods +nature_spirits +ritual +personal +icons +occult +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tzotzil",
+        "https://atlas.inpi.gob.mx/tsotsiles-tzotziles-etnografia/",
+        "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/tzotzil-and-tzeltal-pantelho"
+      ],
+      "notes": "Раздел Native religion описывает природные священные силы и подношения на ритуальных обходах. Родительские божества Totilme’il не приравнены автоматически к семейному почитанию человеческих предков. Современные католические, протестантские, мусульманские и другие принадлежности цоцилей не сведены к одному профилю. Проверка 2026-10: INPI прямо описывает me’santo, практикующего магико-религиозные обряды, связанные с оракулами и говорящими святыми (+occult, +divination_oracles). Предметная статья о местных цоцильских и цельтальских общинах Пантело подтверждает молитвы святым и религиозный уход за их изображениями (+personal, +icons). Разнообразие общин сохранено; служение целителей не приписано каждому цоцилю. Само существование животного двойника не интерпретируется как перерождение."
+    },
+    {
+      "sourceIndex": 316,
+      "sourceName": "Tzʼutujil religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные религиозные представления цутухилей",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции цутухилей озера Атитлан с живым Святым Миром, науалями и общинными ритуалами.",
+      "profile": "+divine +nature_spirits +ancestors +ritual +many_gods +personal +icons +reincarnation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tz%CA%BCutujil_people",
+        "https://www.bxscience.edu/ourpages/auto/2012/4/2/43554945/maya-culture%20and%20conquest.pdf",
+        "https://digitalcommons.lindenwood.edu/cgi/viewcontent.cgi?article=1344&context=jigs"
+      ],
+      "notes": "Исходный религиозный раздел преимущественно описывает Сантьяго-Атитлан: Santo Mundo и науалей, древних людей с божественным статусом, получающих молитвы и подношения. Это локальная традиция, а не единая неизменная вера всех цутухилей. Почитание Максимона входит в некоторые общины, но запись 258 уже обозначает отдельный культ и не является полным синонимом. Проверка 2026-10: Религиозный раздел исходной статьи прямо описывает молитвы древним божественным Nawal и нескольким Spirit Lords, культовые статуи святых как их проявления, а также песни для защиты и воздействия на врага (+many_gods, +personal, +icons, +occult); это конкретный Сантьяго-Атитлан. Первичная работа Carlsen и Prechtel The Flowering of the Dead (Man 26, 1991, с. 23–42) рассматривает k’ex как местную форму продолжения жизни и перерождения между поколениями (+reincarnation). Рецензия на полевое исследование O’Brien-Rothe независимо подтверждает группу предков-богов и ритуальные песни. Биологическая смена поколений сама по себе не основание признака; здесь он прямо религиозно истолкован источниками."
+    },
+    {
+      "sourceIndex": 317,
+      "sourceName": "Wabunowin",
+      "decision": "keep",
+      "canonicalName": "Вабуновин: обрядовые традиции Рассвета",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Религиозные традиции анишинаабе",
+      "description": "Обрядовые и целительные традиции ваабано у некоторых общин анишинаабе.",
+      "profile": "+ritual +occult +divination_oracles +fire",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wabunowin",
+        "https://pimaki.ca/21-artefacts-explained/",
+        "https://www.gov.mb.ca/nrnd/forest/pubs/forest_lands/land/pauingassi_fn_final_lands_mgmt_plan_nov2012.pdf",
+        "https://central.bac-lac.gc.ca/.item?app=Library&id=nq23580&oclc_number=1150882872&op=pdf",
+        "https://antrocom.net/wp/wp-content/uploads/2024/05/busatta-sandra-flight-owl-wabeno-windigo-wendigokan-anishinabe.pdf"
+      ],
+      "notes": "Исходная статья описывает «Общество Рассвета», но академические источники различаются в оценке степени его организованности и истории. Надёжно подтверждены сами церемонии ваабано: их отдельно описывают община Пауингасси и исследователи музейной коллекции. Сохранён этот узкий ритуальный комплекс; подробные обобщения о догматике и перерождении не кодируются. Не синоним мидевивин или всех традиций анишинаабе. Проверка 2026-10: Sandra Busatta в Antrocom 19(1), 2023, с. 47–90, сопоставляя Jenness и Grim, прямо описывает именно wabeno: магическое обращение с углями при лечении, гадание по раскалённым углям и особую роль огненного покровителя (+occult, +divination_oracles, +fire). Обобщения не основаны на обрядах мидевивин, shaking tent или Boodaade из соседних описаний. Различия между отдельными специалистами и организованными группами сохранены; новое initiatory_brotherhood не добавлено."
+    },
+    {
+      "sourceIndex": 318,
+      "sourceName": "Wai-Wai religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования вайвай",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционные духовные представления и обряды вайвай Гвианского региона с духами мест, животных и шаманским посредничеством.",
+      "profile": "+nature_spirits +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wai-Wai_people",
+        "https://en.wikipedia.org/wiki/Wai-wai_people",
+        "https://pib.socioambiental.org/en/Povo%3AWaiwai",
+        "https://digitalcommons.trinity.edu/tipiti/vol20/iss1/3/",
+        "https://pib.socioambiental.org/en/Povo:Waiwai"
+      ],
+      "notes": "Исходная ссылка с прописным Wai-Wai не загрузилась; вариант Wai-wai_people открыт. Этнографический материал ISA и статья с соавторством вайвай подтверждают духов мест и ритуалы, а также серьёзные изменения при христианизации. Это исторический и продолжающий изменяться комплекс; нынешние вайвай не описываются как неизменно нехристианская группа. Проверка 2026-10: Прямой материал ISA Rituals and transformations описывает прежние обряды yamo с маскированными танцорами, вызывающими духов плодородия (+icons; основание ritual_masks для генератора). Это историческая практика вайвай, отличаемая в источнике от позднейших преобразованных христианских праздников. Страх чужого колдовства и неопределённые рассказы о снах не использованы для автоматического occult или divination_oracles."
+    },
+    {
+      "sourceIndex": 319,
+      "sourceName": "Wapishana religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования вапишана",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции вапишана с духовным целительством и представлениями о посмертной жизни.",
+      "profile": "+afterlife +ritual +nature_spirits +occult +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wapishana",
+        "https://pib.socioambiental.org/en/Povo:Wapichana"
+      ],
+      "notes": "Разделы Religion и Death статьи о народе подтверждают целительные ритуалы и погребальные вещи для посмертного использования. Описание вредоносных духов не превращено в обвинение реальных людей. Недатированное утверждение, что никто не признаётся в практике, не используется для оценки современного распространения; христианские формы могут сосуществовать с местными. Проверка 2026-10: Полевая этнография ISA, опирающаяся на исследования Nádia Farage, прямо описывает одушевлённые растения wapananinao и духовные существа гор (+nature_spirits), действенные формулы puri для исцеления, охоты, обольщения и мести (+occult). Во время обряда душа marinao выходит из тела, а другие существа, особенно умершие шаманы, проявляются через его тело и ведут диалог с помощниками (+spirit_possession). Употребление «магических» растений не приравнено без фармакологических данных к психоактивности. Источник оговаривает неопределённость общей посмертной судьбы и особое посмертие шаманов."
+    },
+    {
+      "sourceIndex": 320,
+      "sourceName": "Warao religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия варао",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции варао дельты Ориноко с космогоническими рассказами и шаманскими песенными обрядами.",
+      "profile": "+ritual +divine +many_gods +afterlife +entheogenic_ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Warao_people",
+        "https://ethnomusicologyreview.ucla.edu/sites/default/files/prevol4.pdf",
+        "https://ehrafworldcultures.yale.edu/cultures/ss18/documents/016",
+        "https://www.journals.uchicago.edu/doi/full/10.14318/hau2.2.013"
+      ],
+      "notes": "Раздел Religion статьи о народе подтверждает миф о небесном предке и исполнение шаманами дождевых песен. Рассказ о происхождении не доказывает наличие обязательного культа предков, поэтому ancestors не назначен. Недостаточно сведений для divine, many_gods или nature_spirits; статья о народе не является полным описанием религии. Проверка 2026-10: Johannes Wilbert в опубликованном UCLA обсуждении Music/Trance Relations (Pacific Review of Ethnomusicology 4, 1987) по собственным полевым данным прямо описывает направленные божества, разные посмертные небеса и табачный транс при ритуальном посвящении варао (+divine, +many_gods, +afterlife, +entheogenic_ritual); eHRAF подтверждает предмет его отдельного исследования табачного экстаза. Полевое исследование HAU Bureaucratic Anxiety описывает подчинение духов по имени и извлечение патогенной сущности с помощью ритуальной речи (+occult). Христианские нормы и практики других народов не перенесены; разные классы ритуальных специалистов не сведены к одному догмату."
+    },
+    {
+      "sourceIndex": 321,
+      "sourceName": "Wari religion",
+      "decision": "keep",
+      "canonicalName": "Религиозные практики культуры уари",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические культы андской культуры уари с храмовыми обрядами и изображениями божества с жезлами.",
+      "profile": "+divine +ritual +icons +ancestors",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wari_culture",
+        "https://www.cambridge.org/core/journals/latin-american-antiquity/article/abs/mortuary-preferences-a-wari-culture-case-study-from-middle-horizon-peru/8AFBD9508B49B81A429309CCDC8CE559",
+        "https://www.slam.org/collection/objects/1172/"
+      ],
+      "notes": "Исходная статья описывает храмы, жертвоприношения животных и божество с жезлами. Её необычная датировка некоторых изображений более чем тремя тысячелетиями не использована. Реконструируемая религия уари не синоним тиуанакских или всех андских традиций. Особенно не путать с амазонским народом Wari', следующим в реестре. Дополнение 2026-10-25: исследование Isbell о погребениях уари в Latin American Antiquity прямо описывает почитание предков в многократно посещаемых гробницах. Saint Louis Art Museum связывает групповые вотивные фигурки с почитанием предков. Это подтверждает ancestors; предположения о конкретных смесях вилки с пивом здесь не кодируются."
+    },
+    {
+      "sourceIndex": 322,
+      "sourceName": "Wari' beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования вари' (пакаа-нова)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные представления вари' бразильской Рондонии об одушевлённых животных, человеческой природе и отношениях с умершими.",
+      "profile": "+nature_spirits +afterlife +ritual +ancestors +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wari%27_people",
+        "https://www.journals.uchicago.edu/doi/full/10.1086/678118",
+        "https://povosindigenas.org.br/en/Povo%3AWari%27",
+        "https://pib.socioambiental.org/en/Povo%3AWari%27"
+      ],
+      "notes": "Это амазонский народ, не андская культура уари. Исходная статья и работы Апаресиды Виласы подтверждают сложные представления о теле, душе и перспективах других существ; этнографический обзор ISA отдельно описывает мир умерших. Христианизация привела к изменениям, поэтому исторические погребальные практики не объявлены нынешней нормой и не используются как отличительный вопрос. Дополнение 2026-10-25: этнография Aparecida Vilaça (ISA), Cosmology, прямо описывает сохраняющуюся взаимную помощь живых и умерших родственников, которые возвращаются, чтобы кормить родню (ancestors), а также лечение шаманами болезней от животных-духов и колдунов (occult). Возвращение умерших в образе пекари не кодируется как реинкарнация: источник описывает превращение духов, продолжающих жить в подводном мире."
+    },
+    {
+      "sourceIndex": 323,
+      "sourceName": "Washat Dreamers Religion",
+      "decision": "review",
+      "canonicalName": "Вашат и движения сновидцев Колумбийского плато",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Обрядовые традиции вашат, или Семи барабанов, и связанные исторические пророческие движения сновидцев Колумбийского плато.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Native_American_religions",
+        "https://ctuir.org/about/history-culture",
+        "https://www.historylink.org/File/9481",
+        "https://search.worldcat.org/title/Dreamer-prophets-of-the-Columbia-Plateau-%3A-Smohalla-and-Skolaskin/oclc/19122341"
+      ],
+      "notes": "Review: исходный раздел прямо предупреждает, что смешивает варианты веры, названия и исторические изменения. Официальный сайт CTUIR подтверждает живую традицию Washat/Seven Drums, а исследования различают её древний обрядовый пласт и движение Смохаллы. До уточнения объёма строки не объявлять все названия полными синонимами. Это не ирокезская Longhouse Religion из более поздней строки religions.txt."
+    },
+    {
+      "sourceIndex": 324,
+      "sourceName": "Wayuu religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия вайю",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции вайю Гуахиры с Малейвой, природными силами и обрядами жизненного цикла.",
+      "profile": "+divine +nature_spirits +ritual +many_gods +personal +afterlife +ancestors +revelation +divination_oracles +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wayuu_people",
+        "https://www.procuraduria.gov.co/portal/media/docs/CaracterizacionWayuunaiki.pdf",
+        "https://www.minjusticia.gov.co/programas-co/fortalecimiento-etnico/Documents/banco-2019/19.%20CARACTERIZACI%C3%93N%20DEL%20PUEBLO%20WAY%C3%9AU%20ARAURAYU.pdf",
+        "https://expediciones.igac.gov.co/wayuu/"
+      ],
+      "notes": "Религиозный раздел исходной статьи имеет предупреждение об источниках. Поэтому использованы дополнительные материалы: характеристика вайю от прокуратуры Колумбии и документ объединения семейных глав Araurayu, размещённый Минюстом, подтверждают Малейву, Хую, Пулови, священные места и обряды. Вайю не отождествляются с вайвай; сходство написания не синоним. Дополнение 2026-10-25: совместная экспедиция IGAC, ACT и носителей вайю документирует Ma’leiwa, Juya и Pulou’i (many_gods), просьбы о разрешении к духовным покровителям (personal), двойное погребение, мир душ Jeepira и сохранение связей с предками (afterlife, ancestors). Lapü передаёт откровения, предписания и предзнаменования, толкуемые o’ushii, outsü и piachi; описаны духовные очищения и лечение — revelation, divination_oracles, occult. Это документированные местные варианты Высокой Гуахиры, а не единый неизменный катехизис всех вайю."
+    },
+    {
+      "sourceIndex": 325,
+      "sourceName": "Wendat religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования вендатов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции вендатов с космогоническими рассказами, ритуальным целительством и толкованием сновидений.",
+      "profile": "+divine +nature_spirits +ritual +revelation +divination_oracles +occult +ancestors +afterlife",
+      "proposedQuestions": [
+        {
+          "id": "sacred_dreams",
+          "text": "Считаете ли вы сновидения важным способом получения духовного знания или наставления?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отражает подтверждённую роль снов у вендатов и позволяет сопоставлять их с пророческими движениями сновидцев, ваабано и некоторыми амазонскими традициями. Не тождественен вере в новое всеобщее откровение и не требует ритуального вселения духов."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wendat_people",
+        "https://ehrafworldcultures.yale.edu/cultures/ng05/summary",
+        "https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/002/MR82181.PDF"
+      ],
+      "notes": "Статья о народе описывает исторических arendiwane, духов-помощников оки и культурного героя Иошеку. Сны и видения почитались также после обращения части вендатов в христианство; это не основание автоматически выставлять jesus всем носителям традиции. Исторические свидетельства не считаются неизменным современным исповеданием. Дополнение 2026-10-25: Yale eHRAF Huron/Wendat описывает сны как духовное наставление и шаманских духов-помощников; исследование Trading Well-Being (Library and Archives Canada), с. 20, прямо описывает гадательные методы диагностики и обрядовое лечение — revelation, divination_oracles, occult. Там же Feast of the Dead связан с почитанием умерших и переходом в страну душ — ancestors и afterlife. Исторические рассказы миссионеров используются с учётом их предвзятости, а не как современная обязательная доктрина."
+    }
+  ]
+}

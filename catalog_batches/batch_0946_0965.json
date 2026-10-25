@@ -1,0 +1,373 @@
+{
+  "range": [
+    946,
+    965
+  ],
+  "entries": [
+    {
+      "sourceIndex": 946,
+      "sourceName": "Church of World Messianity",
+      "decision": "keep",
+      "canonicalName": "Церковь всемирного мессианства / Сэкай кюсэйкё",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Японское движение Мокити Окады, связывающее очищение духовным светом дзёрэй с естественным земледелием и красотой искусства.",
+      "profile": "+divine +revelation +ritual",
+      "proposedQuestions": [
+        {
+          "id": "spiritual_hand_transmission",
+          "text": "Считаете ли вы передачу духовного света или энергии через руки важной частью вашей практики?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отражает дзёрэй в Church of World Messianity и Shumei и тэкадзаси/окиёме в Mahikari. Различает эти практики с медитацией, молитвой и общими обрядами без передачи через руки; не означает автоматически occult или scientific. Применение к иным целительским движениям требует отдельной проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Church_of_World_Messianity",
+        "https://www.reimei.or.jp/ja/"
+      ],
+      "notes": "Исходная статья подтверждает переживание откровения Окадой и центральность дзёрэй. Официальный материал одной из ветвей поясняет передачу божественного света через руку. Мессианский век в названии не означает христианскую центральность Иисуса. Не alias Shumei или Mahikari: общие истоки и похожая целительная практика не устраняют самостоятельности движений."
+    },
+    {
+      "sourceIndex": 947,
+      "sourceName": "Daehan Cheolligyo",
+      "decision": "keep",
+      "canonicalName": "Дэхан чхоллигё",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Тэнрикё",
+      "description": "Самостоятельная южнокорейская организация линии Тэнрикё, адаптировавшая её практики к корейскому культурному контексту.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Daehan_Cheolligyo"
+      ],
+      "notes": "Исходник чётко отличает Daehan Cheolligyo от японской центральной организации Тэнрикё и от Cheolligyo Han’gukgyodan. Поэтому не alias общей записи «Тэнрикё». Подробные различия алтаря и истории локализации не превращены в одинаковый доктринальный профиль всех корейских последователей; семейный профиль не наследуется."
+    },
+    {
+      "sourceIndex": 948,
+      "sourceName": "Dōkai",
+      "decision": "keep",
+      "canonicalName": "Докай — Общество Пути",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Мацумуры Кайсэки, объединяющее теистическую веру, нравственное воспитание, любовь к ближнему и идею вечной жизни.",
+      "profile": "+divine +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/D%C5%8Dkai"
+      ],
+      "notes": "Статья непосредственно перечисляет четыре принципа и синтез христианских, конфуцианских, даосских и японских мотивов. Частные влияния не означают обязательных +jesus, +dao или +kami. Указанные в источниках годы 1907 и 1912 не сведены к одной бесспорной дате."
+    },
+    {
+      "sourceIndex": 949,
+      "sourceName": "Gedatsukai",
+      "decision": "keep",
+      "canonicalName": "Гэдацукай",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Японское синкретическое движение Сэйкэна Окады, ориентированное на духовное совершенствование и благодарность божественному, предкам и духовным покровителям.",
+      "profile": "+divine +ancestors +karma +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gedatsukai"
+      ],
+      "notes": "Источник прямо описывает Universal Life Force как объект почитания, освобождение от негативной кармы и праздники благодарности предкам. Цель духовного просветления не автоматически равна liberation, который спрашивает об освобождении от цикла перерождений. Не синоним всякой практики гэдацу или одной американской организации; допускается сочетание с другой религиозной принадлежностью."
+    },
+    {
+      "sourceIndex": 950,
+      "sourceName": "Happy Science",
+      "decision": "keep",
+      "canonicalName": "Наука счастья / Кофуку-но-кагаку",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Рюхо Окавы, почитающее Эль Кантаре и развивающее учение о вечной душе, перерождении и духовном самосовершенствовании.",
+      "profile": "+divine +many_gods +scripture +reincarnation +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Happy_Science",
+        "https://happy-science.org/en/el-cantare/teachings-of-el-cantare/",
+        "https://happy-science.jp/en/feature/spiritual-world/reincarnation/4202/"
+      ],
+      "notes": "Официальное изложение подтверждает верховного Эль Кантаре, проявления в различных религиозных образах и многократное перерождение. many_gods допускает проявления божественного по формулировке questions.js; исключительное one_god не выведено из титула «верховный». Название Science не доказывает научный метод. Религиозные утверждения представлены как учение, а не установленные факты."
+    },
+    {
+      "sourceIndex": 951,
+      "sourceName": "Higashikuni-kyo",
+      "decision": "keep",
+      "canonicalName": "Хигасикуни-кё",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Кратковременная японская религиозная организация 1950 года, связанная с бывшим принцем Хигасикуни и буддийским священником Обарой Рюкаем.",
+      "profile": "+buddha +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Higashikuni-kyo",
+        "https://nirc.nanzan-u.ac.jp/journal/15/article/2436/pdf/download"
+      ],
+      "notes": "Исходный URL не открылся, но историческая публикация Nanzan подтверждает отдельную организацию, буддийскую основу и поминальные молитвенные действия во имя мира. Участие бывшего принца не делает её синонимом императорского культа или школы сото-дзэн в целом. Разногласия о регистрации и запрете не использованы для полного общего доктринального профиля."
+    },
+    {
+      "sourceIndex": 952,
+      "sourceName": "Hikari no Wa",
+      "decision": "keep",
+      "canonicalName": "Хикари-но-ва",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Организация Фумихиро Дзёю, отделившаяся от Алеф и развивающая собственную программу духовного обучения и паломничеств.",
+      "profile": "+buddha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hikari_no_Wa"
+      ],
+      "notes": "Источник подтверждает самостоятельную организацию с 2007 года и занятия буддийскими учениями. Не alias Алеф или Аум синрикё: организационная преемственность не означает тождества современного содержания и ответственности. Прежнее учение об Асахаре, апокалипсисе и иные взгляды Аум не перенесены автоматически."
+    },
+    {
+      "sourceIndex": 953,
+      "sourceName": "Honbushin",
+      "decision": "keep",
+      "canonicalName": "Хонбусин",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Хонмити",
+      "description": "Организация линии Тэнрикё, вышедшая из Хонмити вокруг Ониси Тамы и развивающая практики внутреннего самоисследования и духовного служения.",
+      "profile": "+divine +kami +meditation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Honbushin",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9822"
+      ],
+      "notes": "Энциклопедия Kokugakuin подтверждает самостоятельность, происхождение из Honmichi, статус религиозных посредников и практики mongyō, zendō и медитации. Не alias Хонмити или всей Тэнрикё. Три элемента огонь, вода и ветер не автоматически означают самостоятельную важность священного огня. Частное отождествление основательницы с перерождённой Накаямой Мики не заменено общим учением о перерождении всех людей."
+    },
+    {
+      "sourceIndex": 954,
+      "sourceName": "Honmichi",
+      "decision": "keep",
+      "canonicalName": "Хонмити",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Тэнрикё",
+      "description": "Движение Ониси Айдзиро, возникшее в линии Тэнрикё и заявляющее собственное продолжение религии Накаямы Мики.",
+      "profile": "+divine +scripture +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Honmichi"
+      ],
+      "notes": "Исходник подтверждает отдельное откровение основателя и корпус священных текстов. Это самостоятельная линия, а не синоним Тэнрикё или отделившегося Хонбусин. Противопоставление истинного продолжения и внешней организации — собственная позиция движения; оно не выдано за исторический вердикт. Число божественных лиц не назначено без дополнительной проверки."
+    },
+    {
+      "sourceIndex": 955,
+      "sourceName": "Ijun",
+      "decision": "keep",
+      "canonicalName": "Идзюн",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Окинавское новое религиозное движение Такаясу, сосредоточенное на Кинмаммоне, духовной силе и переосмыслении местного религиозного наследия.",
+      "profile": "+divine +kami +revelation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ijun",
+        "https://nirc.nanzan-u.ac.jp/journal/6/article/860/pdf/download"
+      ],
+      "notes": "Полевое исследование Райхла подтверждает голос божества Кинмаммона, его проявления и новые формы практики. Это не alias всей рюкюской религии или традиционного института юта: исследование описывает также дистанцирование участников от традиционных медиумов. Поздние местные особенности зарубежных общин не обобщены на всех."
+    },
+    {
+      "sourceIndex": 956,
+      "sourceName": "Kenshōkai",
+      "decision": "keep",
+      "canonicalName": "Кэнсёкай",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Нитирэновский буддизм",
+      "description": "Мирянская организация буддизма Нитирэна, придающая особое значение Лотосовой сутре и своему пониманию сохранения учения.",
+      "profile": "+buddha +scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kensh%C5%8Dkai"
+      ],
+      "notes": "Источник подтверждает самостоятельное движение с корнями в линии Нитирэн-сёсю. Не alias всего нитирэновского буддизма, Нитирэн-сёсю или Сока Гаккай. Общая семейная доктрина о не-я, карме и перерождении не наследуется без отдельного подтверждения."
+    },
+    {
+      "sourceIndex": 957,
+      "sourceName": "Kokuchukai",
+      "decision": "keep",
+      "canonicalName": "Кокутюкай",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Нитирэновский буддизм",
+      "description": "Мирянское движение Танаки Тигаку, соединявшее нитирэновский буддизм, Лотосовую сутру и особую программу религиозного обновления Японии.",
+      "profile": "+buddha +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kokuchukai",
+        "https://en.wikipedia.org/wiki/Kokuch%C5%ABkai",
+        "https://www.cambridge.org/core/journals/modern-asian-studies/article/an-antisecularist-panasianist-from-europe-paul-richard-in-japan-19161920/FB468A2250CD53E08FF4503AEC625702"
+      ],
+      "notes": "Исходный URL Kokuchukai не загрузился; статья с макроном Kokuchūkai и академическое исследование Cambridge подтверждают конкретную организацию. Не синоним всего Nichirenism или нитирэновского буддизма. Историческая политическая программа отдельных эпох не превращена в обязательную позицию каждого позднего участника."
+    },
+    {
+      "sourceIndex": 958,
+      "sourceName": "Mahikari",
+      "decision": "keep",
+      "canonicalName": "Махикари — религиозное движение",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Котамы Окады и семейство организаций, практикующих очищение через передачу божественного света руками.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [
+        {
+          "id": "spiritual_hand_transmission",
+          "text": "Считаете ли вы передачу духовного света или энергии через руки важной частью вашей практики?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отражает дзёрэй в Church of World Messianity и Shumei и тэкадзаси/окиёме в Mahikari. Различает эти практики с медитацией, молитвой и общими обрядами без передачи через руки; не означает автоматически occult или scientific. Применение к иным целительским движениям требует отдельной проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mahikari_movement"
+      ],
+      "notes": "Исходная ссылка прямо открывает Mahikari movement, включая отдельные World Divine Light и Sukyo Mahikari. Поэтому не alias одной только «Сукё Махикари» из более поздней строки religions.txt. Практика тэкадзаси/окиёме описана как передача света Творца; общие корни с Sekai Kyūseikyō не делают эти движения синонимами. Медицинская эффективность и научность из религиозных заявлений не выведены."
+    },
+    {
+      "sourceIndex": 959,
+      "sourceName": "Myōdōkai Kyōdan",
+      "decision": "keep",
+      "canonicalName": "Мёдокай кёдан",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Рэйюкай",
+      "description": "Мирянская буддийская организация, выделившаяся из Рэйюкай и опирающаяся на Лотосовую сутру.",
+      "profile": "+buddha +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/My%C5%8Dd%C5%8Dkai_Ky%C5%8Ddan"
+      ],
+      "notes": "Источник подтверждает конкретную организацию, основанную в 1951 году, и центральность Lotus Sutra. Не alias родительской Рэйюкай или всех новых буддийских движений. Отдельные особенности других организаций линии не перенесены автоматически."
+    },
+    {
+      "sourceIndex": 960,
+      "sourceName": "Nipponzan-Myōhōji-Daisanga",
+      "decision": "keep",
+      "canonicalName": "Ниппондзан-Мёходзи-Дайсанга",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Нитирэновский буддизм",
+      "description": "Буддийский орден Нитидацу Фудзии, связанный с Лотосовой сутрой, рецитацией даймоку и практической деятельностью за мир.",
+      "profile": "+buddha +scripture +ritual +ahimsa",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nipponzan-My%C5%8Dh%C5%8Dji-Daisanga"
+      ],
+      "notes": "Источник прямо подтверждает высший авторитет Лотосовой сутры, повторение Namu Myōhō Renge Kyō, барабанную практику и выраженную приверженность ненасилию. Здесь ahimsa основан на центральной пацифистской практике, а не просто общей доброжелательности. Не alias всего нитирэновского буддизма или отдельной пагоды мира."
+    },
+    {
+      "sourceIndex": 961,
+      "sourceName": "Sekai Shindokyo",
+      "decision": "keep",
+      "canonicalName": "Сэкай синдокё",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Хонмити",
+      "description": "Японское движение Аиды Хидэ, связанное с линиями Тэнрикё и Хонмити и собственными сообщениями о нисхождении ками.",
+      "profile": "+divine +kami +revelation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sekai_Shindokyo"
+      ],
+      "notes": "Исходник подтверждает самостоятельное движение, опыт основательницы и ритуальную музыку гагаку. Включение огня в имя божества не доказывает центрального культа священного огня; fire не назначен. Родство с Тэнрикё или Хонмити не принято за синонимию."
+    },
+    {
+      "sourceIndex": 962,
+      "sourceName": "Shingaku",
+      "decision": "keep",
+      "canonicalName": "Сингаку / Сэкимон-сингаку",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Японское этико-религиозное направление Исиды Байгана, развитое Тэсимой Тоаном и сочетавшее конфуцианские, дзэнские и синтоистские идеи.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shingaku"
+      ],
+      "notes": "Исходник определяет конкретное историческое направление эпохи Токугава, а не всякое «учение сердца» и не современную организацию XX века. Рубрика Shinshukyo не заменяет эту историческую характеристику. Синтез влияний сам по себе не даёт всем последователям +buddha, +kami или единого теизма; профиль оставлен пустым."
+    },
+    {
+      "sourceIndex": 963,
+      "sourceName": "Shinmeiaishinkai",
+      "decision": "keep",
+      "canonicalName": "Симмэй-айсинкай",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Комацу Синъё, связывающее своё возникновение с духовными переживаниями и явлениями ками, Каннон и Аматэрасу.",
+      "profile": "+divine +kami +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shinmeiaishinkai",
+        "https://dwcopac.dwc.doshisha.ac.jp/iwjs0003opc/catdbl.do?hidden_return_link=true&pkey=BB00308799"
+      ],
+      "notes": "Исходная статья описывает конкретную организацию, а не весь японский шаманизм. Академическая глава Хелен Хардэйкр посвящена ей как отдельному предмету исследования. Явления передаются как религиозный рассказ движения, а не подтверждённые внешние события. Родственность синто и буддийским образам не означает одного обязательного корпуса текстов."
+    },
+    {
+      "sourceIndex": 964,
+      "sourceName": "Shinreikyo",
+      "decision": "keep",
+      "canonicalName": "Синрэйкё",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Новое религиозное движение Оцуки Канъити, придающее центральное значение духовной силе основателя и чудесному преобразованию жизни.",
+      "profile": "+divine +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shinreikyo",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9784"
+      ],
+      "notes": "Энциклопедия Kokugakuin независимо подтверждает движение синтоистского происхождения и его целительские притязания. Исходная статья также описывает духовный мир и переход умерших последователей в небесное состояние. Не синоним Shinrikyō, сектантского синто Сано Цунэхико. Чудесное расширение мозга, лечение болезней и сохранность тела передаются только как заявления движения; scientific не назначен."
+    },
+    {
+      "sourceIndex": 965,
+      "sourceName": "Shumei",
+      "decision": "keep",
+      "canonicalName": "Сюмэй / Синдзи сюмэйкай",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Церковь всемирного мессианства / Сэкай кюсэйкё",
+      "description": "Организация линии Мокити Окады, соединяющая дзёрэй, естественное земледелие и духовную ценность искусства.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [
+        {
+          "id": "spiritual_hand_transmission",
+          "text": "Считаете ли вы передачу духовного света или энергии через руки важной частью вашей практики?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отражает дзёрэй в Church of World Messianity и Shumei и тэкадзаси/окиёме в Mahikari. Различает эти практики с медитацией, молитвой и общими обрядами без передачи через руки; не означает автоматически occult или scientific. Применение к иным целительским движениям требует отдельной проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shinji_Shumeikai",
+        "https://shumei.uk/about-shumei/",
+        "https://shumei.it/jyorei-faq/"
+      ],
+      "notes": "Исходник и собственное изложение Shumei подтверждают особую организацию и центральность Jyorei. Не alias всей Church of World Messianity, несмотря на общего духовного учителя. Неэксклюзивность участия не означает отсутствия божественной основы. Три практики не превращены в одинаковое вероучение всех друзей и посетителей организации."
+    }
+  ]
+}

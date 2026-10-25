@@ -1,0 +1,332 @@
+{
+  "range": [
+    1746,
+    1763
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1746,
+      "sourceName": "Athinganoi",
+      "decision": "review",
+      "canonicalName": "Афингане — византийская религиозная группа",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Название, применявшееся в византийских источниках к религиозной группе Фригии, а позднее также к другим людям.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Athinganoi",
+        "https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/an-eastern-christian-sect-the-athinganoi/A56EC55ECAF12F28BE6F16FADFD6E558"
+      ],
+      "notes": "Review: требуется разграничить историческую фригийскую группу, более ранних одноимённых полемических адресатов и поздние этнические употребления. Joshua Starr, HTR 1936, прямо показывает, что обозначение «манихеи» у хрониста не относится к афинганам. Исходная манихейская рубрика не принята; не alias манихейства, павликиан или религии всех ромов. Сообщения о субботе и магии не обобщены на все употребления названия."
+    },
+    {
+      "sourceIndex": 1747,
+      "sourceName": "Chinese Manichaeism",
+      "decision": "keep",
+      "canonicalName": "Китайское манихейство",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": "Манихейство",
+      "description": "Китайские формы манихейской традиции, адаптировавшие её тексты и образы к местной религиозной среде.",
+      "profile": "+divine +scripture",
+      "proposedQuestions": [
+        {
+          "id": "primordial_dualism",
+          "text": "Существуют ли два изначальных независимых начала — добра и зла, света и тьмы?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отличает учение о вечных независимых началах в манихейской традиции от единого творца и иных объяснений зла. Не приписывать автоматически всем зороастрийским школам, маздакитам или зурванитам; сравнивать по конкретным источникам."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chinese_Manichaeism",
+        "https://www.iranicaonline.org/articles/chinese-turkestan-vii/",
+        "https://www11.ihp.sinica.edu.tw/storage/w2_file/1089qKtydKM.pdf"
+      ],
+      "notes": "Сохраняется региональная традиция, а не новый синоним всего манихейства. Исследования китайских рукописей подтверждают учение о двух изначальных началах и трёх периодах. Буддийские и даосские имена сами по себе не доказывают тождества буддизму или даосизму; исторические общины и современные местные практики неоднородны. Дуализм нельзя механически кодировать как many_gods либо отрицание one_god."
+    },
+    {
+      "sourceIndex": 1748,
+      "sourceName": "Sarliyya",
+      "decision": "keep",
+      "canonicalName": "Сарлийя — ибраһимийская община какаи",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": "Ярсанизм — Ахл-е Хакк",
+      "description": "Локальная религиозная община северного Ирака, известная соседям как сарли и связанная с ибраһимийской ветвью какаи.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sarliyya",
+        "https://kurdishacademy.org/?page_id=257",
+        "https://www.iranicaonline.org/articles/kakai/"
+      ],
+      "notes": "Полевое исследование Michiel Leezenberg подтверждает самоопределение Ibrahimi Kaka’i и участие в обрядах какаи. Внешнее название Sarli не обозначает отдельную универсальную религию, но подтверждённая локальная ветвь сохраняется. Не alias всему ярсанизму: источники описывают конкретную общину, переходы из шабакской среды и смешанные семьи. Её профиль не наследует все признаки ярсанов."
+    },
+    {
+      "sourceIndex": 1749,
+      "sourceName": "Shabakism",
+      "decision": "keep",
+      "canonicalName": "Шабакская религиозная традиция",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческая религиозная традиция шабаков северного Ирака со священным Буюруком и наставниками пирами.",
+      "profile": "+scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shabakism",
+        "https://kurdishacademy.org/?page_id=257",
+        "https://www.iranicaonline.org/articles/kakai/"
+      ],
+      "notes": "Leezenberg исследует именно религиозные практики и священную книгу, не только этнический состав. Связи с алевитами и какаи не доказывают полного тождества. Нельзя приписывать эту традицию каждому современному шабаку, среди которых есть и иные конфессиональные принадлежности. Триада Аллах–Мухаммад–Али не равна христианскому trinity; наследование исламских или иранских признаков отключено."
+    },
+    {
+      "sourceIndex": 1750,
+      "sourceName": "Yarsani",
+      "decision": "keep",
+      "canonicalName": "Ярсанизм — Ахл-е Хакк",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозная традиция западного Ирана и Ирака с почитанием божественных проявлений, учением о перерождениях и общинными обрядами.",
+      "profile": "+divine +reincarnation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yarsani",
+        "https://en.wikipedia.org/wiki/Yarsanism",
+        "https://www.iranicaonline.org/articles/ahl-e-haqq-people/",
+        "https://www.iranicaonline.org/articles/ahl-e-haqq-ii-initiation-ritual/"
+      ],
+      "notes": "Исходная ссылка Yarsani недоступна при открытии; проверены Yarsanism и Iranica AHL-E HAQQ. Последняя описывает множество ветвей и общий институт посвящения. Не alias езидизму, всем носителям внешнего имени Али-Илахи или предполагаемому язданизму. Устная и письменная религиозная литература разнообразна; единый обязательный канон и одинаковая современная исламская самоидентификация не назначены."
+    },
+    {
+      "sourceIndex": 1751,
+      "sourceName": "Yazdânism",
+      "decision": "review",
+      "canonicalName": "Язданизм — гипотеза общей курдской религии",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современная концепция Мехрдада Изади, объединяющая ряд разных курдских религиозных традиций как наследников предполагаемой древней религии.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yazd%C3%A2nism",
+        "https://www.iranicaonline.org/articles/kakai/",
+        "https://www.iranicaonline.org/articles/ahl-e-haqq-people/"
+      ],
+      "notes": "Review: исходник прямо обозначает концепцию как предложенную и оспариваемую другими исследователями. Iranica KAKAI и AHL-E HAQQ подтверждают конкретные связи и самостоятельность общин, но не единую историческую конфессию «язданизм». Не объединять под этим именем езидизм, ярсанизм, курдский алевизм и шабакскую традицию; общий профиль концепции не сформирован."
+    },
+    {
+      "sourceIndex": 1752,
+      "sourceName": "Yazidism",
+      "decision": "alias",
+      "canonicalName": "Езидизм",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Езидская религиозная традиция с верой в Бога-творца, почитанием святых существ и общинными обрядами.",
+      "profile": "+one_god +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yazidism"
+      ],
+      "notes": "Точное совпадение с существующей записью religions.js «Езидизм»: исходная статья Yazidism описывает ту же традицию. Не создавать вторую запись по английскому названию. Профиль ограничен уже подтверждаемыми признаками, без автоматического наследования семьи."
+    },
+    {
+      "sourceIndex": 1753,
+      "sourceName": "Azarkeivanian",
+      "decision": "keep",
+      "canonicalName": "Школа Азара Кейвана",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": "Зороастризм",
+      "description": "Зороастрийская иллюминативная школа Азара Кейвана и его учеников XVI–XVII веков в Иране и Индии.",
+      "profile": "+scripture +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Azarkeivanian",
+        "https://www.iranicaonline.org/articles/azar-kayvan-priest/",
+        "https://www.iranicaonline.org/articles/dabestan-e-madaheb/"
+      ],
+      "notes": "Iranica подтверждает отдельную школу и её литературу, включая Дасатир; созерцательная практика описана в жизнеописании основателя. Ошибка исходника о личном ученичестве у Сухраварди не принята: философ XII века был интеллектуальным предшественником. Не alias всему ишракизму (1629). Легендарная древняя преемственность не признана историческим фактом; связь с Sepasian (1761) вынесена на review."
+    },
+    {
+      "sourceIndex": 1754,
+      "sourceName": "Behafarid",
+      "decision": "keep",
+      "canonicalName": "Бехафаридийя — движение Бехафарида",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": "Зороастризм",
+      "description": "Реформаторское религиозное движение Бехафарида в Хорасане VIII века, сочетавшее зороастрийское наследие с новыми предписаниями.",
+      "profile": "+one_god +revelation +afterlife -fire",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Behafarid",
+        "https://www.iranicaonline.org/articles/behafarid-zoroastrian-heresiarch-and-self-styled-prophet-killed-131-748-49/"
+      ],
+      "notes": "Хотя исходник — биография, Iranica отдельно подтверждает общину последователей, пророческое откровение, молитву единому Богу и загробный суд. Отказ от огненного культа обосновывает -fire, а не семейное +fire. Не унаследованы все черты зороастризма или ислама; признание Заратуштры не превращает новое движение в alias всего зороастризма."
+    },
+    {
+      "sourceIndex": 1755,
+      "sourceName": "Blagovery",
+      "decision": "keep",
+      "canonicalName": "Благоверие — российское зороастрийское движение",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": "Зороастризм",
+      "description": "Современная российская среда зороастрийских общин и обращённых, использующая также название «благоверие».",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Russian_Zoroastrianism"
+      ],
+      "notes": "Исходник подтверждает отдельные организации и разные линии авторитета в Петербурге и Москве. Сохраняется современное локальное движение, не alias всему зороастризму и не родноверию. Астрологические воззрения круга Павла Глобы и его заявления о зурванитской преемственности нельзя приписывать всем российским зороастрийцам. Общий профиль оставлен пустым до уточнения конкретной линии; древняя преемственность не утверждается."
+    },
+    {
+      "sourceIndex": 1756,
+      "sourceName": "Gayomarthians",
+      "decision": "review",
+      "canonicalName": "Каюмарсийя — группа в средневековых описаниях",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": "Зороастризм",
+      "description": "Название предполагаемой зороастрийской группы в ересиографическом изложении аш-Шахрастани, связанной с особой версией происхождения зла.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gayomarthians",
+        "https://www.iranicaonline.org/articles/gayomart/",
+        "https://www.iranicaonline.org/articles/gayomard/"
+      ],
+      "notes": "Review: исходная статья опирается на один старый источник. Iranica GAYOMART (Mansour Shaki) прямо указывает на сомнения в существовании отдельной секты; статья GAYOMARD (Carlo Cereti) подтверждает наличие описанной доктрины, но не независимую организацию. Не переносить миф о первом человеке на реальную конфессию и не объявлять alias зурванизма по сходному мотиву сомнения."
+    },
+    {
+      "sourceIndex": 1757,
+      "sourceName": "Ilm-e-Khshnoom",
+      "decision": "keep",
+      "canonicalName": "Ильм-е Хшнум",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": "Зороастризм",
+      "description": "Эзотерическая школа зороастрийской мысли, возникшая среди парсов вокруг Бехрамшаха Наороджи Шроффа.",
+      "profile": "+scripture +reincarnation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ilm-e-Khshnoom",
+        "https://www.iranicaonline.org/articles/behramshah-naoroji-shroff-1858-1927/"
+      ],
+      "notes": "Iranica подтверждает самостоятельное движение внутри парсийской общины, не отделившееся в новую конфессию. Подтверждены мистическая интерпретация Авесты и перерождения. Слово «наука» в названии не обосновывает scientific. Легенда о тайных наставниках передаётся как верование школы, а не проверенное происхождение; не alias теософии или всего зороастризма."
+    },
+    {
+      "sourceIndex": 1758,
+      "sourceName": "Khurramites",
+      "decision": "keep",
+      "canonicalName": "Хуррамиты",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": "Маздакизм",
+      "description": "Иранские религиозно-политические движения раннеисламского времени, связанные с маздакитским наследием и различными местными учениями.",
+      "profile": "+reincarnation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Khurramites",
+        "https://www.iranicaonline.org/articles/babak-korrami/"
+      ],
+      "notes": "Iranica подтверждает религиозное движение и принадлежность Бабека к конкретной общине. Переселение души упомянуто в свидетельствах, но прочие доктрины менялись по группам. Не alias всего маздакизма, шиитского ислама или биографии Бабека; сообщения противников об обрядах, сексуальности и насилии не обобщены в профиль. Строгое ahimsa не назначено по одному идеалу избегания крови."
+    },
+    {
+      "sourceIndex": 1759,
+      "sourceName": "Mazdakism",
+      "decision": "keep",
+      "canonicalName": "Маздакизм",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": "Зороастризм",
+      "description": "Историческое иранское религиозное и социальное движение, связанное с Маздаком и событиями при сасанидском царе Каваде I.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mazdakism",
+        "https://www.cambridge.org/core/books/abs/cambridge-history-of-iran/mazdakism/CF40A9E145A27FE808775FE161085F6F",
+        "https://www.iranicaonline.org/articles/iran-ix1-religions-in-iran/iran-ix-religions-in-iran-1-pre-islamic-1-1-overview/"
+      ],
+      "notes": "Cambridge History of Iran подтверждает самостоятельное религиозное движение и социальное учение. Реконструкции доктрины и радикальной общности имущества оспариваются: Iranica подчёркивает преимущественно враждебный характер свидетельств. Поэтому не назначены ahimsa, конкретный тип дуализма и общность имущества. Не alias маздаизма, всего зороастризма, позднейших хуррамитов или современного маздазнана."
+    },
+    {
+      "sourceIndex": 1760,
+      "sourceName": "Mazdaznan",
+      "decision": "keep",
+      "canonicalName": "Маздазнан",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Новое религиозное движение Отомана Зар-Адушта Ханиша конца XIX века с зороастрийскими мотивами, дыхательными упражнениями и особым режимом жизни.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mazdaznan"
+      ],
+      "notes": "Сохраняется самостоятельное современное движение, не alias исторического маздакизма или всего зороастризма. Заявленное возрождение древней религии не доказывает непрерывную преемственность. Божественное прямо присутствует в опубликованных тезисах учения; дыхательные упражнения и вегетарианство сами по себе не обосновывают meditation либо строгое ahimsa."
+    },
+    {
+      "sourceIndex": 1761,
+      "sourceName": "Sepasian",
+      "decision": "review",
+      "canonicalName": "Сепасиане — абадийская традиция Дабестана",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Название сообщества, описанного в Дабестане также как язданийское и абадийское и связанного с Азаром Кейваном.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Azar_Kayvan",
+        "https://www.iranicaonline.org/articles/azar-kayvan-priest/",
+        "https://www.iranicaonline.org/articles/dabestan-e-madaheb/"
+      ],
+      "notes": "Review: исходная ссылка ведёт на биографию Азара Кейвана. Iranica называет Sepasian/Abadian сообществом, к которому он предположительно принадлежал, а школу называет основанной им; другая статья связывает соответствующие учения с литературой его последователей. Возможен дубль «Школы Азара Кейвана» (1753), но точные границы между заявленной древней группой и исторической школой ещё требуют решения. Не создавать второй профиль до этой проверки; Yazdanian здесь не тождественно концепции Yazdânism Изади."
+    },
+    {
+      "sourceIndex": 1762,
+      "sourceName": "Ustadh Sis",
+      "decision": "keep",
+      "canonicalName": "Движение Устада Сиса",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозно-политическое движение вокруг Устада Сиса в Хорасане VIII века, связываемое источниками с бехафаридийским учением.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ustadh_Sis",
+        "https://www.iranicaonline.org/articles/khorasan-v-history-in-the-%CA%BFabbasid-period/"
+      ],
+      "notes": "Исходная статья биографическая, однако Iranica KHORASAN v подтверждает последователей и сообщения о проповедовании бехафаридийских доктрин и пророческих притязаниях. Это основание сохранить историческое движение, а не только человека. Сообщения о переходе лидера в ислам и религиозной окраске восстания неоднозначны: профиль пустой, parent не установлен. Преемство части последователей не доказывает полного alias движения Бехафарида."
+    },
+    {
+      "sourceIndex": 1763,
+      "sourceName": "Zurvanism",
+      "decision": "review",
+      "canonicalName": "Зурванизм — историческая космогоническая концепция",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": "Зороастризм",
+      "description": "Название учения о Зурване и происхождении Ормазда и Ахримана, исторический статус которого как отдельной зороастрийской секты оспаривается.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zurvanism",
+        "https://www.iranicaonline.org/articles/zurvanism/"
+      ],
+      "notes": "Review: Iranica ZURVANISM (Albert de Jong) отличает надёжно засвидетельствованный космогонический миф от гипотезы отдельного движения или церкви. Нельзя уверенно перечислять самостоятельную конфессию с единым фатализмом, аскетизмом или материализмом. Божественное подтверждено содержанием мифа; one_god/many_gods не назначены. Не alias всего зороастризма, каюмарсийи либо современной астрологической версии Глобы."
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "range": [
+    1666,
+    1685
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1666,
+      "sourceName": "Salafi",
+      "decision": "keep",
+      "canonicalName": "Салафизм",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суннитский ислам",
+      "description": "Совокупность суннитских направлений, ориентированных на Коран, сунну и образец первых поколений мусульман.",
+      "profile": "+one_god +quran +sharia",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Salafi"
+      ],
+      "notes": "Широкое неоднородное направление; не точный синоним исторического ваххабизма, Ahl-i Hadith или отдельной политической организации. Признак restoration относится к восстановлению раннего христианства и здесь неприменим."
+    },
+    {
+      "sourceIndex": 1667,
+      "sourceName": "Satpanth",
+      "decision": "review",
+      "canonicalName": "Сатпантх",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Исмаилизм",
+      "description": "Южноазиатская традиция «истинного пути», исторически связанная с исмаилитскими пирами и местными религиозными языками.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Satpanth",
+        "https://www.iis.ac.uk/media/43igoj3m/ismailis_south_asia-142506347.pdf"
+      ],
+      "notes": "В исходной статье предупреждения о недостатке источников; смешаны сведения о пирах Садр ад-Дине и Имам-шахе. Дафтари подтверждает исмаилитский контекст, но современные низаритские и имам-шахские общины нельзя снабжать единым непроверенным профилем. Не alias Бармати."
+    },
+    {
+      "sourceIndex": 1668,
+      "sourceName": "Shadhili",
+      "decision": "review",
+      "canonicalName": "Шазилийя",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суфизм",
+      "description": "Суфийский тарикат, восходящий к Абу-ль-Хасану аш-Шазили и развившийся в Северной Африке и Египте.",
+      "profile": "+sufi",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shadhili",
+        "https://www.cambridge.org/core/journals/international-journal-of-middle-east-studies/article/abs/sufi-legacy-in-tunis-prayer-and-the-shadhiliyya/390BB3C6C2A914D2B290F9C5C3693650"
+      ],
+      "notes": "Исходной статье недостаёт ссылок; исследование Макгрегора независимо подтверждает молитвенную традицию шазилийи в Тунисе. Существование тариката установлено; review относится к качеству полного исходного описания, а не к названию."
+    },
+    {
+      "sourceIndex": 1669,
+      "sourceName": "Shafi'i",
+      "decision": "keep",
+      "canonicalName": "Шафиитский мазхаб",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суннитский ислам",
+      "description": "Суннитская правовая школа, связанная с аш-Шафии и придающая основополагающее значение Корану и пророческой сунне.",
+      "profile": "+quran +sharia",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shafi%27i"
+      ],
+      "notes": "Правовая школа, а не отдельная религия или точный синоним ашаризма: богословская и юридическая принадлежность не тождественны."
+    },
+    {
+      "sourceIndex": 1670,
+      "sourceName": "Shaykhism",
+      "decision": "keep",
+      "canonicalName": "Шейхизм",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Шиитский ислам двунадесятников",
+      "description": "Школа имамитского шиизма, возникшая вокруг учения шейха Ахмада аль-Ахсаи и его последователей.",
+      "profile": "+ali",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shaykhism",
+        "https://www.iranicaonline.org/articles/shaykhism/"
+      ],
+      "notes": "Iranica подтверждает двунадесятнический контекст и внутреннее многообразие школы. Не alias бабизма, бахаи или всего ахбаризма; историческое влияние не доказывает тождества."
+    },
+    {
+      "sourceIndex": 1671,
+      "sourceName": "Sufi Order International",
+      "decision": "keep",
+      "canonicalName": "Инайатийя (бывший Sufi Order International)",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Универсальный суфизм Инайят Хана",
+      "description": "Межрелигиозная суфийская организация линии Инайят Хана, Вилаят Инайят Хана и Зия Инайят Хана.",
+      "profile": "+sufi +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sufi_Order_International",
+        "https://inayatiorder.org/our-new-name/",
+        "https://sufiorderinternationalalbuquerque.org/aboutus.html"
+      ],
+      "notes": "Исходная ссылка не загрузилась; официальный текст подтверждает переименование Sufi Order International в Inayati Order в 2016 году. Сохранена организация, не весь универсальный суфизм и не отдельная организация International Sufi Movement. Семейство islam передаёт историческую связь: центр прямо допускает последователей любой религии и отсутствие веры в Бога."
+    },
+    {
+      "sourceIndex": 1672,
+      "sourceName": "Sufri",
+      "decision": "keep",
+      "canonicalName": "Суфриты",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Хариджизм",
+      "description": "Историческое хариджитское направление раннего ислама, отличавшееся от азракитов и ибадитов.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sufri"
+      ],
+      "notes": "Не суфийский тарикат: сходство Sufri и Sufi не является синонимией. Реконструкция ранних групп ограничена; конкретный современный доктринальный профиль не задан."
+    },
+    {
+      "sourceIndex": 1673,
+      "sourceName": "Suhrawardiyya",
+      "decision": "keep",
+      "canonicalName": "Сухравардийя",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суфизм",
+      "description": "Суфийский тарикат, восходящий к Абу Наджибу ас-Сухраварди и развитый его преемниками.",
+      "profile": "+sufi",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Suhrawardiyya"
+      ],
+      "notes": "Не смешивать с ишракизмом философа Яхьи ас-Сухраварди или трансцендентной философией Муллы Садры. Тарикат имеет самостоятельную историю и разные региональные ветви."
+    },
+    {
+      "sourceIndex": 1674,
+      "sourceName": "Sulaymani",
+      "decision": "keep",
+      "canonicalName": "Сулейманиты (таййибитские исмаилиты)",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Таййибитский исмаилизм",
+      "description": "Ветвь таййибитского исмаилизма, поддержавшая Сулеймана ибн Хасана в споре о преемстве даи.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sulaymani"
+      ],
+      "notes": "Отдельная линия преемства, не alias давуди-бохра и не турецкие сулейманджилар. Исходная статья подтверждает историческую идентичность; частные обобщения об обрядности на всю ветвь не перенесены."
+    },
+    {
+      "sourceIndex": 1675,
+      "sourceName": "Tijaniyyah",
+      "decision": "review",
+      "canonicalName": "Тиджанийя",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суфизм",
+      "description": "Суфийский тарикат Ахмада ат-Тиджани, возникший в Магрибе и широко распространившийся в Западной Африке.",
+      "profile": "+sufi +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tijaniyyah",
+        "https://uncpress.org/9798890860125/realizing-islam/"
+      ],
+      "notes": "В исходной статье недостаточно построчных ссылок; исследование Захари Райта подтверждает историю и значение духовной практики. Регулярный вирд подтверждает обрядовый профиль. Видения основателя не автоматически означают новое всеобщее откровение."
+    },
+    {
+      "sourceIndex": 1676,
+      "sourceName": "Transcendent Theosophy",
+      "decision": "keep",
+      "canonicalName": "Трансцендентная философия Муллы Садры",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": "Исламская философия",
+      "description": "Философская школа Муллы Садры, утверждающая первичность существования и субстанциальное движение.",
+      "profile": "+divine +one_god",
+      "proposedQuestions": [
+        {
+          "id": "substantial_motion",
+          "text": "Считаете ли вы, что материальные вещи непрерывно изменяются в самом своём бытии, а не только в свойствах и положении?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Учение Муллы Садры о субстанциальном движении отличает его от авиценнизма и аристотелевского понимания изменения; это не просто признание перемен в мире.",
+          "supportedEntries": [
+            "Transcendent Theosophy",
+            "Avicennism"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Transcendent_Theosophy",
+        "https://plato.stanford.edu/entries/mulla-sadra/"
+      ],
+      "notes": "SEP подтверждает учение о необходимом божественном бытии, градации существования и субстанциальном движении. Не alias теософии Блаватской, авиценнизма или ишракизма. Философское семейство не означает нерелигиозности."
+    },
+    {
+      "sourceIndex": 1677,
+      "sourceName": "Twelver",
+      "decision": "alias",
+      "canonicalName": "Шиитский ислам двунадесятников",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Шиизм",
+      "description": "Имамитская шиитская традиция двенадцати имамов.",
+      "profile": "+ali",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Twelver"
+      ],
+      "notes": "Точный синоним существующей записи religions.js «Шиитский ислам двунадесятников»: Twelver обозначает ту же традицию, не весь шиизм."
+    },
+    {
+      "sourceIndex": 1678,
+      "sourceName": "Universal Sufism",
+      "decision": "keep",
+      "canonicalName": "Универсальный суфизм Инайят Хана",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суфизм",
+      "description": "Межрелигиозное суфийское направление Инайят Хана, объединяющее несколько организационных линий.",
+      "profile": "+sufi",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Universal_Sufism",
+        "https://wahiduddin.net/mv2/I/I_I_1.htm",
+        "https://inayatiorder.org/our-new-name/",
+        "https://sufiorderinternationalalbuquerque.org/aboutus.html"
+      ],
+      "notes": "Исходная ссылка не загрузилась. Первичные тексты Инайят Хана и официальная история ордена подтверждают универсальный подход и множество преемственных организаций. Не alias одной Инайатийи: более широкая традиция. Семейство указывает происхождение, а не обязательную мусульманскую самоидентификацию. Монотеистический язык основателя не перенесён как требование ко всем современным участникам."
+    },
+    {
+      "sourceIndex": 1679,
+      "sourceName": "Usuli",
+      "decision": "keep",
+      "canonicalName": "Усулитская школа",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Шиитский ислам двунадесятников",
+      "description": "Преобладающая имамитская правовая школа, признающая иджтихад и авторитет квалифицированных муджтахидов.",
+      "profile": "+quran +sharia",
+      "proposedQuestions": [
+        {
+          "id": "follow_living_mujtahid",
+          "text": "Считаете ли вы необходимым следовать религиозно-правовым решениям живого квалифицированного муджтахида, если сами не обладаете такой квалификацией?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Усулитское понимание иджтихада и таклида отличает эту школу от ахбаритской; вопрос касается правовой компетенции, а не рационального калама о вероучении.",
+          "supportedEntries": [
+            "Usuli",
+            "Akhbari"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Usuli"
+      ],
+      "notes": "Отличается от ахбаризма методами выведения правовых норм и ролью живого религиозного правоведа; не alias всего двунадесятнического шиизма. Признание правового рассуждения не означает scientific."
+    },
+    {
+      "sourceIndex": 1680,
+      "sourceName": "Wahhabism",
+      "decision": "keep",
+      "canonicalName": "Ваххабизм",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суннитский ислам",
+      "description": "Религиозное движение, возникшее в Неджде вокруг проповеди Мухаммада ибн Абд аль-Ваххаба.",
+      "profile": "+one_god +quran +sharia",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wahhabism"
+      ],
+      "notes": "Историческое движение пересекается с современным салафизмом, но не тождественно ему по объёму. Не alias всего ханбалитского мазхаба. Политические действия отдельных организаций не приписаны каждому последователю."
+    },
+    {
+      "sourceIndex": 1681,
+      "sourceName": "Wetu Telu",
+      "decision": "review",
+      "canonicalName": "Вету Телу — традиции сасаков Ломбока",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Локальные религиозные традиции сасаков, соединяющие исламские представления с обычаями общины и ритуалами адата.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wetu_Telu",
+        "https://jurnal.uinbanten.ac.id/index.php/tsaqofah/article/view/3656",
+        "https://garuda.kemdiktisaintek.go.id/documents/detail/341883"
+      ],
+      "notes": "Расхожее объяснение как «трёх молитв» или «трёх столпов» не даёт единого определения традиции. Исследования в Баяне показывают сложную связь ислама и адата; термин и его внешняя классификация обсуждаются исследователями. Не весь ислам сасаков и не точный синоним неисламского Wetu Boda. Семейство islam — ближайшее для исследованных общин, не перенос всей исламской догматики."
+    },
+    {
+      "sourceIndex": 1682,
+      "sourceName": "Zahiri",
+      "decision": "review",
+      "canonicalName": "Захиритский мазхаб",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суннитский ислам",
+      "description": "Правовая школа, связанная с Даудом аз-Захири и Ибн Хазмом и ориентированная на явный смысл Корана и сунны.",
+      "profile": "+quran +sharia",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zahiri",
+        "https://www.uni-goettingen.de/en/203133.html"
+      ],
+      "notes": "Исходная статья предупреждает о ненадёжных источниках. Исследовательница Камилла Аданг независимо подтверждает метод Ибн Хазма; остальные исторические и современные обобщения статьи требуют проверки. Не alias салафизма или шафиитского мазхаба."
+    },
+    {
+      "sourceIndex": 1683,
+      "sourceName": "Zaidiyyah",
+      "decision": "alias",
+      "canonicalName": "Зайдизм",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Шиизм",
+      "description": "Шиитская традиция имамата, связанная с Зайдом ибн Али.",
+      "profile": "+ali",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zaidiyyah"
+      ],
+      "notes": "Zaidiyyah — точное название существующего в religions.js «Зайдизма». Не весь шиизм и не одна из его более узких исторических подгрупп."
+    },
+    {
+      "sourceIndex": 1684,
+      "sourceName": "Zikrism",
+      "decision": "keep",
+      "canonicalName": "Зикризм",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Махдистская религиозная традиция белуджей, известная особой практикой зикра и священным местом Кох-и-Мурад.",
+      "profile": "+quran",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zikrism"
+      ],
+      "notes": "Отдельная община и традиция; не alias всякого зикра или всего суфизма. Изложение происхождения и идентификация основателя неоднозначны, поэтому точное имя основателя не включено; принадлежность к конкретному суфийскому тарикату не выведена из слова «зикр»."
+    },
+    {
+      "sourceIndex": 1685,
+      "sourceName": "Bana'im",
+      "decision": "review",
+      "canonicalName": "Банаим — спорная древнеиудейская категория",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Название из раввинистического источника, которое некоторые исследователи связывали с предполагаемой древнеиудейской группой.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bana%27im",
+        "https://www.jewishencyclopedia.com/articles/2447"
+      ],
+      "notes": "Jewish Encyclopedia прямо называет группу предполагаемой и приводит альтернативное толкование места Мишны как обозначения купальной одежды. Существование отдельной секты и связь с ессеями не установлены. Не alias ессеев, гемеробаптистов или мандеев; обрядовые признаки не выведены из спорной этимологии."
+    }
+  ]
+}

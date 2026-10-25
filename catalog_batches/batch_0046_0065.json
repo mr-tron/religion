@@ -1,0 +1,363 @@
+{
+  "range": [
+    46,
+    65
+  ],
+  "entries": [
+    {
+      "sourceIndex": 46,
+      "sourceName": "Damara religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия дамара",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции дамара Намибии с представлениями о небесном божестве Гамабе и посмертном существовании души.",
+      "profile": "+divine +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Damara_people"
+      ],
+      "notes": "Ссылка ведёт на статью о народе; раздел Religion описывает Гамаба как высшее божество, связанное с водой, природными циклами и смертью. Души после смерти достигают его небесного поселения. Не приписываются автоматически христианство или строгий монотеизм всем дамара."
+    },
+    {
+      "sourceIndex": 47,
+      "sourceName": "Dan religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия дан",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции дан с верой в создателя Злана и силу зу, проявляющуюся через предметы, маски и гадание.",
+      "profile": "+divine +nature_spirits +ritual +reincarnation +icons +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dan_people"
+      ],
+      "notes": "Раздел Religion этнографической статьи подтверждает Злана, зу, маскарады, гадание и представления о переселении в другого человека или животное. Слова Holy Spirit в английской статье не доказывают христианского учения о Святом Духе или Троице. Профиль описывает традиционный комплекс, а не убеждения всех дан. Раздел Religion прямо называет гадание способом обращения к зу: добавлен divination_oracles."
+    },
+    {
+      "sourceIndex": 48,
+      "sourceName": "Dinka religion",
+      "decision": "alias",
+      "canonicalName": "Традиционные верования динка",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции динка Южного Судана с высшим божеством Ньяликом, другими божественными силами и ритуалами.",
+      "profile": "+divine +personal +many_gods +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dinka_religion"
+      ],
+      "notes": "Статья подтверждает Ньялика и других божеств, молитвы Ньялику, жертвоприношения и призывание духов предков. Совпадает с уже существующей записью «Традиционные верования динка» в religions.js: при переносе следует уточнить её, не дублировать. Раздел Animism помечен как не имеющий ссылок; его отдельные детали не использованы."
+    },
+    {
+      "sourceIndex": 49,
+      "sourceName": "Dogon religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия догонов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозные традиции догонов Мали с почитанием Аммы, обрядами и ритуальными изображениями.",
+      "profile": "+divine +ritual +icons +ancestors +afterlife +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dogon_religion",
+        "https://www.journals.uchicago.edu/doi/abs/10.1086/203932",
+        "https://pure.uvt.nl/ws/portalfiles/portal/1002365/dogonrestudied.pdf",
+        "https://www.sdmart.org/exhibition/dogon-figure-from-mali-bridge-to-the-spirit-world/",
+        "https://www.si.edu/object/nmafa_81-21-1"
+      ],
+      "notes": "Этнографические реконструкции Гриоля и Дитерлен стали предметом научной дискуссии: ван Бек не смог воспроизвести многие подробности их системы. Поэтому не кодируются спорные астрономические сведения и единая обязательная космология; сохранены осторожные признаки ритуальной практики и божественного. Музей Сан-Диего подтверждает фигуры предков и их роль при жертвоприношениях; каталог Smithsonian описывает общество посвящённых Ава и обряды перехода умерших в мир духов. Добавлены ancestors, afterlife и initiatory_brotherhood. Эти обрядовые сведения не требуют принятия спорной космологии Гриоля; описание Smithsonian проверено через индексированный музейный текст, прямое открытие страницы не удалось."
+    },
+    {
+      "sourceIndex": 50,
+      "sourceName": "Dominican Vudú",
+      "decision": "keep",
+      "canonicalName": "Доминиканское воду",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Афро-карибская традиция Доминиканской Республики, известная как «21 деление», с почитанием мистериос и лва.",
+      "profile": "+divine +ritual +spirit_possession +initiatory_brotherhood +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dominican_Vud%C3%BA",
+        "https://austriaca.at/0xc1aa5576_0x00358212.pdf"
+      ],
+      "notes": "Источник описывает местных лва, их соответствия католическим святым и линии посвящения. Las 21 Divisiones — подтверждённое другое имя этой записи. Родство с гаитянским воду не делает названия синонимами; родитель не навязан. Полевое исследование Шаффлер и Брабека де Мори о юго-западе Доминиканской Республики непосредственно описывает ритуальное вселение мистериос, посвящение новых участников и предсказания медиумов (с. 138, 144–145, 163). Добавлены spirit_possession, initiatory_brotherhood и divination_oracles. Признаки относятся к документированной культовой практике, без обобщения на всех католиков страны."
+    },
+    {
+      "sourceIndex": 51,
+      "sourceName": "Duala traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия дуала",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции дуала Камеруна с почитанием предков и водных духов миенгу, посредничающих между людьми и Богом.",
+      "profile": "+divine +ancestors +nature_spirits +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Duala_people"
+      ],
+      "notes": "Раздел Religion статьи о народе подтверждает предков, живущих в море, миенгу и ежегодные праздники. В статье большинство дуала описываются как христиане; профиль относится к традиционному комплексу и его сохраняющимся практикам."
+    },
+    {
+      "sourceIndex": 52,
+      "sourceName": "Ebira traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия эбира",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозные традиции эбира с небесным божеством Охоморихи, подчинёнными божествами и миром предков.",
+      "profile": "+divine +many_gods +ritual +afterlife +ancestors +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ebira_people"
+      ],
+      "notes": "Статья о народе содержит отдельный раздел: обряды умилостивления Охоморихи, божества ори и мир умерших предков. Само упоминание существования предков не превращено автоматически в признак обязательного почитания; ancestors оставлен без оценки. Отдельно проверен раздел Ekuechi festival: ежегодный праздник почитает мир умерших, маски представляют возвращающихся предков и передают сообщения из мира духов. Это подтверждает ancestors и значимость ритуальных изображений icons; прежняя неопределённость ancestors снята именно этим описанием."
+    },
+    {
+      "sourceIndex": 53,
+      "sourceName": "Edo traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия эдо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции эдо с высшим создателем Осанобуа, божествами Олокуным и Огуном и подношениями в святилищах.",
+      "profile": "+divine +many_gods +nature_spirits +ritual +ancestors +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Edo_people",
+        "https://prm.web.ox.ac.uk/kingdom-benin"
+      ],
+      "notes": "Статья о народе прямо описывает невидимый мир посредников и подношения, а также Олокуна как владыку вод. Общие имена с традициями йоруба или эсан не доказывают тождество. Принадлежность эдо к христианству не перенесена на традиционный профиль. Экспозиция Pitt Rivers Museum, подготовленная с участием специалистов эдо, прямо называет алтари предков центральным элементом культа эдо и описывает мемориальные скульптурные головы: подтверждены ancestors и icons."
+    },
+    {
+      "sourceIndex": 54,
+      "sourceName": "Efik religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия эфик",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции эфик с почитанием Абаси, водных сил ндем и предков.",
+      "profile": "+divine +ancestors +nature_spirits +ritual +personal +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Efik_religion"
+      ],
+      "notes": "Источник одновременно говорит об одном Боге Абаси и ндем как водных духах или божествах, иногда почитаемых как одно божество или множество. Поэтому one_god и many_gods не выставлены. Священный день восьмидневной недели не закодирован как sabbath. Раздел Prayers описывает обращения к Абаси за помощью, а Funeral ceremonies прямо объясняет погребальные обряды представлением о жизни умерших в загробном мире. Добавлены personal и afterlife; исторические насильственные обычаи не представлены как современное предписание."
+    },
+    {
+      "sourceIndex": 55,
+      "sourceName": "Ekoi religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия экои",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции экои с двумя созидающими божествами, Обасси Осав и Обасси Нси, и почитанием предков и природных сил.",
+      "profile": "+divine +many_gods +ancestors +nature_spirits +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ekoi_religion",
+        "https://www.maskmuseum.org/mask/ekoi-ekpo-1/"
+      ],
+      "notes": "Основной раздел подтверждает двух божеств: неба и земли, предков и природные силы. Раздел Practices помечен как не содержащий ссылок; его конкретные утверждения не использованы. Экои и эфик — родственные местные традиции, но сходство имён божеств не делает их синонимами. Музей Second Face документирует маску экои, используемую обществом Экпо на похоронах и обрядах почитания предков Ikem. Это независимое основание ritual и icons; неподкреплённый раздел Practices исходной статьи по-прежнему не используется."
+    },
+    {
+      "sourceIndex": 56,
+      "sourceName": "Embu beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования эмбу",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции эмбу Кении с верой в Нгаи (Мурунгу), небесного создателя, и семейными подношениями духам умерших.",
+      "profile": "+divine +one_god +ancestors +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Embu_people"
+      ],
+      "notes": "Статья о народе прямо называет традиционную веру монотеистической и описывает духов умерших как посредников и семейные возлияния на алтарях. Современные христианские, мусульманские и нерелигиозные эмбу не приравниваются к этому профилю."
+    },
+    {
+      "sourceIndex": 57,
+      "sourceName": "Encantaria",
+      "decision": "keep",
+      "canonicalName": "Энкантария",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Бразильские традиции общения с энкантадос, связанные с местными культами, медиумическими обрядами и природными местами.",
+      "profile": "+nature_spirits +ritual +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Encantaria"
+      ],
+      "notes": "Источник охватывает разные формы Мараньяна и Пары и пересечения с тамбор-ди-мина, тереко и пажелансой. Энкантадос не обязательно понимаются как умершие: поэтому ancestors и afterlife не выставлены. Общее название сохранено, не сведено к тереко или кандомбле. Разделы о Мараньяне и Пиауи прямо описывают получение энкантадос медиумом в трансе, поэтому добавлен spirit_possession. Для общего комплекса не навязываются ориша, монотеизм или обязательное происхождение духов от умерших."
+    },
+    {
+      "sourceIndex": 58,
+      "sourceName": "Esan traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия эсан",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции эсан Нигерии с почитанием Осанобуа, других божеств и духов предков.",
+      "profile": "+divine +many_gods +ancestors +ritual +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Esan_people",
+        "https://repository.uniben.edu/sites/default/files/2026-05/FINAL_PROJECT_%28GOODNES_LST%29%20FINAL.pdf"
+      ],
+      "notes": "Раздел Religion and folklore статьи о народе подтверждает духов предков и нескольких божеств. Источник отмечает сходство с религией эдо и исторические связи, но не тождество; запись сохранена отдельно. Конкретные трактовки Эшу не нужны для профиля. Исследование Университета Бенина (Отоизуанвун, 2025) описывает специальные молитвы, жертвенные обращения и гадательные консультации эсан; добавлены ritual и divination_oracles. Работа бакалаврская, поэтому использована для этих непосредственно описанных практик, без расширенных богословских выводов."
+    },
+    {
+      "sourceIndex": 59,
+      "sourceName": "Espiritismo",
+      "decision": "keep",
+      "canonicalName": "Эспиритисмо",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Латиноамериканские и карибские традиции общения с духами, соединяющие наследие Кардека с местными религиозными практиками.",
+      "profile": "+divine +afterlife +ritual +spirit_possession +icons",
+      "proposedQuestions": [
+        {
+          "id": "spirit_communication",
+          "text": "Считаете ли вы общение с духами умерших через медиума важной частью духовной практики?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Разделяет эспиритисмо, спиритизм Кардека и некоторые медиумические культы с традициями, где предков только поминают или почитают без медиумической коммуникации. Не требует ритуального вселения духов, поэтому шире вопроса о трансе."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Espiritismo",
+        "https://sacredart.caaar.duke.edu/religions/caribbean-spiritism/"
+      ],
+      "notes": "Espiritismo здесь обозначает широкий региональный комплекс, а не только доктрину Кардека: источник прямо различает их, университетский обзор подтверждает многообразие карибских форм. Family=newreligion выбран как ближайшее семейство без наследования new_revelation. Перевоплощение, священные книги и почитание ориша не обобщены на все формы. Обзор Duke непосредственно описывает духов, говорящих через тела медиумов на мисас, и домашние боведы с фотографиями умерших, статуями и куклами для общения с ними. Добавлены spirit_possession и icons как документированные практики комплекса; не утверждается единообразие всех местных вариантов."
+    },
+    {
+      "sourceIndex": 60,
+      "sourceName": "Fali traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия фали",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции фали с представлениями о создателе Муттафе, земле Она и обращением к предкам.",
+      "profile": "+divine +ancestors +ritual +nature_spirits",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fali_people"
+      ],
+      "notes": "Раздел Religion статьи о народе содержит молитвы и подношения предкам, создателя Муттафа и богиню-мать Ону. Статья одновременно характеризует религию как монотеистическую: из-за неоднозначной терминологии ни one_god, ни many_gods не выставлены. Современная конфессиональная статистика не используется для профиля. Раздел Religion дополнительно называет джиннов, священных крокодилов и чёрную змею — властителя тьмы: это основание nature_spirits. Из упоминания недоступности образа Муттафа не выведен общий запрет изображений."
+    },
+    {
+      "sourceIndex": 61,
+      "sourceName": "Fipa religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия фипа",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции фипа Танзании с верой в создателя Умвееле, местных духов и почитанием предков.",
+      "profile": "+divine +nature_spirits +ancestors +ritual +afterlife +reincarnation +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fipa_people",
+        "https://www.everyculture.com/Africa-Middle-East/Fipa-Religion-and-Expressive-Culture.html"
+      ],
+      "notes": "Статья о народе подробно описывает духов озёр, холмов, деревьев, подношения и домашние обряды предков. Умвееле не имеет отдельного культа; это не основание кодировать deism. Нынешнее преобладание христианства и ислама не отменяет историческую запись. Дополнительно проверенный раздел Death and Afterlife источника EveryCulture прямо описывает подземный мир умерших, возвращение духа в той же семье спустя поколения и установление его личности гаданием; раздел Religious Practitioners — диагностическое гадание. Добавлены afterlife, reincarnation и divination_oracles."
+    },
+    {
+      "sourceIndex": 62,
+      "sourceName": "Frafra beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования фрафра",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции фрафра с почитанием создателя, земли как божества и предков, земледельческими и погребальными обрядами.",
+      "profile": "+divine +ancestors +nature_spirits +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Frafra_people"
+      ],
+      "notes": "Отдельный религиозный раздел статьи о народе подтверждает верховного создателя, землю, предков, родовые предметы и тэндаана — хранителя земли. Не добавлены строгий монотеизм, обязательность магии для каждого последователя или убеждения о конкретном посмертном состоянии. Раздел Religion прямо описывает использование наследуемых магических родовых предметов для защиты и контакта с природными силами. Это конкретное основание occult, а не вывод из этнической принадлежности или веры во вредоносное колдовство."
+    },
+    {
+      "sourceIndex": 63,
+      "sourceName": "Furiiru traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия фулиру",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции фулиру востока ДР Конго с почитанием создателя Руремы и духовным посредничеством.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Furiiru_people"
+      ],
+      "notes": "Исходная ссылка Furiiru_people ведёт на Fuliru people: нормализовано название народа, а не объединены разные религии. Раздел Traditional beliefs прямо называет Рурему (Накалема/Накалемека) и посредников Мушабо, Будиси, Мугаджалугулу. Их статус не позволяет уверенно кодировать ancestors или many_gods; прочие признаки оставлены неизвестными."
+    },
+    {
+      "sourceIndex": 64,
+      "sourceName": "Gbagyi traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия гбагьи",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции гбагьи Нигерии с представлениями о Шеквойи, местных божествах и перевоплощении.",
+      "profile": "+divine +reincarnation +ancestors +nature_spirits +ritual +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gbagyi_people",
+        "https://iiardjournals.org/get/AJHA/VOL.%204%20NO.%201%202019/Some%20Perspectives%20on%20the%20Religious.pdf"
+      ],
+      "notes": "Раздел Religion статьи о народе говорит, что некоторые традиционные верующие признают Шеквойи, умилостивляют Майгиро, а многие верят в перевоплощение. Это не универсальные утверждения обо всех гбагьи. Ограниченный источник не позволяет уверенно оценить nature_spirits, ancestors или строгую численность божеств. Статья Закари и Джагабы (2019), основанная на интервью с традиционными верующими, подтверждает для гбагьи долины Средней Кадуны почитание A’nyigbango, лесных и водных духов, подношения и гадательные обряды (с. 30–32). Добавлены ancestors, nature_spirits, ritual и divination_oracles. Это локально документированные традиционные практики; прежняя неопределённость из краткой исходной статьи уточнена этим исследованием, без утверждения их обязательности для всех современных гбагьи."
+    },
+    {
+      "sourceIndex": 65,
+      "sourceName": "Ghanaian witchcraft",
+      "decision": "review",
+      "canonicalName": "Представления о колдовстве в Гане",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнородные представления о вредоносных сверхъестественных силах и связанные с ними практики в разных сообществах Ганы.",
+      "profile": "",
+      "proposedQuestions": [
+        {
+          "id": "harmful_witchcraft_belief",
+          "text": "Допускаете ли вы, что люди могут причинять вред другим сверхъестественным колдовством?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Позволяет отделить веру во вредоносное колдовство от личного применения магии, которое сейчас спрашивает occult. Может характеризовать часть традиционных, христианских и мусульманских общин Ганы; не определяет отдельную религиозную принадлежность и не подтверждает обвинения против людей."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Witchcraft_in_Ghana",
+        "https://journals.openedition.org/etudesafricaines/pdf/18387",
+        "https://www.jstor.org/stable/j.ctt9qcswd"
+      ],
+      "notes": "Статья и исследование Роксбург описывают межконфессиональное явление, различающиеся локальные представления, обвинения и борьбу с предполагаемым колдовством; единую самоназванную религию не подтверждают. Оставить на проверку как тематическую категорию, не удалять автоматически. Верить в колдовство, применять защитные практики и быть обвинённым в колдовстве — разные ситуации; ни одна не доказывает личное использование магии. family=null до решения, следует ли выделить отдельный тип «Межтрадиционные комплексы верований». Полный текст Роксбург на OpenEdition закрыт проверкой браузера; доступен поисковый фрагмент. Дополнительно проверены описание и аннотации глав академической монографии Адінкры на JSTOR."
+    }
+  ]
+}

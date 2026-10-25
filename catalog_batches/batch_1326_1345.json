@@ -1,0 +1,354 @@
+{
+  "range": [
+    1326,
+    1345
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1326,
+      "sourceName": "Bhagavata tradition",
+      "decision": "keep",
+      "canonicalName": "Бхагаватская традиция",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Вайшнавизм",
+      "description": "Древняя традиция преданности Васудеве-Кришне, участвовавшая в формировании вайшнавизма.",
+      "profile": "+divine +bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bhagavata"
+      ],
+      "notes": "Исходный URL перенаправляет на Bhagavata Sampradaya. Историческая традиция не тождественна всему кришнаизму и не является просто названием Бхагавата-пураны."
+    },
+    {
+      "sourceIndex": 1327,
+      "sourceName": "Bhedabheda",
+      "decision": "review",
+      "canonicalName": "Бхедабхеда",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Веданта",
+      "description": "Группа школ веданты, рассматривающих индивидуальное Я как одновременно отличное и неотличное от Брахмана.",
+      "profile": "+vedas +liberation",
+      "proposedQuestions": [
+        {
+          "id": "self_brahman_difference_identity",
+          "text": "Считаете ли вы индивидуальное Я одновременно отличным и неотличным от Брахмана?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Различает бхедабхеду и её интерпретации с адвайтой и двайтой. Pantheism не передаёт точного отношения Я и Брахмана; естественное и непостижимое различие-в-неразличии также требуют разграничения при подробной классификации.",
+          "supportedEntries": [
+            "Bhedabheda",
+            "Dvaitadvaita",
+            "Gaudiya Vaishnavism"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bhedabheda",
+        "https://iep.utm.edu/bhedabheda-vedanta/"
+      ],
+      "notes": "Исходная статья отмечает преимущественную опору на источники из самой традиции. Академическая статья Andrew J. Nicholson в IEP подтверждает самостоятельный круг школ; review сохраняет необходимость редакторской проверки исходной статьи. Не единая организация и не синоним одной из её школ; бхакти нельзя автоматически приписать всем представителям."
+    },
+    {
+      "sourceIndex": 1328,
+      "sourceName": "Bhil Hinduism",
+      "decision": "keep",
+      "canonicalName": "Индуистские традиции бхилов",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Народный индуизм",
+      "description": "Региональные практики бхилов, соединяющие почитание индуистских божеств с местными культами духов и сил природы.",
+      "profile": "+many_gods +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bhil",
+        "https://intangibleheritage.intach.org/cultural-mapping-of-the-bhil-community/"
+      ],
+      "notes": "Исходная ссылка — статья о народе, включающем последователей разных религий. Полевая культурная документация INTACH подтверждает сочетание местных и индуистских культов; профиль относится к описанным практикам, а не ко всем бхилам."
+    },
+    {
+      "sourceIndex": 1329,
+      "sourceName": "Brahma Sampradaya",
+      "decision": "keep",
+      "canonicalName": "Брахма-сампрадая",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Вайшнавизм",
+      "description": "Вайшнавская линия передачи учения, традиционно возводимая к Брахме и связанная с Мадхвой.",
+      "profile": "+vedas",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Brahma_Sampradaya"
+      ],
+      "notes": "Брахма обозначает традиционное происхождение линии, а не основной объект отдельного культа. Линия преемственности и философия двайты — разные уровни классификации; не alias Двайта-веданты. Принадлежность гаудия-вайшнавизма к линии не доказывает их тождество."
+    },
+    {
+      "sourceIndex": 1330,
+      "sourceName": "Caribbean Shaktism",
+      "decision": "keep",
+      "canonicalName": "Карибский шактизм (Калимаи)",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Шактизм",
+      "description": "Традиции почитания Кали и Мариамман в индийской диаспоре Карибского региона, особенно в Гайане и Тринидаде.",
+      "profile": "+divine +bhakti +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Caribbean_Shaktism"
+      ],
+      "notes": "Региональная традиция, также называемая Kalimai Dharma и Madras Religion; не синоним всего шактизма. Локальные формы и состав практик различаются. Огненные обряды сами по себе не означают общего учения о святости огня."
+    },
+    {
+      "sourceIndex": 1331,
+      "sourceName": "Dadupanth",
+      "decision": "review",
+      "canonicalName": "Дадупантх",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Сант Мат",
+      "description": "Традиция последователей Даду Даяла в Раджастхане, почитающая бесформенного Бога и сохраняющая сборник Даду-вани.",
+      "profile": "+divine +bhakti +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dadu_Dayal",
+        "https://www.sahapedia.org/sustaining-faith-text-and-tradition-dadu-panth"
+      ],
+      "notes": "Исходный URL посвящён основателю, а статья содержит предупреждение о нейтральности. Полевая документация Sahapedia подтверждает существование Дадупантха, почитание Даду-вани и ниргуна-бхакти. Биографические и конфессиональные обобщения требуют проверки; критика пустой обрядности не означает отсутствия ритуалов у современной общины."
+    },
+    {
+      "sourceIndex": 1332,
+      "sourceName": "Dvaita Vedanta",
+      "decision": "alias",
+      "canonicalName": "Двайта-веданта",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Веданта",
+      "description": "Школа веданты Мадхвы, утверждающая реальное различие Бога, индивидуальных душ и мира.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dvaita_Vedanta"
+      ],
+      "notes": "Точное английское название уже существующей записи religions.js «Двайта-веданта». Профиль не дублируется и не расширяется в этой партии."
+    },
+    {
+      "sourceIndex": 1333,
+      "sourceName": "Dvaitadvaita",
+      "decision": "keep",
+      "canonicalName": "Двайтадвайта (учение Нимбарки)",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Бхедабхеда",
+      "description": "Учение Нимбарки о естественном различии и неразличии Брахмана, индивидуальных душ и мира.",
+      "profile": "+vedas +liberation +bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dvaitadvaita",
+        "https://iep.utm.edu/bhedabheda-vedanta/"
+      ],
+      "notes": "Исходный URL перенаправляет на Dvaitadvaita Vedanta. Самостоятельная интерпретация бхедабхеды, а не синоним двайты, адвайты или всего круга бхедабхеды. Академический обзор IEP подтверждает место Нимбарки в этом круге."
+    },
+    {
+      "sourceIndex": 1334,
+      "sourceName": "Dyaoism",
+      "decision": "keep",
+      "canonicalName": "Дьяоизм — традиционная религия хаджонгов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Этническая религия хаджонгов северо-востока Индии, сочетающая местные культы духов с почитанием индуистских божеств.",
+      "profile": "+divine +many_gods +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hajong_ethnic_religion"
+      ],
+      "notes": "Dyaoism — альтернативное название Hajong ethnic religion в исходной статье. Не даосизм и не автоматически вся религиозная жизнь народа; индуистские заимствования не отменяют самостоятельного местного комплекса."
+    },
+    {
+      "sourceIndex": 1335,
+      "sourceName": "Ekasarana Dharma",
+      "decision": "keep",
+      "canonicalName": "Экасарана-дхарма",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Вайшнавизм",
+      "description": "Ассамская традиция Шанкарадевы и Мадхавдевы, сосредоточенная на преданности Кришне-Нараяне и Бхагавата-пуране.",
+      "profile": "+divine +personal +bhakti +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ekasarana_Dharma"
+      ],
+      "notes": "Региональное направление вайшнавской бхакти. Исключительная направленность преданности не переносится автоматически в отрицание существования всех иных божеств."
+    },
+    {
+      "sourceIndex": 1336,
+      "sourceName": "Folk Hinduism",
+      "decision": "keep",
+      "canonicalName": "Народный индуизм",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Индуизм",
+      "description": "Общее обозначение разнообразных местных, семейных и деревенских индуистских традиций.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Folk_Hinduism",
+        "https://academic.oup.com/reference/62357/reference-article-abstract/554509265"
+      ],
+      "notes": "Исходный URL перенаправляет на общую статью Folk Religion с разделом об индуизме. Академическая библиография Frank J. Korom подтверждает употребление термина Popular and Folk Hinduism. Это неоднородная категория, поэтому единый профиль не назначен."
+    },
+    {
+      "sourceIndex": 1337,
+      "sourceName": "Ganapatya",
+      "decision": "keep",
+      "canonicalName": "Ганапатья",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Индуизм",
+      "description": "Индуистская традиция, почитающая Ганешу как высшую божественную реальность.",
+      "profile": "+divine +bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ganapatya"
+      ],
+      "notes": "Отдельная конфессиональная ориентация на Ганешу; обычное почитание Ганеши в других индуистских школах само по себе не делает их ганапатья. Верховенство одного божества не означает отрицания остальных."
+    },
+    {
+      "sourceIndex": 1338,
+      "sourceName": "Gaudiya Vaishnavism",
+      "decision": "keep",
+      "canonicalName": "Гаудия-вайшнавизм",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Кришнаизм",
+      "description": "Бенгальская традиция Чайтаньи, развивающая преданность Радхе и Кришне и опирающаяся на Бхагавата-пурану.",
+      "profile": "+divine +bhakti +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gaudiya_Vaishnavism",
+        "https://iep.utm.edu/bhedabheda-vedanta/"
+      ],
+      "notes": "Уже кришнаизма в целом и шире отдельного Международного общества сознания Кришны. Не alias Брахма-сампрадаи: заявление о преемственности не делает региональную школу тождественной всей линии. Отношение к Брахману описывается как ачинтья-бхедабхеда."
+    },
+    {
+      "sourceIndex": 1339,
+      "sourceName": "Halumatha",
+      "decision": "review",
+      "canonicalName": "Халуматха (традиции куруба)",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Обозначение религиозных традиций и институтов сообщества куруба в Карнатаке.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Halumatha",
+        "https://indiankanoon.org/doc/11230670/"
+      ],
+      "notes": "Исходная статья отмечена недостатком ссылок и отсутствием встроенных подтверждений. Судебный материал J. M. Mariswamy v. Jade Devaara Mutt (Karnataka High Court, 18.06.2013) воспроизводит сведения стороны о названии Halumatta для религиозного института куруба; это подтверждает употребление термина, но не весь доктринальный профиль и не статус единой самостоятельной деноминации. Нужны специальные исследования; утверждение об общей адвайте не переносится в профиль."
+    },
+    {
+      "sourceIndex": 1340,
+      "sourceName": "Haridasa",
+      "decision": "keep",
+      "canonicalName": "Движение Харидаса",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Двайта-веданта",
+      "description": "Каннадаязычное движение преданности Хари, распространявшее учение Мадхвы через религиозную поэзию и музыку.",
+      "profile": "+divine +bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Haridasa"
+      ],
+      "notes": "Культурно-религиозное движение внутри круга двайты, а не синоним всей философской школы. Название не относится к отдельному человеку со сходным именем."
+    },
+    {
+      "sourceIndex": 1341,
+      "sourceName": "Inchegeri Sampradaya",
+      "decision": "keep",
+      "canonicalName": "Инчагири-сампрадая",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Навнатх-сампрадая",
+      "description": "Линия духовных наставников Махараштры и Карнатаки, связанная с Бхаусахебом Махараджем и Нисаргадаттой Махараджем.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Inchegeri_Sampradaya"
+      ],
+      "notes": "В исходной статье Inchagiri Sampradaya также именуется Nimbargi Sampradaya. Учителя и ответвления различают пути мантры и непосредственного самопознания; единый подробный профиль не назначен. Не синоним всех традиций натхов, Сант Мат или адвайты."
+    },
+    {
+      "sourceIndex": 1342,
+      "sourceName": "Indonesian Hinduism",
+      "decision": "keep",
+      "canonicalName": "Индуистские традиции Индонезии",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Индуизм",
+      "description": "Совокупность индуистских традиций Индонезии, включающая балийские, яванские и другие региональные формы.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hinduism_in_Indonesia"
+      ],
+      "notes": "Региональный собирательный термин, не alias индуизма Бали или Явы. Административная классификация некоторых местных религий как индуизма не доказывает общего происхождения или единства доктрины. Из-за неоднородности профиль пуст."
+    },
+    {
+      "sourceIndex": 1343,
+      "sourceName": "Javanese Hinduism",
+      "decision": "review",
+      "canonicalName": "Индуистские традиции Явы",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Индуистские традиции Индонезии",
+      "description": "Региональные индуистские традиции острова Ява, включая исторические формы и современные общины.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hinduism_in_Java",
+        "https://www.jstor.org/stable/j.ctv18zhf5s"
+      ],
+      "notes": "Исходная статья отмечена потребностью в дополнительных ссылках. Исследование Robert W. Hefner «Hindu Javanese: Tengger Tradition and Islam» подтверждает самостоятельную тенггерскую традицию, но её признаки нельзя приписывать всему яванскому индуизму. Review сохраняется для проверки широкого историко-современного агрегата; не alias всего индуизма Индонезии."
+    },
+    {
+      "sourceIndex": 1344,
+      "sourceName": "Kabir panth",
+      "decision": "keep",
+      "canonicalName": "Кабир-пантх",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Сант Мат",
+      "description": "Традиция последователей Кабира, связанная с преданностью бесформенному Богу и авторитетом его поэзии, включая Биджак.",
+      "profile": "+divine +bhakti +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kabir_panth"
+      ],
+      "notes": "Самостоятельный круг общин, а не весь Сант Мат. Критика религиозных разделений и внешней обрядности не означает светского гуманизма или полного отсутствия ритуалов в современных общинах."
+    },
+    {
+      "sourceIndex": 1345,
+      "sourceName": "Kaharingan",
+      "decision": "keep",
+      "canonicalName": "Кахаринган",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционные религиозные комплексы ряда даякских сообществ Калимантана, объединённые современным названием кахаринган.",
+      "profile": "+scripture +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kaharingan",
+        "https://jurnalharmoni.kemenag.go.id/harmoni/article/view/47",
+        "https://www.pustaka-bpkxii.org/slims/index.php?id=3665&keywords=&p=show_detail"
+      ],
+      "notes": "Не alias широкой записи «Традиционные религии даяков» (партия 0366–0385): название не охватывает все религии даяков вне и внутри Индонезии. Panaturan и предковые ритуалы подтверждены, однако общины неоднородны. Государственное включение в индуистскую категорию не доказывает тождества с индуизмом; единый монотеистический профиль не назначен."
+    }
+  ]
+}

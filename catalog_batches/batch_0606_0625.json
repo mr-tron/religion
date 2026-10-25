@@ -1,0 +1,336 @@
+{
+  "range": [
+    606,
+    625
+  ],
+  "entries": [
+    {
+      "sourceIndex": 606,
+      "sourceName": "Lamet religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования ламет",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования ламет с деревенскими божествами, домашними духами предков и жрецами ксемиа.",
+      "profile": "+divine +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tai_folk_religion"
+      ],
+      "notes": "Исходная статья шире записи, но содержит отдельный раздел Lamet religion, подтверждающий местную традицию. Сходство с тайскими народными верованиями не доказывает тождества всему комплексу Tai folk religion."
+    },
+    {
+      "sourceIndex": 607,
+      "sourceName": "Maonan traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования маонань",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования маонань с местными божествами, духами и значительными влияниями даосизма и китайских народных культов.",
+      "profile": "+divine +many_gods +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maonan_people"
+      ],
+      "notes": "Исходная статья о народе содержит отдельный религиозный раздел с божествами и обрядами. Заимствования не делают традицию точным синонимом всей китайской народной религии или даосизма."
+    },
+    {
+      "sourceIndex": 608,
+      "sourceName": "Mo",
+      "decision": "keep",
+      "canonicalName": "Мо — традиционная религия чжуанов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренная религия чжуанов с творцом Бу Лото, другими божествами и представлением о духах во всём окружающем мире.",
+      "profile": "+divine +many_gods +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mo_(religion)"
+      ],
+      "notes": "Moism здесь соответствует 麽教, а не философскому моизму 墨家. Верховное божество не означает строгого единобожия; региональные формы не предполагаются полностью одинаковыми."
+    },
+    {
+      "sourceIndex": 609,
+      "sourceName": "Nung religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования нунгов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования нунгов Вьетнама с местными духами и почитанием божественных покровителей, включая Куан Ам.",
+      "profile": "+divine +nature_spirits",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nung_people"
+      ],
+      "notes": "Статья относится к тайскоязычным Nùng, не к китайскоязычной одноимённой группе и не к нунгским группам тибето-бирманского круга. Буддийские и конфуцианские влияния не доказывают полного тождества соответствующим традициям. Then — пересекающаяся обрядовая практика, а не всё содержание Nung religion."
+    },
+    {
+      "sourceIndex": 610,
+      "sourceName": "Pa Then religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования па-тхен",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования па-тхен Вьетнама с божествами неба и земли, природными духами и семейным почитанием предков.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pa_Then_people"
+      ],
+      "notes": "Исходная статья о народе подробно описывает космологию и разные обряды. Присутствие Будды среди небесных фигур не доказывает центральности буддийского учения; па-тхен не тождественны пакох/па-ко."
+    },
+    {
+      "sourceIndex": 611,
+      "sourceName": "Qabiao religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования кабьяо (пу-пео)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования кабьяо/пу-пео с представлениями о множественных душах и духах и домашними алтарями поколений предков.",
+      "profile": "+ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qabiao_people"
+      ],
+      "notes": "Исходная статья о народе содержит религиозный раздел. Множественные души не приравнены к перерождению. Названия Qabiao и Pu Péo относятся к одному народу; другого сохранённого религиозного синонима не найдено."
+    },
+    {
+      "sourceIndex": 612,
+      "sourceName": "Saek religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования сэков",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования сэков Лаоса и Таиланда с предками, деревенскими покровителями и духами реки, леса и неба.",
+      "profile": "+ancestors +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saek_people"
+      ],
+      "notes": "Статья о народе подтверждает местные обряды подношений и специалистов мойяу. Тхеравада части населения не назначается всему традиционному комплексу; общая тайская принадлежность не доказывает синонимии всех местных верований."
+    },
+    {
+      "sourceIndex": 613,
+      "sourceName": "Sui religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования шуй",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования шуй с множеством божеств и духов, почитанием предков и лечебными и погребальными обрядами.",
+      "profile": "+divine +many_gods +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sui_people"
+      ],
+      "notes": "Исходная статья о народе содержит конкретный религиозный раздел. Приоритет отдан описанным практикам, а не краткому перечню Buddhism/Taoism в инфобоксе. Часть заимствованных божеств не делает всю традицию синонимом китайской народной религии."
+    },
+    {
+      "sourceIndex": 614,
+      "sourceName": "Then",
+      "decision": "keep",
+      "canonicalName": "Тхен (Then)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Обрядовая традиция тай, нунгов и тхай Вьетнама с песенным духовным путешествием мастера Тхен и обращениями к божествам.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tay_people",
+        "https://ich.unesco.org/en/RL/practices-of-then-by-tay-nung-and-thai-ethnic-groups-in-viet-nam-01379?RL=01379"
+      ],
+      "notes": "Исходная статья о тай описывает верования Then; ЮНЕСКО подтверждает межэтническую обрядовую практику. Then не является точным синонимом религии всех тай или всех нунгов. Обряды передаются преимущественно устно; наличие китайских знаков не приравнено единому священному канону."
+    },
+    {
+      "sourceIndex": 615,
+      "sourceName": "Baltic Finnic paganism",
+      "decision": "keep",
+      "canonicalName": "Традиционные прибалтийско-финские верования",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторический комплекс дохристианских верований прибалтийско-финских народов с природными божествами, местными святилищами и подношениями.",
+      "profile": "+divine +many_gods +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Baltic_Finnic_paganism"
+      ],
+      "notes": "Предлагаемое семейство ancient_european: древние религии Европы. Зонтичная категория для разных народов, а не единая церковь. Не alias современных неоязыческих движений. Финские локальные формы выделены следующей записью; общий источник подчёркивает региональную неоднородность."
+    },
+    {
+      "sourceIndex": 616,
+      "sourceName": "Finnish paganism",
+      "decision": "keep",
+      "canonicalName": "Финские дохристианские верования",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": "Традиционные прибалтийско-финские верования",
+      "description": "Исторические местные верования финнов с Укко, другими божествами и сакральными природными местами.",
+      "profile": "+divine +many_gods +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Finnish_paganism",
+        "https://www.bfn.de/sites/default/files/BfN/service/Dokumente/skripten/skript322.pdf"
+      ],
+      "notes": "Предлагаемое семейство ancient_european: древние религии Европы. Исходный URL теперь перенаправляет к широкой Baltic Finnic paganism. Независимое государственное издание отдельно описывает дохристианскую религию финнов и её священные места. Поэтому сохранена более узкая этнорегиональная запись, а не alias всего прибалтийско-финского комплекса. Не современное Suomenusko."
+    },
+    {
+      "sourceIndex": 617,
+      "sourceName": "Hungarian shamanism",
+      "decision": "review",
+      "canonicalName": "Венгерские шаманские реконструкции и фольклорные пережитки",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исследовательская категория предполагаемых шаманских элементов в венгерском фольклоре и преданиях о тальтошах.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shamanistic_remnants_in_Hungarian_folklore",
+        "https://real.mtak.hu/86677/",
+        "https://www.eastwest.btk.mta.hu/images/pdf/PCS-.-ed.-Vernacular-religion-ACTA-ETHN-631.pdf"
+      ],
+      "notes": "Review: исходная статья представляет сравнительную реконструкцию, а не ясно очерченную единую традицию. Научная работа Эвы Поч подчёркивает спорность гипотез о древневенгерском шаманизме. Требуется различить историческую реконструкцию, поздний фольклор и современные движения. Для исторического слоя возможно ancient_european, для живой народной практики european_folk; профиль пустой."
+    },
+    {
+      "sourceIndex": 618,
+      "sourceName": "Mari Native Religion",
+      "decision": "keep",
+      "canonicalName": "Марийская традиционная религия",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренная религия марийцев с Кугу Юмо, другими божественными силами, священными деревьями и общинными обрядами.",
+      "profile": "+divine +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mari_Native_Religion"
+      ],
+      "notes": "Живая коренная традиция, поэтому ближайшее семейство indigenous. Источник описывает вариативность и христианские влияния; соотношение Кугу Юмо, других божеств и их проявлений не сведено к строгой альтернативе единобожия и многобожия."
+    },
+    {
+      "sourceIndex": 619,
+      "sourceName": "Proto-Uralic religion",
+      "decision": "review",
+      "canonicalName": "Реконструируемые прауральские верования",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Научная реконструкция возможных религиозных представлений носителей прауральского языка на основании лексики и сравнительных данных.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Proto-Uralic_religion"
+      ],
+      "notes": "Review: это не прямо засвидетельствованная единая конфессия. Источник подчёркивает ограниченность данных и вероятностный характер реконструкций души, шаманских практик и небесного божества. Типичные ответы не назначены. При сохранении как исследовательской категории предлагается ancient_uralic: реконструируемые древние уральские традиции, охватывающие Европу и Азию."
+    },
+    {
+      "sourceIndex": 620,
+      "sourceName": "Sámi shamanism",
+      "decision": "alias",
+      "canonicalName": "Саамская традиционная религия",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические духовные традиции саамских народов, включая практики нойдов, почитание духов и умерших.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/S%C3%A1mi_shamanism"
+      ],
+      "notes": "Подтверждённый синоним существующей записи «Саамская традиционная религия» в religions.js. Исходная ссылка перенаправляет на Ancient Sámi religion, а текст прямо описывает traditional Sámi religion и шаманские практики. Отдельного учения, отличного от сохранённой традиции, название здесь не выделяет."
+    },
+    {
+      "sourceIndex": 621,
+      "sourceName": "John Frum",
+      "decision": "keep",
+      "canonicalName": "Движение Джона Фрума",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозное движение острова Танна в Вануату, связанное с Джоном Фрумом, местным кастом и ожиданиями преобразования жизни общины.",
+      "profile": "+ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/John_Frum",
+        "https://www.anthroencyclopedia.com/entry/cargo-cults"
+      ],
+      "notes": "Статья и академическая антропологическая энциклопедия подтверждают самостоятельное движение, духовные контакты, возвращение к обычаям и обрядовые собрания. Разные объяснения происхождения фигуры Джона Фрума не сведены к единственной установленной биографии; политическое крыло не исчерпывает религии."
+    },
+    {
+      "sourceIndex": 622,
+      "sourceName": "Johnson cult",
+      "decision": "review",
+      "canonicalName": "Движение в поддержку Линдона Джонсона на Нью-Гановере",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Нью-Гановера 1964 года, известное под названием Johnson cult и связывавшее требования развития острова с президентом США.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Johnson_cult",
+        "https://the-shocker.wichita.edu/story.php?eid=29&id=876"
+      ],
+      "notes": "Review: исходная классификация как карго-культа оспорена. Антрополог Дороти Биллингс интерпретирует действия как политический театр и сатиру, а не доказанное обожествление Джонсона. Университетское интервью подтверждает эту переоценку. Надёжного самостоятельного вероучения не установлено; профиль пустой, семейство оставлено неопределённым до редакторского решения."
+    },
+    {
+      "sourceIndex": 623,
+      "sourceName": "Pomio Kivung",
+      "decision": "keep",
+      "canonicalName": "Помьо Кивунг",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозное движение Восточной Новой Британии, соединяющее культ предков, христианские влияния и ожидания будущего преображения общества.",
+      "profile": "+divine +ancestors +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pomio_Kivung",
+        "https://academic.oup.com/book/47557/chapter-abstract/422684407"
+      ],
+      "notes": "Полевое исследование Харви Уайтхауса подтверждает самостоятельную религиозную систему, ритуалы и обожествление лидеров. Политические цели не исключают религиозного компонента. Неполные ссылки и разночтения дат в исходной статье не перенесены в профиль."
+    },
+    {
+      "sourceIndex": 624,
+      "sourceName": "Prince Philip Movement",
+      "decision": "keep",
+      "canonicalName": "Движение почитания принца Филиппа",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Локальная традиция общин юга Танны в Вануату, связывающая принца Филиппа с божественным сыном горного духа.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Prince_Philip_Movement"
+      ],
+      "notes": "Исходная статья подтверждает религиозное почитание. Родство персонажа с Джоном Фрумом в некоторых рассказах не доказывает тождества движений. Профиль не включает неподтверждённые общие доктрины карго-культов; ритуальное значение портрета не приравнено христианскому вопросу об иконах."
+    },
+    {
+      "sourceIndex": 625,
+      "sourceName": "Vailala Madness",
+      "decision": "keep",
+      "canonicalName": "Движение Вайлала",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозно-общественное движение Папуасского залива начала XX века с ожиданием возвращения предков и новыми обрядовыми формами.",
+      "profile": "+ancestors +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vailala_Madness",
+        "https://www.anthroencyclopedia.com/entry/cargo-cults"
+      ],
+      "notes": "Vailala Madness — колониальное название, не медицинский диагноз участников. Исходная статья имеет редакционные проблемы; академическая антропологическая энциклопедия независимо подтверждает движение, ожидание предков и обряды. Непроверенные обвинения, утверждения о психопатологии и общие стереотипы о карго-культах исключены."
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "range": [
+    206,
+    225
+  ],
+  "entries": [
+    {
+      "sourceIndex": 206,
+      "sourceName": "Arhuaco spirituality",
+      "decision": "keep",
+      "canonicalName": "Духовная традиция аруако",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция аруако Сьерра-Невада-де-Санта-Марта, связанная с Законом Истока, деятельностью мамо и подношениями для поддержания равновесия мира.",
+      "profile": "+nature_spirits +ritual +divine +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arhuaco_people",
+        "https://ich.unesco.org/en/RL/ancestral-system-of-knowledge-of-the-four-indigenous-peoples-arhuaco-kankuamo-kogui-and-wiwa-of-the-sierra-nevada-de-santa-marta-01886",
+        "https://tuneldeltiemposantamarta.mincultura.gov.co/arhuacos-katanzama/index.html",
+        "https://www.oas.org/ext/es/democracia/publicaciones/moduleid/7083/id/792/lang/2/controller/item/action/download"
+      ],
+      "notes": "Исходная ссылка о народе вернула 429. UNESCO независимо подтверждает общую систему знаний аруако и трёх соседних народов, общение с горами и реками и подношения духовным силам; материал, созданный самим сообществом при поддержке Министерства культуры Колумбии, подтверждает именно аруако. Общая система не делает все четыре народа религиозными синонимами. Публикация OAS «La memoria como forma» поясняет именно практику аруако: духовные власти посредством adivinación советуются со своими божествами при индивидуальных и коллективных решениях. Это прямое основание +divine и +divination_oracles; они не выведены из одного лишь общего описания UNESCO."
+    },
+    {
+      "sourceIndex": 207,
+      "sourceName": "Atacama religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования атакаменьо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Андские традиции",
+      "description": "Андские верования атакаменьо (ликанантай), связанные с сакральными горами, обрядами и представлениями о посмертном существовании.",
+      "profile": "+divine +many_gods +ritual +afterlife +nature_spirits +ancestors",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Atacama_people",
+        "https://www.fucoa.cl/publicaciones/pueblos_originarios/atacameno.pdf",
+        "https://museo.precolombino.cl/la-colecci%C3%B3n/coleccion-material/catalogo-razonado/catalogo-razonado-atacameno/"
+      ],
+      "notes": "Исходная статья о народе непосредственно описывает религию, богов священной горы Ликанкабур и погребения. Она преимущественно описывает исторические практики: не приписывать их каждому современному атакаменьо. Влияние инкского культа Солнца не означает тождества с религией инков или с общей записью «Андские традиции». Издание FUCOA описывает tata-cerro, связанные с горами и водой силы и подношения предкам. Совместный с представителями общин каталог Museo Chileno de Arte Precolombino документирует Convido a los Abuelos: обращение к предкам за разрешением работать с древними предметами. Это отдельные основания +nature_spirits и +ancestors."
+    },
+    {
+      "sourceIndex": 208,
+      "sourceName": "Aymara religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования аймара",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Андские традиции",
+      "description": "Местные андские духовные традиции аймара с почитанием горных сил Achachilas, предков и ритуальными подношениями.",
+      "profile": "+divine +nature_spirits +ancestors +ritual +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aymara_people",
+        "https://aprendoenlinea.mineduc.gob.cl/sites/default/files/newtenberg/614/articles-340587_recurso_pdf.pdf"
+      ],
+      "notes": "Раздел Religion and spirituality описывает духов гор, предков и подношения, а также синкретическое сочетание с католицизмом. Это более узкая традиция внутри существующих «Андских традиций», не их полный синоним. Христианские признаки не назначены всему комплексу. Учебный материал Министерства образования Чили по культуре аймара прямо описывает диагностику yatiri/waytiri посредством карт, коки и millu, за которой следуют лечебные обряды (+divination_oracles). Речь о документированной практике специалистов, не о занятии каждого аймара."
+    },
+    {
+      "sourceIndex": 209,
+      "sourceName": "Aztec religion",
+      "decision": "keep",
+      "canonicalName": "Религия ацтеков",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторический религиозный комплекс ацтекского мира с почитанием многих божеств, храмовыми культами и календарными обрядами.",
+      "profile": "+divine +many_gods +ritual +icons +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aztec_religion",
+        "https://art.thewalters.org/object/2009.20.1/"
+      ],
+      "notes": "Исходная статья подтверждает пантеон, жречество и календарные ритуалы. Спорное обобщение о едином монистическом учении всех ацтеков не кодируется. Существующая запись «Мезоамериканские возрождения» описывает современные движения, поэтому не является синонимом исторической религии. Предлагаемое семейство: ancient_american — древние религиозные традиции Америки; не современное неоязычество. Walters Art Museum описывает маску ацтеков (Mexica) как образ Mictlantecuhtli, владыки подземного мира и умерших; ношение масок было центральным способом ритуального олицетворения божеств. Это подтверждает +icons и +afterlife без переноса поздних современных возрождений."
+    },
+    {
+      "sourceIndex": 210,
+      "sourceName": "Blackfoot religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия черноногих",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция народов конфедерации черноногих с повествованиями о Напи, видениями духов-покровителей и церемонией Medicine Lodge.",
+      "profile": "+divine +nature_spirits +revelation +ritual +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Blackfoot_religion",
+        "https://www.alberta.ca/release.cfm?xID=26597C813C5C1-D591-C723-A1F70A02A21723DC"
+      ],
+      "notes": "Статья непосредственно описывает религиозную традицию, передачу песен и церемоний через видения и обращения к Солнцу. Не синоним всех традиций Равнин, а наличие видений не равно новому всеобщему откровению. Характеристики не относятся автоматически ко всем современным черноногим. Материал правительства Альберты о возвращении священных Blackfoot bundles прямо объясняет их церемониальное использование для возобновления связи с духами и просьб к Creator о помощи. Обращение с просьбой подтверждает +personal."
+    },
+    {
+      "sourceIndex": 211,
+      "sourceName": "Bororo totemism",
+      "decision": "keep",
+      "canonicalName": "Тотемические и ритуальные традиции бороро",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Ритуально-космологический комплекс бороро Бразилии, связывающий кланы, природных духов, культурных героев и души умерших.",
+      "profile": "+nature_spirits +ritual +afterlife +divine +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bororo",
+        "https://pib.socioambiental.org/en/Povo%3ABoe_%28Bororo%29"
+      ],
+      "notes": "Bororo totemism — внешнее аналитическое обозначение, а исходная ссылка ведёт на народ. Этнографический материал Instituto Socioambiental подтверждает клановый порядок, шаманов природных духов и душ умерших, а также сложные похоронные обряды. Сохраняется как локальный комплекс; не утверждается отдельная организация или единая доктрина с самоназванием «тотемизм». Этнография Instituto Socioambiental прямо связывает сверхъестественное существо Bope с созданием мира, рождением, зрелостью и смертью (+divine). Во время многомесячного похоронного цикла юноши формально посвящаются и осваивают ритуальные песни и танцы (+initiatory_brotherhood). Представление умершего танцором само по себе не кодируется как одержимость."
+    },
+    {
+      "sourceIndex": 212,
+      "sourceName": "Caddo religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия каддо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции каддо с представлениями о небесном творце, природных духах и храмовыми и общинными обрядами священного огня.",
+      "profile": "+divine +nature_spirits +ritual +fire +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Caddo",
+        "https://www.texasbeyondhistory.net/tejas/fundamentals/life.html",
+        "https://samnoblemuseum.ou.edu/collections-and-research/archaeology/the-art-of-prehistoric-caddo-potters/caddo-pottery-introduction/"
+      ],
+      "notes": "Исходная ссылка о народе недостаточно конкретна для вероучения. Проект Texas Beyond History Техасского университета описывает именно Caddo Ritual and Religion, включая Hasinai и другие группы. Отдельные детали хасинай не превращать в обязательную практику всех каддо; священный огонь подтверждается для нескольких групп. Sam Noble Museum Университета Оклахомы прямо описывает путешествие души каддо после смерти в небесный House of Death и затем в новый мир, а также погребальную пищу для этого пути (+afterlife)."
+    },
+    {
+      "sourceIndex": 213,
+      "sourceName": "Cahto religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования като (Cahto)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция като Северной Калифорнии с повествованиями о творце Ченеше и Нагайчо, духах мест и шаманском целительстве.",
+      "profile": "+divine +many_gods +nature_spirits +occult +ritual +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cahto",
+        "https://cahtotribe-nsn.gov/about/"
+      ],
+      "notes": "Статья о народе прямо описывает двух божественных персонажей, духов гор и разные формы шаманства. Участие като в обрядах Kuksu не означает тождества всего комплекса с Kuksu; родительская связь не назначается автоматически. Официальный сайт Cahto Tribe описывает священные церемониальные пути. Раздел Religion исходной статьи отдельно описывает chghályish, предсказывающих будущее во сне, и ритуальное обучение и призывание духов: отсюда +ritual и +divination_oracles. Предсказание не выведено из одного лишь общего слова «шаманство»; племенной сайт не используется как источник этого конкретного признака."
+    },
+    {
+      "sourceIndex": 214,
+      "sourceName": "Calusa religion",
+      "decision": "keep",
+      "canonicalName": "Историческая религия калуса",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические верования калуса Флориды с представлениями о трёх сверхъестественных правителях мира и нескольких душах человека.",
+      "profile": "+divine +many_gods +ritual +afterlife +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Calusa",
+        "https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/16/2017/03/South-Florida-Educators-Guide.pdf",
+        "https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/16/2017/03/Inquiry-Boxes-FL-Native-People-Teachers-Guide-Full.pdf"
+      ],
+      "notes": "Статья о народе и Florida Museum подтверждают описания трёх душ и посмертного перехода части душ в животных. Данные во многом восходят к миссионеру Juan Rogel и требуют учёта его предвзятости; буквальные представления о «дьяволе» не воспроизводятся. Частичное переселение душ не кодируется автоматически как единый цикл перерождений. Florida Museum сопоставляет деревянные маски Marco Island с историческим описанием процессии в масках у калуса, подтверждая сакральные изображения (+icons). Предположение о принадлежности конкретных найденных масок тайной церемонии не превращено в доказанное членство в братстве."
+    },
+    {
+      "sourceIndex": 215,
+      "sourceName": "Chauvin religion",
+      "decision": "keep",
+      "canonicalName": "Религиозная традиция Чавин",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Древнеандский культовый комплекс Чавин с храмовыми центрами, монументальной иконографией и ритуальными специалистами.",
+      "profile": "+divine +ritual +icons +entheogenic_ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chavin_culture",
+        "https://whc.unesco.org/en/list/330/",
+        "https://ehrafarchaeology.yale.edu/traditions/SE49/summary",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12088378/",
+        "https://museos.cultura.pe/sites/default/files/publicaciones/pdf/expoicpp.pdf"
+      ],
+      "notes": "Название Chauvin в исходном списке — вероятная опечатка: ссылка указывает на Chavín culture. UNESCO подтверждает археологический культовый центр, eHRAF — ритуалы и изображение сверхъестественного существа Lanzón. Не синоним всех «Андских традиций»; конкретная догматика и значения многих образов реконструируются предположительно. Предлагаемое семейство: ancient_american — древние религиозные традиции Америки; не современное неоязычество. Исследование PNAS 2025 года выявило остатки vilca и Nicotiana на костяных трубках из ограниченно доступной ритуальной галереи Чавин: прямое основание +entheogenic_ritual. Каталог Министерства культуры Перу описывает культовые каменные изображения, включая центральный Lanzón (+icons). Археологические данные не доказывают одержимость или точную реконструкцию догматики."
+    },
+    {
+      "sourceIndex": 216,
+      "sourceName": "Cherokee religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные духовные верования чероки",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции чероки с представлениями о духовных силах природного мира, равновесии и значении священного огня.",
+      "profile": "+nature_spirits +ritual +fire +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cherokee_spiritual_beliefs",
+        "https://ehrafworldcultures.yale.edu/cultures/nn08/summary",
+        "https://cherokee.gov/about-the-nation/frequently-asked-questions/culture/"
+      ],
+      "notes": "Исходная статья напрямую описывает космологию, сакральные природные объекты и священный огонь. Варианты между общинами и сочетание с христианством не исключаются. Единство духовного и физического мира не приравнивается автоматически к философскому пантеизму. Этнографическое резюме Yale eHRAF прямо описывает посмертный Nightland (+afterlife). Официальный Cherokee Nation отдельно предупреждает, что shamanism не является обозначением традиции чероки; из лекарственных растений или частных церемоний не назначается +occult."
+    },
+    {
+      "sourceIndex": 217,
+      "sourceName": "Chimor religion",
+      "decision": "keep",
+      "canonicalName": "Религия Чимор (чиму)",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические религиозные традиции государства Чимор на побережье Перу с культами природных сил и царских предков.",
+      "profile": "+divine +ancestors +ritual +many_gods +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chimor",
+        "https://museo.precolombino.cl/aprende/pueblos-culturas/culturas-precolombinas/andes-centrales/chim/",
+        "https://ehrafarchaeology.yale.edu/traditions/se75/summary",
+        "https://museo.precolombino.cl/wp-content/uploads/2020/10/Chimu.-Laberintos-de-un-traje-sagrado.pdf"
+      ],
+      "notes": "Исходная ссылка описывает государство, а не самостоятельную конфессию. Museo Chileno de Arte Precolombino независимо подтверждает культ царских мумий и обряды плодородия у Chimú. Государство Chimor и культура Chimú в данном контексте обозначают тот же исторический комплекс; не синоним религии инков или всех андских традиций. Предлагаемое семейство: ancient_american — древние религиозные традиции Америки; не современное неоязычество. Yale eHRAF перечисляет самостоятельные культы Луны Si и Моря Ni, подтверждая +many_gods. Монография Museo Chileno de Arte Precolombino «Chimú. Laberintos de un traje sagrado» описывает сопровождение умершего правителя в путешествии в мир мёртвых (+afterlife). Предполагаемые по поздним данным оракулы не добавлены."
+    },
+    {
+      "sourceIndex": 218,
+      "sourceName": "Chuj religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования чух",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Религиозные традиции майя",
+      "description": "Традиция чух Гватемалы и Мексики с духами гор, пещер и вод, предками и семейными алтарями.",
+      "profile": "+nature_spirits +ancestors +ritual +afterlife +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chuj_people",
+        "https://historicas.unam.mx/publicaciones/publicadigital/libros/poder/009_piedrasanta.pdf"
+      ],
+      "notes": "Исходная статья о народе непосредственно описывает духов природных мест и переход умершего к предкам. Это местная майяская традиция; не синоним всей религии майя или современных мезоамериканских возрождений. Католический синкретизм варьируется между общинами. Исследование Ruth Piedrasanta Herrera «El Ajchum, adivino entre los chuj» (UNAM) непосредственно описывает календарное гадание, диагностику и прогнозы ajchum (+divination_oracles). Признак установлен для чух, а не перенесён с майя вообще."
+    },
+    {
+      "sourceIndex": 219,
+      "sourceName": "Classical Veracruz religion",
+      "decision": "keep",
+      "canonicalName": "Религия классической культуры Веракруса",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Реконструируемые по археологии религиозные практики классического Веракруса, включая храмовые культы и сакральные игры в мяч.",
+      "profile": "+divine +many_gods +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Classical_Veracruz_culture",
+        "https://en.wikipedia.org/wiki/Classic_Veracruz_culture",
+        "https://catalogoafmt.esteticas.unam.mx/index.php/Detail/objects/472628"
+      ],
+      "notes": "Исходная ссылка с Classical недоступна; действующая статья Classic Veracruz culture описывает пантеон, скульптуры и ритуалы, прямо оговаривая ограниченность знаний. Имена и функции части божеств установлены предположительно; не переносить без проверки позднеацтекское богословие и не считать культуру доказанно тотонакской. Предлагаемое семейство: ancient_american — древние религиозные традиции Америки; не современное неоязычество. Каталог Института эстетических исследований UNAM документирует культовую скульптуру божества смерти на алтаре El Zapotal классического периода (600–900), окружённую росписями: +icons. Позднее ацтекское имя персонажа не принимается за доказанное самоназвание божества Веракруса."
+    },
+    {
+      "sourceIndex": 220,
+      "sourceName": "Cora religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия кора",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местная традиция кора Мексики с божествами Таяу, Тетеван и Саутари и сочетанием доколониальных представлений с католицизмом.",
+      "profile": "+divine +many_gods +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cora_people",
+        "https://mna.inah.gob.mx/detalle_pieza_mes.php?id=243",
+        "https://sic.cultura.gob.mx/ficha.php?table=artepmex&table_id=137"
+      ],
+      "notes": "Раздел Religion исходной статьи прямо описывает трёх главных божеств и религиозный синкретизм. Связь Саутари с Иисусом не означает, что Иисус занимает одинаковую центральную роль у всех кора. Не синоним традиций соседних уичолей или общей мезоамериканской религии. Национальный музей антропологии INAH описывает маски Chuisete’e из Jesús María (1999) и их участие в Judea: воспроизведение космического конфликта и восстановление порядка на Страстной неделе. Это прямые основания +ritual и +icons, а не перенос соседних традиций или утверждение одержимости исполнителей."
+    },
+    {
+      "sourceIndex": 221,
+      "sourceName": "Cree religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования кри",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные традиции кри Северной Америки, основанные на отношениях с живым миром, духовной взаимности и уважении к добываемым животным.",
+      "profile": "+nature_spirits +ritual +afterlife +ancestors +personal +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cree_religion",
+        "https://epe.lac-bac.gc.ca/100/205/301/ic/cdc/saskindian/a89mar11.htm?nodisclaimer=1",
+        "https://creeliteracy.org/2023/01/20/spirit-dish-wallace-awasis/",
+        "https://data2.archives.ca/rcap/pdf/rcap-116.pdf"
+      ],
+      "notes": "Статья прямо описывает анимистическую картину мира и отсутствие единой организационной структуры. Культурные сходства с оджибве не доказывают синонимию. Танец Солнца встречается не у всех кри и не назначен универсальным обязательным обрядом. Проверка 2026-10: Linda Jaine и Louise Halfe описывают непрерывную жизнь духа, поминальную трапезу и общение с умершими в Round Dance (+afterlife, +ancestors, +ritual). Wallace Awasis передаёт учение своих старших о пище и молитвах умершим (+personal). Свидетельства Royal Commission документируют shaking tent для получения сведений о местонахождении дичи (+divination_oracles). Это конкретные свидетельства внутри разнообразных общин кри, а не единый обязательный обряд всех кри."
+    },
+    {
+      "sourceIndex": 222,
+      "sourceName": "Croatan beliefs",
+      "decision": "review",
+      "canonicalName": "Исторические верования кроатан",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Недостаточно документированные духовные традиции кроатан побережья Северной Каролины.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Croatan",
+        "https://www.nps.gov/articles/ftraleigh.htm",
+        "https://www.nps.gov/parkhistory/online_books/pete/horning.pdf"
+      ],
+      "notes": "Исходная статья о народе переносит описание Thomas Harriot о прибрежных алгонкинах вообще на кроатан. NPS подтверждает кроатан как отдельную группу и отмечает христианскую интерпретацию Харриотом местной религии, но не устанавливает специфическое вероучение кроатан. Нужна проверка объёма этнографической атрибуции; профиль пуст. Не считать синонимом всех алгонкинских традиций или современных лумби."
+    },
+    {
+      "sourceIndex": 223,
+      "sourceName": "Crow religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия кроу",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция кроу (абсарока) Равнин с представлениями о творце, личными видениями и церемониями духовной силы.",
+      "profile": "+divine +personal +one_god +nature_spirits +revelation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Crow_religion"
+      ],
+      "notes": "Исходная статья описывает одного творца под несколькими именами, личные обращения к нему, видения и духовную силу природного мира. Современные христианство и Native American Church среди кроу не являются синонимами традиционной религии и не определяют профиль всей записи. Проверка 2026-10: Профиль уже содержит шесть содержательных признаков. Дополнительное посмертие не добавлено автоматически: описания Lowie и их разборы отмечают вариативность представлений, поэтому имеющийся профиль не расширен одной общей североамериканской моделью."
+    },
+    {
+      "sourceIndex": 224,
+      "sourceName": "Dakota Spirituality",
+      "decision": "keep",
+      "canonicalName": "Духовные традиции дакота",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции дакота с представлениями о Вакан-Танка, родстве всего живого и духовной практике, вплетённой в повседневную жизнь.",
+      "profile": "+divine +ritual +personal +afterlife +ancestors +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dakota_Spirituality",
+        "https://www.ndstudies.gov/curriculum/high-school/standing-rock-oyate/culture-standing-rock"
+      ],
+      "notes": "Исходная ссылка Dakota_Spirituality недоступна. North Dakota Studies подтверждает Вакан-Танка, молитвы и общую систему ценностей лакота/дакота. Более широкий источник не даёт основания объединять все сиуанские традиции; отдельная запись дакота сохраняется. Понимание «великой тайны» не кодируется автоматически как личный монотеизм. Проверка 2026-10: North Dakota Studies прямо описывает молитвы в Sun Dance и inipi (+personal), хранение духа умершего родственника один год (+afterlife, +ancestors), а также предание о передаче священной трубки и церемоний Ptesanwin (+revelation). Это материал Standing Rock с общей формулировкой Lakota/Dakota; он не означает полного совпадения всех региональных вариантов."
+    },
+    {
+      "sourceIndex": 225,
+      "sourceName": "Earth Cult",
+      "decision": "keep",
+      "canonicalName": "Миссисипский культ земли и плодородия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": "Юго-восточный церемониальный комплекс",
+      "description": "Археологически реконструируемый миссисипский культовый комплекс, связывающий земляные платформы, обновление и плодородие.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Earth%2Ffertility_cult",
+        "https://en.wikipedia.org/wiki/Earth/fertility_cult",
+        "https://sciences.ucf.edu/anthropology/wp-content/uploads/sites/2/2013/09/Lawres_Nathan_R.pdf"
+      ],
+      "notes": "Ссылка с кодированным слешем недоступна; действующая статья Earth/fertility cult и исследование Nathan Lawres подтверждают конкретный миссисипский комплекс. Это аналитическая категория исследователей в составе Southeastern Ceremonial Complex, а не универсальная религия Земли и не калифорнийский Earth Lodge Cult. Космологические детали частично гипотетичны, профиль ограничен ритуалом. Предлагаемое семейство: ancient_american — древние религиозные традиции Америки; не современное неоязычество. Проверка 2026-10: Археологический комплекс выделен по земляным платформам и символике обновления. Соседние категории chiefly warfare cult и temple statuary/ancestor cult в исследовании Lawres не перенесены в этот профиль; сам термин fertility не подтверждает конкретных богов, духов или учения о посмертии."
+    }
+  ]
+}

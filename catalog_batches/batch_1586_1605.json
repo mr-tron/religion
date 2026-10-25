@@ -1,0 +1,355 @@
+{
+  "range": [
+    1586,
+    1605
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1586,
+      "sourceName": "Ultramontanism",
+      "decision": "keep",
+      "canonicalName": "Ультрамонтанство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Римский католицизм",
+      "description": "Католическое направление, подчёркивающее особую власть и учительное первенство римского папы.",
+      "profile": "+pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ultramontanism"
+      ],
+      "notes": "Сохраняется определённая экклезиологическая и историческая позиция внутри католицизма, а не синоним всей Римско-католической церкви. Из усиленного папского авторитета не выводится единая позиция по всем остальным вопросам."
+    },
+    {
+      "sourceIndex": 1587,
+      "sourceName": "Unitarianism",
+      "decision": "alias",
+      "canonicalName": "Унитарианское христианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Христианская нетринитарная традиция, уже представленная в religions.js.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Unitarianism"
+      ],
+      "notes": "Исходник прямо описывает христианскую богословскую традицию, признающую единственность Бога и отвергающую Троицу. Подтверждённый синоним сохранённой записи «Унитарианское христианство», не современного плюралистического унитарианского универсализма. Профиль не дублируется."
+    },
+    {
+      "sourceIndex": 1588,
+      "sourceName": "Universal White Brotherhood",
+      "decision": "review",
+      "canonicalName": "Всемирное Белое братство Дынова и Айванхова",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Христианский эзотеризм",
+      "description": "Эзотерическая духовная традиция Петра Дынова и Омраама Микаэля Айванхова с медитативными и общинными практиками.",
+      "profile": "+divine +occult +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Universal_White_Brotherhood",
+        "https://www.fbu.org/en/the-universal-white-brotherhood/",
+        "https://uhb.no/en/teaching"
+      ],
+      "notes": "Review: исходник предупреждает о недостатке ссылок и совмещает болгарское движение с французской организацией. Официальные сайты подтверждают преемство Дынов—Айванхов и объясняют «белое» как символ света, а не расы. Уточнить организационный объём записи. Не синоним украинского Великого Белого братства ЮСМАЛОС."
+    },
+    {
+      "sourceIndex": 1589,
+      "sourceName": "Valentinianism",
+      "decision": "keep",
+      "canonicalName": "Валентинианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Раннехристианские гностические традиции",
+      "description": "Раннехристианская гностическая традиция Валентина и его последователей, включавшая разные школы толкования и спасительного знания.",
+      "profile": "+divine +jesus +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Valentinianism",
+        "https://www.degruyterbrill.com/document/isbn/9789004414815/html"
+      ],
+      "notes": "Исследовательский сборник Valentinianism: New Studies подтверждает самостоятельный круг традиций, спорные детали доктрины и собственные толкования Нового Завета. Не alias всего гностицизма. Разные версии мифа, отношения к церковной общине и обрядов не сведены к единому детальному профилю; поздние полемические обвинения не приняты за обязательные практики."
+    },
+    {
+      "sourceIndex": 1590,
+      "sourceName": "Waldensians",
+      "decision": "keep",
+      "canonicalName": "Вальденсы",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Христианство",
+      "description": "Христианское движение, возникшее вокруг Вальдо и мирянской проповеди и позднее присоединившееся к реформатской Реформации.",
+      "profile": "+scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Waldensians"
+      ],
+      "notes": "Источник подтверждает добровольную бедность раннего движения, перевод Нового Завета и приверженность Библии. Средневековая история и позднейшая реформатская конфессионализация различаются, поэтому единый подробный профиль для всех периодов не назначен. Не alias всего реформатского христианства, методизма или одного современного объединённого церковного союза."
+    },
+    {
+      "sourceIndex": 1591,
+      "sourceName": "Wesleyanism",
+      "decision": "keep",
+      "canonicalName": "Уэслианское богословие",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Методизм",
+      "description": "Богословская традиция Джона и Чарлза Уэсли, подчёркивающая предваряющую благодать, веру, духовное возрождение и освящение.",
+      "profile": "+divine +jesus +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wesleyanism",
+        "https://en.wikipedia.org/wiki/Wesleyan_theology",
+        "https://www.asbury.edu/about/wesleyan-holiness-theology/"
+      ],
+      "notes": "Исходный адрес Wesleyanism не загрузился; действующая статья Wesleyan theology и изложение Asbury University подтверждают конкретную богословскую традицию. Сохраняется система богословия, а не ещё одна запись о методистском движении как совокупности церквей. Не alias одной Wesleyan Church или всего движения святости. Позднейшие трактовки полного освящения различаются."
+    },
+    {
+      "sourceIndex": 1592,
+      "sourceName": "Word of Faith",
+      "decision": "review",
+      "canonicalName": "Слово веры",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Харизматическое христианство",
+      "description": "Харизматическое христианское движение, подчёркивающее исповедание веры, исцеление и материальные благословения.",
+      "profile": "+jesus +scripture",
+      "proposedQuestions": [
+        {
+          "id": "faith_health_wealth",
+          "text": "Считаете ли вы здоровье и материальное благополучие обещанными верующему благословениями, которые можно принять верой?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Помогает отличать учения Слова веры о здоровье и благополучии от харизматических традиций, признающих духовные дары без такой общей доктрины. Не вопрос о фактическом доходе или здоровье человека и не медицинское обещание."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Word_of_Faith",
+        "https://academic.oup.com/book/7600"
+      ],
+      "notes": "Review: исходная статья предупреждает об избыточном использовании самопубликаций и нуждается в редактуре. Исследование Милмона Харрисона независимо подтверждает движение и учение о здоровье и благополучии, показывая различия принятия этих учений участниками. Не alias всего харизматического христианства, любого богословия процветания или отдельной Word of Faith Fellowship. Обещания описаны как религиозные убеждения, не медицинские или финансовые факты."
+    },
+    {
+      "sourceIndex": 1593,
+      "sourceName": "Zwinglianism",
+      "decision": "keep",
+      "canonicalName": "Цвинглианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Реформатское христианство",
+      "description": "Богословское направление швейцарской Реформации, связанное с Ульрихом Цвингли и его пониманием Писания и Вечери Господней.",
+      "profile": "+jesus +scripture +bible_alone",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zwinglianism",
+        "https://en.wikipedia.org/wiki/Theology_of_Huldrych_Zwingli",
+        "https://academic.oup.com/book/27807/chapter-abstract/198076098"
+      ],
+      "notes": "Исходный адрес Zwinglianism не загрузился. Действующая статья о богословии Цвингли подтверждает авторитет Библии; исследование У. П. Стивенса объясняет евхаристический знак и воспоминание жертвы Христа. Не alias всего реформатского христианства. Символическое понимание евхаристии не означает отсутствия богослужения или отрицания духовной связи со Христом."
+    },
+    {
+      "sourceIndex": 1594,
+      "sourceName": "Abangan",
+      "decision": "review",
+      "canonicalName": "Абанган — яванская религиозно-социальная категория",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Яванский ислам",
+      "description": "Исторически изменчивое обозначение яванских мусульман, чья религиозная жизнь связана с местными обычаями и отличается от идеала строгого соблюдения ислама.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Abangan",
+        "https://brill.com/view/journals/bki/162/1/article-p35_2.pdf"
+      ],
+      "notes": "Review: не единая самостоятельная конфессия с общими догматами. Исследование М. К. Риклефса уточняет историческое возникновение и первоначально полемический характер категории, вместо представления её неизменным древним вероучением. Не alias всего кебатинана, кеджавена или яванского ислама. Из внешних оценок соблюдения норм не назначены -sharia, -muhammad и -quran."
+    },
+    {
+      "sourceIndex": 1595,
+      "sourceName": "Ahle Hadith",
+      "decision": "keep",
+      "canonicalName": "Ахл-и хадис (южноазиатское движение)",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суннитский ислам",
+      "description": "Южноазиатское мусульманское реформаторское движение, призывающее обращаться к Корану и хадисам как исходным основаниям веры и практики.",
+      "profile": "+quran +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ahle_Hadith"
+      ],
+      "notes": "Исходник прямо отличает современное Ahl-i Hadith от раннеисламской школы Ahl al-Hadith. Сохраняется самостоятельное движение, не alias всего салафизма или ваххабизма. Опора на хадисы означает, что это не коранизм; отказ от безусловного подражания правовой школе не равен отрицанию религиозного закона."
+    },
+    {
+      "sourceIndex": 1596,
+      "sourceName": "Ahmadiyya",
+      "decision": "alias",
+      "canonicalName": "Ахмадия",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исламское движение Мирзы Гулама Ахмада, уже представленное в religions.js.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ahmadiyya"
+      ],
+      "notes": "Ahmadiyya — подтверждённый английский эквивалент сохранённой записи «Ахмадия». Профиль не дублируется. Не alias «Ахмадийской религии мира и света» (индекс 1035), имеющей иное происхождение, и не объединение всех групп с похожим названием."
+    },
+    {
+      "sourceIndex": 1597,
+      "sourceName": "Akhbari",
+      "decision": "review",
+      "canonicalName": "Ахбаризм",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Шиитский ислам",
+      "description": "Направление двунадесятнической шиитской учёности, основывающее религиозное право и толкование прежде всего на сообщениях от непогрешимых.",
+      "profile": "+scripture +quran +ali +sharia",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Akhbari",
+        "https://www.bips.ac.uk/case-study/india-iran-iraq/",
+        "https://www.iranicaonline.org/articles/exegesis-iv/"
+      ],
+      "notes": "Review: исходная статья предупреждает о ненадёжных источниках. Работы Роберта Глива и Encyclopaedia Iranica подтверждают приоритет сообщений имамов и ахбаритскую экзегезу Корана. Не alias всего шиизма или акбаризма Ибн Араби; критика усулитского иджтихада не превращена в полное отрицание любого рассуждения."
+    },
+    {
+      "sourceIndex": 1598,
+      "sourceName": "Alavi Bohra",
+      "decision": "keep",
+      "canonicalName": "Алави-бохра",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Таййибитский исмаилизм",
+      "description": "Таййибитская исмаилитская община с собственной линией даи аль-мутлак, исторически связанная с Гуджаратом.",
+      "profile": "+ali +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alavi_Bohra"
+      ],
+      "notes": "Источник подтверждает обособление после спора о преемстве в XVII веке, руководство даи как представителя скрытого имама и собственный богослужебный календарь. Не alias дауди-бохра, всего исмаилизма, алавизма или алевизма. Сходство названия Alavi с Alawi не означает тождества."
+    },
+    {
+      "sourceIndex": 1599,
+      "sourceName": "Alawism",
+      "decision": "keep",
+      "canonicalName": "Алавизм",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Шиитские эзотерические традиции",
+      "description": "Эзотерическая религиозная традиция алавитов, исторически известная как нусайрийская и связанная с почитанием Али.",
+      "profile": "+divine +reincarnation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alawism",
+        "https://cris.haifa.ac.il/en/publications/the-alaw%C4%AB-religion-an-anthology/"
+      ],
+      "notes": "Академическая антология Меира Бар-Ашера и Арье Кофски подтверждает традицию, посвящение и учение о перевоплощении. Не alias анатолийского алевизма. Описание трёх божественных проявлений не кодируется как христианская +trinity; Ali не автоматически даёт +ali, поскольку вопрос опросника именно о линии имамов. Семейство islam — ближайшее историческое родство, а не навязывание единой самоидентификации всем алавитам."
+    },
+    {
+      "sourceIndex": 1600,
+      "sourceName": "Alevism",
+      "decision": "keep",
+      "canonicalName": "Алевизм",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Неоднородная религиозная традиция Анатолии и диаспоры с почитанием Али и двенадцати имамов, общинными собраниями джем и семахом.",
+      "profile": "+ali +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alevism"
+      ],
+      "notes": "Исходник подтверждает двенадцать имамов и обряды, но отмечает разногласия в определении традиции. Предупреждение о стиле цитирования само по себе не трактуется как опровержение этих признаков. Не alias алавизма или одной бекташийской организации. Исламская, самостоятельная религиозная и культурная самоидентификации различаются; family islam обозначает ближайшее семейство каталога. Общий шариатский или натуралистический профиль не назначен."
+    },
+    {
+      "sourceIndex": 1601,
+      "sourceName": "Ali-Illahism",
+      "decision": "review",
+      "canonicalName": "Али-илахизм — историческое обозначение требует уточнения",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Неоднозначное внешнее название религиозных групп, связываемых с особым почитанием или обожествлением Али.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ali-Illahism",
+        "https://www.iranicaonline.org/articles/ahl-e-haqq-people/"
+      ],
+      "notes": "Review: исходник сам указывает, что ярлык применялся к разным группам и не обозначает определённого единого свода учений. Iranica подтверждает, что соседями он применялся к Ахл-е Хакк и мог искажать роль Али в их верованиях. Не устанавливается alias всех ярсанов, езидов, алавитов или одной современной организации; профиль оставлен пустым до определения конкретного референта."
+    },
+    {
+      "sourceIndex": 1602,
+      "sourceName": "Alians",
+      "decision": "review",
+      "canonicalName": "Алианы Болгарии",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Алевитско-бекташийские традиции",
+      "description": "Болгарские алевитско-бекташийские общины с почитанием Али и имамов и собственными местными обрядовыми линиями.",
+      "profile": "+ali +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alians",
+        "https://dergipark.org.tr/tr/pub/tkhcbva/article/1219887"
+      ],
+      "notes": "Review: исходная статья предупреждает о недостатке построчных ссылок и использует спорные обобщения о происхождении и вероучении. Полевое исследование Ирен Маркофф подтверждает местные группы, почитание Али и двенадцати имамов, различия бекташи и бабаи. Сохраняется местная традиция, а не alias всего алевизма или бекташийского ордена."
+    },
+    {
+      "sourceIndex": 1603,
+      "sourceName": "Allahiyah Movement",
+      "decision": "review",
+      "canonicalName": "Движение Аллахийя (аль-Курбан) — требуется проверка",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Обозначение малоизученного современного движения в Ираке, которое сообщения прессы связывают с особым религиозным почитанием Али.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Allahiyah_Movement",
+        "https://amwaj.media/en/media-monitor/cult-murders-in-southern-iraq-provoke-fears-of-rising-youth-extremism"
+      ],
+      "notes": "Review: исходник опирается преимущественно на сообщения об арестах и предполагаемых насильственных обрядах. Amwaj.media приводит как обвинения, так и самоописание заявленного представителя и подчёркивает слабое понимание внутреннего устройства. Эти материалы не позволяют назначить всем участникам подробный профиль или представить обвинения как неизменную доктрину. Не alias исторического али-илахизма, алевизма или всего шиизма. Семейство исламского происхождения предварительное."
+    },
+    {
+      "sourceIndex": 1604,
+      "sourceName": "Almohadism",
+      "decision": "keep",
+      "canonicalName": "Альмохадское учение",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Ислам",
+      "description": "Средневековое религиозно-политическое учение Ибн Тумарта и Альмохадов, подчёркивавшее строгий таухид.",
+      "profile": "+divine +one_god",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Almohad_doctrine"
+      ],
+      "notes": "Источник прямо подтверждает строгий монотеизм и собственную доктрину движения. Сохраняется историческое направление, а не династия как самостоятельная религия и не alias всего суннизма или ашаризма. Притязание Ибн Тумарта на статус махди не превращено автоматически в признак нового пророческого откровения."
+    },
+    {
+      "sourceIndex": 1605,
+      "sourceName": "Ash'ari",
+      "decision": "review",
+      "canonicalName": "Ашаризм",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суннитский ислам",
+      "description": "Школа мусульманского богословия, связанная с Абу-ль-Хасаном аль-Ашари и сочетанием переданных доктрин с рациональным обсуждением.",
+      "profile": "+divine +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ash%27ari",
+        "https://www.iranicaonline.org/articles/ashariya/"
+      ],
+      "notes": "Review: исходная статья содержит предупреждение о нейтральности раздела критики. Энциклопедия Iranica подтверждает школу, реальность божественных атрибутов и сочетание традиции с рассуждением; критические оценки воздействия на науку не приняты как факт. Это богословское направление, не отдельный правовой мазхаб и не alias всего суннитского ислама."
+    }
+  ]
+}

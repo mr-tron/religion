@@ -1,0 +1,375 @@
+{
+  "range": [
+    246,
+    265
+  ],
+  "entries": [
+    {
+      "sourceIndex": 246,
+      "sourceName": "Kogi religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия коги",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции коги Сьерра-Невады-де-Санта-Марта с Великой Матерью, Алуной и ритуальной работой мамос.",
+      "profile": "+divine +nature_spirits +ritual +divination_oracles +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kogi_people",
+        "https://ich.unesco.org/es/RL/sistema-de-conocimiento-ancestral-de-los-cuatro-pueblos-indigenas-arhuaco-kankuamo-kogui-y-wiwa-de-la-sierra-nevada-de-santa-marta-01886",
+        "https://intermundos.org/pagamento/",
+        "https://www.smb.museum/en/whats-new/detail/restitution-of-kogi-masks-from-the-ethnologisches-museum/"
+      ],
+      "notes": "Статья о народе прямо описывает Великую Мать, живую Землю и подношения духам природного мира. Отдельные обобщения о полной изоляции коги и неизменности их культуры спорны и не использованы. Не синоним традиции аруако: это связанные, но разные народы и местные традиции. Проверка 2026-10: UNESCO подтверждает подношения духовным силам; образовательная община Intermundos, непосредственно работающая с мами Alfonso из коги, описывает гадание для общины (+divination_oracles). Ethnologisches Museum документирует сохраняющуюся сакральную роль масок, используемых мамос при храмовых танцах и духовном исцелении (+icons; также подтверждение ritual_masks для генератора). Это религиозные изображения, а не только музейные экспонаты; общность наследия четырёх народов не означает переноса всех их частных обычаев."
+    },
+    {
+      "sourceIndex": 247,
+      "sourceName": "Kuikoro religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования куикуро",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции куикуро Верхнего Шингу с представлениями о Солнце, Луне и существах леса и вод ицеке.",
+      "profile": "+divine +nature_spirits +many_gods +ritual +occult +divination_oracles +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kuikuro",
+        "https://pib.socioambiental.org/en/Povo:Kuikuro"
+      ],
+      "notes": "Название Kuikoro в строке отличается от Kuikuro в исходной статье: исправлена транслитерация, а не создана новая религия. Религиозный раздел подтверждает ицеке и космогонические представления. Предки Солнца и Луны в мифе не доказывают человеческое семейное почитание предков. Общность Верхнего Шингу не означает тождество всех его локальных традиций. Проверка 2026-10: Прямой раздел Cosmology, shamanism and healing Instituto Socioambiental перечисляет богов-создателей, ритуалы с масками ицеке, лечебные заклинательные формулы, необычное видение шамана для выявления причин болезни и смерти и путешествие души умершего к небесным деревням (+many_gods, +ritual, +occult, +divination_oracles, +afterlife). Здесь описаны именно куикуро, а не сделан перенос с соседей по Шингу. Маски прямо представляют ицеке и используются в обрядах восстановления равновесия: это основание ritual_masks для генератора. Обучение шамана у старшего специалиста не автоматически считается посвящением в отдельное братство."
+    },
+    {
+      "sourceIndex": 248,
+      "sourceName": "Kuksu",
+      "decision": "keep",
+      "canonicalName": "Куксу",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Обрядовые традиции нескольких народов Северной и Центральной Калифорнии с посвящением, танцами и взаимодействием с духовным миром.",
+      "profile": "+ritual +divine +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kuksu_(religion)",
+        "https://digicoll.lib.berkeley.edu/record/82839/files/ucp025-004.pdf",
+        "https://digicoll.lib.berkeley.edu/record/82901/files/ucp033-002.pdf"
+      ],
+      "notes": "Источник описывает конкретный межэтнический ритуальный комплекс, отличающийся у помо, майду, патвин и других народов. Персонификация Куксу у помо не присвоена всем вариантам как единое богословие. Ритуальные общества допустимы как самостоятельные записи, но не равны всей религии каждого из этих народов. Проверка 2026-10: Этнографии E. M. Loeb Tribal Initiations and Secret Societies и The Western Kuksu Cult прямо описывают богоподобную фигуру Куксу и тайные общества с приёмом через посвящение (+divine, +initiatory_brotherhood). Варианты общества и отношение инициации к лечебным обрядам различаются по народам. Loeb прямо упоминает masks and disguises в исполнениях духов; это обоснованный случай ritual_masks для генератора, с оговоркой о масках-завесах и других лицевых маскировках, а не обязательно жёстких лицевых накладках."
+    },
+    {
+      "sourceIndex": 249,
+      "sourceName": "Lacandon religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия лакандонов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции лакандонов с пантеоном божеств, домами богов и ритуальными подношениями.",
+      "profile": "+divine +many_gods +ritual +icons +afterlife +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lacandon_people",
+        "https://www.mpm.edu/index.php/research-collections/anthropology/online-collections-research/lacandon-collection/social-life"
+      ],
+      "notes": "Статья подтверждает К’акоча, Хачакьюма, Сукункьюма, дома богов и сосуды с изображениями божеств, а также представления о подземном мире и суде над душами. Исторические и современные практики изменялись. Лакандонская традиция не синоним всей религии майя и не широких «Мезоамериканских возрождений» в religions.js. Гипотетические практики почитания предков не кодируются. Проверка 2026-10: Milwaukee Public Museum по собственной лакандонской коллекции и этнографическим работам прямо описывает молитвы богам, передачу им подношений через god pots и просьбы о благополучии семьи (+personal). Обрядовая роль balché подтверждена, но алкогольный напиток без отдельного обоснования энтеогенной функции не используется для нового признака. Современные обращения в христианство не меняют исторический профиль традиционной религии."
+    },
+    {
+      "sourceIndex": 250,
+      "sourceName": "Lakota religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия лакота",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции лакота с представлениями о вакан, священной трубкой и разнообразными общественными и личными обрядами.",
+      "profile": "+divine +nature_spirits +ritual +afterlife +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lakota_religion",
+        "https://aktalakota.stjo.org/seven-sacred-rites/wanagi-yuhapi-keeping-of-the-soul/",
+        "https://www.nps.gov/deto/learn/historyculture/reverence.htm"
+      ],
+      "notes": "Источник подробно описывает природные священные силы и обрядовую практику, подчёркивая вариативность толкований и процедур. Вакан Танка не сведён к единственному личному Богу. Лакота и уже сохранённые «Духовные традиции дакота» связаны в более широком комплексе сиу, но нет основания считать их точными синонимами. Проверка 2026-10: Aktá Lakota Museum излагает сохранение души умершего и её дальнейший путь к Wakáŋ Táŋka (+afterlife). National Park Service описывает лакотский поиск видений для духовного руководства и их истолкование (+divination_oracles). Это свидетельства об определённых обрядах; видение не приравнено к универсальному новому откровению и не доказывает принадлежности к инициатическому ордену."
+    },
+    {
+      "sourceIndex": 251,
+      "sourceName": "Lima religion",
+      "decision": "keep",
+      "canonicalName": "Религиозные практики культуры Лима",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические культовые практики центрального побережья Перу, известные по церемониальным центрам, включая Уака-Пукльяна.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lima_culture",
+        "https://museos.cultura.pe/sites/default/files/publicaciones/pdf/tr%C3%ADptico%20MSP.pdf",
+        "https://revistas.pucp.edu.pe/index.php/boletindearqueologia/es/article/view/16614/0"
+      ],
+      "notes": "Исходная статья археологическая, не полное изложение религии. Официальный буклет музея Пукльяны подтверждает культовую роль моря, ритуальное разбивание сосудов и церемонии закрытия сооружений. Конкретный пантеон и единое вероучение культуры Лима не реконструируются. Это локальный исторический комплекс, не alias широкой записи «Андские традиции». Проверка 2026-10: Археолог Pedro Vargas Nalvarte в Boletín de Arqueología PUCP прямо представляет культ женского морского божества как научную реконструкцию (propuesta), основанную на ритуальных контекстах и более поздней этнографии. Поэтому divine/many_gods не добавлены как установленное учение культуры Лима. Морская символика сосудов сама по себе не доказательство духов природы или обязательного почитания изображений."
+    },
+    {
+      "sourceIndex": 252,
+      "sourceName": "Lokono religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия локоно",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции локоно северного побережья Южной Америки с духами природы и целительным посредничеством.",
+      "profile": "+nature_spirits +divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lokono",
+        "https://www.eagleclanarawaks.com/history"
+      ],
+      "notes": "Раздел Religion статьи о народе прямо подтверждает духов природы и духовных целителей. Локоно называют также материковыми араваками; это не основание объединять их с таино или всеми аравакоязычными народами. Наличие переводов Библии не доказывает всеобщую христианскую принадлежность. Проверка 2026-10: Современное собственное представительство Eagle Clan Lokono описывает безличную созидающую силу, духовного посредника semichichi и центральную роль священного табака в молитвах, очищении и обрядах перехода (+divine, +ritual). Это прямое свидетельство конкретной линии локоно; обряды таино и всех аравакоязычных народов сюда не перенесены. Почитание табака не кодируется автоматически как энтеогенная практика."
+    },
+    {
+      "sourceIndex": 253,
+      "sourceName": "Maleku beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования малеку",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции малеку Коста-Рики с политеистическими представлениями и особой связью с природой.",
+      "profile": "+divine +many_gods +afterlife +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maleku_people",
+        "https://revistas.ucr.ac.cr/index.php/reflexiones/article/download/14508/13787/"
+      ],
+      "notes": "Статья о народе прямо называет традиционную религию политеистической и ориентированной на природу. Это не доказывает конкретного набора природных духов, общих ритуалов или предков; дополнительные признаки не присвоены. Современная этничность малеку не тождественна исповеданию этого комплекса. Проверка 2026-10: Историко-антропологическое исследование UCR в Reflexiones 90(2), 2011, с. 53–70, описывает душу умершего доброй смертью, живущую с божеством под землёй, покровительство умерших родственникам и подношения какао, чичи и шоколада домашним могилам (+afterlife, +ancestors, +ritual). Эти данные относятся к исторической традиции; современные евангелические самоописания малеку не обобщаются на всех. Общий шаманский профиль не добавлен."
+    },
+    {
+      "sourceIndex": 254,
+      "sourceName": "Mandan religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия манданов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции манданов Великих равнин с Первосоздателем, Одиноким Человеком и церемонией окипа.",
+      "profile": "+divine +many_gods +ritual +personal +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mandan",
+        "https://repository.si.edu/bitstreams/7c0fedc9-7dfe-4fd0-be48-1bebff8f7fcf/download",
+        "https://www.ndstudies.gov/curriculum/high-school/mandan-hidatsa-sahnish/culture-mha"
+      ],
+      "notes": "Статья о народе описывает двух созидающих божеств, святилище Одинокого Человека и церемонию окипа. Исторические описания обряда не превращены в обязательные современные действия каждого мандана. Манданы и лакота не объединяются по общей принадлежности к культурам равнин. Проверка 2026-10: James Owen Dorsey, A Study of Siouan Cults, §§313 и 338, приводит именно манданские молитвенные просьбы к богам и представления о продолжении жизни душ после смерти (+personal, +afterlife). North Dakota Studies независимо описывает молитвенную функцию манданских medicine bundles. Различия рассказов о числе и судьбе душ сохранены; соседние описания хидатса и сапони не перенесены на манданов."
+    },
+    {
+      "sourceIndex": 255,
+      "sourceName": "Mapuche religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия мапуче",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции мапуче с духовными силами природы, обрядами мачи и отношениями живых с умершими.",
+      "profile": "+divine +nature_spirits +ritual +afterlife +spirit_possession +divination_oracles +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mapuche_religion",
+        "https://museo.precolombino.cl/static/archivados/expotemp-chamanismo/chamanismo/11-machi-kimun-ayer-y-hoy/index.html",
+        "https://museo.precolombino.cl/wp-content/uploads/2025/02/Musica-mapuche.-Jose-Perez-de-Arce.pdf"
+      ],
+      "notes": "Источник подтверждает духовную сущность природных явлений и жизнь души после смерти. Оценки роли предков в исследованиях расходятся, поэтому ancestors не выставлен как единый типичный ответ. Источник показывает разнообразие региональных и исторических форм. Сходства с центральноандскими культами не доказывают alias к «Андским традициям». Проверка 2026-10: Museo Chileno de Arte Precolombino и исследование José Pérez de Arce Música Mapuche прямо описывают речь духа через мачи, диалог помощника с этим духом для определения причины болезни и заклинательные/шаманские действия (+spirit_possession, +divination_oracles, +occult). Описаны разные виды транса; не всякий транс автоматически объявляется одержимостью. Исторические сведения о психоактивных растениях не объявлены обязательной центральной практикой современных мапуче."
+    },
+    {
+      "sourceIndex": 256,
+      "sourceName": "Marajoara religion",
+      "decision": "review",
+      "canonicalName": "Реконструируемые верования культуры Маражоара",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Предполагаемые религиозные представления археологической культуры Маражоара острова Маражо, известные по погребениям и керамике.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Marajoara"
+      ],
+      "notes": "Исходная статья прямо признаёт, что система верований понята неполно: женские созидающие фигуры, шаманские роли и почитание предков выводятся как гипотезы из иконографии и погребений. Review: нужно дополнительное специализированное подтверждение границ религиозного комплекса; не выдавать реконструкцию за установленное учение. Древняя археологическая традиция не исключается из каталога, но признаки оставлены пустыми."
+    },
+    {
+      "sourceIndex": 257,
+      "sourceName": "Matses beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования мацес",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции мацес Амазонии с представлениями о лесных духах и ритуально-целительными практиками.",
+      "profile": "+nature_spirits +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Matses",
+        "https://etnografia.kunstkamera.ru/en/archive/2021_issue_4_14/matusovskiy_a_matss_mythology_a_comparative_ethnographic_analysis",
+        "https://www.pib.socioambiental.org/en/Povo%3AMats%C3%A9s",
+        "https://journals.phil.muni.cz/religio/article/view/40520",
+        "https://biblioteca.trabalhoindigenista.org.br/wp-content/uploads/2018/06/Matos-Beatriz_A-Visita-dos-Esp%C3%ADritos.pdf"
+      ],
+      "notes": "Исходная Wikipedia-ссылка не загрузилась. Проверены поисковый текст академической статьи Матусовского о лесных духах и этнографическое описание Matsés в Indigenous Peoples in Brazil, включая обрядовые связи с животными и защитные омовения. Прямое открытие этих двух страниц ограничено; дополнительное современное исследование доступно в журнале Religio. Мацес не отождествляются с матис или всеми историческими майоруна. Проверка 2026-10: Полевое исследование Beatriz de Almeida Matos A visita dos espíritos описывает именно мацес: cuëdënguido как духов старших умерших, приходящих из подземного мира (+afterlife). Сопоставления с масками mariwin народа матис не переносятся автоматически на мацес; поэтому ritual_masks здесь требует отдельной проверки собственного обряда. Омовения и камбо не используются как доказательство клинической эффективности или обязательной энтеогенной практики."
+    },
+    {
+      "sourceIndex": 258,
+      "sourceName": "Maximon",
+      "decision": "keep",
+      "canonicalName": "Почитание Максимона",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные культы Максимона, народного святого и божественной фигуры майя нагорной Гватемалы.",
+      "profile": "+divine +personal +ritual +icons +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maxim%C3%B3n",
+        "https://ocw.mit.edu/courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012/1a9ef85f456725e682b4d32936a71f2d_MIT21A_215S12_lecture_19.pdf",
+        "https://www.weltmuseumwien.at/en/objects/san-sim-n-615110"
+      ],
+      "notes": "Источник описывает фигуру и её почитание в разных общинах, изображения и подношения. Это допустимый локальный культ, а не отдельная единая религия всех майя. Синкретизм с католическими образами не доказывает признание папского первенства, Троицы или идентичности Максимона одной исторической личности. Проверка 2026-10: Курс MIT по медицинской антропологии в разборе Сантьяго-Атитлана прямо связывает Максимона с шаманским целительством, магией и колдовством (+occult); Weltmuseum Wien подтверждает его роль посредника духовного мира. Это локальное почитание Максимона, а не общая магическая характеристика всех майя или католиков. Братство-хранитель изображения само по себе не доказывает обязательную инициатическую практику всех почитателей."
+    },
+    {
+      "sourceIndex": 259,
+      "sourceName": "Mazatec religion",
+      "decision": "keep",
+      "canonicalName": "Религиозные традиции масатеков",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные религиозные традиции масатеков Оахаки, сочетающие католические формы с духами-хозяевами мест и целительными обрядами.",
+      "profile": "+nature_spirits +ritual +divination_oracles +entheogenic_ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mazatec",
+        "https://www.gob.mx/inpi/articulos/etnografia-del-pueblo-mazateco-de-oaxaca-ha-shuta-enima?idiom=es",
+        "https://atlas.inpi.gob.mx/mazatecos-etnografia/",
+        "https://planesjusticia.inpi.gob.mx/wp-content/uploads/2024/07/16-plan-de-justicia-de-las-comunidades-chinantecas-y-mazatecas-del-valle-de-uxpanapa.pdf",
+        "https://cid-albertobeltran.cultura.gob.mx/formas-de-diagnosticar/"
+      ],
+      "notes": "Исходная статья о народе лишь кратко обозначает конфессиональную принадлежность. Этнографические материалы INPI подтверждают духов-хозяев мест, подношения у пещер, источников и холмов, католические праздники и разнообразие местных форм. Прямое открытие INPI вернуло 403/502, релевантный текст доступен в поисковом индексе. «Mazatec shamanism» сохранено отдельно как более узкая практика специалистов, не alias всего религиозного комплекса. Проверка 2026-10: Официальный Plan de justicia INPI, разделы о медицине и cosmovisión, прямо описывает в масатекском контексте гадание кукурузой, духовные диагностики и шаманские ритуалы под влиянием психоактивных растений. Архив CID Secretaría de Cultura приводит конкретное описание Médicos tradicionales mazatecos de Jalapa de Díaz о диагностических видениях после приёма грибов (+divination_oracles, +entheogenic_ritual). Это устойчивые практики специалистов внутри религиозного комплекса, а не утверждение об употреблении каждым масатеком; соседний чинантекский раздел не переносится."
+    },
+    {
+      "sourceIndex": 260,
+      "sourceName": "Mazatec shamanism",
+      "decision": "keep",
+      "canonicalName": "Масатекские шаманские и целительные практики",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Религиозные традиции масатеков",
+      "description": "Практики специалистов масатеков, включающие ночные велада, молитвы и использование священных грибов или растений.",
+      "profile": "+ritual +entheogenic_ritual +divination_oracles",
+      "proposedQuestions": [
+        {
+          "id": "entheogenic_ritual",
+          "text": "Занимает ли обрядовое употребление психоактивных растений или грибов важное место в вашей духовной традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Уточнение ранее предложенного вопроса: добавлены грибы, существенные для масатекских велада. Позволяет сопоставить эти практики с бвити и обрядами мохаве; не приписывает употребление каждому представителю народа."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mazatec_shamanism",
+        "https://libraetd.lib.virginia.edu/public_view/k930bx145",
+        "https://cid-albertobeltran.cultura.gob.mx/formas-de-diagnosticar/",
+        "https://elementos.buap.mx/directus/storage/uploads/00000008652.pdf"
+      ],
+      "notes": "Узкий комплекс целительных обрядов внутри религиозной жизни масатеков. Исходная статья содержит некоторые широкие психологические сравнения, которые не использованы. Академическое исследование Эдварда Абсе независимо подтверждает исторически меняющуюся католизированную традицию шаманизма. Грибы и растения не означают обязательную практику каждого масатека; профиль не содержит медицинских утверждений. Проверка 2026-10: CID Secretaría de Cultura публикует конкретное свидетельство Médicos tradicionales mazatecos de Jalapa de Díaz, с. 79–80, о приёме грибов целителем для диагностических видений. Университетская публикация BUAP документирует ночные масатекские велада с грибами для гадательных и целительных целей (+entheogenic_ritual, +divination_oracles). Доступ к диссертации Abse в этой проверке вернул 403; новые признаки основаны на доступных подтверждениях. Старое предложение вопроса оставлено для истории; соответствующий ID уже есть в questions.js."
+    },
+    {
+      "sourceIndex": 261,
+      "sourceName": "Mi'kmaq religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная духовность микмаков",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции микмаков с представлениями о создателе, духах мест и отношениях с духовными помощниками.",
+      "profile": "+divine +nature_spirits +ritual +afterlife +ancestors",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mi%27kmaq",
+        "https://www.cbu.ca/indigenous-initiatives/lnu-resource-centre/mikmaq-resource-guide/essays/excerpts-from-the-hoffman-thesis-mikmaq-of-the-16th-17th-centuries/"
+      ],
+      "notes": "Исходная статья о народе также описывает католическое паломничество; его не следует приравнивать к дохристианскому комплексу. Университет Кейп-Бретона публикует историко-этнографическое исследование Хоффмана, подтверждающее создателя и подношения духам мест. Это исторические свидетельства, не неизменная вера всех нынешних микмаков. Спорное приравнивание героя Глускапа верховному богу не используется. Дополнение 2026-10-25: раздел The Supernatural World исследования Хоффмана (CBU) описывает страну душ, бессмертие умерших и порции пищи, оставляемые душам родственников на пирах. Это основания для afterlife и ancestors, а не для реинкарнации; колониальные оценочные выражения информаторов не принимаются как описание самой традиции."
+    },
+    {
+      "sourceIndex": 262,
+      "sourceName": "Midewiwin",
+      "decision": "keep",
+      "canonicalName": "Мидевивин",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Религиозные традиции анишинаабе",
+      "description": "Религиозные общества Великого Лечения у ряда народов региона Великих озёр с посвящением, песнями и духовным целительством.",
+      "profile": "+nature_spirits +ritual +divine +personal +initiatory_brotherhood +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Midewiwin",
+        "https://www.d.umn.edu/cla/faculty/troufs/Buffalo/PB30.html"
+      ],
+      "notes": "Исходная статья имеет предупреждение о недостатке построчных ссылок. Независимое этнографическое свидетельство Пола Буффало в издании Университета Миннесоты подтверждает обряды, духовные песни и животных-посредников. Это конкретное общество и путь, не синоним всего комплекса «Религиозные традиции анишинаабе». Детали степеней, заявленные без надёжных ссылок, не кодируются. Дополнение 2026-10-25: свидетельство Пола Буффало, гл. 29 Midewiwin: Grand Medicine (UMD), прямо связывает вступление с посвящением, называет Manidoo Богом, заботящимся о людях, и описывает наделение лекарства духовной силой после поста. Кодируются divine, personal, initiatory_brotherhood и occult. Упомянутое собственное католическое крещение рассказчика не превращено в христианский профиль общества."
+    },
+    {
+      "sourceIndex": 263,
+      "sourceName": "Mixe religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия михе",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции михе Оахаки с молитвами и жертвами жизнедательной силе, дождю, ветру и земле.",
+      "profile": "+divine +nature_spirits +ritual +personal +many_gods +afterlife +divination_oracles +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mixe_people",
+        "https://atlas.inpi.gob.mx/mixe-etnografia/"
+      ],
+      "notes": "Раздел Religion статьи о народе непосредственно подтверждает ритуальные обращения к жизнедательной сущности и природным силам. Упоминание современных исследований помогает отделить подтверждённые обряды от упрощённых гипотез о прямом происхождении всех практик от ольмеков. Народ не отождествлён с мистеками. Дополнение 2026-10-25: этнография INPI непосредственно описывает обращения к древним богам ветра Poj, молнии Anaw, горы Kopk и воды Nee; это подтверждает many_gods и personal. Бессмертная душа tso’ok подтверждает afterlife; гадание по ритуальному календарю, зёрнам кукурузы и золе — divination_oracles, а описанные curanderos/brujos с сильными тонами — occult. Не смешивать михе с миштеками; христианские молитвы в синкретических обрядах не доказывают центральность Иисуса."
+    },
+    {
+      "sourceIndex": 264,
+      "sourceName": "Moche religion",
+      "decision": "keep",
+      "canonicalName": "Религиозные практики моче",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические культовые практики моче северного побережья Перу, известные по иконографии и археологии церемониальных центров.",
+      "profile": "+ritual +divine +many_gods +icons +ancestors",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Moche_culture",
+        "https://museo.precolombino.cl/aprende/pueblos-culturas/culturas-precolombinas/andes-centrales/moche/",
+        "https://ehrafarchaeology.yale.edu/traditions/se55/description"
+      ],
+      "notes": "Источник описывает ритуальные контексты, изображения и жертвоприношения, но отдельные интерпретации сцен и политической организации обсуждаются. Эти дебаты не отменяют документированные культовые практики; конкретные имена и число божеств, единая доктрина или универсальная вера всех жителей не присвоены. Не alias общей андской записи. Дополнение 2026-10-25: Museo Chileno de Arte Precolombino описывает религиозную иконографию сосудов с богами, священными животными и служителями высших божеств — divine, many_gods и icons. Yale eHRAF прямо называет важным почитание предков (ancestors). Имена конкретных божеств по-прежнему не реконструируются. Музей также фиксирует металлические погребальные маски, но ritual_masks задаётся отдельно в генераторе."
+    },
+    {
+      "sourceIndex": 265,
+      "sourceName": "Mohave religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия мохаве",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции мохаве с созидающими фигурами Матавильи и Мастамхо и обрядами перехода.",
+      "profile": "+divine +ritual +entheogenic_ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mohave_people",
+        "https://d-place.org/valuesets/WNAI411-WNAI140"
+      ],
+      "notes": "Раздел Religion статьи о народе подтверждает Матавилью, Мастамхо и использование дурмана в исторических посвящениях. Утверждение об обязательном участии каждого подростка не обобщается на нынешние общины. Наличие обряда с растением не подтверждает другие общие шаманские признаки; ancestors, occult и nature_spirits не назначены. Дополнение 2026-10-25: сравнительный этнографический набор Jorgensen 1980 в D-PLACE имеет отдельную положительную запись Mojave/Datura in spirit quest с источниками Drucker, Kroeber и др. Вместе с исходной статьёй это подтверждает историческое обрядовое применение дурмана: entheogenic_ritual. Обряд совершеннолетия сам по себе не означает посвящение в религиозное братство."
+    }
+  ]
+}

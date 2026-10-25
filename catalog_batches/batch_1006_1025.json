@@ -1,0 +1,354 @@
+{
+  "range": [
+    1006,
+    1025
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1006,
+      "sourceName": "Hermetic Qabalah",
+      "decision": "keep",
+      "canonicalName": "Герметическая каббала",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Западная эзотерическая традиция, использующая каббалистические образы и соответствия в герметическом и магическом контексте.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hermetic_Qabalah"
+      ],
+      "notes": "Источник различает Hermetic Qabalah, еврейскую каббалу и Christian Kabbalah. Это не языковой вариант названия всей иудейской каббалы и не синоним герметизма вообще. Заимствования из иудейских текстов не означают обязательность галахи или Торы для каждого практикующего."
+    },
+    {
+      "sourceIndex": 1007,
+      "sourceName": "Illuminates of Thanateros",
+      "decision": "keep",
+      "canonicalName": "Иллюминаты Танатэроса",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Международный магический орден, ориентированный на практическую групповую работу в магии хаоса.",
+      "profile": "+occult +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Illuminates_of_Thanateros",
+        "https://iotbritishisles.com/the-book-of-the-pact/"
+      ],
+      "notes": "Исходная статья и собственный Book of the Pact подтверждают организацию, магические упражнения и ритуалы. Не синоним всей магии хаоса или исторических иллюминатов. Экспериментальная риторика и заимствования из теории хаоса сами по себе не подтверждают scientific; единая вера в Бога или богов не навязана."
+    },
+    {
+      "sourceIndex": 1008,
+      "sourceName": "Illuminism",
+      "decision": "keep",
+      "canonicalName": "Иллюминизм",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческая совокупность европейских эзотерических и мистических течений, связывающих духовное познание с внутренним озарением.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Illuminism",
+        "https://www.jstor.org/stable/jj.18254687",
+        "https://pure.uva.nl/ws/files/101215735/arie_article_p167_1.pdf"
+      ],
+      "notes": "Академические исследования Февра и истории его дисциплины подтверждают широкую историческую категорию, особенно связанную с христианской теософией и масонскими средами XVIII–XIX веков. Это не синоним одного ордена Illuminati, современного IOT или философии Просвещения. Обязательные единые тексты, христология и обряды всей категории не назначены."
+    },
+    {
+      "sourceIndex": 1009,
+      "sourceName": "Joy of Satan",
+      "decision": "keep",
+      "canonicalName": "Joy of Satan Ministries",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Сатанизм",
+      "description": "Теистическое сатанистское движение, соединяющее почитание Сатаны с эзотерическими практиками и расистскими идеологическими построениями.",
+      "profile": "+divine +personal +many_gods +occult +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Joy_of_Satan_Ministries"
+      ],
+      "notes": "Источник прямо описывает буквальное божество, множественных духовных существ, медитацию и эзотерическую трансформацию. Не синоним лавеевского или всего теистического сатанизма. Заявленные связи с езидизмом и древними богами не подтверждают историческую преемственность или тождество с современными езидскими общинами. Конспирологические утверждения передаются как взгляды движения."
+    },
+    {
+      "sourceIndex": 1010,
+      "sourceName": "Lectorium Rosicrucianum",
+      "decision": "keep",
+      "canonicalName": "Lectorium Rosicrucianum — Золотой Розенкрейц",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Розенкрейцерство",
+      "description": "Современная гностическая духовная школа, ориентированная на пробуждение божественного начала и трансфигурацию человека.",
+      "profile": "+divine +reincarnation +liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lectorium_Rosicrucianum",
+        "https://www.goldenrosycross.org.mt/welcome/introduction/",
+        "https://uodiyala.edu.iq/uploads/PDF%20ELIBRARY%20UODIYALA/EL45/Dictionary%20of%20Gnosis%20%26%20Western%20Esotericism.pdf"
+      ],
+      "notes": "Собственное изложение и академический Dictionary of Gnosis подтверждают самостоятельную школу и освобождение микрокосма от круга жизни и смерти. Reincarnation относится к микрокосму, а не неизменному обыденному эго. Не синоним всего розенкрейцерства или Rosicrucian Fellowship: общее происхождение не устраняет доктринальных и организационных различий."
+    },
+    {
+      "sourceIndex": 1011,
+      "sourceName": "Luciferianism",
+      "decision": "keep",
+      "canonicalName": "Люциферианство",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность современных подходов, связывающих фигуру Люцифера с познанием, свободой и духовным развитием.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Luciferianism"
+      ],
+      "notes": "Источник охватывает символические и буквальные трактовки Люцифера, а также исторические обвинительные употребления. Не всем современным последователям приписана вера в личного Люцифера или магическая практика. Средневековые обвинения в «люциферианстве» не приняты за доказательство существования того же современного учения. Не alias всего сатанизма."
+    },
+    {
+      "sourceIndex": 1012,
+      "sourceName": "Muckers",
+      "decision": "keep",
+      "canonicalName": "Муккеры — круг Шёнхерра и Эбеля",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторический религиозный круг в Кёнигсберге, связанный с Иоганном Генрихом Шёнхерром, Иоганном Вильгельмом Эбелем и мистическим прочтением христианства.",
+      "profile": "+divine +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Muckers",
+        "https://periodicos.ufjf.br/index.php/numen/article/view/45540"
+      ],
+      "notes": "Исходная статья обозначает именно прусский круг, а не любой пиетизм или бразильское движение с тем же прозвищем. Современное исследование Ное рассматривает оба контекста сравнительно. Исторические обвинения в сексуальной распущенности и оценочный язык старых энциклопедий не превращены в нейтральное описание вероучения. Родство с гностицизмом не означает тождества."
+    },
+    {
+      "sourceIndex": 1013,
+      "sourceName": "Neo-Luciferian Church",
+      "decision": "keep",
+      "canonicalName": "Неолюциферианская церковь",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Люциферианство",
+      "description": "Современная эзотерическая организация, связанная с Бьярне Саллингом Педерсеном и Майклом Бертьё и переосмысляющая люциферианский гностицизм Бена Кадоша.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Neo-Luciferian_Church"
+      ],
+      "notes": "Источник подтверждает конкретную организацию с 2005 года и связь с Кадошем. Не синоним всего люциферианства или Ordo Templi Orientis; влияние одного участника OTO не доказывает организационного тождества. Подробный пантеон и обязательная сакраментальная практика не назначены без отдельного подтверждения."
+    },
+    {
+      "sourceIndex": 1014,
+      "sourceName": "Neo-Theosophy",
+      "decision": "review",
+      "canonicalName": "Неотеософия — требуется уточнение охвата",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Теософия",
+      "description": "Обозначение поздних теософских систем, первоначально применявшееся критиками к учениям Анни Безант и Чарльза Ледбитера.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Neo-Theosophy"
+      ],
+      "notes": "Review: исходная статья сначала определяет узкое, первоначально полемическое употребление, затем распространяет термин на разнородные посттеософские группы и авторов. Неясно, какой охват предназначен для строки. Не alias общей «Теософии»: термин выделяет её позднюю рецепцию. До выбора системы Безант–Ледбитера либо широкой классификации профиль пустой."
+    },
+    {
+      "sourceIndex": 1015,
+      "sourceName": "New Acropolis",
+      "decision": "keep",
+      "canonicalName": "Новый Акрополь",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Международная организация, представляющая свою деятельность как практическую философию, культуру и добровольческое служение.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/New_Acropolis",
+        "https://newacropolisuk.org/about?subject=philosophy"
+      ],
+      "notes": "Собственный источник подтверждает общественную и образовательную деятельность; академические авторы связывают организацию с посттеософским эзотерическим контекстом. Изучение религиозных учений не равно вере каждого слушателя в них. Не назначены occult, reincarnation или humanism только по изучаемым темам и гуманистической риторике; единый религиозный профиль не подтверждён."
+    },
+    {
+      "sourceIndex": 1016,
+      "sourceName": "Occultism",
+      "decision": "keep",
+      "canonicalName": "Оккультизм",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательное обозначение эзотерических учений и практик, обращённых к скрытым силам, соответствиям и способам познания.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Occultism"
+      ],
+      "notes": "Исходная ссылка перенаправляет на статью Occult, различающую сам термин и историческое явление occultism. Сохранена широкая категория, не одна конфессия. Нет общего обязательного Бога, канона, перерождения или отношения к научному методу; семьи и подвиды не сведены к полному тождеству."
+    },
+    {
+      "sourceIndex": 1017,
+      "sourceName": "Ordo Templi Orientis",
+      "decision": "keep",
+      "canonicalName": "Орден восточных тамплиеров / Ordo Templi Orientis",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Инициатический орден, в современной кроулианской форме связанный с Телемой, Книгой Закона и гностической мессой.",
+      "profile": "+occult +ritual +scripture +revelation +new_revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ordo_Templi_Orientis",
+        "https://oto-usa.org/",
+        "https://oto-usa.org/oto/initiation/"
+      ],
+      "notes": "Официальный сайт подтверждает принятие Book of the Law как текста нового эона, инициации и церковную ветвь E.G.C. Это отдельная организация, не синоним всей Телемы, масонства или католической церкви. Современный профиль не автоматически переносится на все ранние докроулианские формы ордена; внешний обрядовый язык не даёт +church в смысле исторической христианской преемственности."
+    },
+    {
+      "sourceIndex": 1018,
+      "sourceName": "Postmodern religion",
+      "decision": "keep",
+      "canonicalName": "Постмодернистская религиозность",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Категория религиозных подходов и философских интерпретаций, сформированных под влиянием постмодернизма.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Postmodern_religion"
+      ],
+      "notes": "Источник охватывает разные христианские, буддийские и неоязыческие случаи, а не единую отдельную религию. Критика универсальных претензий не означает одинаковый атеизм, агностицизм или оккультную практику всех представителей. Не синоним посттеизма, который обозначает иной тезис об историческом преодолении противопоставления теизма и атеизма."
+    },
+    {
+      "sourceIndex": 1019,
+      "sourceName": "Renaissance magic",
+      "decision": "keep",
+      "canonicalName": "Магия эпохи Возрождения",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческая совокупность магических, герметических и натурфилософских подходов европейского Возрождения.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Renaissance_magic"
+      ],
+      "notes": "Исходник описывает разные программы и авторов, в том числе естественную, церемониальную и каббалистическую магию. Это историческая категория внутри западного эзотеризма, не самостоятельная древняя этнорелигия или точный синоним герметической каббалы. Магический характер подтверждает occult; позднейшее развитие науки не означает общий +scientific всем практикам."
+    },
+    {
+      "sourceIndex": 1020,
+      "sourceName": "Roerichism",
+      "decision": "keep",
+      "canonicalName": "Рериховское движение",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовное, культурное и общественное движение вокруг наследия Николая и Елены Рерихов, в том числе учения Живой этики.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Roerichism"
+      ],
+      "notes": "Источник различает учение и более широкую деятельность организаций вокруг художественного, культурного и духовного наследия. Поэтому не alias строки Agni Yoga (990): Живая этика — учение, рериховское движение включает также культурные формы участия. Признаки Агни-йоги и общей Теософии не назначены каждому участнику. Не всякий посетитель музея или сторонник Пакта Рериха принят за религиозного последователя."
+    },
+    {
+      "sourceIndex": 1021,
+      "sourceName": "Rose of the World",
+      "decision": "keep",
+      "canonicalName": "Роза Мира — система Даниила Андреева",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозно-философское мировоззрение Даниила Андреева, изложенное в трактате «Роза Мира» и включающее трансфизическую космологию и замысел межрелигиозного единства.",
+      "profile": "+divine +revelation +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rose_of_the_World_(1991_book)",
+        "https://rodon.org/andreev/rm/",
+        "https://pq.iphras.ru/article/view/8020",
+        "https://my.bsu.ru/content/pbl/publications/publication_72.pdf"
+      ],
+      "notes": "Исходная ссылка о книге сама по себе не доказывает отдельную церковь, но авторский текст и академические исследования подтверждают самостоятельную систему взглядов. Профиль относится к этой системе, а не к любому читателю книги. Не объявлена тождественной православию, теософии или реально существующей универсальной организации; из художественно-мифологического характера не выведен статус простой вымышленной религии."
+    },
+    {
+      "sourceIndex": 1022,
+      "sourceName": "Rosicrucian",
+      "decision": "keep",
+      "canonicalName": "Розенкрейцерство",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Семейство западных эзотерических направлений, связанное с розенкрейцерскими манифестами XVII века и их последующей рецепцией.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rosicrucian"
+      ],
+      "notes": "Rosicrucian перенаправляет на Rosicrucianism: это английская форма общего названия, а не конкретная организация. Не alias отдельных Lectorium Rosicrucianum, Rosicrucian Fellowship или AMORC. Исторические заявления о древнем братстве не приняты автоматически за документированную институциональную преемственность; общая христология и перерождение не назначены всему семейству."
+    },
+    {
+      "sourceIndex": 1023,
+      "sourceName": "Rosicrucian Fellowship",
+      "decision": "keep",
+      "canonicalName": "Розенкрейцерское братство Макса Генделя",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Розенкрейцерство",
+      "description": "Эзотерико-христианская организация Макса Генделя, развивающая учение о духовной эволюции, Христе и повторных воплощениях человека.",
+      "profile": "+divine +jesus +reincarnation +karma +afterlife +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rosicrucian_Fellowship",
+        "https://rosicrucian.com/faq1.htm",
+        "https://www.rosicrucian.com/pdf_plaza/Questions%20and%20Answers%20-%20Volume%201.pdf"
+      ],
+      "notes": "Собственный FAQ подтверждает духовную роль Христа, посмертие, Rebirth и Law of Consequence. Это конкретная организация, а не синоним всего розенкрейцерства или отделившегося Lectorium. Воплощения в человеческих телах отличены от представления о переходе человеческого духа в животных. Scientific не выводится из употребления выражения «духовная наука»."
+    },
+    {
+      "sourceIndex": 1024,
+      "sourceName": "Satanism",
+      "decision": "keep",
+      "canonicalName": "Сатанизм",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательное обозначение современных религиозных и философских направлений, использующих фигуру Сатаны в буквальном или символическом смысле.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Satanism"
+      ],
+      "notes": "Источник различает теистические, рационалистические и иные направления. Поэтому не alias лавеевского сатанизма, нетеистической категории или одной организации Church of Satan. Ни вера в буквального дьявола, ни атеизм, ни магия не навязаны всему разнообразию. Исторические обвинения против чужих групп не равны самоопределению современных сатанистов."
+    },
+    {
+      "sourceIndex": 1025,
+      "sourceName": "Spiritualism",
+      "decision": "keep",
+      "canonicalName": "Спиритуализм — медиумическое движение",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение, развившееся в XIX веке вокруг веры в продолжение жизни личности после смерти и общения с умершими через медиумов.",
+      "profile": "+afterlife",
+      "proposedQuestions": [
+        {
+          "id": "spirit_communication",
+          "text": "Считаете ли вы общение с духами умерших через медиума важной частью духовной практики?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Повторно использует вопрос из партии 0046–0065: отражает центральный медиумизм Spiritualism и отличает его от простого поминовения предков. Общение не обязательно предполагает вселение духа, поэтому вопрос шире spirit_possession."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Spiritualism_(movement)",
+        "https://snu.org.uk/about-us/about-spiritualism/the-seven-principles/"
+      ],
+      "notes": "Исходник прямо выделяет кардекистский Spiritism как особую версию, поэтому Spiritualism в целом не alias существующего «Спиритизм Кардека». Перерождение, теизм и конкретная церковная организация различаются между ветвями. Официальные принципы SNU подтверждают медиумизм и сохранение души для этой организации; их научно звучащие обоснования не считаются доказательством эмпирической истинности или общим +scientific."
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "range": [
+    1126,
+    1145
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1126,
+      "sourceName": "Anandamayee Sangha",
+      "decision": "keep",
+      "canonicalName": "Шри Шри Анандамаи Сангха",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Сообщество последователей Анандамаи Ма, объединяющее ашрамы, духовные практики и благотворительную деятельность.",
+      "profile": "+divine +personal +meditation +bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shree_Shree_Anandamayee_Sangha",
+        "https://www.anandamayi.org/anandavarta/Vol11No4.pdf",
+        "https://www.anandamayi.org/samyam-saptah/"
+      ],
+      "notes": "Исходная ссылка перенаправляет на биографию Анандамаи Ма; собственные документы Сангхи отдельно подтверждают организацию и программу коллективной садханы с медитацией и киртаном. Не синоним движения Ананда Криянанды или Ананда Марги. Профиль относится к религиозной практике, а не каждому посетителю благотворительных учреждений."
+    },
+    {
+      "sourceIndex": 1127,
+      "sourceName": "Bell religion",
+      "decision": "keep",
+      "canonicalName": "Религия Колокола — Bell Church",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Китайско-филиппинская синкретическая религиозная организация, возникшая в Бенгете и подчёркивающая межрелигиозное единство.",
+      "profile": "+karma",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bell_Church"
+      ],
+      "notes": "Bell religion — буквальное значение названия Bell Church; исходник описывает организацию, а не только здание храма. Он подтверждает карму и молитвы святым-покровителям. Символическое представительство пяти религий не означает обязательного принятия всеми членами полного богословия каждой из них. Не alias всей китайской народной религии."
+    },
+    {
+      "sourceIndex": 1128,
+      "sourceName": "Brahma Kumaris",
+      "decision": "keep",
+      "canonicalName": "Брахма Кумарис",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовное движение индийского происхождения, обучающее раджа-йоге, осознанию себя душой и связи с Верховной душой.",
+      "profile": "+divine +personal +one_god +reincarnation +karma +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Brahma_Kumaris",
+        "https://www.brahmakumaris.com/contact/faq",
+        "https://brahmakumariskerala.com/learn-meditation/reincarnation/",
+        "https://www.brahmakumaris.org/about-us/faqs"
+      ],
+      "notes": "Собственные материалы подтверждают медитацию, Бога, душу, карму и человеческие перерождения. Не alias всей раджа-йоги, Брахмо Самадж или индуизма. Публичные курсы и более глубокая религиозная вовлечённость различаются; полная доктрина не приписана каждому слушателю. Самообозначение духовной организации не отменяет исследуемых религиозных представлений."
+    },
+    {
+      "sourceIndex": 1129,
+      "sourceName": "Caodaism",
+      "decision": "keep",
+      "canonicalName": "Каодай",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Вьетнамская религия, провозглашающая единство религий и новую эпоху откровения через духовные сообщения.",
+      "profile": "+divine +personal +revelation +new_revelation +scripture +karma +reincarnation +liberation +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Caodaism",
+        "https://www.caodai.com.vn/en/news-detail/cao-dai-faq-frequently-asked-questions-part-i.html",
+        "https://www.caodaicenter.org/divine-revelations"
+      ],
+      "notes": "Собственные источники подтверждают Третью амнистию, священные сообщения, карму, перерождения и возвращение к Богу. Монотеистическое самоописание сочетается с Матерью-Богиней и иерархией духовных существ: ответы one_god/many_gods не упрощены. Не все ветви одинаково практикуют медитацию. Не синоним одного буддийского, даосского или христианского направления."
+    },
+    {
+      "sourceIndex": 1130,
+      "sourceName": "Coconut religion",
+      "decision": "keep",
+      "canonicalName": "Кокосовая религия — Дао Зыа",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Вьетнамское религиозное движение Нгуен Тхань Нама, проповедовавшее согласие религий и соединявшее буддийские и христианские мотивы.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Coconut_religion"
+      ],
+      "notes": "Coconut Religion и Đạo Dừa — подтверждённые названия одного движения: строка 1140 должна ссылаться сюда как alias. Не спутано с богословским направлением Coconut theology. Аскетические пищевые практики основателя и смесь религиозных символов не доказывают единого обязательного профиля всех последователей."
+    },
+    {
+      "sourceIndex": 1131,
+      "sourceName": "Hanol-gyo",
+      "decision": "keep",
+      "canonicalName": "Ханольгё",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Корейское духовное движение Син Чон Иля, ориентированное на пробуждение сознания, преодоление эго и совместимость разных духовных путей.",
+      "profile": "-icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hanol-gyo",
+        "https://www.hanol.org/hv2/en/asset/hanol.php?c2=3&c3=2"
+      ],
+      "notes": "Официальное изложение подтверждает отсутствие фигур для поклонения и символический пустой стул в святилище. Исходная статья использует рекламную и сверхъестественную риторику; чудесные реликвии и численность не приняты как проверенные факты. Уважение Дангуна, Будды, Иисуса и других учителей не означает центральности каждого полного вероучения. Освобождение сознания не автоматически liberation в смысле прекращения перерождений."
+    },
+    {
+      "sourceIndex": 1132,
+      "sourceName": "Living Interfaith",
+      "decision": "keep",
+      "canonicalName": "Living Interfaith — Живая межрелигиозность",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Межрелигиозное движение Стивена Гринебаума, организующее совместную практику разных традиций вокруг сострадания и взаимного уважения.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Living_Interfaith",
+        "https://myplace.frontier.com/~steven.greenebaum/livinginterfaith/id27.html",
+        "https://livinginterfaithsanctuary.wordpress.com/faq/"
+      ],
+      "notes": "Собственный завет допускает теистическое и нетеистическое понимание духовной основы. Материал общины-преемницы подчёркивает реальные различия религий и участие атеистов. Поэтому не назначены общий +divine, медитация или единая христология. Не alias общей плюралистической духовности либо унитарианского универсализма; это определённое движение с собственной историей."
+    },
+    {
+      "sourceIndex": 1133,
+      "sourceName": "Meivazhi",
+      "decision": "review",
+      "canonicalName": "Мейважи",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Тамильское религиозное движение Салаи Андаваргала, провозглашающее единство религий и духовное преодоление смерти.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Meivazhi",
+        "https://unis.kastamonu.edu.tr/app_files/2026/02/Yayin_Pdf_54539_400317d3.pdf"
+      ],
+      "notes": "Review: исходная статья предупреждает об оригинальных исследованиях и проблемах тона. Найденное исследование описывает наблюдения и собственные тексты общины, но требует отдельной оценки; заявления о нетленности тел и универсальном исполнении пророчеств нельзя кодировать как установленную доктрину всех участников. До нейтральной сверки священных текстов профиль оставлен пустым."
+    },
+    {
+      "sourceIndex": 1134,
+      "sourceName": "Omnism",
+      "decision": "keep",
+      "canonicalName": "Омнизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Позиция, признающая элементы истины в разных религиях и допускающая их общий духовный источник.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Omnism"
+      ],
+      "notes": "Сохраняется отдельно от общей «Плюралистической духовности»: омнизм выражает определённый тезис об истине в религиях, тогда как плюрализм допускает иные основания сочетания традиций. Не предполагает логического принятия всех противоречащих догматов одновременно. Единый пантеон, канон, обряды и практика медитации из этого тезиса не следуют."
+    },
+    {
+      "sourceIndex": 1135,
+      "sourceName": "Open-source religion",
+      "decision": "keep",
+      "canonicalName": "Религия с открытым исходным кодом",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Подход к созданию и изменению религиозных систем через открытое участие, обмен материалами и коллективное обсуждение.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Open-source_religion"
+      ],
+      "notes": "Это организационно-методологическая категория, а не одна конфессия с общей догматикой. Не alias Йоизма, дискордианства или open-source Judaism: источник приводит их как примеры. Открытое редактирование не означает обязательного атеизма, научного натурализма или отказа от любых священных текстов."
+    },
+    {
+      "sourceIndex": 1136,
+      "sourceName": "Sathya Sai Baba movement",
+      "decision": "keep",
+      "canonicalName": "Движение Сатья Саи Бабы",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовное движение вокруг Сатья Саи Бабы, сочетающее преданность, медитацию, общественное служение и учение о единстве религий.",
+      "profile": "+divine +bhakti +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sathya_Sai_Baba_movement",
+        "https://legacy.sathyasai.org/devotion/content.htm",
+        "https://www.sathyasai.org/node/658"
+      ],
+      "notes": "Официальная программа подтверждает бхаджаны, молитвы, медитацию и служение. Не отождествлено с более широким почитанием Ширди Саи Бабы. Представления о Сатья Саи Бабе как полном аватаре не приписаны без исключения всем участникам. Социальное служение не равно +humanism в нерелигиозном смысле."
+    },
+    {
+      "sourceIndex": 1137,
+      "sourceName": "Satya Dharma",
+      "decision": "review",
+      "canonicalName": "Сатья-дхарма Гурунатха Сенгупты",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Бенгальская религиозная традиция Гурунатха Сенгупты, связывающая поклонение бесформенному Богу с развитием нравственных качеств.",
+      "profile": "+divine +one_god +afterlife +reincarnation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Satya_Dharma",
+        "https://www.satya-dharmma.com/",
+        "https://www.satya-dharmma.com/biography",
+        "https://en.banglapedia.org/index.php/Sengupta,_Gurunath"
+      ],
+      "notes": "Review: исходная статья полностью лишена ссылок и приводит неподтверждённую численность. Найдены собственное изложение Satya-Dharmma и биографическая статья Banglapedia; они позволяют проверить идентичность и часть учения. Связь современного сайта с представительством всех общин требует дополнительной сверки. Профиль ограничен прямо выраженными положениями первичного текста; влияние гуманизма не превращено в нерелигиозную этику."
+    },
+    {
+      "sourceIndex": 1138,
+      "sourceName": "Share International",
+      "decision": "keep",
+      "canonicalName": "Share International",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Теософский эзотерический контекст",
+      "description": "Сеть Бенджамина Крема, распространяющая представления о присутствии Майтреи как Мирового учителя и Учителей мудрости.",
+      "profile": "+divine +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Share_International",
+        "https://share-international.org/for-news-media/what-is-share-international/",
+        "https://share-international.org/resources/events/"
+      ],
+      "notes": "Собственное описание подтверждает божественную природу человека, Учителей мудрости и трансмиссионную медитацию. Утверждение о нахождении Майтреи среди людей передано как убеждение движения, не установленный факт. Не alias всей Теософии или буддийского почитания Майтреи; название буддийского персонажа не означает общей приверженности буддизму."
+    },
+    {
+      "sourceIndex": 1139,
+      "sourceName": "Subud",
+      "decision": "keep",
+      "canonicalName": "Субуд",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Международное духовное сообщество индонезийского происхождения, объединённое практикой латихан кедживаан.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Subud",
+        "https://www.subudusa.org/",
+        "https://www.subudjapan.info/cms/index.php/en/about-subud/faq",
+        "https://www.subudjapan.info/cms/index.php/en/about-subud/latihan"
+      ],
+      "notes": "Исходник имеет предупреждения о близости авторов к предмету и зависимости от первичных источников; собственные FAQ позволяют проверить практику без переноса спорных исторических утверждений. Латихан понимается как спонтанное получение божественного руководства и отличается от намеренной медитации или ченнелинга. Участники сохраняют разные религиозные принадлежности; не alias всего кебатинана и не единая новая догматика."
+    },
+    {
+      "sourceIndex": 1140,
+      "sourceName": "Đạo Dừa",
+      "decision": "alias",
+      "canonicalName": "Кокосовая религия — Дао Зыа",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Вьетнамское название Кокосовой религии Нгуен Тхань Нама.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1o_D%E1%BB%ABa",
+        "https://en.wikipedia.org/wiki/Coconut_religion"
+      ],
+      "notes": "Alias строки 1130 Coconut religion. Исходная ссылка Đạo Dừa перенаправляет на Coconut Religion, а статья прямо называет Đạo Dừa вьетнамским именем движения. Здесь подтверждено не только перенаправление, но и совпадение основателя, места и истории."
+    },
+    {
+      "sourceIndex": 1141,
+      "sourceName": "Mahayana Buddhism",
+      "decision": "keep",
+      "canonicalName": "Буддизм махаяны",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Буддизм",
+      "description": "Широкая группа буддийских направлений, подчёркивающих путь бодхисаттвы и достижение пробуждения ради живых существ.",
+      "profile": "+buddha +liberation +scripture",
+      "proposedQuestions": [
+        {
+          "id": "bodhisattva_path",
+          "text": "Является ли путь бодхисаттвы к пробуждению ради всех живых существ центральным идеалом вашей традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Выявляет центральный идеал махаяны и её школ, не сводя его к общему учению Будды или освобождению. В тхераваде путь бодхисаттвы также признаётся, поэтому отрицательные ответы нельзя назначать автоматически."
+        }
+      ],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://www.dharmadrum.org/portal_d5_cnt_page.php?cnt_id=1&folder_id=1"
+      ],
+      "notes": "ROR использует BMA как категорию; сведения о пути бодхисаттвы дополнены объяснением буддийских учителей. Не alias тибетского буддизма, дзэн, Чистой земли или любой отдельной школы. Их специальные обряды не приписаны всем представителям. В тхераваде тоже существует идеал бодхисаттвы, поэтому новый вопрос не задаёт ей автоматическое «Нет»."
+    },
+    {
+      "sourceIndex": 1142,
+      "sourceName": "Folk Buddhism",
+      "decision": "keep",
+      "canonicalName": "Народный буддизм",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Буддизм",
+      "description": "Собирательная категория местных буддийских верований и практик, взаимодействующих с обычаями и другими религиозными традициями.",
+      "profile": "+buddha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://scholars.georgiasouthern.edu/en/publications/what-makes-folk-buddhism/"
+      ],
+      "notes": "ROR-категория BOF не обозначает единую конфессию. Исследование Пруд различает несколько пересекающихся значений folk Buddhism: сверхъестественное, неортодоксальное, заимствованное и повседневное. Не назначены автоматически всем предки, духи природы или магия. Не alias народной религии конкретного народа."
+    },
+    {
+      "sourceIndex": 1143,
+      "sourceName": "Theravada Buddhism",
+      "decision": "alias",
+      "canonicalName": "Тхеравада",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Буддийская традиция, опирающаяся на палийский канон и путь освобождения.",
+      "profile": "+buddha +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://www.dharmadrum.org/portal_d5_cnt_page.php?cnt_id=1&folder_id=1"
+      ],
+      "notes": "Alias существующей записи religions.js «Тхеравада»: Theravada Buddhism — её английское название, ROR BTH — код этой традиции. Не новая школа только из-за другого реестрового обозначения."
+    },
+    {
+      "sourceIndex": 1144,
+      "sourceName": "Christianity",
+      "decision": "keep",
+      "canonicalName": "Христианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Христианские традиции",
+      "description": "Совокупность религиозных традиций, для которых центральны Иисус Христос и библейское наследие.",
+      "profile": "+jesus +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://www.oikoumene.org/about-the-wcc"
+      ],
+      "notes": "ROR-категория C — родительская религия. В religions.js есть семейство christian и отдельные конфессии, но отсутствует самостоятельная общая запись «Христианство»: поэтому keep, не alias одной конфессии. Споры о Троице, таинствах, иконах и окончательном авторитете Библии не решены одинаково за всех. Базис Всемирного совета церквей использован как дополнительное свидетельство о центральности Христа и Писания; членство в ВСЦ не считается границей всего христианства."
+    },
+    {
+      "sourceIndex": 1145,
+      "sourceName": "Evangelical Protestantism",
+      "decision": "keep",
+      "canonicalName": "Евангельский протестантизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Протестантизм",
+      "description": "Надконфессиональное протестантское движение, выделяющее авторитет Библии, спасение через Христа, личное обращение и распространение Евангелия.",
+      "profile": "+jesus +scripture +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://hisregistries.org/ror/",
+        "https://www.evangelicalfellowship.ca/About-us/About-Evangelicals",
+        "https://lifewayresearch.com/wp-content/uploads/2015/11/NAE-LifeWay-Research-Evangelical-Beliefs-Research-Definition-Methodology-and-Use.pdf"
+      ],
+      "notes": "ROR CEP обозначает надконфессиональный тип. Собственное описание Evangelical Fellowship of Canada подтверждает библеизм, центральность креста, обращение и деятельность. Не синоним одного баптизма, пятидесятничества или лютеранства; не общее название всего протестантизма. Сознательное обращение не означает автоматического отказа от крещения младенцев."
+    }
+  ]
+}

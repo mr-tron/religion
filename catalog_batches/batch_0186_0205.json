@@ -1,0 +1,346 @@
+{
+  "range": [
+    186,
+    205
+  ],
+  "entries": [
+    {
+      "sourceIndex": 186,
+      "sourceName": "Shor shamanism",
+      "decision": "keep",
+      "canonicalName": "Шорские шаманские традиции",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Сибирские шаманские традиции",
+      "description": "Местные шаманские и анимистические традиции шорцев с ритуальными специалистами камами.",
+      "profile": "+nature_spirits +ritual +divine +many_gods +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shors"
+      ],
+      "notes": "Статья о народе содержит разделы Shamanism и мифологии. Сохраняется локальная традиция внутри более широких сибирских практик, а не синоним всех «Сибирских шаманских традиций». Христианская принадлежность части шорцев не переносится на этот профиль. Разделы Shor mythology и Spirits and deities непосредственно называют Ульгеня, Эрлика и других божеств, а также обращения к Ульгеню через камлание. Добавлены divine, many_gods и personal; христианское влияние не превращено в христианский профиль."
+    },
+    {
+      "sourceIndex": 187,
+      "sourceName": "Soyot shamanism",
+      "decision": "keep",
+      "canonicalName": "Сойотские шаманские традиции",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Сибирские шаманские традиции",
+      "description": "Местные шаманские практики сойотов Восточного Саяна, исторически взаимодействовавшие с буддизмом.",
+      "profile": " +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Soyot",
+        "https://sciup.org/sojoty-burjatii-v-duhovnoj-civilizacii-sajanidov-vnutrennej-azii-148315780"
+      ],
+      "notes": "Статья о народе подтверждает шаманские практики и монгольские/алтайские влияния, но не даёт достаточно подробностей для конкретных ответов. Буддийские контакты не означают +buddha для шаманского профиля. Родство с тофа не доказательство тождества. Статья сойотского автора Н. Аюшеева (Вестник БГУ, 2017, DOI 10.18101/2305-753X-2017-1-86-92) непосредственно описывает почитание горных духов, священной горы Мунку-Сардык и обряды хадаша. Добавлены nature_spirits и ritual. Широкая авторская теория саянидов не используется для переноса черт соседних народов; буддийско-шаманский синкретизм не даёт автоматически buddha."
+    },
+    {
+      "sourceIndex": 188,
+      "sourceName": "Tengrism",
+      "decision": "alias",
+      "canonicalName": "Тенгрианство",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Центральноазиатские традиции почитания Тенгри, духов природы и предков.",
+      "profile": "+divine +nature_spirits +ancestors",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tengrism"
+      ],
+      "notes": "Точное соответствие существующей записи religions.js «Тенгрианство»; исходная статья прямо связывает Tengrism/Tengrianism с русским термином «Тенгрианство». Монотеистические и политеистические интерпретации различаются по эпохам и группам, поэтому соответствующие признаки опущены."
+    },
+    {
+      "sourceIndex": 189,
+      "sourceName": "Ulch shamanism",
+      "decision": "keep",
+      "canonicalName": "Ульчские шаманские традиции",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Сибирские шаманские традиции",
+      "description": "Традиции ульчей Нижнего Амура с одушевлённым миром и семейно-родовыми культами.",
+      "profile": "+nature_spirits +ancestors +divine +personal +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ulch_people",
+        "https://ethnomuseum.ru/files/PDF/Library/Antropol_mushlen/978-5-4469-1523-1.pdf"
+      ],
+      "notes": "Раздел Religion исходной статьи прямо подтверждает анимизм, шаманизм и семейно-родовое почитание предков. Сходство с нивхами и айнами не означает синонимию. Первичное полевое исследование А.Б. Островского «Ульчские сэвэны в конце XX — начале XXI в.» (в сборнике РЭМ, 2019, с. 196–203) описывает живые практики кормления и оживления фигурок сэвэнов и молитвы водному богу дусэ у Амура. Добавлены divine, personal, ritual и icons на основании конкретных ульчских практик."
+    },
+    {
+      "sourceIndex": 190,
+      "sourceName": "Vattisen Yaly",
+      "decision": "keep",
+      "canonicalName": "Ваттисен йӑли",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное возрождение чувашской традиционной религии с местными формами молитвы и обрядов.",
+      "profile": "+divine +ritual +personal +many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vattisen_Yaly"
+      ],
+      "notes": "Исходная статья описывает движение возрождения и сохранение местных дохристианских обычаев. Не объединяется с тенгрианством: источник прямо подчёркивает отличия и разнообразие групп. Наличие главного божества Тура не доказывает единой монотеистической доктрины. Раздел Groups со ссылками на исследования современного движения описывает регулярные молитвы и конкурирующие тритеистические/монистические модели с несколькими богами или проявлениями Тура. Добавлены personal и many_gods (вопрос включает проявления божественного), без назначения единой доктрины всем группам. Неподкреплённые детали последующих списков духов исходной статьи не использованы."
+    },
+    {
+      "sourceIndex": 191,
+      "sourceName": "Yakut shamanism",
+      "decision": "keep",
+      "canonicalName": "Якутские шаманские традиции",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Сибирские шаманские традиции",
+      "description": "Исторические традиции саха с шаманами, божествами и обрядовым праздником ысыах.",
+      "profile": "+divine +ritual +many_gods +ancestors +afterlife +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yakut_shamanism",
+        "https://yakutmuseum.ru/hr/emeget/"
+      ],
+      "notes": "Источник описывает народную религию и её предания, в том числе божеств и возникновение ысыаха. Aiyy Faith назван движением возрождения, а не полным синонимом исторического шаманизма. Легендарные прародители не приняты за достаточное доказательство +ancestors. Исходная статья прямо называет нескольких божеств. Якутский государственный музей описывает эмэгэт — изображение духа-покровителя шамана, которым нередко является умерший шаман его рода, и души умерших уёр. Добавлены many_gods, ancestors, afterlife и icons по конкретным данным о почитании родового духа, а не по мифу о прародителях."
+    },
+    {
+      "sourceIndex": 192,
+      "sourceName": "Ache religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования аче",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования аче Парагвая в духов, связанные с жизненным циклом и окружающим миром.",
+      "profile": "+nature_spirits +ritual -one_god -many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ache_people",
+        "https://www.everyculture.com/South-America/Ache.html",
+        "https://www.everyculture.com/South-America/Ache-Religion-and-Expressive-Culture.html"
+      ],
+      "notes": "Исходная статья о народе лишь кратко упоминает традиционную религию. Этнографическое описание Кима Хилла в Encyclopedia of World Cultures, доступное через Everyculture, подтверждает духов и церемонии. Отсутствие оформленного пантеона не равно -divine; посмертные представления неодинаковы у групп аче. Этнографический обзор Кима Хилла прямо утверждает отсутствие веры в верховное божество или божеств у доконтактных аче, отдельно описывая духов. Поэтому добавлены -one_god и -many_gods для исторического традиционного профиля; divine оставлен неизвестным, поскольку вопрос включает и безличную божественную реальность. Противоречивые региональные посмертные представления по-прежнему не кодируются."
+    },
+    {
+      "sourceIndex": 193,
+      "sourceName": "Achomawi religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования ачомави",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции ачомави северной Калифорнии с духами-покровителями и обрядами жизненного цикла.",
+      "profile": "+ritual +nature_spirits +occult +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Achomawi_people",
+        "https://en.wikipedia.org/wiki/Achomawi"
+      ],
+      "notes": "Исходный URL Achomawi_people не загрузился; доступна статья Achomawi с описанием духов-покровителей tinihowi и пубертатных церемоний. Наличие отдельного духа-покровителя не превращено в общий тезис об одушевлённости природы; профиль ограничен. Раздел Religion прямо описывает духовные присутствия гор/источников, шаманское извлечение болезнетворных сил и предмет qaqu как оракул для их поиска. Добавлены nature_spirits, occult и divination_oracles. Это основания из конкретных описаний, а не из одного лишь слова «дух-покровитель»."
+    },
+    {
+      "sourceIndex": 194,
+      "sourceName": "Achuar religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования ачуар",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Амазонские традиции ачуар с одушевлёнными животными и растениями и шаманскими практиками.",
+      "profile": "+nature_spirits +ritual +divination_oracles +entheogenic_ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Achuar"
+      ],
+      "notes": "Статья о народе прямо описывает человекоподобные души животных и растений и амазонский перспективизм. Частная практика колдовства отдельными специалистами и мирянами не назначена всем как +occult. Ачуар не объединяются с родственными авахун или шуар. Раздел Religion and cosmology прямо описывает аяуаску как ритуальное таинство и вещие сны, которые ищут перед охотой и другими важными действиями. Добавлены ritual, divination_oracles и entheogenic_ritual. Случайное или частное колдовство по-прежнему не превращено в обязательный occult для всего профиля."
+    },
+    {
+      "sourceIndex": 195,
+      "sourceName": "Acjachemen religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования ачахемен",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные религиозные традиции ачахемен южной Калифорнии, известные в том числе по ранним миссионерским описаниям.",
+      "profile": " +divine +ritual +occult +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Acjachemen",
+        "https://www.missionsjc.com/wp-content/uploads/2021/06/MissionSJC-AcjachemenFAQs.pdf"
+      ],
+      "notes": "Статья о народе связывает религиозный комплекс с Chinigchinich, но отмечает существенные различия прибрежных и горных версий космогонии. Не считать весь народ и распространённый среди нескольких народов комплекс Chinigchinich точными синонимами. Колониальные описания требуют осторожности; общий профиль пока пуст. В исходном тексте прямо описаны две местные космогонии с творящими сверхъестественными сущностями, что подтверждает divine без one_god/many_gods. Музейная памятка Mission San Juan Capistrano отдельно описывает сакральные песни/танцы, лечебные чары и духов, входящих в тело шамана: добавлены ritual, occult и spirit_possession. Это историческое описание, а не обобщение нынешних убеждений всех ачахемен."
+    },
+    {
+      "sourceIndex": 196,
+      "sourceName": "Acoma Pueblo religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия Акома-Пуэбло",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местная традиция Акома с обрядами дождя, качинами и календарём религиозных церемоний.",
+      "profile": "+divine +ritual +icons +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Acoma_Pueblo",
+        "https://publishing.cdlib.org/ucpressebooks/public/book/ceremonial-costumes-of-the-pueblo-indians-their-evolution-fabrication-and-significance-in-the-prayer-drama.html",
+        "https://sirismm.si.edu/EADpdfs/NAA.MS4607.pdf"
+      ],
+      "notes": "Раздел Religion статьи прямо описывает создателя, качин, кивы и обряды. Гармония с природой сама по себе не доказывает +nature_spirits. Сочетание с католицизмом у части общины не означает обязательности христианских признаков. Первичная монография В.М. Рёдигер (полевые материалы 1930-х, переиздание UC Press 1991, с. 32–33) непосредственно описывает акомские маски и костюмы качин и представление, что надевший маску становится воплощаемым духом. Добавлены icons и spirit_possession как обрядовое воплощение, а не просто театральное изображение. Сведения других пуэбло не обобщаются на Акома."
+    },
+    {
+      "sourceIndex": 197,
+      "sourceName": "Aguaruna religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования агуаруна (авахун)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции авахун Перу с духами земли, воды и леса и способами общения с ними.",
+      "profile": "+nature_spirits +ritual +divine +many_gods +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aguaruna_people",
+        "https://bdpi.cultura.gob.pe/pueblos/awajun",
+        "https://repositorio.minedu.gob.pe/handle/20.500.12799/10655"
+      ],
+      "notes": "В исходной Wikipedia заметны ненадёжные вставки, включая «Zeus» и повреждённые фразы. Профиль сверён с официальной базой Минкультуры Перу: она подтверждает Nugkui, Etsa, Tsugki, ритуальные песни и духовные практики. Aguaruna/Awajún — имена одного народа, но соответствующей отдельной записи-дубля в готовом каталоге нет. Официальная база Минкультуры Перу прямо называет главными богами Nugkui, Etsa и Tsutki; раздел о земледелии описывает использование женщинами магических камней nantag и обращённых к духам магических песен anen. Добавлены divine, many_gods и occult, без использования испорченных фрагментов Wikipedia."
+    },
+    {
+      "sourceIndex": 198,
+      "sourceName": "Akawaio religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования акавайо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования акавайо с Макунаймой, другими мифологическими существами и шаманскими обрядами.",
+      "profile": "+divine +many_gods +ritual +entheogenic_ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Akawaio_people"
+      ],
+      "notes": "Статья о народе отдельно описывает традиционные представления и синкретическое движение Hallelujah. Не отождествлять весь комплекс верований акавайо с Hallelujah, которое встречается и у других народов. Христианские черты последнего не перенесены в традиционный профиль. Раздел Religion непосредственно описывает встречу шамана с божеством в обряде с табаком и специальной диетой, названном галлюциногенным. Добавлен entheogenic_ritual для этой традиционной практики; откровение движения Hallelujah не распространено на весь профиль."
+    },
+    {
+      "sourceIndex": 199,
+      "sourceName": "Alaska Native religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные религии коренных народов Аляски",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность разнообразных местных верований коренных народов Аляски о духах, душах и отношениях с окружающим миром.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alaska_Native_religion"
+      ],
+      "notes": "Зонтичная региональная категория, а не единая религия. Источник описывает различия между народами, душами животных и людей и ритуальными запретами; общий одинаковый профиль не назначен. Alaskan shamanism сохранён отдельно как более узкий набор посреднических практик."
+    },
+    {
+      "sourceIndex": 200,
+      "sourceName": "Alaskan shamanism",
+      "decision": "keep",
+      "canonicalName": "Шаманские практики коренных народов Аляски",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Традиционные религии коренных народов Аляски",
+      "description": "Местные традиции ритуальных специалистов, посредничающих между людьми и духовным миром.",
+      "profile": "+nature_spirits +ritual +occult +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shamanism_among_Alaska_Natives"
+      ],
+      "notes": "Источник даёт отдельные описания алеутских, атабаскских, хайда, тлинкитских и юпикских практик. Общий профиль ограничен духовным миром природы и посредническими обрядами; подробности одной группы не назначены всем. Это уже, чем вся Alaska Native religion, поэтому не alias. Источник непосредственно описывает предсказания и лечебную магию у алеутских специалистов, гадание на лопатке у атабасков и сверхъестественные лечебные действия у нескольких других групп. Добавлены occult и divination_oracles как документированные методы ритуальных специалистов этого регионального комплекса. Это не утверждение об одинаковой технике или обязательном участии всех народов Аляски."
+    },
+    {
+      "sourceIndex": 201,
+      "sourceName": "Ancestral Pueblo religion (Basketmaker III)",
+      "decision": "review",
+      "canonicalName": "Религиозные практики предков пуэбло периода Basketmaker III",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Предполагаемые религиозные практики археологического периода Basketmaker III на юго-западе Северной Америки.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Basketmaker_III_Era",
+        "https://crowcanyon.org/resources/creating-community-during-the-basketmaker-iii-period-in-southwest-colorado/"
+      ],
+      "notes": "Исходный источник описывает археологический период; его раздел Culture and religion не устанавливает самостоятельную религию или проверяемые убеждения. Исследования Crow Canyon подтверждают общественную роль большой кивы в поселении этого периода, но из архитектуры нельзя вывести пантеон или индивидуальные ответы. Сохранено на проверку с пустым профилем; историчность не основание удаления."
+    },
+    {
+      "sourceIndex": 202,
+      "sourceName": "Andean religions",
+      "decision": "alias",
+      "canonicalName": "Андские традиции",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные андские традиции Пачамамы, священных гор, обрядов и взаимных обязательств.",
+      "profile": "+nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Religion_in_the_Inca_Empire",
+        "https://americanindian.si.edu/nk360/inka-water/reciprocity/reciprocity"
+      ],
+      "notes": "Название Andean religions соответствует существующей записи religions.js «Андские традиции». Исходная ссылка уже названия: про религию империи инков. Дополнительный материал Smithsonian охватывает андские общины, преемственность айни, подношения Пачамаме и апу; подтверждает соответствие широкому описанию существующей записи. Не сводить все Андские традиции к государственному культу инков."
+    },
+    {
+      "sourceIndex": 203,
+      "sourceName": "Andoque religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования андоке",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные космологические предания и ритуалы андоке Колумбии.",
+      "profile": "+ritual +nature_spirits +occult +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Andoque_people",
+        "https://www.revue-antipodes.com/between-the-stone-and-metal-ax-animist-heritage-and-present-day-negotiations-of-the-andoque-concept-of-power-northwest-amazonia-colombia"
+      ],
+      "notes": "Статья о народе описывает Yuruparí, священные растения и мифологические рассказы. Символические смерть и возвращение посвящаемых не означают автоматически +reincarnation. Из конкретных мифов не выведены единый пантеон, анимизм всего мира или вера в посмертие. Полевое исследование Antipodes прямо описывает духов-хозяев растений, животных и мест, обращения к ним и заклинания с подношениями коки и табака: отсюда +nature_spirits и +occult. Описанное Yuruparí посвящение вводит юношей в ритуальную жизнь сообщества (+initiatory_brotherhood), но его символическая смерть не доказывает перерождение."
+    },
+    {
+      "sourceIndex": 204,
+      "sourceName": "Anishinaabe religions",
+      "decision": "keep",
+      "canonicalName": "Религиозные традиции анишинаабе",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Группа родственных традиций оджибве, одава, потаватоми и других народов анишинаабе.",
+      "profile": "+divine +nature_spirits +ritual +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anishinaabe_religions",
+        "https://www.nps.gov/isro/learn/historyculture/american-indian.htm",
+        "https://news.minnesota.publicradio.org/features/2003/08/18_gundersond_spiritualityterm/"
+      ],
+      "notes": "Исходная статья прямо перечисляет несколько религий и межобщинные общества, включая Midewiwin. Это зонтичная категория: принадлежность к анишинаабе не означает обязательного участия в Midewiwin. Составные традиции сохраняются отдельно; признаки требуют самостоятельных данных о традиционных учениях. NPS описывает духовное значение Minong и водного существа Mishepeshu для Grand Portage Anishinaabe. Словарь MPR с рассказами старейшин подтверждает Great Spirit, молитву, табак и пророчества Seven Fires: +divine, +nature_spirits, +ritual, +revelation обозначают документированные традиционные учения внутри этой группы, а не обязательные убеждения каждого человека. Членство в Midewiwin по-прежнему не назначается всей зонтичной категории."
+    },
+    {
+      "sourceIndex": 205,
+      "sourceName": "Apache religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные религии апачей",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные местные традиции апачей с духовными силами и лечебными обрядами.",
+      "profile": "+nature_spirits +ritual +icons +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Apache",
+        "https://www.loc.gov/exhibitions/images-from-americas-library/about-this-exhibition/social-political-and-religious-life/katerhine-taylor-dodge-apache-devil-dancers/",
+        "https://innofthemountaingods.com/wp-content/uploads/2020/07/Heritage-Brochure.pdf"
+      ],
+      "notes": "Статья о народах содержит предметный раздел Religion с различиями между западными апачами, хикарилья, мескалеро и чирикауа. Описаны personified natural forces, diyí и церемонии; одна группа не считается моделью всех остальных. Заимствования у пуэбло и родство с навахо не доказывают тождества. Library of Congress связывает священный Crown Dance прежде всего с мескалеро и чирикауа: маски представляют горных духов, передавших людям целительную церемонию (+icons, +revelation). Издание предприятия племени мескалеро также описывает передачу обряда White Painted Woman и его сакральное воспроизведение. Эти признаки засвидетельствованы в конкретных апачских традициях, а не утверждаются одинаковыми для всех групп."
+    }
+  ]
+}

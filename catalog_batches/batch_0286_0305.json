@@ -1,0 +1,361 @@
+{
+  "range": [
+    286,
+    305
+  ],
+  "entries": [
+    {
+      "sourceIndex": 286,
+      "sourceName": "Potawatomi religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия потаватоми",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Религиозные традиции анишинаабе",
+      "description": "Разнообразные традиционные духовные практики общин потаватоми Северной Америки.",
+      "profile": "+ritual +ancestors +afterlife +occult +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Potawatomi_religion",
+        "https://www.mpm.org/index.php/educators/wirp/nations/potawatomi",
+        "https://www.potawatomi.org/wp-content/uploads/November-2019-Hownikan-Digital.pdf"
+      ],
+      "notes": "Исходная статья подтверждает самостоятельную местную традицию, внутреннюю вариативность и отсутствие единой организационной структуры, но почти не содержит проверяемых доктринальных признаков. Это часть более широкой группы анишинаабе, не синоним всей Anishinaabe religions или общества Midewiwin. Дополнение 2026-10-25: Milwaukee Public Museum, Religious Life, Medicine, and Healing, описывает священные клановые узлы, ритуальные обязанности, посвящение в Midewiwin и лечебные/магические действия шаманов (+ritual/+initiatory_brotherhood/+occult). Страница музея доступна в поисковом извлечении, прямое открытие вернуло 502. Hownikan Citizen Potawatomi Nation, November 2019, p. 7, Honoring those who came before, подтверждает кормление умерших предков spirit plates и ghost supper (+ancestors/+afterlife), подчёркивая различия семей и общин."
+    },
+    {
+      "sourceIndex": 287,
+      "sourceName": "Pueblo religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные религии пуэбло",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Группа родственных традиций народов пуэбло с духами качина и общественными обрядами.",
+      "profile": "+divine +ritual +nature_spirits +ancestors +afterlife +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pueblo_religion",
+        "https://www.getty.edu/cona/CONAIconographyRecord.aspx?iconid=901000062",
+        "https://nhmu.utah.edu/articles/kachinas-more-than-collectible-art",
+        "https://americanart.si.edu/artwork/mickey-mouse-kachina-24947"
+      ],
+      "notes": "Источник описывает качин, молитвы и кивы. Общий профиль намеренно минимален: местные формы различаются. Это зонтичная категория, не синоним Acoma Pueblo religion и не тождество археологической религии периода Basketmaker III. Католическую идентичность многих пуэбло не переносить в традиционный профиль. Дополнение 2026-10-25: Getty CONA описывает качин как многочисленных божественных и предковых духов, взаимодействующих с людьми; Natural History Museum of Utah объясняет связь с природными явлениями и обрядовые изображения для религиозного обучения (+nature_spirits/+ancestors/+afterlife/+icons). Smithsonian American Art Museum подтверждает маски в религиозных танцах пуэбло; ritual_masks оставлен для генератора. Эти формы распространены неодинаково, особенно заметны у хопи и зуни; не приписываются каждому пуэбло."
+    },
+    {
+      "sourceIndex": 288,
+      "sourceName": "Puruhá religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования пуруха",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Андские традиции",
+      "description": "Местные андские традиции пуруха Эквадора со священными горами и подношениями.",
+      "profile": "+divine +nature_spirits +ritual +many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Puruh%C3%A1",
+        "https://repositorio.uta.edu.ec/bitstream/123456789/30141/1/Aucanshala%20Nancy.pdf"
+      ],
+      "notes": "Статья о народе содержит раздел Religion, описывающий связанных с горами божеств, jambiri и подношения. Католические и протестантские формы среди пуруха не означают единой принадлежности всей традиции. Локальная ветвь сохраняется отдельно от общих «Андских традиций». Дополнение 2026-10-25: исследование Universidad Técnica de Ambato, p. 36, раздел Dioses, отдельно называет божествами-покровителями Чимборасо и Тунгурауа, а также реки, озёра и светила; подтверждено +many_gods для исторического комплекса пуруха, без переноса инкского пантеона."
+    },
+    {
+      "sourceIndex": 289,
+      "sourceName": "Purépecha religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия пурепеча",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции пурепеча Мексики с почитанием Курикауэри и особым значением огня.",
+      "profile": "+divine +fire +ritual +many_gods +personal +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pur%C3%A9pecha_religion",
+        "https://www.gob.mx/cultura/prensa/el-pueblo-purepecha-asentado-en-baja-california-celebro-en-cecut-el-encendido-del-fuego-nuevo",
+        "https://www.scielo.org.mx/scielo.php?pid=S0185-39292020000400001&script=sci_arttext",
+        "https://nemd.aprende.gob.mx/contenido/coleccion/reinos-indigenas-antes-de-la-conquista-ii-2/"
+      ],
+      "notes": "Исходная статья — почти пустой stub с недостаточными ссылками. Дополнительный материал Министерства культуры Мексики подтверждает ритуал нового огня и почитание Курикауэри как божества огня/солнца. Не восстанавливается полный древний пантеон по этой современной церемонии; наследование семейных обобщений выключено. Дополнение 2026-10-25: официальное учебное издание Nueva Escuela Mexicana прямо называет историческую религию политеистической и различает Curicaueri, Cuerauaperi и Xaratanga (+many_gods). Исследование El rito de entronización del tlatoani y del cazonci (2020), опирающееся на Relación de Michoacán, описывает обращения за победой и ритуальное окуривание изображений богов (+personal/+icons). Исторические сведения не выведены из одной современной церемонии."
+    },
+    {
+      "sourceIndex": 290,
+      "sourceName": "Q'eqchi' religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования кекчи",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные майяские традиции кекчи с духами-хозяевами гор и долин цуль-така.",
+      "profile": "+nature_spirits +ritual +divine +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Q%27eqchi%27",
+        "https://nas.ucdavis.edu/sites/g/files/dgvnsk7031/files/files/person/Grandia%2C%202018%2C%20Trickster%20Ecology%20with%20TOC_0.pdf",
+        "https://backoffice.biblio.ugent.be/download/3063795/4335444",
+        "https://alteridades.izt.uam.mx/index.php/Alte/article/view/1061/1289"
+      ],
+      "notes": "Исходная ссылка не загрузилась. Академические исследования Лизы Грандии и диссертация Ghent описывают Tzuultaq’a, священные горы, пещеры и взаимные обязательства подношений. Кекчи имеют также разные христианские принадлежности; профиль относится к подтверждённому местному комплексу, не ко всем людям. Дополнение 2026-10-25: Tzuultaq’a: defensa territorial y diferencia radical entre los mayas q’eqchi’, Alteridades (2021), описывает личностных священных хозяев гор-долин, их характеры и прямые обращения как к отцу и матери; +divine/+personal обозначают этих адресатов местных молитв. Диссертация Ghent, p. 56, дополнительно фиксирует просьбы о разрешении и ответные защиту/наказание. Не делается вывода о единобожии или отрицании христианства."
+    },
+    {
+      "sourceIndex": 291,
+      "sourceName": "Q'ero beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования кэро",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Андские традиции",
+      "description": "Локальные андские традиции кэро Перу с отношениями взаимности с Пачамамой и апу.",
+      "profile": "+nature_spirits +ritual +divination_oracles +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Q%27ero",
+        "https://alicia.concytec.gob.pe/vufind/Record/REVUCSP_d34e6c38c18d3e5e21e48cfc3fd61b2d/Description",
+        "https://ethnologie.unistra.fr/websites/ethnologie/Documents/2020/GCometti_livre_.pdf"
+      ],
+      "notes": "Популярная исходная статья содержит недостаточно обоснованные обобщения о мистицизме и шаманизме. Профиль ограничен тем, что дополнительно подтверждено полевым исследованием Натали Сантистебан и Джеремии Кометти: подношения и взаимность с Apu и Pachamama. Это локальная традиция, не alias всех Андских традиций. Полная аннотация исследования доступна в академическом агрегаторе; сайт журнала при открытии показал защиту. Дополнение 2026-10-25: полевое исследование G. Cometti, PDF pp. 168–169 (печатные pp. 154–155), содержит наблюдавшийся автором сеанс altumisayuq Rolando: вопросы к листьям коки и их бросание с толкованием ответов Apu; pp. 189 (печатная 175) описывает шаманское чтение листьев с обращением к Apu. Это предметные основания +divination_oracles/+occult; обычное жевание коки не превращено автоматически в +entheogenic_ritual."
+    },
+    {
+      "sourceIndex": 292,
+      "sourceName": "Rikbaktsa beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования рикбакца",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции рикбакца Бразилии с превращениями и возвращением душ, мифами и сезонными обрядами.",
+      "profile": "+nature_spirits +reincarnation +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rikbaktsa_people",
+        "https://pib.socioambiental.org/en/Povo:Rikbaktsa"
+      ],
+      "notes": "Исходный URL не загрузился. Этнографический материал Instituto Socioambiental прямо описывает обмен душ между существами, возвращение умерших людьми или животными и ритуальный цикл. Это подтверждает перерождение, но не индийский закон кармы или освобождение; +karma/+liberation не назначены. Дополнение 2026-10-25: Instituto Socioambiental, Views about diseases, death and life, прямо описывает судьбы душ умерших и их возвращение человеком либо животным; добавлен общий +afterlife наряду с уже установленным +reincarnation. Магия не назначена только по вере в болезнь от чужого колдовства."
+    },
+    {
+      "sourceIndex": 293,
+      "sourceName": "Seminole religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования семинолов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные духовные традиции семинолов с церемониями зелёной кукурузы и stomp dance.",
+      "profile": "+ritual +fire",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Seminole",
+        "https://npshistory.com/publications/bicy/ethnohistory-1982.pdf"
+      ],
+      "notes": "Раздел Religion исходной статьи прямо описывает традиционную религию и церемониальные площадки, отличая их от христианских принадлежностей и смешанных форм. Семинольские общины Флориды и Оклахомы различаются; общий единый пантеон не назначен. Не синоним всех юго-восточных религий или Four Mothers Society. Дополнение 2026-10-25: An Ethnohistory of the Big Cypress National Preserve, 1982, p. 44, описывает зажигание нового огня из четырёх направленных по сторонам света поленьев на семинольском Green Corn Dance как символ племени и обновления круга жизни; это подтверждает +fire, не простой бытовой костёр. Закрытые детали церемонии не реконструируются."
+    },
+    {
+      "sourceIndex": 294,
+      "sourceName": "Seri religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования сери (комкаак)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции комкаак Соноры с духовными представлениями и обрядами жизненного цикла.",
+      "profile": "+ritual +divine +personal +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Seri_people",
+        "https://www.gob.mx/inpi/articulos/canto-tradicional-comcaac-seri-francisco-barnett-astorga",
+        "https://www.revistas.inah.gob.mx/index.php/antropologia/article/view/2856/0"
+      ],
+      "notes": "Статья о народе содержит Cosmology and religion: подробно подтверждены пубертатные и погребальные обряды. Один общий ярлык animists в инфобоксе не использован для развёрнутого профиля. Христианские формы у современных комкаак не приписаны исторической традиции. Дополнение 2026-10-25: INPI, Canto tradicional comcáac (seri). Francisco Barnett Astorga (14.12.2017), описывает традиционного haaco cama, лечебные песни как язык духов и его просьбы к создателю Hant caai (+divine/+personal). Исследование INAH Análisis lingüistico y musical de un hacáatol cöicóos подтверждает лечение духовным специалистом посредством песни силы (+occult). Это характеризует местную ритуальную традицию, не деятельность каждого комкаак; передача энергии через руки не утверждается."
+    },
+    {
+      "sourceIndex": 295,
+      "sourceName": "Shuar shamanism",
+      "decision": "keep",
+      "canonicalName": "Шаманские традиции шуар",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Религиозные традиции чичам (хиваро)",
+      "description": "Местные практики шуар Амазонии с ритуальными специалистами uwishin и духовными силами tsentsak.",
+      "profile": "+ritual +occult +nature_spirits +entheogenic_ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shuar",
+        "https://cultureandmind.sites.sheffield.ac.uk/fieldsites/shuar",
+        "https://dspace.utpl.edu.ec/handle/123456789/18927?mode=simple"
+      ],
+      "notes": "Исходная статья описывает контролируемые шаманами tsentsak, их приобретение, лечебные и вредоносные применения. +occult относится к конкретно шаманским практикам записи, не утверждает личного использования магии каждым шуар. Не объединяется с более широкой Jivaroan religion или родственными традициями ачуар/авахун. Дополнение 2026-10-25: описание полевой площадки H. Clark Barrett, Culture and the Mind, Religion and healthcare, прямо подтверждает сохраняющуюся веру шуар в лесных духов (+nature_spirits). Этнографическая работа Hinojosa Becerra, Marín Gutiérrez, Allen-Perkins (2015), Natem, la bebida sagrada de los shuar, на основании наблюдений и интервью в Shaime подтверждает местное обрядовое использование аяуаски (+entheogenic_ritual). Не предполагается практика каждого шуар."
+    },
+    {
+      "sourceIndex": 296,
+      "sourceName": "Sioux religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные религии сиу",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Группа местных духовных традиций дакота, лакота и родственных общностей сиу.",
+      "profile": "+ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sioux"
+      ],
+      "notes": "Исходная статья о народах описывает традиционные похоронные обряды и путешествие духа после смерти. Sioux religion шире Lakota religion и Wocekiye, поэтому не alias к ним. Частные версии пантеона и церемоний лакота не назначены автоматически всем группам сиу."
+    },
+    {
+      "sourceIndex": 297,
+      "sourceName": "Sirenik shamanism",
+      "decision": "keep",
+      "canonicalName": "Сиреникские шаманские традиции",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные исторические шаманские практики сиреникцев Чукотки.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sirenik_Eskimos"
+      ],
+      "notes": "Исходная статья о народе подтверждает местную шаманскую традицию и этнографическую фиксацию некоторых практик, но не даёт достаточно ясных различительных ответов. Политическая рубрика Ethnoreligions > American в исходном списке не означает проживания в Америке: Сиреники находятся на Чукотке. Не alias всех инуитских или сибирских юпикских традиций."
+    },
+    {
+      "sourceIndex": 298,
+      "sourceName": "Southeastern Ceremonial Complex",
+      "decision": "keep",
+      "canonicalName": "Юго-восточный церемониальный комплекс",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Археологически выделяемый комплекс миссисипской религиозной символики и церемониальных практик.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Southeastern_Ceremonial_Complex",
+        "https://maa.missouri.edu/node/15",
+        "https://scholarworks.utrgv.edu/leg_etd/682/"
+      ],
+      "notes": "Это аналитический комплекс изменчивых местных форм, а не единая реконструированная религия с обязательным набором убеждений. Музейное исследование University of Missouri подтверждает межрегиональный стиль и его материальный контекст. В готовой партии Earth/fertility cult описан как составная категория этого комплекса: это родство, не синонимия. Предлагаемое семейство ancient_american — древние религиозные традиции Америки без общего доктринального профиля."
+    },
+    {
+      "sourceIndex": 299,
+      "sourceName": "Taensa religion",
+      "decision": "keep",
+      "canonicalName": "Историческая религия таэнса",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческая традиция таэнса с солнечной символикой и постоянно поддерживаемым храмовым огнём.",
+      "profile": "+divine +fire +ritual +ancestors +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taensa"
+      ],
+      "notes": "Раздел Religion статьи о народе прямо описывает солнечный культ и священный огонь. Роль вождя как Великого Солнца и сходство с натчез не доказывают полного тождества религий. Исторические погребальные обычаи не использованы для неподтверждённых универсальных посмертных ответов. Дополнение 2026-10-25: разделы Temple и Religion исходной статьи описывают подношения почитаемым умершим и поклонение каменным изображениям мифической прародительской пары в храме (+ancestors/+icons). Это исторические сообщения именно о таэнса, а не перенос натчезского профиля."
+    },
+    {
+      "sourceIndex": 300,
+      "sourceName": "Taino religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования таино",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные исторические традиции таино Антильских островов с почитанием семи и обрядами.",
+      "profile": "+divine +many_gods +ritual +personal +nature_spirits +ancestors +icons +entheogenic_ritual +divination_oracles +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ta%C3%ADno",
+        "https://www.metmuseum.org/exhibitions/listings/2019/arte-del-mar-caribbean/exhibition-galleries",
+        "https://museosrd.gob.do/cemies-duhos-y-rituales-aborigenes/",
+        "https://art.thewalters.org/object/2005.6/"
+      ],
+      "notes": "Источник о народе содержит предметное описание семи, их имён, функций и почитания. Термин охватывает различия островных групп; конкретная доктрина одной общины не считается обязательной для всех. Историческая религия не сводится к современным реконструкциям и не alias к калинаго. Дополнение 2026-10-25: Metropolitan Museum, Arte del mar, объясняет земи как силу божеств и предков в ландшафте, личностный дух дерева/камня и ритуальное создание почитаемых скульптур (+nature_spirits/+icons). Государственный музейный портал Доминиканской Республики, Cemíes, Dúhos y Rituales Aborígenes, описывает обращения к божествам и церемонию cohoba: психоактивный порошок для общения с божествами/умершими предками, предсказаний и исцеления (+personal/+entheogenic_ritual/+divination_oracles/+ancestors/+afterlife). Walters Art Museum независимо подтверждает семейно-предковое почитание сохраняемых черепов и каменных изображений. Транс не назван автоматически одержимостью."
+    },
+    {
+      "sourceIndex": 301,
+      "sourceName": "Tairona religion",
+      "decision": "review",
+      "canonicalName": "Исторические верования тайрона",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозные представления археологических и исторических общностей тайрона Сьерра-Невада-де-Санта-Марта.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tairona",
+        "https://babel.banrepcultural.org/digital/collection/p17054coll18/id/534/"
+      ],
+      "notes": "Исходная статья обсуждает спорность реконструкций и переноса нынешних представлений коги в доколониальное прошлое. Золотые украшения и гипотеза шаманских превращений сами по себе не дают надёжного профиля. Найдено исследовательско-образовательное издание Banco de la República, но доступная карточка не раскрывает проверяемую доктрину. Требуется профильный источник; запись сохранена на проверку. Предлагаемое семейство ancient_american — древние религиозные традиции Америки без общего доктринального профиля."
+    },
+    {
+      "sourceIndex": 302,
+      "sourceName": "Taki Unquy",
+      "decision": "review",
+      "canonicalName": "Таки Ункуй",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Андские традиции",
+      "description": "Историческое андское религиозное движение XVI века, известное преимущественно из испанских колониальных свидетельств.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taki_Unquy",
+        "https://www.cambridge.org/core/journals/latin-american-research-review/article/taki-onqoy-and-the-andean-nation-sources-and-interpretations/ED01EFD372FCB96430BEF5FF1F365877",
+        "https://assets.cambridge.org/052133/3938/sample/0521333938WSN01.pdf"
+      ],
+      "notes": "В исходной статье изложена версия движения возвращения к уакам и вселения духов. Источниковедческая работа Джереми Мамфорда обсуждает резко разные интерпретации, включая роль испанских конструкций; собственных проповедей движения не найдено. Для уверенного индивидуального профиля доказательств недостаточно, поэтому review без автоматического переноса антихристианских ответов. Это отдельная историческая запись, не alias всех Андских традиций."
+    },
+    {
+      "sourceIndex": 303,
+      "sourceName": "Tanana shamanism",
+      "decision": "keep",
+      "canonicalName": "Шаманские традиции танана",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Шаманские практики коренных народов Аляски",
+      "description": "Местные атабаскские традиции танана Аляски с духами животных и ритуальными посредниками.",
+      "profile": "+nature_spirits +ritual +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tanana_Athabaskans",
+        "https://www.erudit.org/en/journals/as/2018-v42-n2-3-as04040/1052643ar.pdf"
+      ],
+      "notes": "Предметный раздел Animism and shamanism исходной статьи прямо описывает духов существ и некоторых неодушевлённых предметов, ритуальных специалистов и обращения к ним. Локальная ветвь широкой Alaskan shamanism, а не её синоним. Проверка 2026-10: Полевая статья Marie-Françoise Guédon Les sentiers du rêve (Anthropologie et Sociétés 42, 2018) прямо включает набесна реки Танана и описывает их способы предвидения, чтения снов и ритуального гадания (+divination_oracles). Это не вывод из данных только об атна или обо всех атабасках; автор прямо обозначает и исследует тананский материал."
+    },
+    {
+      "sourceIndex": 304,
+      "sourceName": "Tapirape shamanism",
+      "decision": "keep",
+      "canonicalName": "Шаманские традиции тапирапе (апиава)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции апиава Бразилии с шаманскими снами, духами и сезонным церемониальным циклом.",
+      "profile": "+nature_spirits +ritual +afterlife +occult +divination_oracles +entheogenic_ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tapirape_people",
+        "https://pib.socioambiental.org/en/Povo:Apy%C3%A3wa",
+        "https://ehrafworldcultures.yale.edu/cultures/sp22/documents/009",
+        "https://repository.si.edu/server/api/core/bitstreams/d97a9bdc-594d-42b2-9bfa-189f009fd5f6/content"
+      ],
+      "notes": "Исходный URL не загрузился. Instituto Socioambiental прямо описывает Apyãwa/Tapirapé, священные места, духов и шаманов, обеспечивающих связь с ними; этнография Чарльза Уогли подтверждает предмет. Души будущих детей не означают автоматически перерождения уже умерших: +reincarnation не назначен. Проверка 2026-10: Wagley и Galvão, The Tapirape, Handbook of South American Indians, т. 3, с. 176–177, прямо описывают души умерших, извлечение магических объектов при лечении и предсказание будущего во снах (+afterlife, +occult, +divination_oracles). Во время центральной церемонии борьбы с Громом шаманы достигают транса при сильном табачном опьянении (+entheogenic_ritual); это отдельное основание, а не признак от любого курения. Описаны танцы с масками духов: основание ritual_masks для генератора. Превращение духа умершего в животное не объявлено автоматически новым рождением."
+    },
+    {
+      "sourceIndex": 305,
+      "sourceName": "Tehuelche religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования теуэльче",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные патагонские традиции теуэльче с мифами, духами и шаманским целительством.",
+      "profile": "+divine +nature_spirits +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tehuelche_people",
+        "https://museo.precolombino.cl/aprende/pueblos-culturas/pueblos-originarios/tehuelche/"
+      ],
+      "notes": "Раздел Religion статьи о народе описывает духов земли, создателя Коо́ч и ритуальных целителей. Версии космогонии различаются. Удалённость создателя не превращается в общий +deism: в описанной традиции другие духовные силы активно вмешиваются в жизнь; не объединяется с религией селькнам только из-за похожего мифа. Проверка 2026-10: Museo Chileno de Arte Precolombino прямо описывает скрываемые амулеты, талисманы и лечебную магию теуэльче (+occult). Упоминания погребения и жертвования животных сами по себе не использованы для нового afterlife; музей различает местные варианты представлений о Гуаличу и возможные влияния мапуче."
+    }
+  ]
+}

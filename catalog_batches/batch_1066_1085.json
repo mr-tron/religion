@@ -1,0 +1,357 @@
+{
+  "range": [
+    1066,
+    1085
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1066,
+      "sourceName": "Rātana",
+      "decision": "keep",
+      "canonicalName": "Церковь Ратана",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Маорийская христианская церковь, возникшая вокруг духовной миссии Тахупотики Вирему Ратаны.",
+      "profile": "+divine +personal +trinity +scripture +jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/R%C4%81tana"
+      ],
+      "notes": "Источник подтверждает Троицу, молитвы, Библию и собственный сборник богослужебных текстов. Религиозная церковь различена с политическим крылом движения; участие в маорийской политике не означает обязательного исповедания. Не синоним Ринґату или всех маорийских религиозных движений."
+    },
+    {
+      "sourceIndex": 1067,
+      "sourceName": "Soldiers of Heaven",
+      "decision": "review",
+      "canonicalName": "Солдаты небес — Джунд ас-Сама",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Шиитские мессианские движения",
+      "description": "Иракская мессианская группа шиитского происхождения, связываемая с Дия Абд аз-Захрой Кадимом.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Soldiers_of_Heaven",
+        "https://usarmyiraqwar.com/wp-content/themes/iraqwartheme2/files/pub1376.pdf"
+      ],
+      "notes": "Review: сообщения о лидере, составе, взглядах и битве под Наджафом противоречивы. История армии США также признаёт отсутствие окончательного объяснения событий. Не перенесены как проверенные общие догматы утверждения о реинкарнации Али и намерении ускорить конец света насилием. Не отождествлено с движением Ахмада аль-Хасана только по спорным сообщениям."
+    },
+    {
+      "sourceIndex": 1068,
+      "sourceName": "Spiritism",
+      "decision": "alias",
+      "canonicalName": "Спиритизм Кардека",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Спиритистское учение Аллана Кардека о духах, нравственном развитии и последовательных воплощениях.",
+      "profile": "+reincarnation +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kardecist_spiritism"
+      ],
+      "notes": "Alias существующей записи religions.js «Спиритизм Кардека». Исходная ссылка именно Kardecist spiritism, а не весь Spiritualism или любое общение с духами. Перевод Spiritism в этом контексте обозначает ту же систему."
+    },
+    {
+      "sourceIndex": 1069,
+      "sourceName": "The Family International",
+      "decision": "keep",
+      "canonicalName": "The Family International — Семья",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Христианское новое религиозное движение, основанное Дэвидом Бергом и ранее известное как «Дети Бога».",
+      "profile": "+divine +personal +one_god +trinity +jesus +scripture +revelation +spirit_gifts +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Family_International",
+        "https://www.thefamilyinternational.org/en/our-beliefs/"
+      ],
+      "notes": "Современная декларация веры подтверждает личного Бога, Троицу, Библию, спасение через Иисуса, дары Духа и продолжающееся пророчество. Профиль относится к заявленному современному исповеданию; исторические практики и обвинения в злоупотреблениях не превращены в неизменный догмат. Продолжающееся личное пророчество само по себе не означает нового всеобщего откровения."
+    },
+    {
+      "sourceIndex": 1070,
+      "sourceName": "Unification Church",
+      "decision": "alias",
+      "canonicalName": "Церковь объединения",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Новое религиозное движение, возникшее вокруг учения Мун Сон Мёна и «Божественного принципа».",
+      "profile": "+jesus +one_god +new_revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Unification_Church"
+      ],
+      "notes": "Alias точной существующей записи religions.js «Церковь объединения»: английское Unification Church обозначает это движение. Последующие организационные разделения не создают отдельной идентичности для исходного общего названия."
+    },
+    {
+      "sourceIndex": 1071,
+      "sourceName": "Victory Altar",
+      "decision": "keep",
+      "canonicalName": "Алтарь победы — Сынни чедан",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Корейское мессианское движение Чо Хи Сына, соединяющее библейские мотивы с местными религиозными представлениями и обещанием телесного бессмертия.",
+      "profile": "+divine +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Victory_Altar",
+        "https://www.mdpi.com/2077-1444/15/12/1438"
+      ],
+      "notes": "Полевое исследование Ригаль-Селлар подтверждает обожествление основателя и самостоятельную систему. Бессмертие здесь преимущественно телесное: не выведен автоматический +afterlife. Употребление титулов Христос и Майтрея не доказывает центральности исторического Иисуса или всего учения Будды. Не alias Церкви объединения или движения Масличного дерева."
+    },
+    {
+      "sourceIndex": 1072,
+      "sourceName": "World Elijah Evangelical Mission",
+      "decision": "review",
+      "canonicalName": "Всемирная евангельская миссия Илии — китайская ветвь Доалнары",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Доалнара",
+      "description": "Название деятельности в Китае религиозного движения корейского проповедника Пак Мён Хо.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/World_Elijah_Evangelical_Mission",
+        "https://www.ecoi.net/en/file/local/1034299/nz44_00781chi.pdf"
+      ],
+      "notes": "Review: исходная статья в значительной части опирается на административные антисектантские материалы. Дополнительный первичный документ подтверждает, что это действительно позиция властей, но не даёт независимой проверки догматики. Не перенесены обвинения в требовании абсолютного подчинения и политических целях в профиль убеждений. Источник связывает миссию с Doalnara, однако точный объём китайской ветви относительно всего движения требует проверки."
+    },
+    {
+      "sourceIndex": 1073,
+      "sourceName": "World Mission Society Church of God",
+      "decision": "keep",
+      "canonicalName": "Всемирное миссионерское общество «Церковь Бога»",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Корейское религиозное движение, почитающее Ан Сан Хона как вновь пришедшего Христа и Чан Гиль Чжа как Бога-Мать.",
+      "profile": "+divine +personal +jesus +scripture +sabbath +restoration",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/World_Mission_Society_Church_of_God",
+        "https://watv.org/",
+        "https://watv.org/truth"
+      ],
+      "notes": "Собственный сайт подтверждает веру в Бога-Отца и Бога-Мать, новый завет, Пасху и субботу. Не назначены +one_god, +many_gods или +trinity без уточнения особого понимания единства божественного. Название Church of God само по себе не тождественно другим одноимённым церквам. Семейный профиль не наследуется."
+    },
+    {
+      "sourceIndex": 1074,
+      "sourceName": "Zhushenjiao",
+      "decision": "review",
+      "canonicalName": "Чжушэньцзяо — Учение Господа Бога",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Китайское новое религиозное движение, основанное Лю Цзяго и происходящее из среды христианских движений.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zhushenjiao"
+      ],
+      "notes": "Review: исходная статья прямо предупреждает, что все сведения о верованиях происходят от враждебных христианских оппонентов или властей. Поэтому обожествление руководителя и приписываемая иерархия не кодируются как проверенное самоисповедание. Требуется независимое академическое исследование либо доступный собственный текст; политико-правовой ярлык не религиозный признак."
+    },
+    {
+      "sourceIndex": 1075,
+      "sourceName": "Adi Dharm",
+      "decision": "review",
+      "canonicalName": "Ади-дхарм — традиция Ади Брахмо Самадж",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Брахмоизм",
+      "description": "Первоначальная линия брахмоистской реформы, связанная с Дебендранатхом Тагором и Ади Брахмо Самадж.",
+      "profile": "+divine +one_god -icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Adi_Dharm",
+        "https://ebooks.inflibnet.ac.in/icp03/chapter/brahmo-samaj/",
+        "https://thesadharanbrahmosamaj.org/im/IM-june2012.pdf"
+      ],
+      "notes": "Review: исходная статья формулирует спорные всеобщие отрицания творения, спасения и священных текстов. Университетское изложение подтверждает монотеизм и отсутствие безусловного книжного авторитета, но иначе описывает творение и спасение. Сохранены только согласующиеся признаки; точная редакция исповедания и отношение Adi Dharm к широкой Brahmoism требуют уточнения. Не смешано с одноимёнными далитскими движениями и не alias всего Брахмо Самадж."
+    },
+    {
+      "sourceIndex": 1076,
+      "sourceName": "Adidam",
+      "decision": "keep",
+      "canonicalName": "Адидам",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовное движение Ади Да Самраджа, основанное на преданности учителю, признаваемому воплощённой божественной реальностью.",
+      "profile": "+divine +personal +bhakti +revelation +new_revelation +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Adidam",
+        "https://adidam.org/adidam/",
+        "https://www.adidam.in/way-of-adidam/life-positive-disciplines"
+      ],
+      "notes": "Исходная ссылка перенаправляет на биографию Ади Да, но собственные материалы отдельно подтверждают существование Adidam как практики и сообщества, новое универсальное откровение и преданность учителю. Не alias адвайта-веданты в целом; исторические связи с индуистскими учителями не означают тождества."
+    },
+    {
+      "sourceIndex": 1077,
+      "sourceName": "Ananda",
+      "decision": "keep",
+      "canonicalName": "Ананда — движение Свами Криянанды",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Крия-йога",
+      "description": "Международное духовное движение Свами Криянанды, развивающее учение Парамахансы Йогананды и практику крия-йоги.",
+      "profile": "+divine +personal +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ananda_movement",
+        "https://www.ananda.org/about-ananda-sangha/",
+        "https://www.ananda.org/kriya-yoga/"
+      ],
+      "notes": "Исходный URL Ananda_movement не загрузился; идентичность и практики подтверждены собственным сайтом движения. Не синоним Ананда Марги, ашрама Парамананды, отдельной техники Ananda Yoga или всей крия-йоги. Собственная «научная» риторика не основание для +scientific."
+    },
+    {
+      "sourceIndex": 1078,
+      "sourceName": "Ananda Ashrama",
+      "decision": "keep",
+      "canonicalName": "Ананда-ашрама и Веданта-центр Парамананды",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Веданта",
+      "description": "Духовное сообщество вокруг ашрамы Свами Парамананды в Ла-Кресенте и связанного Веданта-центра, развивающее несектантское преподавание веданты.",
+      "profile": "+divine +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Swami_Paramananda",
+        "https://www.vedanta.com/store/swami-paramananda-mystic-poet-and-teacher-details.html",
+        "https://www.cvhistory.org/meetings/oldmeetings/newsletter/feb08news.pdf"
+      ],
+      "notes": "Исходная статья — биография основателя, но прямо называет ашрам и связанную сеть. Издание его ученической традиции и местное историческое общество подтверждают учреждение 1923 года, веданту и медитацию. Не спутано с движением Криянанды или одноимённым ашрамом Рамамурти Мишры в штате Нью-Йорк. Профиль не переносится на всех гостей ретрита."
+    },
+    {
+      "sourceIndex": 1079,
+      "sourceName": "Ananda Marga",
+      "decision": "keep",
+      "canonicalName": "Ананда Марга",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Прабхата Ранджана Саркара, соединяющее тантрическую медитацию, духовную самореализацию и общественное служение.",
+      "profile": "+divine +one_god +pantheism +meditation +bhakti +karma",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ananda_Marga",
+        "https://www.anandamarga.org/philosophy/",
+        "https://anandamarga.org/ideology/self-realization/meditation/",
+        "https://www.anandamarga.org/faq-questions/answers/blurbs/moksa/"
+      ],
+      "notes": "Официальные материалы подтверждают единое бесконечное сознание, пребывание мира в нём, медитацию, преданность и последствия действий. Не синоним Ананды Криянанды. «Неогуманизм» этого движения не означает этику без религиозного авторитета, поэтому +humanism не назначен; scientific не следует из самоназвания духовной науки."
+    },
+    {
+      "sourceIndex": 1080,
+      "sourceName": "Arya Samaj",
+      "decision": "keep",
+      "canonicalName": "Арья Самадж",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Индуистское реформаторское движение Даянанды Сарасвати, признающее авторитет Вед и почитание единого бесформенного Бога.",
+      "profile": "+divine +one_god +vedas +scripture -icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arya_Samaj",
+        "https://aryasamajsa.org/ten-principles-of-the-arya-samaj/"
+      ],
+      "notes": "Собственные десять принципов подтверждают ведический авторитет и поклонение единому бесформенному Богу; исходник подтверждает отказ от идолопоклонства. Не синоним Брахмо Самадж, который иначе оценивает авторитет Вед. Нравственная и образовательная деятельность не означает +humanism в нерелигиозном смысле."
+    },
+    {
+      "sourceIndex": 1081,
+      "sourceName": "Bochasanwasi Akshar Purushottam Swaminarayan Sanstha",
+      "decision": "keep",
+      "canonicalName": "BAPS — Бочасанваси Акшар Пурушоттам Сваминараян Санстха",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Традиция Сваминараяна",
+      "description": "Организация традиции Сваминараяна, развивающая учение Акшар-Пурушоттам и особую роль преемственной линии гуру.",
+      "profile": "+divine +personal +bhakti +vedas +scripture +reincarnation +karma +liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bochasanwasi_Akshar_Purushottam_Swaminarayan_Sanstha",
+        "https://www.baps.org/About-BAPS/WhoWeAre/BasicBeliefs.aspx",
+        "https://na.baps.org/learn/our-beliefs",
+        "https://www.baps.org/About-BAPS/WhoWeAre/BasicBeliefs/ThePhilosophy/HinduBeliefs.aspx"
+      ],
+      "notes": "Собственные источники подтверждают различение вечных сущностей, преданность Парабрахману и освобождение от рождения и смерти через связь с гуру. Не alias всей Сваминараян-сампрадаи. Тезис о верховном Боге не преобразован автоматически в отрицание любых иных божеств."
+    },
+    {
+      "sourceIndex": 1082,
+      "sourceName": "Brahmo Samaj",
+      "decision": "keep",
+      "canonicalName": "Брахмо Самадж",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Брахмоизм",
+      "description": "Религиозно-общественное реформаторское движение, основанное Раммоханом Роем и объединяющее исторически разошедшиеся брахмоистские общины.",
+      "profile": "+divine +one_god -icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Brahmo_Samaj",
+        "https://ebooks.inflibnet.ac.in/icp03/chapter/brahmo-samaj/"
+      ],
+      "notes": "Сохраняется как организационно-историческое движение, а Brahmoism — как религиозное учение, которому оно служит общественной формой. Исходная статья имеет проблемы ссылочного аппарата; университетский материал независимо подтверждает происхождение и монотеистическую реформу. Положения одного позднего крыла не назначены всем историческим ветвям. Не alias Арья Самадж или одной Ади Брахмо Самадж."
+    },
+    {
+      "sourceIndex": 1083,
+      "sourceName": "Brahmoism",
+      "decision": "keep",
+      "canonicalName": "Брахмоизм",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Монотеистическое религиозное направление бенгальского реформаторского движения XIX века, подчёркивающее бесформенность Бога и нравственную жизнь.",
+      "profile": "+divine +one_god -icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Brahmoism",
+        "https://en.wikipedia.org/wiki/Brahmo_Samaj",
+        "https://ebooks.inflibnet.ac.in/icp03/chapter/brahmo-samaj/"
+      ],
+      "notes": "Отличается по объёму от организационного движения Брахмо Самадж и его конкретных ветвей; связь подтверждается обоими исходными статьями. Радикальные отрицания всех писаний, откровений и обрядов не назначены всему историческому направлению только по одной редакции списка принципов. Университетский материал использован для проверки общего ядра; не alias Ади-дхарма."
+    },
+    {
+      "sourceIndex": 1084,
+      "sourceName": "Chinmaya Mission",
+      "decision": "keep",
+      "canonicalName": "Миссия Чинмая",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Адвайта-веданта",
+      "description": "Международная организация Свами Чинмаянанды, распространяющая адвайта-веданту через изучение текстов, духовную практику и служение.",
+      "profile": "+divine +vedas +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chinmaya_Mission",
+        "https://www.chinmayamission.com/",
+        "https://beta.chinmayamission.com/global/residential-vedanta-course-1"
+      ],
+      "notes": "Собственный сайт подтверждает адвайта-веданту, авторитет Бхагавадгиты и Упанишад и духовное обучение. Сохранена как конкретная организация, не alias всей существующей «Адвайта-веданты». Образовательные и благотворительные программы не означают одинакового исповедания всех участников."
+    },
+    {
+      "sourceIndex": 1085,
+      "sourceName": "Hare Krishna",
+      "decision": "keep",
+      "canonicalName": "Международное общество сознания Кришны — ИСККОН",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Гаудия-вайшнавизм",
+      "description": "Организация гаудия-вайшнавизма, основанная А. Ч. Бхактиведантой Свами Прабхупадой и известная как движение Харе Кришна.",
+      "profile": "+divine +personal +bhakti +scripture +reincarnation +karma +liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness",
+        "https://gbc.iskcon.org/frequently-asked-questions/",
+        "https://iskcon.org/what-is-krishna-consciousness/",
+        "https://www.iskconmumbai.com/our-beliefs/reincarnation"
+      ],
+      "notes": "Исходная ссылка и официальный FAQ GBC подтверждают Hare Krishna movement как имя ISKCON. Не alias существующего «Кришнаизма»: запись religions.js охватывает вайшнавскую преданность Кришне вообще, тогда как ИСККОН — конкретная организация внутри гаудия-вайшнавизма. Официальное описание прямо различает традицию и учреждённую в 1966 году организацию."
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "range": [
+    1346,
+    1365
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1346,
+      "sourceName": "Kapadi Sampradaya",
+      "decision": "review",
+      "canonicalName": "Капади-сампрадая — требуется уточнение",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозно-общинная традиция Капади, связанная с Качем и другими районами Гуджарата.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kapadi_Sampradaya",
+        "https://en.wikipedia.org/wiki/Kapadi",
+        "https://www.hinduscriptures.in/vedic-lifestyle/sampraday-traditions/akhadas-and-other-sampradayas"
+      ],
+      "notes": "Review: исходный URL не загрузился, а альтернативная статья Kapadi описывает прежде всего общину и легендарную генеалогию. В доступном обзоре названы несколько различных ветвей с почитанием Рамы, Ашапуры и Мекан Дады, но надёжность единого общего профиля недостаточна. Требуется сверить этнографические материалы о сампрадае и отделить религиозную принадлежность от общинного происхождения."
+    },
+    {
+      "sourceIndex": 1347,
+      "sourceName": "Kapalika",
+      "decision": "keep",
+      "canonicalName": "Капалики",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Шиваизм",
+      "description": "Исторические шиваитские аскетические традиции, известные использованием черепа как ритуального атрибута и почитанием устрашающих форм Шивы.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kapalika"
+      ],
+      "notes": "Сохраняется историческое направление, не alias современных агхори или всей каулы. Значительная часть сведений передана внешними авторами; литературные изображения и обвинения в человеческих жертвах не превращены в обязательные признаки каждого последователя. Упоминание черепа не доказывает единого конкретного обряда для всех групп."
+    },
+    {
+      "sourceIndex": 1348,
+      "sourceName": "Kartabhaja",
+      "decision": "keep",
+      "canonicalName": "Картабхаджа",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Бенгальское религиозное движение Аулчанда и семьи Пал, подчёркивающее преданность духовному наставнику.",
+      "profile": "+divine +bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kartabhaja",
+        "https://en.banglapedia.org/index.php/Folk_Sects"
+      ],
+      "notes": "Banglapedia подтверждает отдельное народное движение; исходник уточняет гуру и собственный песенный корпус. Не alias баулов, всей вайшнавской сахаджии или Матуa. Недостоверные легенды об основателе и обвинительные описания в старых источниках не приняты за установленный профиль практики."
+    },
+    {
+      "sourceIndex": 1349,
+      "sourceName": "Kashmir Shaivism",
+      "decision": "keep",
+      "canonicalName": "Кашмирский шиваизм",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Шиваизм",
+      "description": "Совокупность недвойственных шиваитских тантрических традиций Кашмира, особенно связанных с философией узнавания собственной природы.",
+      "profile": "+divine +pantheism +scripture +meditation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kashmir_Shaivism",
+        "https://iep.utm.edu/kashmiri/",
+        "https://doi.org/10.1002/9781119009924.eopr0273"
+      ],
+      "notes": "Академическое изложение отличает несколько монистических традиций от дуалистического шива-сиддханта, также существовавшего в Кашмире. Не alias всего шиваизма, каулы или одной системы Трика. Признак pantheism отражает широкую формулировку вопроса о единстве мира и божественного, не отрицание различий внутри шиваитской метафизики."
+    },
+    {
+      "sourceIndex": 1350,
+      "sourceName": "Kaula",
+      "decision": "keep",
+      "canonicalName": "Каула",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Шиваитско-шактистская тантра",
+      "description": "Семейство шиваитских и шактистских тантрических традиций, придающих значение посвящению, ритуальной передаче и единству Шивы и Шакти.",
+      "profile": "+divine +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kaula_(Hinduism)"
+      ],
+      "notes": "Источник описывает несколько направлений и разные степени внешнего и внутреннего осуществления ритуалов. Не alias всего кашмирского шиваизма или вамачары. Не назначены всем без исключения сексуальные практики, алкоголь или конкретные жертвоприношения; эти особенности зависят от линии и интерпретации."
+    },
+    {
+      "sourceIndex": 1351,
+      "sourceName": "Kaumaram",
+      "decision": "keep",
+      "canonicalName": "Каумарам",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Индуистская традиция почитания Муругана, также известного как Сканда или Картикея.",
+      "profile": "+divine +personal +bhakti +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kaumaram"
+      ],
+      "notes": "Источник подтверждает центрального божественного адресата, храмовое почитание, паломничества и подношения. Признание Муругана высшим не приравнено автоматически к исключительному one_god. Не alias всего шиваизма или совокупности всех тамильских религий; отдельные телесные обеты не назначены каждому последователю."
+    },
+    {
+      "sourceIndex": 1352,
+      "sourceName": "Lingayatism",
+      "decision": "keep",
+      "canonicalName": "Лингаятская традиция",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Шиваитский религиозный контекст",
+      "description": "Индийская религиозная традиция, связанная с Басавой, вачанами и личным почитанием Шивы через ишталингу.",
+      "profile": "+divine +personal +bhakti +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lingayatism"
+      ],
+      "notes": "Источник обсуждает разные понимания отношений лингайятов, вирашайвов и индуизма. Не назначена автоматически синонимия Veerashaivism, статус отдельной религии или единый ответ о перерождении. Выбрано широкое семейство индийских традиций, которое не решает этот спор. Ишталинга не трактуется как основание для общего отрицания священных изображений."
+    },
+    {
+      "sourceIndex": 1353,
+      "sourceName": "Lokhimon",
+      "decision": "keep",
+      "canonicalName": "Локхимон",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Новое религиозное движение карби Ассама, основанное Локхоном Энгти Хенсеком и соединяющее местный контекст с вайшнавской преданностью.",
+      "profile": "+divine +personal +bhakti +ritual -icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lokhimon",
+        "https://mythopolitics.mf.no/research/",
+        "https://www.iias.asia/sites/iias/files/nwl_article/2022-10/IIAS_NL93_2223.pdf",
+        "https://krepublishers.com/02-Journals/T-Anth/Anth-40-0-000-20-Web/Anth-40-1-3-000-20-Abst-PDF/T-Anth-40-1-3-016-20-2054-B-S/T-Anth-40-1-3-016-20-2054-B-S-Tx.pdf"
+      ],
+      "notes": "Полевые исследования подтверждают самостоятельное движение, почитание основателя, гимны и молитвы, отказ от храмовых изображений и кровавых жертв. Не alias всей традиционной религии карби или всего вайшнавизма. Политические оценки исследователей не превращены в индивидуальные убеждения каждого последователя."
+    },
+    {
+      "sourceIndex": 1354,
+      "sourceName": "Madhva tradition",
+      "decision": "keep",
+      "canonicalName": "Мадхва-сампрадая — Сад-вайшнавизм",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Двайта-веданта",
+      "description": "Вайшнавская религиозная традиция Мадхвы с линиями учителей, монастырями и философией двайта-веданты.",
+      "profile": "+divine +personal +bhakti +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Madhva_tradition",
+        "https://ebooks.inflibnet.ac.in/icp03/chapter/dvaita/",
+        "https://iep.utm.edu/madhva/"
+      ],
+      "notes": "Исходный URL ведёт на Sadh Vaishnavism. Университетское изложение различает философскую систему Dvaita и основанную Мадхвой религиозную традицию Sad-Vaishnavism; поэтому здесь сохранена сампрадая с её исторической организацией, а не дополнительная запись о философском тезисе. Не alias существующей «Двайта-веданты» по одному общему основателю."
+    },
+    {
+      "sourceIndex": 1355,
+      "sourceName": "Mahanubhava",
+      "decision": "keep",
+      "canonicalName": "Маханубхава",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Индийская религиозная традиция Чакрадхары, выделяющая преданность Парамешваре и память о пяти его воплощениях.",
+      "profile": "+divine +bhakti +scripture +liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mahanubhava"
+      ],
+      "notes": "Источник подтверждает собственную метафизику, смарану и письменное наследие. Парамешвара различается с множеством devata, поэтому не упрощены one_god и many_gods; описание абсолюта не даёт общего +personal. Не alias общего кришнаизма, несмотря на особое почитание Кришны."
+    },
+    {
+      "sourceIndex": 1356,
+      "sourceName": "Manavala Mamunigal Sabha",
+      "decision": "review",
+      "canonicalName": "Manavala Mamunigal Sabha — требуется идентификация",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Шри-вайшнавизм",
+      "description": "Название предполагаемой организации почитателей шри-вайшнавского учителя Манавалы Мамунигала.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Manavala_Mamunigal",
+        "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00039_196143_1524045010860&filename=ITA_Notification_Section_80G_Notification_No_8944_1991_Dated_19_11_1991.pdf&type=notification",
+        "https://www.mumbairamanujasabha.org/"
+      ],
+      "notes": "Review: исходная ссылка посвящена биографии учителя и не определяет данную Sabha как отдельное сообщество. Официальное уведомление подтверждает существование Manavala Mamunigal Kainkarya Sabha, но не полное тождество исходному сокращённому названию и не отдельное вероучение. Не alias биографии учителя, всего тенкалай или любого общества Рамануджи. Профиль пуст до идентификации организации."
+    },
+    {
+      "sourceIndex": 1357,
+      "sourceName": "Manipuri Vaishnavism",
+      "decision": "keep",
+      "canonicalName": "Манипурский вайшнавизм",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Вайшнавизм",
+      "description": "Региональная вайшнавская традиция Манипура, особенно связанная с преданностью Радхе и Кришне и местной религиозной культурой мейтей.",
+      "profile": "+divine +personal +bhakti +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Manipuri_Vaishnavism"
+      ],
+      "notes": "Источник описывает отдельную историю распространения вайшнавизма, храмовую культуру и раслилу. Не alias всей гаудия-вайшнавской традиции, ИСККОН или санамахизма: местные традиции взаимодействуют, но не тождественны. Не всем современным жителям Манипура приписана одна вера."
+    },
+    {
+      "sourceIndex": 1358,
+      "sourceName": "Matuaism",
+      "decision": "keep",
+      "canonicalName": "Матуа",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Бенгальское религиозное движение Харичанда Тхакура, подчёркивающее преданность Богу, общинное пение и социальное равенство.",
+      "profile": "+divine +personal +one_god +bhakti +meditation +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Matua_Mahasangha",
+        "https://en.banglapedia.org/index.php/Matua"
+      ],
+      "notes": "Исходная ссылка на Matua Mahasangha подтверждает Matuaism как учение движения; Banglapedia отдельно описывает монотеизм, киртан и Шри Шри Харилиламриту. Не alias всех намашудр или только одного современного политического крыла организации. Критика ведических обрядов не означает отрицания любых текстов или всей религиозной практики."
+    },
+    {
+      "sourceIndex": 1359,
+      "sourceName": "Nath",
+      "decision": "keep",
+      "canonicalName": "Натха-сампрадая",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Шиваитско-йогический контекст",
+      "description": "Индийские йогические традиции натхов, связанные с Матсьендранатхом, Горакхнатхом и шиваитским наследием.",
+      "profile": "+divine +meditation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nath"
+      ],
+      "notes": "Исходная ссылка перенаправляет на Natha Sampradaya и охватывает монашествующих и мирянские группы. Не alias всех практик хатха-йоги, всей Йоги как духовного пути или одной организации. Влияние буддийских и иных тантрических сред не доказывает одинакового богословия всех линий."
+    },
+    {
+      "sourceIndex": 1360,
+      "sourceName": "Naurus",
+      "decision": "review",
+      "canonicalName": "Наурус — требуется уточнение",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Название, приписываемое местной синкретической религии части жителей Серама, в исходнике связанное с манусела.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Manusela_people",
+        "https://en.wikipedia.org/wiki/Nuaulu_people",
+        "https://kar.kent.ac.uk/51579/1/Ellen-Wacana-2015.pdf"
+      ],
+      "notes": "Review: исходник — этническая статья с кратким утверждением о смеси индуизма, анимизма и протестантских элементов. Статья о нуаулу тоже употребляет Naurus, но этнография Роя Эллена предупреждает о государственных и внешних классификациях и не даёт основания считать манусела и нуаулу одной религиозной общиной. Требуется установить местное самоназвание и охват. Hinduism в рубрике не доказывает принятия Вед, кармы или индуистского пантеона."
+    },
+    {
+      "sourceIndex": 1361,
+      "sourceName": "Newar Hinduism",
+      "decision": "keep",
+      "canonicalName": "Неварский индуизм",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Региональные индуистские традиции неваров долины Катманду, включающие местную храмовую и празднично-ритуальную культуру.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Newar_Hinduism"
+      ],
+      "notes": "Исходник описывает религиозные танцы, праздники и тантрический контекст. Обобщение о всей традиции как единой вамачаре не принято без отдельной проверки. Не alias неварского буддизма или индуизма вообще; общее культурное пространство и совместные праздники не доказывают полного тождества. Профиль не приписан всем неварам без исключения."
+    },
+    {
+      "sourceIndex": 1362,
+      "sourceName": "Nimbarka Sampradaya",
+      "decision": "keep",
+      "canonicalName": "Нимбарка-сампрадая",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Вайшнавизм",
+      "description": "Вайшнавская линия Нимбарки, связывающая учение о естественном различии-и-неразличии с преданностью Радхе и Кришне.",
+      "profile": "+divine +personal +bhakti +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nimbarka_Sampradaya"
+      ],
+      "notes": "Сампрадая следует Svabhavika Bhedabheda/Dvaitadvaita; это историческая линия учителей и почитания, а не только философский тезис. Не alias всего кришнаизма или гаудия-вайшнавизма. Легендарная дата явления основателя не принята за установленную историческую хронологию."
+    },
+    {
+      "sourceIndex": 1363,
+      "sourceName": "Nuaulu religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия нуаулу",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренная религиозная традиция народа нуаулу острова Серам, связанная с предками, местными духовными силами и воспроизводством общинных обрядов.",
+      "profile": "+nature_spirits +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nuaulu_people",
+        "https://kar.kent.ac.uk/51579/1/Ellen-Wacana-2015.pdf",
+        "https://www.kent.ac.uk/anthropology/5619/ellen-roy"
+      ],
+      "notes": "Исходная ссылка ведёт на статью о народе; длительные полевые исследования Роя Эллена непосредственно подтверждают отдельную религиозную идентичность и ритуальные практики. Административная регистрация под другими религиозными названиями не доказывает принятия их доктрин. Не alias Наурус манусела лишь по названию в краткой таблице Wikipedia."
+    },
+    {
+      "sourceIndex": 1364,
+      "sourceName": "Pashupata Shaivism",
+      "decision": "keep",
+      "canonicalName": "Пашупата-шиваизм",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Шиваизм",
+      "description": "Историческое шиваитское направление, связывающее освобождение души с Пашупати и особой аскетической дисциплиной.",
+      "profile": "+divine +personal +ritual +scripture +liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pashupata_Shaivism"
+      ],
+      "notes": "Источник подтверждает Пашупата-сутры и специфические практики аскетического поклонения. Не alias всего шиваизма или любого современного храма Пашупатинатха. Споры о Лакулише и Накулише и о ранней хронологии не решены как общий факт; сохранившиеся подразделения не сведены в одну административную организацию."
+    },
+    {
+      "sourceIndex": 1365,
+      "sourceName": "Pranami",
+      "decision": "keep",
+      "canonicalName": "Пранами",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Индийская религиозная традиция Девчандры и Праннатха, подчёркивающая преданность высшему божественному и объединяющее духовное знание Тартам.",
+      "profile": "+divine +personal +bhakti +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pranami",
+        "https://pranami.org/introduction/pranami-dharma",
+        "https://pranami.org/introduction/pranami-system",
+        "https://krishnapranami.org/tartamsagar/fullgranth"
+      ],
+      "notes": "Собственные источники подтверждают Тартам Сагар, Витак и почитание Радж–Шьямы. Nijanand и Krishna Pranami — варианты названия этой традиции, но отдельной сохранённой записи с ними не найдено. Не alias всей традиции сантов, кришнаизма, Кабир-пантха или ислама; использование разных религиозных языков не означает тождества всех доктрин."
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "range": [
+    506,
+    525
+  ],
+  "entries": [
+    {
+      "sourceIndex": 506,
+      "sourceName": "Ryukyuan religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия Рюкю",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные религиозные системы островов Рюкю, связывающие живых с предками, божествами и духами природного мира.",
+      "profile": "+divine +ancestors +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ryukyuan_religion"
+      ],
+      "notes": "Источник прямо описывает почитание предков, домашних и общинных священных мест, роль жриц и духов природы. Названия Ryūkyū Shintō, Nirai Kanai Shinkō и Utaki Shinkō приведены в исходнике как обозначения традиции; отдельной точной повторной записи в готовых партиях нет. Не синоним всего японского синто; островные различия сохраняются."
+    },
+    {
+      "sourceIndex": 507,
+      "sourceName": "Shugendō",
+      "decision": "keep",
+      "canonicalName": "Сюгэндо",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Японская традиция горной религиозной практики, сочетающая эзотерический буддизм с местными культами и аскетическими обрядами.",
+      "profile": "+buddha +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shugend%C5%8D"
+      ],
+      "notes": "Профиль опирается на описанные буддийские посвящения, обряды с сутрами и получение эзотерического знания. Состав практик зависит от школы. Аскетические походы не подменены вопросом meditation; не назначены автоматически karma или reincarnation. Сюгэндо не является точным синонимом Сингон, Тэндай или синто."
+    },
+    {
+      "sourceIndex": 508,
+      "sourceName": "State Shinto",
+      "decision": "keep",
+      "canonicalName": "Государственное синто",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Синто",
+      "description": "Историческая система государственных обрядов, святилищ и императорской идеологии Японии эпохи Мэйдзи и первой половины XX века.",
+      "profile": "+kami +ritual",
+      "proposedQuestions": [
+        {
+          "id": "sacral_rulership",
+          "text": "Является ли религиозное почитание правителя или его священной династии важной частью вашей традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отражает культ императора в государственном синто и суйка-синто; позволяет сопоставлять их с историческими царскими культами. Отличается от общего патриотизма, уважения законной власти и почитания семейных предков; другим записям отрицательный ответ без проверки не назначается."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/State_Shinto"
+      ],
+      "notes": "Сохраняется как историческая религиозно-политическая система, а не единая добровольная конфессия. Источник отмечает спор о границах термина и официальное представление обрядов как гражданской обязанности. Обязательное участие не доказывает личную веру каждого участника. Не синоним всего синто или его современных организаций; nonreligious и единый догматический профиль не назначены."
+    },
+    {
+      "sourceIndex": 509,
+      "sourceName": "Suika",
+      "decision": "keep",
+      "canonicalName": "Суйка-синто",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Синто",
+      "description": "Школа Ямадзаки Ансая, соединявшая синтоистское учение о ками с неоконфуцианской этикой и идеей единства человека и божественного.",
+      "profile": "+divine +kami +scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yamazaki_Ansai",
+        "https://d-museum.kokugakuin.ac.jp/bts/detail/?id=3982",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9909"
+      ],
+      "notes": "Исходная ссылка ведёт на биографию Ансая; специальный словарь Kokugakuin подтверждает самостоятельную школу Suika Shinto, центральность Нихон сёки и молитвенно-этическую практику. Это школа внутри синто, а не синоним всего неоконфуцианства или синто. Космическое единство не превращено автоматически в pantheism."
+    },
+    {
+      "sourceIndex": 510,
+      "sourceName": "Taikyō",
+      "decision": "keep",
+      "canonicalName": "Синто Тайкё",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Синто",
+      "description": "Организация конфессионального синто, ранее носившая название Синто Хонкёку и объединявшая различные синтоистские группы.",
+      "profile": "+kami",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shint%C5%8D_Taiky%C5%8D",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9776"
+      ],
+      "notes": "Kokugakuin подтверждает институциональную историю и отдельность организации. Исходник указывает на почитание ранних ками повествования Кодзики. Учреждение предшественника и признание отдельной организации в 1886 году не смешиваются. Taikyō здесь обозначает конкретную организацию, не всю кампанию Великого учения и не Taiseikyō. Историческая подчинённость Тэнрикё не доказывает тождества."
+    },
+    {
+      "sourceIndex": 511,
+      "sourceName": "Taiseikyō",
+      "decision": "keep",
+      "canonicalName": "Синто Тайсэйкё",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Синто",
+      "description": "Организация конфессионального синто, созданная Хираямой Сэйсаем на основе объединения различных религиозных групп.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shint%C5%8D_Taiseiky%C5%8D",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9775"
+      ],
+      "notes": "Kokugakuin подтверждает объединение 1879 года и независимый статус с 1882 года. Это эклектическая коалиция групп мисоги, горного культа Онтакэ и других направлений; их частные практики не перенесены на всех участников. Пустой профиль означает недостаток проверенного общего доктринального ядра, а не сомнение в существовании организации. Не синоним Синто Тайкё или школы Мононобэ, связанной с одноимённым по написанию текстом."
+    },
+    {
+      "sourceIndex": 512,
+      "sourceName": "Dumo spirituality",
+      "decision": "review",
+      "canonicalName": "Традиционная духовность думо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Предварительная запись местных верований думо побережья Ванимо, описываемых через отношения с умершими и духовное значение снов.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dumo_people",
+        "https://www.friedariver.com/wp-content/uploads/2022/11/Appendix-13-Social-Impact-Assessment.pdf"
+      ],
+      "notes": "Review: этническая статья ссылается только на неполную запись Dorothy Tekwie, The Dumo Culture (2016), без проверяемой ссылки. Дополнительный отчёт Social Impact Assessment, раздел 2.1.2.7, прямо сообщает, что воспроизводит описание из Википедии, поэтому не служит независимым подтверждением. Утверждения о предках и снах пока не превращены в признаки. Нужен доступный первичный или независимый этнографический источник."
+    },
+    {
+      "sourceIndex": 513,
+      "sourceName": "Fijian ancient religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные религии Фиджи",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные культы коренных фиджийских общин с почитанием богов, обожествлённых предков и священных мест.",
+      "profile": "+divine +many_gods +ancestors +nature_spirits +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Religion_in_Fiji"
+      ],
+      "notes": "Исходник — обзор религий Фиджи; использован исторический раздел о kalou, храмах bure kalou, жрецах bete, подношениях и посмертном пути в Bulu. Ранние колониальные оценки религии не приняты как нейтральные факты. Предания о происхождении фиджийцев из Египта и единообразие культов всех островов не утверждаются. Профиль не относится к нынешним христианским или индуистским общинам Фиджи."
+    },
+    {
+      "sourceIndex": 514,
+      "sourceName": "Fore traditional beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования форе",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местная религиозная традиция форе Новой Гвинеи с представлениями о нескольких составляющих души, земле и мире умерших.",
+      "profile": "+nature_spirits +afterlife +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fore_people"
+      ],
+      "notes": "Статья о народе содержит конкретный раздел Religion о bagina, amani, пяти душах, погребальных действиях и лесном духе Nokoti. Исторические погребальные практики не объявлены современной обязанностью и не сведены к сенсационному описанию каннибализма. Миф о происхождении от amani сам по себе не использован как доказательство общего культа предков."
+    },
+    {
+      "sourceIndex": 515,
+      "sourceName": "Gamilaraay dreaming",
+      "decision": "keep",
+      "canonicalName": "Дриминг гамиларой",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Австралийские традиции Первых народов",
+      "description": "Духовные предания и обряды гамиларой, связанные с Баяме, происхождением местности, переданными законами и посвящением.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gamilaraay"
+      ],
+      "notes": "В этнической статье проверены разделы Dreaming и Rite of initiation. Исторические свидетельства об ограничениях доступа к знаниям не превращены в неизменное правило всех нынешних общин. Это локальная традиция, поэтому не alias более широкой существующей записи «Австралийские традиции Первых народов». Мифологическое отцовство Баяме не приравнено автоматически к почитанию всех умерших предков."
+    },
+    {
+      "sourceIndex": 516,
+      "sourceName": "Kaluli religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования калули",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Верования калули Новой Гвинеи о невидимом мире, духах леса и животных и посмертном существовании.",
+      "profile": "+nature_spirits +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kaluli_people"
+      ],
+      "notes": "Исходник — статья о народе, но раздел Religion прямо описывает невидимый мир и духов умерших, а также духов, никогда не имевших человеческого тела. Представление о невидимом двойнике не обозначено как буддийское no_self или всеобщая доктрина перерождения. Точные ритуальные правила и единый пантеон по краткому описанию не установлены."
+    },
+    {
+      "sourceIndex": 517,
+      "sourceName": "Kanak traditional beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования канаков",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные местные верования канакских общин Новой Каледонии, связанные с предками, кланом и обрядовой жизнью.",
+      "profile": "+ancestors +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kanak_people"
+      ],
+      "notes": "Исходник — статья об этническом объединении. Признаки подтверждены описаниями образов предков на flèche faîtière, защитной символики, праздников предков pilou и обрядовых функций пения и танца. Не предполагается единый пантеон или одна церковь всех канаков; современное христианство не считается синонимом традиционного комплекса."
+    },
+    {
+      "sourceIndex": 518,
+      "sourceName": "Korowai religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования короваев",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местная религиозная система короваев Западного Папуа, включающая духов предков, иных духов и представления о посмертном мире.",
+      "profile": "+ancestors +afterlife +reincarnation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Korowai_people",
+        "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/korowai"
+      ],
+      "notes": "Текущая исходная этническая статья не даёт достаточного религиоведческого описания. Дополнительная статья Encyclopedia of World Cultures Supplement (Gerrit J. van Enk) на Encyclopedia.com содержит раздел Religion and Expressive Culture о духах предков, космологии и загробном мире. Не использованы стереотипные телепередачи, тотальность каннибализма или вера в ведьм как доказательство occult. Данные этнографического описания исторически ограничены. Раздел Death and Afterlife прямо подтверждает возможность возвращения умершего в новорождённого, поэтому добавлен reincarnation."
+    },
+    {
+      "sourceIndex": 519,
+      "sourceName": "Tasmanian Aboriginal spirituality",
+      "decision": "keep",
+      "canonicalName": "Духовные традиции коренных народов Тасмании",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Австралийские традиции Первых народов",
+      "description": "Местные тасманийские духовные традиции, известные по историческим свидетельствам о духах местности и посмертном существовании.",
+      "profile": "+nature_spirits +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aboriginal_Tasmanians"
+      ],
+      "notes": "В исходнике прямо отмечена скудость записей и культурная предвзятость колониальных наблюдателей. Использованы конкретные сведения о духах долин, пещер и деревьев и пути умерших; предполагаемый дуализм добра и зла не принят. Это местная совокупность традиций, а не alias всей записи «Австралийские традиции Первых народов»; не объявлена полностью исчезнувшей."
+    },
+    {
+      "sourceIndex": 520,
+      "sourceName": "Trobriand traditional beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования Тробриандских островов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные религиозно-магические практики тробрианцев, включающие заклинания и представления о влиянии духов умерших на рождение.",
+      "profile": "+occult +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Trobriand_people"
+      ],
+      "notes": "Раздел Magic этнической статьи прямо описывает передачу и использование заклинаний и участие предкового духа в зачатии. Из этого не выводятся универсальный культ предков, единый пантеон или систематическая доктрина перерождения каждого человека. Местные представления о зачатии не подаются как медицинский факт; письменная запись заклинаний не означает единого священного писания."
+    },
+    {
+      "sourceIndex": 521,
+      "sourceName": "Urapmin traditional beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования урапмин",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Дохристианские религиозные представления урапмин Новой Гвинеи об Афек, духах-владельцах природных ресурсов и правилах авем.",
+      "profile": "+nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Urapmin_people"
+      ],
+      "notes": "Статья о народе подробно различает прежнюю систему табу и её изменения после массового перехода к христианству в 1970-х. Молитвы и подношения motobil подтверждены. Современные пятидесятнические практики, называемые spirit disko, не перенесены в профиль традиционной религии; Афек не признана единственным божеством только по её роли в предании."
+    },
+    {
+      "sourceIndex": 522,
+      "sourceName": "Aeta religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные религии аэта",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные местные верования аэта Лусона с представлениями о творце, духах окружающего мира и обрядах охоты и исцеления.",
+      "profile": "+divine +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aeta_people",
+        "https://nlpdl.nlp.gov.ph/CC01/monographs/1994/NLP00VM052mcd/v1/v1.pdf"
+      ],
+      "notes": "Исходник различает местные группы и спорные определения монотеизма и политеизма. Поэтому one_god и many_gods не назначены всему объединению; обозначения Anito и близость имён Aeta и Ati не доказывают тождества всех традиций. Сведения об экологических духах также подтверждает этнографическое издание в Национальной библиотеке Филиппин. Нынешнее христианство части аэта не заменяет традиционные верования."
+    },
+    {
+      "sourceIndex": 523,
+      "sourceName": "Ati animism",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования ати",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования ати Паная и Негроса о духах природных мест и отношениях с ними посредством подношений.",
+      "profile": "+nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ati_people",
+        "https://ncca.gov.ph/about-ncca-3/subcommissions/subcommission-on-cultural-communities-and-traditional-arts-sccta/central-cultural-communities/the-ati-of-negros-and-panay/"
+      ],
+      "notes": "Исходная статья прямо описывает духов рек, моря, неба и гор. NCCA дополнительно описывает местные подношения духам леса и обряда daga/diwata; прямое открытие страницы дало 502, содержание доступно в поисковой выдаче. Подношения и праздники варьируют между группами и местами. Не alias Aeta religion: близость этнонимов и общего раздела списка не равна тождеству."
+    },
+    {
+      "sourceIndex": 524,
+      "sourceName": "Onge native religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования онге",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местная духовная традиция онге Малого Андамана, связывающая людей с духами, морем, небом и предками.",
+      "profile": "+nature_spirits +ancestors",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Onge_people",
+        "https://ignca.gov.in/eBooks/prakriti_series_04.pdf"
+      ],
+      "notes": "Исходный религиозный раздел говорит об андаманцах в целом и недостаточно различает группы. Дополнительное издание IGNCA, The Nature of Matter, раздел Forms of Life in the World of Matter, прим. 11, описывает именно онге: связь с миром духов через запах и ношение предковой кости. Общую андаманскую космогонию и имена божеств иных народов не переносим на онге."
+    },
+    {
+      "sourceIndex": 525,
+      "sourceName": "Semang animism",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования семангов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные местные верования семангских групп Малайского полуострова о духах природы, табу и посредничестве ритуальных специалистов.",
+      "profile": "+divine +nature_spirits +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Semang"
+      ],
+      "notes": "Раздел Beliefs исходной статьи описывает одушевлённость природных объектов, громовое божество, специалистов hala, лечебные заклинания и трансовое общение с духами. Обобщение не стирает различий групп и их современных религиозных принадлежностей. Не alias всех Orang Asli или верований якунов, описанных в другой партии. Предания о превращениях специалистов переданы как верования, а не факты."
+    }
+  ]
+}

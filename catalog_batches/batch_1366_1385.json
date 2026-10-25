@@ -1,0 +1,336 @@
+{
+  "range": [
+    1366,
+    1385
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1366,
+      "sourceName": "Pratyabhijna",
+      "decision": "keep",
+      "canonicalName": "Пратьябхиджня",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Кашмирский шиваизм",
+      "description": "Философская школа кашмирского шиваизма, связывающая освобождающее узнавание себя с универсальным сознанием Шивы.",
+      "profile": "+divine +pantheism",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pratyabhijna",
+        "https://academic.oup.com/edited-volume/27982/chapter-abstract/211671490",
+        "https://www.jstage.jst.go.jp/article/ibk/65/1/65_276/_article/-char/en"
+      ],
+      "notes": "Исходная ссылка перенаправляет на Трика, но исследование Изабель Ратье отдельно выделяет систему узнавания Утпаладевы и Абхинавагупты. Сохраняется философская школа, а не синоним всех кашмирских шиваитских традиций. Pantheism соответствует широкому вопросу о единстве мира и божественного; подробные практики всей Трика школе автоматически не приписаны."
+    },
+    {
+      "sourceIndex": 1367,
+      "sourceName": "Pushtimarg",
+      "decision": "keep",
+      "canonicalName": "Пуштимарг",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Кришнаизм",
+      "description": "Кришнаитская традиция Валлабхачарьи, подчёркивающая божественную благодать и любовное служение Кришне.",
+      "profile": "+divine +personal +bhakti +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pushtimarg"
+      ],
+      "notes": "Сампрадая с линиями преемственности и практикой сева; связана с философией шуддха-адвайты, но организационно-религиозная традиция и философская система не объявлены синонимами. Упование на милость Кришны не означает полного отрицания духовной деятельности."
+    },
+    {
+      "sourceIndex": 1368,
+      "sourceName": "Radha Vallabh Sampradaya",
+      "decision": "keep",
+      "canonicalName": "Радха-валлабха-сампрадая",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Вайшнавизм",
+      "description": "Вайшнавская традиция Хита Хариванша во Вриндаване, ставящая Радху в центр преданного служения Радхе и Кришне.",
+      "profile": "+divine +personal +bhakti +scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Radha_Vallabh_Sampradaya"
+      ],
+      "notes": "Источник подтверждает поэтические священные тексты, храмовое служение и совместное пение. Не alias Нимбарка-сампрадаи или всего кришнаизма: традиция имеет собственную линию и богословие. Высшая ценность любовного служения не сведена к обычному вопросу об освобождении от перерождений."
+    },
+    {
+      "sourceIndex": 1369,
+      "sourceName": "Ramanandi Sampradaya",
+      "decision": "keep",
+      "canonicalName": "Рамананди-сампрадая",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Вайшнавизм",
+      "description": "Вайшнавская традиция, связываемая с Раманандой и преданностью Раме и Сите; включает разные аскетические линии.",
+      "profile": "+divine +personal +bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ramanandi_Sampradaya"
+      ],
+      "notes": "В источнике Рама и Сита почитаются как нераздельная божественная пара. Традиционное происхождение линии и её связь с Рамануджей не приняты за доказательство тождества шри-вайшнавизму. Медитативные и аскетические требования отдельных ветвей не перенесены на всех последователей."
+    },
+    {
+      "sourceIndex": 1370,
+      "sourceName": "Ramsnehi Sampradaya",
+      "decision": "keep",
+      "canonicalName": "Рамснехи-сампрадая",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Традиция бхакти",
+      "description": "Традиция Рамчарана с центром в Шахпуре, практикующая любовное памятование и повторение божественного имени Рам.",
+      "profile": "+divine +bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ramdwara",
+        "https://ramsnehinursing.org/shri-ramsnehi-sampradaya.asp"
+      ],
+      "notes": "Исходная статья посвящена также местам поклонения рамдвара. Сайт учреждения Ram Niwas Dham Trust непосредственно подтверждает основателя, сампрадаю и повторение имени Рам. Формула о вездесущии Рам не использована для автоматического отрицания личного божества или утверждения строгого монотеизма."
+    },
+    {
+      "sourceIndex": 1371,
+      "sourceName": "Ravidassia religion",
+      "decision": "alias",
+      "canonicalName": "Равидассия",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Название религиозной традиции последователей Равидаса, уже представленной в каталоге как «Равидассия».",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ravidassia_religion",
+        "https://en.wikipedia.org/wiki/Ravidassia"
+      ],
+      "notes": "Подтверждённый синоним Ravidassia, индекс 683 в batch_0666_0685.json. Исходный адрес Ravidassia_religion при проверке не загрузился; действующая статья Ravidassia подтверждает религиозную идентичность и её разные формы. Профиль оставлен у сохранённой записи."
+    },
+    {
+      "sourceIndex": 1372,
+      "sourceName": "Rudra Sampradaya",
+      "decision": "keep",
+      "canonicalName": "Рудра-сампрадая",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Вайшнавизм",
+      "description": "Вайшнавская линия, связываемая с Вишнусвами и традиционно возводимая к Рудре; её известное продолжение — линия Валлабхи.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rudra_Sampradaya"
+      ],
+      "notes": "Название Рудра не делает эту сампрадаю шиваизмом: источник относит её к вайшнавизму. Датировка и ранняя история Вишнусвами спорны. Рудра-сампрадая охватывает Вишнусвами и Валлабху и потому не слита с одной современной линией Пуштимарг; детальная практика последней не приписана всем историческим носителям."
+    },
+    {
+      "sourceIndex": 1373,
+      "sourceName": "Sadh",
+      "decision": "review",
+      "canonicalName": "Садх (община северной Индии)",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Североиндийская община, называющая себя также сатнами и связываемая с ранней сатнамской религиозной традицией.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sadh"
+      ],
+      "notes": "Review: исходник описывает преимущественно эндогамную общину и текстильные занятия; история перехода от ранней секты Бирбхана к нынешним садх изложена предположительно. Нужна проверка самостоятельного религиозного объёма записи. Не отождествлять автоматически с любыми садху, Равидассией или всеми движениями Сатнампантх. Единый догматический профиль для членов общины не установлен."
+    },
+    {
+      "sourceIndex": 1374,
+      "sourceName": "Sant Mat",
+      "decision": "keep",
+      "canonicalName": "Сант Мат",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Традиция бхакти",
+      "description": "Историческая совокупность учений североиндийских сантов, подчёркивавших внутреннюю преданность божественному.",
+      "profile": "+divine +bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sant_Mat"
+      ],
+      "notes": "Исходник различает средневековую традицию сантов и современные движения Sant Mat, в том числе Радха-соами. Сохраняется исторический круг учений, не единая организация и не alias каждой поздней школы внутреннего света и звука. Общая обязательная священная книга и единый набор медитаций для всех сантов не установлены."
+    },
+    {
+      "sourceIndex": 1375,
+      "sourceName": "Satya Mahima Dharma",
+      "decision": "alias",
+      "canonicalName": "Махима-дхарма",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Расширенное название движения Махима Свами в Одише, уже представленного как «Махима-дхарма».",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Satya_Mahima_Dharma",
+        "https://sahitya-akademi.gov.in/pdf/Bhima-Bhoi.pdf"
+      ],
+      "notes": "Подтверждённый синоним Mahima Dharma, индекс 1090 в batch_1086_1105.json. Монография Ситаканта Махапатры, изданная Sahitya Akademi, использует Mahima Dharma и Satya Mahima Dharma для одной традиции Махима Свами и Бхимы Бхои. Исходная статья предупреждает о нехватке построчных ссылок; объединение синонима не снимает review с сохранённой записи. Профиль здесь пустой."
+    },
+    {
+      "sourceIndex": 1376,
+      "sourceName": "Shaiva Siddhanta",
+      "decision": "keep",
+      "canonicalName": "Шайва-сиддханта",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Шиваизм",
+      "description": "Шиваитская традиция с учением о Господе, душах и связывающих их узах, агамическими обрядами и путём освобождения милостью Шивы.",
+      "profile": "+divine +personal +bhakti +scripture +vedas +ritual +meditation +liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shaiva_Siddhanta"
+      ],
+      "notes": "Источник подтверждает Веды, шиваитские агамы и тамильский канон, а также последовательность служения, пуджи, йоги и знания. Различия исторических и современных интерпретаций не сведены к безусловному общему отрицанию недвойственности; профиль pantheism не назначен."
+    },
+    {
+      "sourceIndex": 1377,
+      "sourceName": "Shaivism",
+      "decision": "alias",
+      "canonicalName": "Шиваизм",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Индуистские традиции почитания Шивы, уже представленные в religions.js.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shaivism"
+      ],
+      "notes": "Точный английский эквивалент сохранённой записи «Шиваизм» в religions.js; исходная статья подтверждает объём направления. Профиль не дублируется."
+    },
+    {
+      "sourceIndex": 1378,
+      "sourceName": "Shaktism",
+      "decision": "alias",
+      "canonicalName": "Шактизм",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Индуистские традиции почитания богини Шакти, уже представленные в religions.js.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shaktism"
+      ],
+      "notes": "Точный английский эквивалент сохранённой записи «Шактизм» в religions.js. Не создаётся новая запись из-за перевода названия. Профиль не дублируется."
+    },
+    {
+      "sourceIndex": 1379,
+      "sourceName": "Shiva Advaita",
+      "decision": "keep",
+      "canonicalName": "Шива-адвайта",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Шиваизм",
+      "description": "Шиваитская ведантическая система Шрикантхи и её развитие у Аппайи Дикшиты, рассматривающая Шиву как высший Брахман.",
+      "profile": "+divine +personal +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shiva_Advaita"
+      ],
+      "notes": "Источник отличает квалифицированный недуализм Шрикантхи от позднейшей переработки Аппайи. Сохраняется конкретная школа комментариев к Брахма-сутрам, не alias всей Адвайта-веданты или вишишта-адвайты Рамануджи. Спорная датировка Шрикантхи не фиксируется как достоверный год."
+    },
+    {
+      "sourceIndex": 1380,
+      "sourceName": "Shuddhadvaita",
+      "decision": "keep",
+      "canonicalName": "Шуддха-адвайта",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Веданта",
+      "description": "Ведантическая философия Валлабхачарьи о чистой недвойственности, реальности мира как проявления Брахмана и преданности Кришне.",
+      "profile": "+divine +personal +bhakti +pantheism",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shuddhadvaita"
+      ],
+      "notes": "Философская система, на которую опирается Пуштимарг, сохранена отдельно от сампрадаи с её организацией и практикой. Pantheism отражает единство божественной причины и реального мира в широком смысле вопроса. Преданность ценится сама по себе, поэтому обычный вопрос о первенстве освобождения не размечен."
+    },
+    {
+      "sourceIndex": 1381,
+      "sourceName": "Smartism",
+      "decision": "alias",
+      "canonicalName": "Смартизм",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Индуистская смарта-традиция, уже представленная в religions.js как «Смартизм».",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Smartism"
+      ],
+      "notes": "Smartism перенаправляет на Smarta tradition; это то же направление, что сохранённая запись «Смартизм» в religions.js. Профиль не дублируется."
+    },
+    {
+      "sourceIndex": 1382,
+      "sourceName": "Sri Vaishnavism",
+      "decision": "keep",
+      "canonicalName": "Шри-вайшнавизм",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Вайшнавизм",
+      "description": "Вайшнавская традиция Нараяны-Вишну и Шри-Лакшми, сочетающая санскритские писания, тамильское наследие альваров и богословие Рамануджи.",
+      "profile": "+divine +personal +bhakti +scripture +vedas +ritual +liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sri_Vaishnavism"
+      ],
+      "notes": "Источник подтверждает Веды и Дивья-прабандхам, богослужение и освобождение от перерождений через преданность и благодать. Не alias философской записи «Вишишта-адвайта»: шри-вайшнавизм включает линии учителей, обряды и разные направления толкования, включая тенкалай и вадакалай."
+    },
+    {
+      "sourceIndex": 1383,
+      "sourceName": "Srikula",
+      "decision": "review",
+      "canonicalName": "Шрикула",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Шактизм",
+      "description": "Шактистское направление почитания Лалиты-Трипурасундари, к которому относится школа шривидьи.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shri_Vidya",
+        "https://en.wikipedia.org/wiki/Shaktism#Srikula:_family_of_Lalita_Tripura_Sundari",
+        "https://philtar.ac.uk/encyclopedia/hindu/devot/shrivi.html"
+      ],
+      "notes": "Review: исходное название Srikula шире статьи Shri Vidya, на которую ведёт ссылка. Раздел Shaktism прямо называет шривидью наиболее известной школой шрикулы. Поэтому не устанавливается их полное тождество и на всю шрикулу не переносятся частные доктрины и требования посвящения одной школы. Уточнить желаемый объём исходной записи."
+    },
+    {
+      "sourceIndex": 1384,
+      "sourceName": "Tantra",
+      "decision": "keep",
+      "canonicalName": "Тантрические традиции",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность индийских религиозных традиций и методов с особой ролью обряда, мантр и посвящения, представленная в индуизме, буддизме и джайнизме.",
+      "profile": "+ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tantra"
+      ],
+      "notes": "Сохранена широкая историко-религиозная категория, а не единая конфессия с общей догматикой. Не alias ваджраяны, шактизма или любой одной тантрической школы. Occult означает подтверждённые эзотерические учения и практики посвящения; общие признаки личного Бога, Вед, сексуальных обрядов и обязательной трансгрессии не назначены."
+    },
+    {
+      "sourceIndex": 1385,
+      "sourceName": "Tenggerese Hinduism",
+      "decision": "keep",
+      "canonicalName": "Тенггерская индуистская традиция",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Индуизм",
+      "description": "Местная религиозная традиция тенггеров Восточной Явы с индуистским жречеством, почитанием предков и обрядами у горы Бромо.",
+      "profile": "+divine +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tenggerese_people",
+        "https://www.jstor.org/stable/j.ctv18zhf5s"
+      ],
+      "notes": "Исходная статья о народе содержит отдельное описание религии. Этнографическое исследование Роберта Хефнера подтверждает самостоятельную тенггерскую традицию и отличия от Бали. Профиль относится к этой религиозной практике, а не каждому этническому тенггеру. Не alias балийского индуизма и не тенгрианство; поздние реформы и местное разнообразие учитываются."
+    }
+  ]
+}

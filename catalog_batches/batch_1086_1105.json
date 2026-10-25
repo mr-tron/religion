@@ -1,0 +1,359 @@
+{
+  "range": [
+    1086,
+    1105
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1086,
+      "sourceName": "International Swaminarayan Satsang Mandal",
+      "decision": "keep",
+      "canonicalName": "Международный Сваминараян сатсанг мандал (ISSM)",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Лакшми Нараян Дев Гади",
+      "description": "Американская религиозная организация и сеть храмов Сваминараян, связанная с линией Лакшми Нараян Дев Гади в Вадтале.",
+      "profile": "+divine +bhakti +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Swaminarayan_Satsang_Mandal",
+        "https://shriji.org/about/"
+      ],
+      "notes": "ISSM и ISSO of Chicago связаны как торговое и организационное названия; сайт храма подтверждает эту связь и богослужения. Не признан alias International Swaminarayan Satsang Organisation (1087): та организация связана с другим гади. Не весь Сваминараян Сампрадая."
+    },
+    {
+      "sourceIndex": 1087,
+      "sourceName": "International Swaminarayan Satsang Organisation",
+      "decision": "keep",
+      "canonicalName": "Международная организация Сваминараян сатсанга (ISSO)",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Нар Нараян Дев Гади",
+      "description": "Основанная в 1978 году международная организация традиции Сваминараян, исторически связанная с ачарьей Ахмадабадского гади.",
+      "profile": "+bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Swaminarayan_Satsang_Organisation",
+        "https://bolton.swaminarayan.faith/media/3761/shik-eng.pdf"
+      ],
+      "notes": "Исходник прямо указывает цель поддерживать практику преданных Сваминараяна. Сохраняется организация, а не новая самостоятельная догматика. Не приравнена к ISSM / ISSO of Chicago по сходной аббревиатуре."
+    },
+    {
+      "sourceIndex": 1088,
+      "sourceName": "Laxmi Narayan Dev Gadi",
+      "decision": "review",
+      "canonicalName": "Лакшми Нараян Дев Гади",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Сваминараян Сампрадая",
+      "description": "Южная традиционная кафедра движения Сваминараян с центром в Вадтале и наследственной линией ачарьев.",
+      "profile": "+divine +bhakti +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Laxmi_Narayan_Dev_Gadi",
+        "https://www.swaminarayanvadtalgadi.org/about-us/acharyas/",
+        "https://www.vadtalmandir.org/about"
+      ],
+      "notes": "Исходная статья отмечена конфессиональной зависимостью и спорной нейтральностью; review. Первичные материалы подтверждают кафедру, почитание Сваминараяна и авторитетные тексты. Споры о нынешнем руководстве не разрешены в пользу одной стороны; не alias всей сампрадаи."
+    },
+    {
+      "sourceIndex": 1089,
+      "sourceName": "Mahanam Sampraday",
+      "decision": "keep",
+      "canonicalName": "Маханам Сампрадая",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Гаудия-вайшнавизм",
+      "description": "Бенгальская вайшнавская традиция вокруг Прабху Джагадбандху, организованная Шрипадом Махенджраджи и представленная в Индии и Бангладеш.",
+      "profile": "+divine +bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mahanam_Sampraday"
+      ],
+      "notes": "Исходник подтверждает почитание Радхи-Кришны, Гаура-Нитая и Джагадбандху, а также пение священного имени. Не alias всей гаудия-вайшнавской традиции. Несколько почитаемых проявлений не автоматически означают независимых богов."
+    },
+    {
+      "sourceIndex": 1090,
+      "sourceName": "Mahima Dharma",
+      "decision": "review",
+      "canonicalName": "Махима-дхарма",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозное движение Одиши, связанное с Махима Свами и Бхимой Бхои и почитающее бесформенное божественное начало Алекх.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mahima_Dharma",
+        "https://cora.ucc.ie/items/d682ea80-9e57-4df0-a104-b122a0f62f69",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1979765&lang=2&reg=48"
+      ],
+      "notes": "Исходная статья предупреждает о недостатке ссылок; review. Исследование на основе полевой работы подтверждает самостоятельную аскетическую религию и разнообразие местных форм. Обобщения об обязательном отвержении всех обрядов и индуистских элементов не перенесены на каждого последователя."
+    },
+    {
+      "sourceIndex": 1091,
+      "sourceName": "Nar Narayan Dev Gadi",
+      "decision": "review",
+      "canonicalName": "Нар Нараян Дев Гади",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Сваминараян Сампрадая",
+      "description": "Северная традиционная кафедра движения Сваминараян с центром в Ахмадабаде и собственной линией ачарьев.",
+      "profile": "+scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nar_Narayan_Dev_Gadi",
+        "https://www.swaminarayan.nu/acharya/gaadi.shtml"
+      ],
+      "notes": "Исходная статья предупреждает об опоре на конфессиональные тексты без критических вторичных источников; review. Подтверждены кафедра и перечисленные священные тексты. Не alias южного Вадтальского гади, его зарубежных организаций или всей сампрадаи."
+    },
+    {
+      "sourceIndex": 1092,
+      "sourceName": "Narnarayan Dev Yuvak Mandal",
+      "decision": "review",
+      "canonicalName": "Нарнараян Дев Ювак Мандал (NNDYM)",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Нар Нараян Дев Гади",
+      "description": "Молодёжная религиозная и благотворительная организация в линии Ахмадабадского гади Сваминараян.",
+      "profile": "+bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Narnarayan_Dev_Yuvak_Mandal",
+        "https://www.issola.com/?p=nndym"
+      ],
+      "notes": "Исходная статья отмечена зависимостью от связанных источников; review. Сайт храма подтверждает создание в 1994 году и духовно-воспитательные задачи. Не отдельное учение и не alias всей ISSO; молодёжная организация допустима как самостоятельный организационный уровень."
+    },
+    {
+      "sourceIndex": 1093,
+      "sourceName": "Neo-Advaita",
+      "decision": "keep",
+      "canonicalName": "Неоадвайта",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Адвайта-веданта",
+      "description": "Современный круг учителей и групп недвойственной духовности, подчёркивающих непосредственное распознавание реальности без обязательной длительной подготовки.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Neo-Advaita"
+      ],
+      "notes": "Сохраняется отдельный современный термин, а не alias существующей «Адвайта-веданты». Связь с Раманой Махарши не делает все группы частью его ашрама. Непризнание отдельного эго не приравнено к буддийскому no_self; отсутствие подготовки не означает общего отрицания медитации."
+    },
+    {
+      "sourceIndex": 1094,
+      "sourceName": "Oneness Movement",
+      "decision": "keep",
+      "canonicalName": "Движение Единства (Oneness) Аммы и Бхагавана",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовное движение, созданное Калки Бхагаваном и Аммой, распространяющее практику дикши, называемой благословением Единства.",
+      "profile": "+ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kalki_Bhagawan"
+      ],
+      "notes": "Исходная ссылка посвящена основателю, но прямо описывает организацию и предполагаемую передачу энергии в дикше. Энергетические и целительские объяснения переданы как убеждения. Не alias Unity Church, других движений единства или всей традиции аватара Калки."
+    },
+    {
+      "sourceIndex": 1095,
+      "sourceName": "Rajneesh movement",
+      "decision": "keep",
+      "canonicalName": "Движение Раджниша (Ошо)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Международная сеть последователей Раджниша, известного как Ошо, с практиками медитации и духовного поиска.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rajneesh_movement"
+      ],
+      "notes": "Раджниш и Ошо — имена одного основателя. Сохраняется движение с внутренним организационным разнообразием, а не вся индийская духовность. История отдельных коммун и участников не используется для приписывания всем последователям единой этики или метафизики."
+    },
+    {
+      "sourceIndex": 1096,
+      "sourceName": "Sadharan Brahmo Samaj",
+      "decision": "keep",
+      "canonicalName": "Садхаран Брахмо Самадж",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Брахмо Самадж",
+      "description": "Образованная в Калькутте в 1878 году ветвь Брахмо Самаджа, соединяющая монотеистическое богопочитание с социальными реформами.",
+      "profile": "+divine +one_god",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sadharan_Brahmo_Samaj",
+        "https://www.thesadharanbrahmosamaj.org/aboutus.php"
+      ],
+      "notes": "Официальная история подтверждает учреждение отдельной организации и поклонение единому высшему духу. Не alias всей Брахмо Самадж, Ади Брахмо Самадж или других её подразделений. Социальные реформы сами по себе не означают humanism без религиозного авторитета."
+    },
+    {
+      "sourceIndex": 1097,
+      "sourceName": "Satsang",
+      "decision": "keep",
+      "canonicalName": "Сатсанг (Деогхар), движение Анукулчандры",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Сант Мат",
+      "description": "Основанная Анукулчандрой духовная и благотворительная организация с центром в Деогхаре, исторически связанная с Сант Мат.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Satsang_(Deoghar)",
+        "https://www.satsang.org.in/"
+      ],
+      "notes": "Исходный URL уточняет конкретную организацию: не общий термин «сатсанг» и не неоадвайта. Участники могут сохранять свою исходную религиозную идентичность. Непроверенная оценка численности из статьи не повторяется; общий профиль Радха Соами не наследуется."
+    },
+    {
+      "sourceIndex": 1098,
+      "sourceName": "Shirdi Sai Baba movement",
+      "decision": "keep",
+      "canonicalName": "Движение почитателей Саи Бабы из Ширди",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовная традиция почитания Саи Бабы из Ширди, объединяющая преданных из индуистской и мусульманской среды.",
+      "profile": "+divine +bhakti +fire",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sai_Baba_of_Shirdi",
+        "https://sai.org.in/en/node/323"
+      ],
+      "notes": "Исходник — биография, но описывает учение и продолжающееся почитание; сайт храмового траста подтверждает священный непрерывно поддерживаемый огонь дхуни. Этот огонь не равен требованию поклоняться божеству огня. Не смешивать с движением Сатья Саи Бабы и его притязаниями на преемственность."
+    },
+    {
+      "sourceIndex": 1099,
+      "sourceName": "Sivananda Yoga Vedanta Centres",
+      "decision": "keep",
+      "canonicalName": "Центры йоги и веданты Шивананды",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Международная сеть Вишнудевананды, распространяющая йогическую систему, названную в честь его учителя Свами Шивананды.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sivananda_Yoga_Vedanta_Centres",
+        "https://sivananda.org/teachings/"
+      ],
+      "notes": "Исходный URL перенаправляет на статью о Шивананда-йоге; официальный сайт подтверждает связь системы и организации. Центры выделены на организационном уровне и не alias Divine Life Society. Медитация — один из пяти основных принципов; физиологические и лечебные заявления не превращены в +scientific."
+    },
+    {
+      "sourceIndex": 1100,
+      "sourceName": "Sri Aurobindo Ashram",
+      "decision": "keep",
+      "canonicalName": "Ашрам Шри Ауробиндо",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Интегральная йога Шри Ауробиндо",
+      "description": "Духовная община в Пудучерри, связанная со Шри Ауробиндо, Матерью и практикой интегральной йоги.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sri_Aurobindo_Ashram",
+        "https://www.sriaurobindoashram.org/ashram/"
+      ],
+      "notes": "Сохраняется конкретная община. Не alias всех форм интегральной йоги, Ауровиля или учения Свами Сатчидананды. Источник подтверждает стремление к божественной жизни и индивидуальную садхану; одинаковый набор обрядов для всех участников не установлен."
+    },
+    {
+      "sourceIndex": 1101,
+      "sourceName": "Sri Ramana Ashram",
+      "decision": "keep",
+      "canonicalName": "Шри Раманашрам",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Учение Раманы Махарши",
+      "description": "Ашрам и международная духовная община в Тируваннамалае, сохраняющая учение Раманы Махарши и путь самоисследования.",
+      "profile": "",
+      "proposedQuestions": [
+        {
+          "id": "self_enquiry",
+          "text": "Является ли самоисследование через вопрос «Кто я?» основным методом вашего духовного пути?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отражает центральный путь в учении Раманы Махарши. Различает самоисследование, медитацию с мантрой в ТМ и иные методы; обычный вопрос meditation эту разницу не передаёт. Не предполагает одинаковой практики у всех неоадвайтистов.",
+          "supportedEntries": [
+            "Sri Ramana Ashram"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sri_Ramana_Ashram",
+        "https://www.gururamana.org/",
+        "https://www.gururamana.org/Resources/Books/Words_of_Grace.pdf"
+      ],
+      "notes": "Sri Ramana Ashram и Sri Ramanasramam — названия одного центра. Он не тождественен всей адвайте или неоадвайте. В учении самоисследование отличается от медитации на объект; вместо автоматического +meditation предложен специальный вопрос. Осознание истинного Я не обозначено как буддийское no_self."
+    },
+    {
+      "sourceIndex": 1102,
+      "sourceName": "Swaminarayan Gurukul",
+      "decision": "keep",
+      "canonicalName": "Сваминараян Гурукул (Раджкот)",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Лакшми Нараян Дев Гади",
+      "description": "Религиозно-образовательная организация, основанная Дхармадживандасджи Свами в 1948 году в традиции Сваминараян.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Swaminarayan_Gurukul"
+      ],
+      "notes": "Исходник подтверждает конкретную сеть Shree Swaminarayan Gurukul Rajkot Sansthan в линии Вадтальского гади. Сохранён организационный уровень; религиозная образовательная деятельность не доказывает отдельную доктрину. Не alias всех гурукулов или всей сампрадаи."
+    },
+    {
+      "sourceIndex": 1103,
+      "sourceName": "Swaminarayan Mandir Vasna Sanstha",
+      "decision": "review",
+      "canonicalName": "Сваминараян Мандир Васна Санстха (SMVS)",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Сваминараян Сампрадая",
+      "description": "Организация традиции Сваминараян, основанная Девнандандасджи Свами и развивающая учение Каран Сатсанг в интерпретации Абджибапашри.",
+      "profile": "+divine +one_god +bhakti +reincarnation +liberation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Swaminarayan_Mandir_Vasna_Sanstha",
+        "https://www.smvs.org/introduction/beliefs"
+      ],
+      "notes": "Исходная статья отмечена конфликтом интересов и зависимостью от религиозных источников; review. Официальные формулировки прямо подтверждают верховенство Сваминараяна, поклонение, перевоплощение и освобождение. Представление о едином Боге — самоописание этой линии; не распространено автоматически на все организации Сваминараян."
+    },
+    {
+      "sourceIndex": 1104,
+      "sourceName": "Swaminarayan Sampradaya",
+      "decision": "keep",
+      "canonicalName": "Сваминараян Сампрадая",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Вайшнавизм",
+      "description": "Вайшнавская традиция, возникшая вокруг Сахаджананда Свами, почитаемого как Сваминараян, и включающая несколько кафедр и организаций.",
+      "profile": "+divine +bhakti +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Swaminarayan_Sampradaya"
+      ],
+      "notes": "Общая традиция, не точный синоним одной её организации, BAPS, ISSO, ISSM, SMVS или одного гади. Исходник подтверждает разные интерпретации статуса Сваминараяна; верховенство одной конкретной богословской школы не приписано всем последователям."
+    },
+    {
+      "sourceIndex": 1105,
+      "sourceName": "Transcendental Meditation",
+      "decision": "keep",
+      "canonicalName": "Трансцендентальная медитация",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Распространённая Махариши Махеш Йоги техника медитации с мантрой и связанная с её преподаванием международная сеть организаций.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Transcendental_Meditation",
+        "https://www.tm.org/what-is-tm"
+      ],
+      "notes": "Официальное современное описание не требует принятия религии или системы верований, тогда как история движения связана с индийской традицией. Сохранены техника и движение без вывода, что каждый практикующий признаёт Веды, божество или сверхъестественные способности. Упоминание исследований не доказывает +scientific."
+    }
+  ]
+}

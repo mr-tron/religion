@@ -1,0 +1,352 @@
+{
+  "range": [
+    1106,
+    1125
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1106,
+      "sourceName": "Beophwagye",
+      "decision": "keep",
+      "canonicalName": "Попхваге (корейские движения Лотосовой сутры)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательное обозначение современных корейских буддийских организаций, считающих Лотосовую сутру основным текстом.",
+      "profile": "+buddha +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beophwagye"
+      ],
+      "notes": "Это категория нескольких организаций, а не одна церковь. Некоторые испытали влияние Нитирэн-буддизма, но не все тождественны ему; не alias исторической школы Чхонтхэ. Общие признаки ограничены буддийской основой и авторитетом Лотосовой сутры."
+    },
+    {
+      "sourceIndex": 1107,
+      "sourceName": "Diamond Way Buddhism",
+      "decision": "keep",
+      "canonicalName": "Буддизм Алмазного пути (сеть Нидалов)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Карма-кагью",
+      "description": "Международная сеть мирянских центров линии Карма-кагью, основанная Оле и Ханной Нидалами в 1970-е годы.",
+      "profile": "+buddha +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Diamond_Way_Buddhism",
+        "https://www.diamondway-buddhism.org/",
+        "https://www.buddhism.org.uk/buddhism/meditation/"
+      ],
+      "notes": "Исходник прямо отличает конкретную организацию от Ваджраяны вообще. Сайт организации подтверждает линию Карма-кагью; изложение практики описывает гуру-йогу и медитацию XVI Кармапы. Споры о статусе Кармап не разрешаются этой записью."
+    },
+    {
+      "sourceIndex": 1108,
+      "sourceName": "Falun Gong",
+      "decision": "keep",
+      "canonicalName": "Фалуньгун (Фалунь Дафа)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Китайское духовное движение Ли Хунчжи, соединяющее нравственное самосовершенствование, медитацию и упражнения.",
+      "profile": "+scripture +meditation +karma",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Falun_Gong",
+        "https://www.falundafa.org.uk/about-falun-dafa/"
+      ],
+      "notes": "Фалуньгун и Фалунь Дафа — названия одного движения, что прямо подтверждает его сайт. Авторитет «Чжуань Фалунь», медитативная практика и преобразование кармы описаны источниками. Буддийские и даосские заимствования не делают его синонимом этих традиций; политические споры не превращены в индивидуальные признаки."
+    },
+    {
+      "sourceIndex": 1109,
+      "sourceName": "Guanyin Famen",
+      "decision": "keep",
+      "canonicalName": "Гуаньинь фа-мэнь (метод Цинхай)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение учительницы Цинхай, сосредоточенное на медитации внутреннего Света и Звука и вегетарианском образе жизни.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Guanyin_Famen",
+        "https://www.godsdirectcontact.org/eng/homepage.html"
+      ],
+      "notes": "Guanyin Famen, Quan Yin Method и сеть последователей Supreme Master Ching Hai здесь связаны одним конкретным движением. Не alias любого почитания Гуаньинь. Собственный сайт подтверждает метод; вегетарианство не приравнено автоматически к особо строгой ахимсе. Называние практики буддийской в исходнике не исчерпывает её синкретический характер."
+    },
+    {
+      "sourceIndex": 1110,
+      "sourceName": "Humanistic Buddhism",
+      "decision": "review",
+      "canonicalName": "Гуманистический буддизм",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Махаяна",
+      "description": "Современный буддийский подход к практике в повседневной жизни, общественному служению и развитию мудрости и сострадания в человеческом мире.",
+      "profile": "+buddha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Humanistic_Buddhism",
+        "https://www.fgs.org.tw/en/Organizations/Objectives/"
+      ],
+      "notes": "Review: исходная статья имеет предупреждения о спорной нейтральности, конфликте интересов и преобладании первичных источников. Fo Guang Shan независимо от этой статьи подтверждает своё понимание подхода, но не представляет все его варианты. Не alias Светского буддизма или отдельной организации Fo Guang Shan; humanism из опросника означает этику без религиозного авторитета и здесь не назначен."
+    },
+    {
+      "sourceIndex": 1111,
+      "sourceName": "Hòa Hảo",
+      "decision": "keep",
+      "canonicalName": "Хоа-Хао",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Быу-шон-ки-хыонг",
+      "description": "Вьетнамское буддийское движение Хюинь Фу Шо, возникшее в 1939 году и подчёркивающее домашнюю практику, нравственный уклад и благодарность предкам.",
+      "profile": "+buddha +ancestors",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/H%C3%B2a_H%E1%BA%A3o"
+      ],
+      "notes": "Реформирует более раннюю традицию Быу-шон-ки-хыонг, но не тождественно ей. Отказ от дорогих и сложных церемоний не равен отсутствию всех обрядов; поэтому -ritual и -icons не заданы. Учение и последующая политическая деятельность различаются."
+    },
+    {
+      "sourceIndex": 1112,
+      "sourceName": "Navayana",
+      "decision": "keep",
+      "canonicalName": "Наваяна (буддизм Амбедкара)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Буддийское движение Бхимрао Рамджи Амбедкара, связывающее Дхамму с освобождением от кастового угнетения и общественным равенством.",
+      "profile": "+buddha +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Navayana"
+      ],
+      "notes": "The Buddha and His Dhamma имеет центральный авторитет. Не alias всего Светского буддизма или всех индийских буддистов. Пересмотр кармы и перерождения у Амбедкара не превращён в обязательный отрицательный ответ каждого современного последователя; источники также фиксируют религиозное почитание самого Амбедкара."
+    },
+    {
+      "sourceIndex": 1113,
+      "sourceName": "New Kadampa Tradition",
+      "decision": "keep",
+      "canonicalName": "Новая традиция Кадампа (NKT-IKBU)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Традиция Гелуг",
+      "description": "Основанная Келсангом Гьяцо в 1991 году международная буддийская организация с учебными программами и практикой медитации.",
+      "profile": "+buddha +meditation +reincarnation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/New_Kadampa_Tradition"
+      ],
+      "notes": "Источник подтверждает программы изучения, медитацию о перерождении и сансаре, молитвы и тантрические практики. Организация имеет корни в Гелуг и поддерживает практику Дордже Шугдена; она не alias исторической Кадам или всей Гелуг. Полемические оценки сторон религиозного конфликта не включены."
+    },
+    {
+      "sourceIndex": 1114,
+      "sourceName": "PL Kyodan",
+      "decision": "keep",
+      "canonicalName": "PL Kyodan (Церковь совершенной свободы)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Хитономити кёдан",
+      "description": "Японское новое религиозное движение, в котором принцип «Жизнь — искусство» связывает самовыражение и нравственное совершенствование с Богом-Родителем.",
+      "profile": "+divine +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/PL_Kyodan",
+        "https://jmapps.ne.jp/kokugakuin/det.html?data_id=78205",
+        "https://nirc.nanzan-u.ac.jp/journal/15/article/1805/pdf/download"
+      ],
+      "notes": "Академическая энциклопедия уточняет: PL Kyodan учреждена Мики Токутикой в 1946 году, тогда как 1924 год в исходной статье относится к предшествующей организации его отца. Прошлое основателя как дзенского монаха не делает PL школой дзен; выбрано newreligion. Наличие 21 наставления само по себе не доказывает scripture."
+    },
+    {
+      "sourceIndex": 1115,
+      "sourceName": "Reiyūkai",
+      "decision": "keep",
+      "canonicalName": "Рэйюкай",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Нитирэн-буддизм",
+      "description": "Японское мирянское буддийское движение Кубо Какутаро и Котани Кими, опирающееся на Лотосовую сутру и почитание предков.",
+      "profile": "+buddha +scripture +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Reiy%C5%ABkai"
+      ],
+      "notes": "Исходник различает формирование движения и официальное учреждение в 1930 году, описывает чтение Blue Sutra. Не alias Риссё косэй-кай или других организаций, вышедших из Рэйюкай. Мирянский характер не означает отказа от всех религиозных обрядов."
+    },
+    {
+      "sourceIndex": 1116,
+      "sourceName": "Rimé movement",
+      "decision": "keep",
+      "canonicalName": "Движение Римэ",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тибетский буддизм",
+      "description": "Несектантский подход в тибетском буддизме, поддерживающий изучение и сохранение учений разных линий передачи.",
+      "profile": "+buddha",
+      "proposedQuestions": [
+        {
+          "id": "multiple_buddhist_lineages",
+          "text": "Важно ли для вашего буддийского пути изучать учения разных школ, сохраняя уважение к их отдельным линиям передачи?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Выделяет несектантский подход Римэ; помогает сопоставить его с межшкольным подходом Триратны и ориентацией Новой традиции Кадампа на собственную учебную линию. Не требует смешивать школы в единое учение."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rim%C3%A9_movement"
+      ],
+      "notes": "Не единая новая школа и не синоним всего тибетского буддизма. Подход сохраняет самостоятельность традиций, а не объявляет все их учения одинаковыми. Поэтому общий ритуальный или метафизический профиль нескольких школ не наследуется."
+    },
+    {
+      "sourceIndex": 1117,
+      "sourceName": "Risshō Kōsei Kai",
+      "decision": "keep",
+      "canonicalName": "Риссё косэй-кай",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Рэйюкай",
+      "description": "Японская мирянская буддийская организация Нивано Никкё и Наганумы Мёко, основанная в 1938 году и связанная с Лотосовой сутрой и семейным почитанием предков.",
+      "profile": "+buddha +scripture +ancestors +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rissh%C5%8D_K%C5%8Dsei_Kai"
+      ],
+      "notes": "Отделилась от Рэйюкай, но не является её синонимом. Исходник подтверждает ежедневное чтение сутры, домашние алтари, изображения Вечного Будды и подношения. Групповые беседы хоза описываются как отдельная практика взаимной поддержки."
+    },
+    {
+      "sourceIndex": 1118,
+      "sourceName": "Shambhala Buddhism",
+      "decision": "keep",
+      "canonicalName": "Буддизм Шамбалы",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тибетский буддизм",
+      "description": "Современная традиция Чогьяма Трунгпы и его последователей, объединяющая буддийскую практику с учением об изначальной доброте и просветлённом обществе.",
+      "profile": "+buddha +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shambhala_Buddhism",
+        "https://shambhala.pl/about-shambhala/?lang=en"
+      ],
+      "notes": "Исходная ссылка перенаправляет на Shambhala Training. Статья различает изначально светскую программу обучения и последующее объединение её с буддийской учебной системой. Страница самой общины подтверждает буддийские корни; запись не объявлена синонимом любого светского курса Shambhala Training, и nonreligious не назначен всем участникам."
+    },
+    {
+      "sourceIndex": 1119,
+      "sourceName": "Shinnyo-en",
+      "decision": "review",
+      "canonicalName": "Синнё-эн",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Сингон",
+      "description": "Японское мирянское эзотерико-буддийское движение Синдзё и Томодзи Ито, связывающее развитие природы будды с Нирвана-сутрой и духовным руководством.",
+      "profile": "+buddha +scripture +meditation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shinnyo-en",
+        "https://academic.oup.com/reference/62340/reference-article-abstract/554138288",
+        "https://shinnyoen.org/about-shinnyo-en/our-practices/"
+      ],
+      "notes": "Review: исходная статья имеет предупреждение о спорной проверяемости утверждений. Oxford Bibliographies подтверждает самостоятельную организацию, авторитет Махапаринирвана-сутры и руководство через медиумов; сайт движения описывает сэссин как медитацию с квалифицированным проводником. Спорные исторические детали исходника не перенесены; сэссин не отождествлён с дзенским ретритом."
+    },
+    {
+      "sourceIndex": 1120,
+      "sourceName": "Soka Gakkai",
+      "decision": "keep",
+      "canonicalName": "Сока Гаккай",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Нитирэн-буддизм",
+      "description": "Японское мирянское движение нитирэновского буддизма, сосредоточенное на Лотосовой сутре, чтении даймоку и преобразовании повседневной жизни.",
+      "profile": "+buddha +scripture +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Soka_Gakkai"
+      ],
+      "notes": "Чтение Нам-мёхо-рэнгэ-кё и обращение к гохондзону прямо описаны. Гохондзон — мандала, а не обязательно изображение личного бога. Не alias всего Нитирэн-буддизма или Нитирэн-сёсю; организационное отделение не отменяет собственного учения."
+    },
+    {
+      "sourceIndex": 1121,
+      "sourceName": "Triratna Buddhist Community",
+      "decision": "keep",
+      "canonicalName": "Буддийская община Триратна",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Основанное Сангхаракшитой в 1967 году буддийское движение, объединяющее практику разных буддийских традиций с общинной жизнью.",
+      "profile": "+buddha +meditation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Triratna_Buddhist_Community"
+      ],
+      "notes": "Ранее называлась Friends of the Western Buddhist Order. Дыхательная медитация, метта-бхавана и пуджа прямо подтверждены источником. Не alias всего западного или Светского буддизма; образы духовной смерти и возрождения в системе медитации не использованы как автоматическое доказательство буквального перерождения."
+    },
+    {
+      "sourceIndex": 1122,
+      "sourceName": "True Buddha School",
+      "decision": "keep",
+      "canonicalName": "Школа Истинного Будды",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Основанная Лу Шэнъяном современная школа, соединяющая махаянское и тантрическое буддийское самосовершенствование с даосскими элементами.",
+      "profile": "+buddha +meditation +ritual +karma",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/True_Buddha_School"
+      ],
+      "notes": "Источник описывает предварительные практики, очищение кармы, гуру-йогу и йогу божества. Утверждения основателя о его духовном статусе рассматриваются как самоописание. Не alias всей Ваджраяны или даосизма."
+    },
+    {
+      "sourceIndex": 1123,
+      "sourceName": "Tứ Ân Hiếu Nghĩa",
+      "decision": "keep",
+      "canonicalName": "Ты-ан-хиеу-нгиа (Четыре долга благодарности)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Вьетнамская религиозная традиция Нго Лоя, основанная в 1867 году и соединяющая буддийское нравственное самосовершенствование с почитанием предков.",
+      "profile": "+buddha +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/T%E1%BB%A9_%C3%82n_Hi%E1%BA%BFu_Ngh%C4%A9a",
+        "https://religion.vn/religion/brief-introduction-of-tu-an-hieu-nghia-faith-post9DR3AB5qLp.html"
+      ],
+      "notes": "Исходная ссылка ведёт в обзор Religion in Vietnam, где имеется специальный подраздел. Отдельная публикация Комитета по делам религий подтверждает основателя, обряды и четыре долга благодарности. Общность с Быу-шон-ки-хыонг и Хоа-Хао не означает тождества самостоятельных организаций."
+    },
+    {
+      "sourceIndex": 1124,
+      "sourceName": "Won Buddhism",
+      "decision": "keep",
+      "canonicalName": "Вон-буддизм",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Корейская традиция Сотхэсана, соединяющая буддийское пробуждение с повседневной практикой и символом единого круга Ильвонсан.",
+      "profile": "+buddha +scripture +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Won_Buddhism",
+        "https://www.sotaesancenter.org/pdf-ebook"
+      ],
+      "notes": "Источник подтверждает собственный канон, учение о дхармакае и медитативную практику; центр Сотхэсана публикует соответствующие тексты. Круг вместо антропоморфной статуи не означает отрицания всех сакральных изображений. Не alias корейского буддизма вообще."
+    },
+    {
+      "sourceIndex": 1125,
+      "sourceName": "Đạo Bửu Sơn Kỳ Hương",
+      "decision": "keep",
+      "canonicalName": "Быу-шон-ки-хыонг",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Возникшая в 1849 году в Южном Вьетнаме традиция Доан Минь Хюена, сочетающая изучение буддизма, нравственное самосовершенствование и четыре долга благодарности.",
+      "profile": "+buddha +ancestors",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1o_B%E1%BB%ADu_S%C6%A1n_K%E1%BB%B3_H%C6%B0%C6%A1ng",
+        "https://religion.vn/religious-life-and-style/buu-son-ky-huong-faith-in-vietnam-south-post81nP5E3R34.html"
+      ],
+      "notes": "Краткий исходник дополнен отдельным описанием Комитета по делам религий: учение включает благодарность родителям и предкам, Трём драгоценностям, родине и людям. Хоа-Хао продолжает и реформирует эту традицию, но не является её точным синонимом. Предания об исцелениях не представлены доказанными медицинскими фактами."
+    }
+  ]
+}

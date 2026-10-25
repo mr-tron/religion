@@ -1,0 +1,337 @@
+{
+  "range": [
+    1686,
+    1705
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1686,
+      "sourceName": "Biblists",
+      "decision": "keep",
+      "canonicalName": "Библисты — Духовно-библейское братство",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Еврейские реформаторские движения Российской империи",
+      "description": "Историческое братство еврейских религиозных реформаторов Якова Гордина в Елисаветграде, выступавшее за нравственную реформу и отказ от обрядовых предписаний.",
+      "profile": "+scripture -ritual -halakha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Biblists",
+        "https://www.jewishencyclopedia.com/articles/3270-bibleitzy-biblists"
+      ],
+      "notes": "Исходник идентифицирует конкретное братство конца XIX века; Jewish Encyclopedia подтверждает отказ от религиозных церемоний и догматического богословия. Не alias караимов, всех сторонников библейского авторитета или христианского biblicism. +scripture относится к Танаху; bible_alone не назначено, поскольку вопрос сформулирован в христианском контексте. Антисемитские объяснения причин погромов в исторических источниках не представлены как установленные факты."
+    },
+    {
+      "sourceIndex": 1687,
+      "sourceName": "Boethusians",
+      "decision": "keep",
+      "canonicalName": "Боэтусеи",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Иудаизм эпохи Второго храма",
+      "description": "Историческая иудейская группа, близкая саддукеям и известная собственными правовыми позициями.",
+      "profile": "-afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Boethusians",
+        "https://www.posenlibrary.com/guide/boethusians"
+      ],
+      "notes": "Posen Library описывает боэтусеев как возможную подгруппу саддукеев с собственными правовыми традициями и отрицанием посмертной жизни. Поэтому не установлен точный alias всех саддукеев. Предание о происхождении от ученика Антигона и связь с первосвященническим родом имеют разную степень надёжности; легендарный рассказ не принят за достоверную биографию основателя."
+    },
+    {
+      "sourceIndex": 1688,
+      "sourceName": "Carlebach movement",
+      "decision": "keep",
+      "canonicalName": "Движение Шломо Карлебаха",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Современные еврейские религиозные движения",
+      "description": "Движение последователей Шломо Карлебаха, известное молитвенными собраниями, песенным богослужением и общинной духовной жизнью.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carlebach_movement"
+      ],
+      "notes": "Не alias всей ортодоксии, неохасидизма или просто поклонников музыки Карлебаха. Источник подтверждает именно религиозное движение и неоднородность общин без единого юридического представительства. Использование его мелодий само по себе не делает любую синагогу отдельной конфессией; иные признаки автоматически не наследуются."
+    },
+    {
+      "sourceIndex": 1689,
+      "sourceName": "Conservative Judaism",
+      "decision": "alias",
+      "canonicalName": "Консервативный иудаизм",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Раввинистический иудаизм",
+      "description": "Иудейское направление, признающее галахическую традицию и допускающее историческое развитие её применения.",
+      "profile": "+halakha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Conservative_Judaism"
+      ],
+      "notes": "Точное соответствие существующей записи «Консервативный иудаизм» в religions.js; в ряде стран также используется название Masorti. Не общее обозначение любых консервативных взглядов и не alias ортодоксального иудаизма."
+    },
+    {
+      "sourceIndex": 1690,
+      "sourceName": "Dor Daim",
+      "decision": "keep",
+      "canonicalName": "Дор даим",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Йеменская раввинистическая традиция",
+      "description": "Реформаторско-рационалистическое движение Йихьи Капаха, подчёркивающее авторитет Маймонида и критикующее авторитет поздней каббалы.",
+      "profile": "+one_god +halakha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dor_Daim"
+      ],
+      "notes": "Самостоятельное движение, не alias всех йеменских евреев, всех последователей Маймонида или караимов. Источник различает Dor Daim и некоторые группы talmide ha-Rambam. Критика «Зоара» не равнозначна отрицанию любой мистической традиции, поэтому -occult не назначено; интерес к философии также не доказывает +scientific."
+    },
+    {
+      "sourceIndex": 1691,
+      "sourceName": "Ebionites",
+      "decision": "keep",
+      "canonicalName": "Эбиониты",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Древние иудеохристианские традиции",
+      "description": "Исторические иудеохристианские группы, признававшие Иисуса Мессией и сохранявшие обязательность Моисеева закона.",
+      "profile": "+jesus +torah -trinity",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ebionites"
+      ],
+      "notes": "Ближайшее семейство christian отражает иудеохристианский характер, несмотря на исходную рубрику Judaism. Учение известно преимущественно по внешним патристическим свидетельствам; разные взгляды на рождение Иисуса не сведены к одной биографической схеме. Не alias всей ранней Иерусалимской общины, назореев или современных мессианских евреев. -trinity означает непринятие классической никейской формулы, а не отсутствие любого мессианского почитания."
+    },
+    {
+      "sourceIndex": 1692,
+      "sourceName": "Elcesaites",
+      "decision": "keep",
+      "canonicalName": "Элкесаиты",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Древние иудеохристианские крещальные движения",
+      "description": "Историческая иудеохристианская крещальная традиция Месопотамии, связанная с книгой откровения Элхасая и очистительными омовениями.",
+      "profile": "+scripture +ritual +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Elcesaites",
+        "https://www.iranicaonline.org/articles/alchasai-a-sectarian-in-the-early-christian-church-1st-2nd-centuries-a/"
+      ],
+      "notes": "Iranica ALCHASAI подтверждает отдельную крещальную общину и манихейские свидетельства помимо патристической полемики. Историчность самого основателя спорна, но это не отменяет засвидетельствованной традиции. Не alias всех эбионитов, манихейства или мандейства; общее прошлое и сходные омовения не доказывают тождества. Омовения не приравнены к христианскому сознательному крещению взрослых."
+    },
+    {
+      "sourceIndex": 1693,
+      "sourceName": "Essenes",
+      "decision": "keep",
+      "canonicalName": "Ессеи",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Иудаизм эпохи Второго храма",
+      "description": "Историческое иудейское движение, известное строгими нормами чистоты, субботнего соблюдения и общинной жизни.",
+      "profile": "+ritual +sabbath",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Essenes"
+      ],
+      "notes": "Не alias всей Кумранской общины или всех авторов свитков Мёртвого моря: конкретные идентификации обсуждаются исследователями. Античные авторы описывают разные формы ессейской жизни; всеобщее безбрачие и отсутствие любой личной собственности не приписаны каждому последователю."
+    },
+    {
+      "sourceIndex": 1694,
+      "sourceName": "Folk Judaism",
+      "decision": "review",
+      "canonicalName": "Народный иудаизм",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Еврейские народные религиозные традиции",
+      "description": "Общее обозначение локальных религиозных обычаев и верований в еврейской среде.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Folk_Judaism",
+        "https://en.wikipedia.org/wiki/Folk_religion",
+        "https://www.myjewishlearning.com/article/jewish-magical-practices-beliefs/"
+      ],
+      "notes": "Review: исходный URL не загрузился; обзор Folk religion и описание еврейских магических практик подтверждают широкую категорию обычаев, а не одну отдельную школу. Нужны регион, эпоха и конкретный комплекс практик. Не alias каббалы, всего традиционного иудаизма или любого использования амулетов; признаки магии, духов, галахи и обязательного канона не назначены всем локальным формам."
+    },
+    {
+      "sourceIndex": 1695,
+      "sourceName": "Frankism",
+      "decision": "keep",
+      "canonicalName": "Франкизм",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Саббатианский религиозный контекст",
+      "description": "Религиозное движение Якова Франка и его последователей, возникшее в саббатианской среде и переосмыслившее еврейские и христианские символы.",
+      "profile": "+occult +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Frankism",
+        "https://encyclopedia.yivo.org/article.aspx/Frankism"
+      ],
+      "notes": "YIVO подтверждает самостоятельное движение, особые обряды и эзотерическое учение; обращение многих последователей в католицизм не делает движение точным alias католической церкви или всех саббатианцев. Религиозная среда заметно менялась после Франка. Антисемитские современные мифы и обвинения в тайном контроле не имеют отношения к подтверждённой исторической идентификации."
+    },
+    {
+      "sourceIndex": 1696,
+      "sourceName": "God fearers",
+      "decision": "review",
+      "canonicalName": "Богобоязненные — нееврейские сторонники иудаизма",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Окружение древних еврейских общин",
+      "description": "Историческое обозначение неевреев, в разной степени участвовавших в жизни синагог и соблюдении еврейских обычаев без полного обращения.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/God_fearers",
+        "https://en.wikipedia.org/wiki/God-fearer",
+        "https://www.posenlibrary.com/guide/god-worshipers-and-god-fearers",
+        "https://academic.oup.com/edited-volume/61673/chapter-abstract/550529015?login=false"
+      ],
+      "notes": "Review: исходный URL не загрузился; God-fearer и Posen Library подтверждают категорию отношений к иудаизму, а не единую конфессию. Термин в разных источниках может обозначать также просто благочестивого человека, включая еврея. Нужно выбрать исторический смысл; общие знаки по Торе, субботе или полному обязательству галахи не установлены. Не alias прозелитов, современных ноахидов или всех эллинистических евреев."
+    },
+    {
+      "sourceIndex": 1697,
+      "sourceName": "Hardal",
+      "decision": "keep",
+      "canonicalName": "Хардаль — хареди-леуми",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Религиозный сионизм",
+      "description": "Религиозно-общественное направление, соединяющее строгую ортодоксальную практику с религиозно-сионистским отношением к Израилю.",
+      "profile": "+halakha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hardal"
+      ],
+      "notes": "Не alias всего харедим или всего религиозного сионизма. Исходник прямо описывает строгое соблюдение заповедей и галахи; различия в отношении к государству объяснены в описании без приписывания единой партийной принадлежности или политической программы каждому последователю."
+    },
+    {
+      "sourceIndex": 1698,
+      "sourceName": "Haredi burqa sect",
+      "decision": "keep",
+      "canonicalName": "Нашот ха-шалим — движение полного покрывания",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Харедим — локальные религиозные движения",
+      "description": "Небольшое движение в харедимной среде, связывающее полное покрывание женского тела и лица с особенно строгим пониманием скромности.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Haredi_burqa_sect"
+      ],
+      "notes": "Исходное название Haredi burqa sect — внешнее медийное обозначение; использовано нейтральное имя Neshot haShalim. Не alias всех харедим, движения Лев Тахор или ислама. Связь с конкретной практикой и религиозным толкованием подтверждена, но общий догматический профиль вне одежды недостаточно описан. Позиция части харедимных организаций, осуждающих эту практику, не подменяет её самоописание; уголовные дела конкретных лиц не превращены в признаки веры."
+    },
+    {
+      "sourceIndex": 1699,
+      "sourceName": "Haredi Judaism",
+      "decision": "keep",
+      "canonicalName": "Харедимный иудаизм",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Ортодоксальный иудаизм",
+      "description": "Круг ортодоксальных еврейских традиций, подчёркивающих строгое соблюдение галахи и сохранение общинного религиозного уклада.",
+      "profile": "+halakha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Haredi_Judaism"
+      ],
+      "notes": "Шире хасидского иудаизма: включает также нехасидские и сефардские направления. Поэтому не alias уже существующей записи «Хасидский иудаизм». Отношение к работе, технологиям, светскому образованию и сионизму различается; отрицание каждого современного института всем харедим не приписано."
+    },
+    {
+      "sourceIndex": 1700,
+      "sourceName": "Hasidic Judaism",
+      "decision": "alias",
+      "canonicalName": "Хасидский иудаизм",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Ортодоксальный иудаизм",
+      "description": "Еврейское религиозное движение с хасидским духовным наследием и общинами вокруг ребе.",
+      "profile": "+halakha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hasidic_Judaism"
+      ],
+      "notes": "Точное соответствие существующей записи «Хасидский иудаизм» в religions.js. Не alias всех харедим, любой хасидской династии по отдельности или древних хасидеев эпохи Второго храма."
+    },
+    {
+      "sourceIndex": 1701,
+      "sourceName": "Haymanot",
+      "decision": "keep",
+      "canonicalName": "Хайманот — традиция Бета Исраэль",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Эфиопская еврейская традиция",
+      "description": "Религиозная традиция эфиопских евреев Бета Исраэль с собственным корпусом писаний, священническим наследием и обрядовыми нормами.",
+      "profile": "+scripture +torah",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Haymanot"
+      ],
+      "notes": "Haymanot в геэз и других языках может означать веру вообще, но исходная статья однозначно посвящена еврейской традиции Бета Исраэль. Не alias Эфиопской православной церкви или любого современного гражданина еврейского происхождения из Эфиопии. Исторические и современные практики различаются; древние жертвоприношения не приписаны всем нынешним последователям, раввинистическая галаха автоматически не назначена."
+    },
+    {
+      "sourceIndex": 1702,
+      "sourceName": "Hellenistic Judaism",
+      "decision": "keep",
+      "canonicalName": "Эллинистический иудаизм",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Иудаизм эпохи Второго храма",
+      "description": "Историческая еврейская религиозно-интеллектуальная среда, развивавшаяся во взаимодействии с греческим языком и эллинистической культурой.",
+      "profile": "+scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hellenistic_Judaism"
+      ],
+      "notes": "Сохраняется историческая религиозная традиция и её литературное наследие, включая Септуагинту, а не единая централизованная церковь или неизменная философская школа. Не alias всех евреев диаспоры или учения одного Филона; влияние греческой культуры не означает поклонения греческим богам."
+    },
+    {
+      "sourceIndex": 1703,
+      "sourceName": "Hemerobaptists",
+      "decision": "keep",
+      "canonicalName": "Гемеробаптисты",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Древние иудейские крещальные движения",
+      "description": "Историческая группа, упоминаемая раннехристианскими авторами и связываемая с ежедневными очистительными омовениями.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hemerobaptists"
+      ],
+      "notes": "Сохраняется засвидетельствованное историческое название при ограниченности внешних источников. Возможные связи с утренними омователями Тосефты, ессеями, Иоанном Крестителем или мандеями не доказаны как точное тождество, поэтому alias не назначен. Омовения не интерпретированы как протестантское крещение сознательных взрослых; расширенная догматика не восстановлена по сходству обрядов."
+    },
+    {
+      "sourceIndex": 1704,
+      "sourceName": "Houses of Hillel and Shammai",
+      "decision": "review",
+      "canonicalName": "Школы Гиллеля и Шаммая — две школы в одной записи",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Раннее раввинистическое учёное предание",
+      "description": "Две различные иудейские школы толкования и права, известные взаимными спорами по вопросам практики и учения.",
+      "profile": "+torah +halakha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Houses_of_Hillel_and_Shammai"
+      ],
+      "notes": "Review: исходная строка объединяет Бейт-Гиллель и Бейт-Шаммай, которые источник прямо различает как две школы. Для самостоятельных вариантов каталога рекомендуется разделить на две записи, сохранив исходную связь. Не alias всего раввинистического иудаизма и не единое учение «Гиллель-Шаммай»; сравнительные оценки более мягких и строгих решений не превращены в абсолютный признак каждого случая."
+    },
+    {
+      "sourceIndex": 1705,
+      "sourceName": "Humanistic Judaism",
+      "decision": "alias",
+      "canonicalName": "Светский гуманистический иудаизм",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Гуманистический иудаизм",
+      "description": "Еврейское гуманистическое движение, предлагающее нетеистическую форму общинной, культурной и этической жизни.",
+      "profile": "+humanism -divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Humanistic_Judaism"
+      ],
+      "notes": "Соответствует существующей записи «Светский гуманистический иудаизм» в religions.js: Humanistic Judaism обозначает это конкретное движение, а не любую светскую еврейскую идентичность. Само движение использует религиозно-общинные формы, поэтому nonreligious не выведен автоматически из нетеизма."
+    }
+  ]
+}

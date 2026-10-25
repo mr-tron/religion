@@ -1,0 +1,373 @@
+{
+  "range": [
+    526,
+    545
+  ],
+  "entries": [
+    {
+      "sourceIndex": 526,
+      "sourceName": "Vedda original religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия веддов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции веддов Шри-Ланки с местными божествами и почитанием умерших предков nae yaku.",
+      "profile": "+divine +many_gods +ancestors",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vedda"
+      ],
+      "notes": "Статья о народе отдельно описывает первоначальную политеистическую религию и последующие сочетания с буддизмом и индуизмом. Профиль относится к традиционным верованиям, а не к обязательным взглядам всех веддов. Исходная расовая рубрика Negrito не используется как религиозная классификация."
+    },
+    {
+      "sourceIndex": 527,
+      "sourceName": "Burusho shamanism",
+      "decision": "keep",
+      "canonicalName": "Шаманские традиции бурушо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Практики шаманских специалистов Хунзы с общением с горными духами и предсказаниями.",
+      "profile": "+nature_spirits +ritual",
+      "proposedQuestions": [
+        {
+          "id": "divination_oracles",
+          "text": "Считаете ли вы обращение к гаданию или оракулам важным способом духовного совета?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Уточняет прорицание у специалистов Хунзы, этрусскую гадательную дисциплину и хурритское гадание без автоматического отождествления с магией в occult. Повторяет предложение из партии 1–15; ответы остальных традиций требуют отдельной проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shamanism_in_Pakistan",
+        "https://asianethnology.org/article/148867-shamans-and-mountain-spirits-in-hunza",
+        "https://www.researchgate.net/publication/251986663_Shamans_and_Mountain_Spirits_in_Hunza"
+      ],
+      "notes": "Исходная статья имеет более широкое название «Шаманизм в Пакистане». Полевое исследование М. Х. Сидки подтверждает практику bitan в Хунзе; это не доказательство единой религии всех жителей Пакистана или всех бурушо. Исламская принадлежность не исключает сохранения локальных практик."
+    },
+    {
+      "sourceIndex": 528,
+      "sourceName": "Cucuteni–Trypillia religion",
+      "decision": "keep",
+      "canonicalName": "Ритуальные традиции Кукутень — Триполье",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Археологически изучаемые ритуальные практики культуры Кукутень — Триполье.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Religion_and_ritual_of_the_Cucuteni%E2%80%93Trypillia_culture",
+        "https://www.arheologie.ro/Preistorie/en/Pdf/no.11/nr.11%20cu%20link.pdf",
+        "https://adiu.com.ua/index.php/journal/article/view/310"
+      ],
+      "notes": "Предлагаемое семейство ancient_european. Сохраняется археологический ритуальный комплекс. Значения фигурок и гипотеза единой Великой богини спорны: дополнительная археологическая работа рассматривает альтернативные объяснения. Пантеон, культ предков и конкретные магические цели не закодированы по одному изображению."
+    },
+    {
+      "sourceIndex": 529,
+      "sourceName": "Elamite religion",
+      "decision": "keep",
+      "canonicalName": "Эламская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные политеистические культы древнего Элама с Иншушинаком, Напиришей и другими божествами.",
+      "profile": "+divine +many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Elam"
+      ],
+      "notes": "Предлагаемое семейство ancient_neareastern. Статья о государстве содержит отдельный раздел религии с местными пантеонами. Эламское происхождение не равнозначно тождеству поздним иранским религиям; заимствования богов не делают запись синонимом шумерской или хурритской религии."
+    },
+    {
+      "sourceIndex": 530,
+      "sourceName": "Etruscan religion",
+      "decision": "keep",
+      "canonicalName": "Этрусская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Древняя религиозная традиция этрусков с несколькими божествами, жречеством и гадательной дисциплиной.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [
+        {
+          "id": "divination_oracles",
+          "text": "Считаете ли вы обращение к гаданию или оракулам важным способом духовного совета?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Уточняет прорицание у специалистов Хунзы, этрусскую гадательную дисциплину и хурритское гадание без автоматического отождествления с магией в occult. Повторяет предложение из партии 1–15; ответы остальных традиций требуют отдельной проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Etruscan_religion"
+      ],
+      "notes": "Предлагаемое семейство ancient_european. Источник прямо различает этрусскую традицию и связанные с ней греческие и римские культы. Гаруспиция и другие способы получения божественных знаков описаны, но не приравнены автоматически к самостоятельной магии."
+    },
+    {
+      "sourceIndex": 531,
+      "sourceName": "Harappan religion",
+      "decision": "review",
+      "canonicalName": "Религия Хараппской цивилизации",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Кандидат на запись о религиозных практиках древней цивилизации долины Инда.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Religion_of_the_Indus_Valley_Civilization",
+        "https://sathee.iitk.ac.in/sathee-cuet/student-corner/ncert-books/class-12/themes-in-indian-history/chapter-01-bricks-beads-and-bones-the-harappan-civilisation/"
+      ],
+      "notes": "Review: письменность не дешифрована, а трактовки «протошивы», Великой богини и преемственности индуизму остаются спорными. Учебный материал NCERT прямо объясняет пределы переноса поздних религиозных аналогий на археологические предметы. Предлагаемое семейство ancient_southasian для древних религий Южной Азии: согласованные ancient_neareastern и ancient_european географически не подходят. Профиль пуст; не alias индуизма."
+    },
+    {
+      "sourceIndex": 532,
+      "sourceName": "Hurrian religion",
+      "decision": "keep",
+      "canonicalName": "Хурритская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Политеистические культы хурритских общин древнего Ближнего Востока с местными пантеонами и ритуалами.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [
+        {
+          "id": "divination_oracles",
+          "text": "Считаете ли вы обращение к гаданию или оракулам важным способом духовного совета?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Уточняет прорицание у специалистов Хунзы, этрусскую гадательную дисциплину и хурритское гадание без автоматического отождествления с магией в occult. Повторяет предложение из партии 1–15; ответы остальных традиций требуют отдельной проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hurrian_religion"
+      ],
+      "notes": "Предлагаемое семейство ancient_neareastern. Хорошо засвидетельствованы ритуальные тексты, подношения и гадания. Местные различия между Аррапхой, Киццуватной, Митанни и другими центрами не заменены одной обязательной системой. Включение хурритских культов в хеттскую среду не означает полной синонимии."
+    },
+    {
+      "sourceIndex": 533,
+      "sourceName": "Kushite religion",
+      "decision": "keep",
+      "canonicalName": "Религия древнего Куша",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические культы Куша в Нубии с местными и заимствованными божествами, храмовыми и погребальными обрядами.",
+      "profile": "+divine +many_gods +ancestors +afterlife +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kushite_religion",
+        "https://exhibitions.kelsey.lsa.umich.edu/graffiti-el-kurru/religion.php"
+      ],
+      "notes": "Предлагаемое семейство ancient_neareastern как уже используемая рамка для древнеегипетских и связанных нильских традиций; применимость к Нубии требует решения при объединении. Музей Мичиганского университета подтверждает местного Амона, Апедемака, подношения предкам и загробные представления. Египетское влияние не делает Куш синонимом древнеегипетской религии."
+    },
+    {
+      "sourceIndex": 534,
+      "sourceName": "Minoan religion",
+      "decision": "keep",
+      "canonicalName": "Минойская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозные практики минойского Крита, известные по святилищам, изображениям и предметам подношений.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Minoan_religion",
+        "https://www.cambridge.org/core/books/abs/cambridge-history-of-religions-in-the-ancient-world/minoan-religion/60054D223C8FD3307EDC72CF316EF4F0"
+      ],
+      "notes": "Предлагаемое семейство ancient_european. Идентификация фигур как богинь, жриц или участников обрядов, точный пантеон и его предполагаемое единство спорны. Академическая история религий показывает реконструктивный характер интерпретаций Эванса. Сохранены обряды; монотеизм, определённая Великая богиня и тождество поздней греческой религии не назначены."
+    },
+    {
+      "sourceIndex": 535,
+      "sourceName": "Nuragic religion",
+      "decision": "keep",
+      "canonicalName": "Нурагические религиозные традиции",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Археологически известные культы нурагической Сардинии со святилищами и обрядовым использованием воды.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nuragic_civilization",
+        "https://wires.onlinelibrary.wiley.com/doi/10.1002/wat2.1293",
+        "https://www.sardegnacultura.it/en/articles/i-templi"
+      ],
+      "notes": "Предлагаемое семейство ancient_european. Дополнительная археологическая публикация и региональный культурный портал подтверждают священные колодцы, подношения и храмовые комплексы. Имена и число богов, строгая пара Бог-Отец/Мать-Богиня и солярно-лунная схема не приняты за проверенную догматику."
+    },
+    {
+      "sourceIndex": 536,
+      "sourceName": "Sumerian religion",
+      "decision": "keep",
+      "canonicalName": "Шумерская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические религиозные традиции Шумера с городскими богами, подношениями и представлениями о мире умерших.",
+      "profile": "+divine +many_gods +ancestors +afterlife +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sumerian_religion"
+      ],
+      "notes": "Предлагаемое семейство ancient_neareastern. Источник подтверждает политеизм, храмовую практику и семейные возлияния умершим. Аккадские и поздние месопотамские традиции взаимодействовали с шумерскими, но не считаются точными синонимами. Наличие клинописных текстов не означает единого канона."
+    },
+    {
+      "sourceIndex": 537,
+      "sourceName": "Urartian religion",
+      "decision": "keep",
+      "canonicalName": "Урартская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческая религия государства Урарту с Халди и другими божествами и жертвенными обрядами.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Urartian_religion"
+      ],
+      "notes": "Предлагаемое семейство ancient_neareastern. Исходная статья подтверждает пантеон и ритуальные жертвы; спорные этимологии и происхождение Халди не закреплены. Общие мотивы с хурритскими, анатолийскими и месопотамскими культами не означают их тождества."
+    },
+    {
+      "sourceIndex": 538,
+      "sourceName": "Urmonotheismus",
+      "decision": "review",
+      "canonicalName": "Гипотеза прамонотеизма",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Теория о предполагаемом первоначальном единобожии человечества, связанная с Эндрю Лэнгом и Вильгельмом Шмидтом.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Urmonotheismus",
+        "https://dlib.si/stream/URN%3ANBN%3ASI%3ADOC-VWLLFQK9/409130f9-c856-435e-abb0-284dcd0fb94b/PDF"
+      ],
+      "notes": "Review: Urmonotheismus — историко-религиоведческая гипотеза, а не название установленной древней общины. Дополнительная научная работа подтверждает её теоретический характер. Согласие с гипотезой само по себе не определяет личную веру в единого Бога; +one_god не назначен."
+    },
+    {
+      "sourceIndex": 539,
+      "sourceName": "Urreligion",
+      "decision": "review",
+      "canonicalName": "Концепция первоначальной религии",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательное теоретическое понятие предполагаемой изначальной религии человечества.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Urreligion",
+        "https://en.wikipedia.org/wiki/Urmonotheismus",
+        "https://dlib.si/stream/URN%3ANBN%3ASI%3ADOC-VWLLFQK9/409130f9-c856-435e-abb0-284dcd0fb94b/PDF"
+      ],
+      "notes": "Review: Urreligion обозначает разные постулируемые первоначальные религии и употребляется также в религиозной апологетике. Не установлено единое учение или сообщество, отвечающее этому названию. Не alias прамонотеизма: Urmonotheismus — лишь одна гипотеза о характере такой религии. Профиль пуст."
+    },
+    {
+      "sourceIndex": 540,
+      "sourceName": "Ainu religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия айнов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Айнские традиции взаимодействия с камуями, сакральными силами природы и духами умерших.",
+      "profile": "+divine +many_gods +nature_spirits +ritual +afterlife +fire",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ainu_religion"
+      ],
+      "notes": "Источник описывает камуев в природных силах и предметах, подношения и богиню огня Камуй-хути, через очаг которой душа переходит в иной мир. Камуи не приравнены автоматически к синтоистским ками. Современная этническая принадлежность не означает обязательного следования традиции."
+    },
+    {
+      "sourceIndex": 541,
+      "sourceName": "Itelmen religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования ительменов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Ительменские представления о Кутхе, других божествах и духах моря, леса и гор.",
+      "profile": "+divine +many_gods +nature_spirits",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Itelmens"
+      ],
+      "notes": "Раздел Religion статьи о народе подтверждает политеизм и природных духов. Сведения Стеллера отражают историческое описание; создатель Кутх не считался автоматически объектом благоговейного поклонения. Не синоним всех сибирских шаманских традиций."
+    },
+    {
+      "sourceIndex": 542,
+      "sourceName": "Koryak religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования коряков",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Корякские представления о верховном небесном существе и Большом Вороне.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Koryaks"
+      ],
+      "notes": "Источник о народе описывает верховное существо и мифы Куйкиля. Этого недостаточно для назначения единобожия, универсального природного анимизма или одинаковой обрядности всем корякским группам. Сходство вороньих сюжетов с другими народами не доказывает синонимии."
+    },
+    {
+      "sourceIndex": 543,
+      "sourceName": "Nivkh traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия нивхов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Нивхские традиции с природными божествами, родовыми духами, почитанием огня и подношениями.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +fire",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nivkh_people"
+      ],
+      "notes": "Статья подтверждает богов мест и природы, «кормление» моря и огня, связь огня с предками и защитой рода. Медвежий праздник и шаманская практика — элементы традиции, а не тождество всем соседним религиям."
+    },
+    {
+      "sourceIndex": 544,
+      "sourceName": "Yukaghir shamanism",
+      "decision": "keep",
+      "canonicalName": "Юкагирские шаманские традиции",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Юкагирские практики с духами предков, природных сил, шаманами алма и охотничьими обрядами.",
+      "profile": "+divine +nature_spirits +ancestors +ritual +afterlife +fire",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yukaghir_people"
+      ],
+      "notes": "Источник описывает Пугу, духов огня и других природных сил, посмертное место Айбидзи и почитание умерших шаманов. Исторические обряды не объявлены обязательными для всех современных юкагиров; православие может сосуществовать с локальными практиками."
+    },
+    {
+      "sourceIndex": 545,
+      "sourceName": "Ancestor Worship",
+      "decision": "keep",
+      "canonicalName": "Китайское почитание предков",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Китайские семейно-родовые практики поминовения предков, обрядов и подношений.",
+      "profile": "+ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ancestor_veneration_in_China"
+      ],
+      "notes": "Название источника Ancestor Worship шире содержания: ссылка именно о Китае. Сохранён китайский ритуальный комплекс, а не универсальная религия всех почитателей предков. Он пересекается с конфуцианством, даосизмом, буддизмом и китайской народной религией, но не тождествен каждому из них; одинаковое богословие всем участникам не назначено."
+    }
+  ]
+}

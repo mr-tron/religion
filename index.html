@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f1e9">
+  <meta name="description" content="Адаптивный опрос о религиях и нерелигиозных мировоззрениях">
+  <title>Компас мировоззрений</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="questions.js"></script>
+  <script defer src="religions.js"></script>
+  <script defer src="catalog.js"></script>
+  <script defer src="engine.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <div class="shell">
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="Компас мировоззрений — начало"><span class="brand-mark">✳</span><span>КОМПАС<br>МИРОВОЗЗРЕНИЙ</span></a>
+      <span class="top-note">Исследование взглядов · без регистрации</span>
+      <button class="text-button" id="about-button" type="button">Как это работает <span aria-hidden="true">↗</span></button>
+    </header>
+
+    <main>
+      <section class="intro" id="intro">
+        <div class="eyebrow"><span class="eyebrow-line"></span> ИНТЕРАКТИВНЫЙ АТЛАС УБЕЖДЕНИЙ</div>
+        <h1>Где на карте идей<br><em>ваше место?</em></h1>
+        <p class="lead">Отвечайте на простые вопросы о том, во что верите и как видите мир. Компас будет выбирать следующий вопрос по вашим ответам и покажет ближайшие традиции и мировоззрения.</p>
+        <div class="intro-actions"><button class="primary-button" id="start-button" type="button">Начать исследование <span aria-hidden="true">↗</span></button><span class="microcopy">Без заданной длины · можно остановиться в любой момент</span></div>
+        <div class="stats" id="stats"></div>
+      </section>
+
+      <section class="quiz hidden" id="quiz" aria-live="polite">
+        <div class="quiz-top"><span class="eyebrow">ВАШ МАРШРУТ</span><div class="quiz-navigation"><button type="button" class="back-button" id="back-button"><span class="back-arrow" aria-hidden="true">←</span> Отменить ответ</button><span id="question-number"></span></div></div>
+        <div class="progress-track"><div id="progress-fill"></div></div>
+        <div class="question-layout">
+          <div class="question-main"><div class="question-category" id="question-category"></div><h2 id="question-text"></h2><p id="question-hint"></p><div class="answer-grid" id="answers"></div></div>
+          <aside class="quiz-aside"><div class="aside-icon">✳</div><div class="aside-label">КАК ИДЁТ ПОИСК</div><p id="search-note">Начнём с широких различий, затем перейдём к деталям.</p><div class="aside-divider"></div><span id="remaining-note"></span></aside>
+        </div>
+        <div class="quiz-bottom"><button type="button" class="text-button" id="results-button">Показать близкие варианты →</button></div>
+      </section>
+
+      <section class="results hidden" id="results">
+        <div class="eyebrow"><span class="eyebrow-line"></span> ВАША КАРТА БЛИЗОСТИ</div>
+        <h2>Похожие <em>пути и идеи</em></h2>
+        <p class="results-lead" id="result-summary"></p>
+        <div id="result-list" class="result-list"></div>
+        <div class="results-actions"><button type="button" class="primary-button" id="continue-button">Уточнить результат <span aria-hidden="true">↗</span></button><button type="button" class="secondary-button" id="edit-answer-button">← Исправить последний ответ</button><button type="button" class="secondary-button" id="restart-button">Начать заново</button></div>
+        <p class="caveat">Это исследовательская подсказка, а не определение вашей принадлежности. Внутри традиций есть разные взгляды; самоопределение человека важнее любого алгоритма.</p>
+      </section>
+    </main>
+
+    <footer><span>✳ Компас мировоззрений</span><span>Все ответы остаются на устройстве · <button type="button" class="footer-link" id="catalog-button">Каталог и источники</button> · <a class="footer-link" href="https://github.com/mr-tron/religion" target="_blank" rel="noopener noreferrer">GitHub ↗</a></span></footer>
+  </div>
+
+  <dialog id="info-dialog"><div class="dialog-head"><span class="eyebrow">О ПРОЕКТЕ</span><button class="dialog-close" id="close-dialog" type="button" aria-label="Закрыть">×</button></div><div id="dialog-content"></div></dialog>
+</body>
+</html>

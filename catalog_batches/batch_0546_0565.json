@@ -1,0 +1,334 @@
+{
+  "range": [
+    546,
+    565
+  ],
+  "entries": [
+    {
+      "sourceIndex": 546,
+      "sourceName": "Banrawat religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования банраватов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования банраватов Гималаев с божествами леса и неба, солнечным божеством Дихо и клановыми предками.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Banrawats"
+      ],
+      "notes": "Статья о народе содержит отдельный раздел Deities. Заимствованные индуистские имена не делают весь комплекс синонимом индуизма. Банраваты связаны с более широкой группой раджи, но тождество всех местных религиозных традиций не установлено."
+    },
+    {
+      "sourceIndex": 547,
+      "sourceName": "Bathouism",
+      "decision": "keep",
+      "canonicalName": "Батхоуизм",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренная религия боро Ассама с почитанием Батхоубврая, Майнао и других божеств, домашними алтарями и общинными обрядами.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bathouism"
+      ],
+      "notes": "Наличие верховного божества не приравнивается к отрицанию других богов. Современные ветви и реформы неоднородны; особенности одной ветви не назначаются всем. Огонь как один из пяти элементов не достаточен для признака особого культа священного огня."
+    },
+    {
+      "sourceIndex": 548,
+      "sourceName": "Benzhuism",
+      "decision": "keep",
+      "canonicalName": "Бэньчжу — местные культы народа бай",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Культы местных божеств-покровителей и обожествлённых предков народа бай в районе Дали.",
+      "profile": "+divine +many_gods +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Benzhuism",
+        "https://researchportal.hkust.edu.hk/en/studentTheses/the-blessing-of-village-god-benzhu-constructing-family-ties-and-p/"
+      ],
+      "notes": "Исходная статья опирается на ограниченный круг источников; университетское полевое исследование подтверждает самостоятельные местные культы бэньчжу. Сходство с «Китайская народная религия» не означает точной синонимии; религиозная идентичность всех бай не предполагается одинаковой."
+    },
+    {
+      "sourceIndex": 549,
+      "sourceName": "Biate religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования биате",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические верования биате с верховным Чунг Патхианом, земным божеством Нуаиа Малалом и другими божественными силами.",
+      "profile": "+divine +many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Biate_people"
+      ],
+      "notes": "Статья о народе прямо выделяет религию до христианизации. Верховное положение Чунг Патхиана не означает строгий монотеизм; современное христианство биате не подменяет традиционный компонент."
+    },
+    {
+      "sourceIndex": 550,
+      "sourceName": "Bimoism",
+      "decision": "keep",
+      "canonicalName": "Бимоизм",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные религиозные традиции народа и с жрецами бимо, ритуальными текстами, почитанием предков и природных божеств.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +scripture +reincarnation +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bimoism"
+      ],
+      "notes": "Статья подтверждает письменные жреческие тексты и различие бимо и суни, обряды умерших и представления о нескольких душах и перерождении. Религиозный корпус и не считается тем же каноном, что у соседних народов. Не alias общей китайской народной религии."
+    },
+    {
+      "sourceIndex": 551,
+      "sourceName": "Burmese folk religion",
+      "decision": "keep",
+      "canonicalName": "Бирманские народные верования — почитание натов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Бирманские традиции почитания духов натов, подношений и медиумических праздников, часто сочетающиеся с буддизмом.",
+      "profile": "+nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Burmese_folk_religion"
+      ],
+      "notes": "Сохранён народный компонент, а не тождество всей Тхераваде. Исходная статья описывает вариативность отношений натов и буддийских практик; полемические колониальные противопоставления религий не используются как универсальные правила."
+    },
+    {
+      "sourceIndex": 552,
+      "sourceName": "Chang religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования чанг-нага",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические верования чанг-нага с духами воды, неба, леса и рисовых полей и сезонными жреческими обрядами.",
+      "profile": "+nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chang_Naga"
+      ],
+      "notes": "Исходная статья о народе прямо описывает традиционный компонент. Не переносим современную христианскую принадлежность большинства. Статья отдельно отрицает культ семейных, клановых и деревенских божеств; почитание предков не добавлено по общему семейному профилю."
+    },
+    {
+      "sourceIndex": 553,
+      "sourceName": "Chinese folk religion in Southeast Asia",
+      "decision": "keep",
+      "canonicalName": "Китайские народные традиции Юго-Восточной Азии",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Китайская народная религия",
+      "description": "Региональные китайские народные религиозные практики диаспоры Юго-Восточной Азии, взаимодействующие с местными культами.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chinese_folk_religion_in_Southeast_Asia"
+      ],
+      "notes": "Региональная совокупность уже существующей «Китайская народная религия», а не её точный синоним. Источник подтверждает почитание местных и китайских божеств и храмовые практики. Частные индуистские или христианские заимствования не назначаются всем общинам."
+    },
+    {
+      "sourceIndex": 554,
+      "sourceName": "Chutia religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные культы чутия",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические религиозные традиции чутия Ассама с мужскими и женскими божествами и культом Кечайкхати.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chutia_people"
+      ],
+      "notes": "Исходная статья о народе содержит религиозный раздел. Связь с жрецами деори и сходство отдельных имён с батхоуизмом не доказывают полного тождества традиций; последующую санскритизацию и экасарана-дхарму не назначаем исходному профилю."
+    },
+    {
+      "sourceIndex": 555,
+      "sourceName": "Daba",
+      "decision": "keep",
+      "canonicalName": "Даба — ритуальная традиция на (мосо)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местная традиция на/мосо с жрецами даба, обрядами жизненного цикла, предками и сопровождением души умершего.",
+      "profile": "+ancestors +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Daba_(religion)"
+      ],
+      "notes": "Название относится также к жрецам. Тибетский буддизм взаимодействует с этой традицией, но не заменяет её полностью. Сходство с дунба соседних наси не доказывает синонимии."
+    },
+    {
+      "sourceIndex": 556,
+      "sourceName": "Dongba",
+      "decision": "keep",
+      "canonicalName": "Дунба — религиозная традиция наси",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозная традиция наси с жрецами дунба, ритуальными текстами и обрядами взаимодействия с богами и духами природы.",
+      "profile": "+divine +many_gods +nature_spirits +ritual +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dongba"
+      ],
+      "notes": "Dongba обозначает и традицию, и её жрецов. Предполагаемое происхождение от бон и легендарный наставник Дунба Шило не делают её точным синонимом бон. Даба и хангуй относятся к другим местным традициям."
+    },
+    {
+      "sourceIndex": 557,
+      "sourceName": "Faism",
+      "decision": "keep",
+      "canonicalName": "Фацзяо — традиции китайских мастеров обрядов",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Китайская народная религия",
+      "description": "Китайские традиции ритуальных специалистов фаши, выполняющих защитные, лечебные и общинные обряды.",
+      "profile": "+ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Faism",
+        "https://en.wikipedia.org/wiki/Chinese_ritual_mastery_traditions",
+        "https://ah.lib.nccu.edu.tw/item?item_id=85290&locale=zh_TW"
+      ],
+      "notes": "Исходный URL Faism недоступен; рабочая статья Chinese ritual mastery traditions прямо называет Faism вариантом названия. Академический источник подтверждает обряды фаши. Это более узкий круг практик внутри китайской народной религии, а не точный синоним всего даосизма или школы Чжэнъи."
+    },
+    {
+      "sourceIndex": 558,
+      "sourceName": "Gurung shamanism",
+      "decision": "keep",
+      "canonicalName": "Шаманские традиции гурунгов (таму-чо)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные духовные традиции гурунгов Непала с жрецами пачью, кхлепре и бонпо-лам, предками и обрядами отправления души в их страну.",
+      "profile": "+divine +ancestors +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gurung_shamanism"
+      ],
+      "notes": "Источник подтверждает таму-чо как местное название и считает обозначение Gurung dharma неточным. Письменный тибетский бон, буддизм всех гурунгов и местная устная жреческая практика не отождествлены. Частные формы погребения не назначаются всем общинам."
+    },
+    {
+      "sourceIndex": 559,
+      "sourceName": "Hangui",
+      "decision": "keep",
+      "canonicalName": "Хангуй — ритуальная традиция пуми",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Ритуальная традиция пуми/преми, связанная с местными жрецами, предками и сильным влиянием тибетского буддизма.",
+      "profile": "+ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pumi_people",
+        "https://uw.manifoldapp.org/read/untitled-1c151cfe-72b4-4647-8072-59893bbfb505/section/0b072c38-49fb-4818-9c21-dd7fb312a049"
+      ],
+      "notes": "Университетская этнография уточняет, что hangui означает и практику, и исполнителя; различает местные и исторические формы. Обобщённое описание статьи о народе не используется для тождества хангуй всем формам бон, дунба или тибетского буддизма."
+    },
+    {
+      "sourceIndex": 560,
+      "sourceName": "Hani religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования хани",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования хани с множеством божеств, почитанием предков и разными категориями ритуальных специалистов.",
+      "profile": "+divine +many_gods +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hani_people"
+      ],
+      "notes": "Исходная статья о народе подтверждает отдельный традиционный религиозный компонент. Буддизм части хани не назначается всем; принадлежность акха к родственному кругу не доказывает полного тождества религий."
+    },
+    {
+      "sourceIndex": 561,
+      "sourceName": "Honghari",
+      "decision": "keep",
+      "canonicalName": "Хонгхари — традиционные верования карби",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные традиции карби с божествами Хемпху, Мукрангом и Расингджей, духами-покровителями и погребальными обрядами Чоманкан.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +afterlife +reincarnation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Honghari",
+        "https://www.khm.uio.no/english/collections/karbi/religion-and-ritual/index.html"
+      ],
+      "notes": "Исходная статья отражает вариативность названий и отношения к индуизму. Музей Университета Осло подтверждает самостоятельные местные верования, мир умерших и перерождение. Индуистское самоопределение части последователей не делает всю традицию точным синонимом индуизма."
+    },
+    {
+      "sourceIndex": 562,
+      "sourceName": "Jingpo religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования цзинпо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования цзинпо с божественными силами и духами, населяющими природный мир, и защитными обрядами повседневной жизни.",
+      "profile": "+divine +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jingpo_people"
+      ],
+      "notes": "Исходная статья о народе отличает традиционные верования от современных христианства и тхеравады. Не весь этнический комплекс качинов автоматически отождествлён с религией цзинпо; отдельные названия духов не являются самостоятельными конфессиями."
+    },
+    {
+      "sourceIndex": 563,
+      "sourceName": "Jurchen/Qing shamanism",
+      "decision": "keep",
+      "canonicalName": "Чжурчжэньские и цинские шаманские традиции",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Маньчжурский шаманизм",
+      "description": "Исторические чжурчжэньские и маньчжурские шаманские практики, включая родовые культы и придворные обряды династии Цин.",
+      "profile": "+divine +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shamanism_during_the_Qing_dynasty"
+      ],
+      "notes": "Существенно пересекается с сохранённым «Маньчжурский шаманизм» (183), но исходная статья выделяет исторический чжурчжэньский и цинский материал, включая кодификацию двора. Сохранена как исторически ограниченная запись, а не доказанный полный синоним всех маньчжурских практик. Предписания двора не назначаются каждому клану."
+    },
+    {
+      "sourceIndex": 564,
+      "sourceName": "Kan Khwan",
+      "decision": "keep",
+      "canonicalName": "Кан Кхван",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренная религиозная традиция каянов Мьянмы с праздником Кей Хто Бо, сакральным столбом и гадательными практиками.",
+      "profile": "+divine +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kayan_people_(Myanmar)"
+      ],
+      "notes": "Статья о народе прямо называет Kan Khwan и описывает обряд творения мира и гадание по куриным костям. Миграция из Монголии в бронзовом веке не принята как проверенное датирование религии. Не путать каянов Мьянмы с одноимёнными народами Борнео."
+    },
+    {
+      "sourceIndex": 565,
+      "sourceName": "Karen animism",
+      "decision": "keep",
+      "canonicalName": "Традиционные анимистические верования каренов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования каренских групп в жизненное начало клар, духов мест и предков, с обрядами возвращения души и подношений.",
+      "profile": "+divine +nature_spirits +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Karen_people",
+        "https://ehrafworldcultures.yale.edu/cultures/ap07/summary"
+      ],
+      "notes": "Статья о народах описывает религиозное разнообразие. Этнографический обзор eHRAF независимо подтверждает духов природы, матрилинейный культ предков и обряды; буддийские и христианские доктрины не наследуются автоматически. Частные каренские группы и движения не считаются точными синонимами всего комплекса."
+    }
+  ]
+}

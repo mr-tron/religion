@@ -1,0 +1,339 @@
+{
+  "range": [
+    746,
+    765
+  ],
+  "entries": [
+    {
+      "sourceIndex": 746,
+      "sourceName": "Ringing Cedars' Anastasianism",
+      "decision": "review",
+      "canonicalName": "Анастасийство — движение «Звенящие кедры России»",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение вокруг книг Владимира Мегре, объединяющее духовные поиски с идеями родовых поместий и экологических поселений.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ringing_Cedars%27_Anastasianism",
+        "https://dspace.ut.ee/bitstreams/eec75046-382e-408b-8834-de27a73c8db8/download"
+      ],
+      "notes": "Review: нейтральность и сбалансированность исходной статьи оспариваются. Университетская работа независимо подтверждает движение, роль книг и практику поселений. Отнесение всего движения к родноверию неоднозначно; общины различаются, поэтому специфические космологические убеждения не распространены на всех. Не alias русского аутентизма или кандыбизма."
+    },
+    {
+      "sourceIndex": 747,
+      "sourceName": "Russian Authentism",
+      "decision": "keep",
+      "canonicalName": "Русский аутентизм",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Родноверие",
+      "description": "Духовно-философское движение Сергея Семёнова, связанное с союзом «Тезаурус» и идеей раскрытия божественной природы человека.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Russian_Authentism"
+      ],
+      "notes": "Russian Authentism и учение союза «Тезаурус» относятся к одному движению. Выражение «русский ведизм» используется также другими авторами; это не основание объединять аутентизм с движениями Кандыбы или Безверхого. Медицинские и психологические притязания не закодированы как доказанные эффекты."
+    },
+    {
+      "sourceIndex": 748,
+      "sourceName": "Russian vedism",
+      "decision": "keep",
+      "canonicalName": "Русский ведизм Кандыбы (кандыбизм)",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Родноверие",
+      "description": "Современное религиозное учение Виктора и Дмитрия Кандыбы с монотеистической космологией и эзотерическими практиками.",
+      "profile": "+divine +one_god +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Russian_vedism"
+      ],
+      "notes": "Исходная статья с широким заголовком описывает конкретно Russian Religion / Kandybaism. Запись ограничена этим движением. Не alias всех течений, называющих себя русским ведизмом, родноверия или индуизма. Признак vedas не назначен: название не доказывает авторитет индуистских Вед."
+    },
+    {
+      "sourceIndex": 749,
+      "sourceName": "Seax-Wica",
+      "decision": "keep",
+      "canonicalName": "Сикс-викка (Seax-Wica)",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Викка",
+      "description": "Созданная Рэймондом Баклендом в 1973 году викканская традиция с англосаксонской символикой и открыто изложенной практикой.",
+      "profile": "+ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Seax-Wica"
+      ],
+      "notes": "Seax-Wica и Saxon Witchcraft — названия одной традиции. Книга The Tree служит руководством, но её наличие не принято за обязательный признак священного писания. Не реконструкция средневековой религии саксов и не alias всего хетенри; допускается самостоятельное посвящение."
+    },
+    {
+      "sourceIndex": 750,
+      "sourceName": "Stregheria",
+      "decision": "keep",
+      "canonicalName": "Стрегерия",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современные итальянские и италоамериканские колдовские религиозные традиции с почитанием богини и рогатого бога.",
+      "profile": "+divine +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Stregheria"
+      ],
+      "notes": "Отношение к Викке трактуется по-разному; сходство не доказывает синонимию. Сохранена современная категория, а не утверждение непрерывного существования средневековой религии ведьм. Учения Рэйвена Гримасси не отождествлены со всем итальянским народным колдовством."
+    },
+    {
+      "sourceIndex": 751,
+      "sourceName": "Summum",
+      "decision": "review",
+      "canonicalName": "Суммум",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Американское эзотерическое движение Корки Ноуэлла, соединяющее учение о принципах творения с медитацией и обрядами перехода после смерти.",
+      "profile": "+meditation +ritual +afterlife +reincarnation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Summum",
+        "https://www.summum.us/about/welcome.shtml",
+        "https://www.latimes.com/archives/la-xpm-2000-jul-02-me-46896-story.html"
+      ],
+      "notes": "Review: исходник предупреждает об избыточной опоре на собственные публикации движения. Официальное описание подтверждает практики и верования, но не их сверхъестественную действенность или заявленную древнюю преемственность. Независимая публикация также связывает движение с верой в переселение душ; полный текст этой газетной статьи не использован для расширения профиля."
+    },
+    {
+      "sourceIndex": 752,
+      "sourceName": "Technopaganism",
+      "decision": "keep",
+      "canonicalName": "Техноязычество",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнородные современные языческие практики, использующие цифровую среду и придающие технологиям духовное или магическое значение.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Technopaganism"
+      ],
+      "notes": "Зонтичная категория для адаптаций обрядов к интернету и более глубокого соединения технологий с духовными представлениями. Общая теология отсутствует; использование интернета само по себе не доказывает научного натурализма, а цифровой анимизм не равен вере в природных духов. Не alias всей Викки."
+    },
+    {
+      "sourceIndex": 753,
+      "sourceName": "Temple of Priapus",
+      "decision": "keep",
+      "canonicalName": "Храм Приапа",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Североамериканское неоязыческое религиозное объединение с сакрализацией мужской сексуальности и символики Приапа.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Temple_of_Priapus"
+      ],
+      "notes": "Temple of Priapus и St. Priapus Church — названия организации, связанной с Д. Ф. Кэссиди и монреальской общиной. Не синоним исторического культа Приапа или всего Эллинизма. Сведения об обрядовых действиях не дают оснований приписывать всем членам единое представление о буквальном существовании богов."
+    },
+    {
+      "sourceIndex": 754,
+      "sourceName": "Tensegrity",
+      "decision": "keep",
+      "canonicalName": "Тенсегрити Карлоса Кастанеды",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современная система духовно-телесных практик Кастанеды и его соратников, включающая движения, работу с вниманием и сновидениями.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carlos_Castaneda",
+        "https://www.castaneda.com/pages/about-us"
+      ],
+      "notes": "Исходный URL посвящён биографии Кастанеды. Сайт Cleargreen отдельно подтверждает существование и содержание Tensegrity. Заявленная связь с доиспанскими толтекскими и яки традициями не принята как достоверная этнография; это современная практика, а не alias религии яки или инженерного понятия tensegrity."
+    },
+    {
+      "sourceIndex": 755,
+      "sourceName": "Universal Eclectic Wicca",
+      "decision": "review",
+      "canonicalName": "Универсальная эклектическая викка",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Викка",
+      "description": "Американская викканская традиция и связанная с ней Church of Universal Eclectic Wicca, допускающая разнообразие личных толкований и самостоятельную практику.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Universal_Eclectic_Wicca",
+        "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/wiccan-religion-and-contemporary-paganism"
+      ],
+      "notes": "Review: исходная статья помечена как возможное оригинальное исследование. Энциклопедическое описание независимо подтверждает название, интернет-обучение и ритуальную деятельность; исторические даты и организационные детали источников различаются. Это конкретная традиция, а не alias любой эклектической Викки."
+    },
+    {
+      "sourceIndex": 756,
+      "sourceName": "Urban shamanism",
+      "decision": "review",
+      "canonicalName": "Городской шаманизм",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательное обозначение современных шаманских и неошаманских практик в городской среде.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Urban_shamanism",
+        "https://eo.iea.ras.ru/en/article/4533/",
+        "https://www.tandfonline.com/doi/abs/10.2753/AAE1061-1959510305"
+      ],
+      "notes": "Review: исходник предупреждает об оригинальном исследовании и определяет термин преимущественно через западные адаптации. Академические исследования употребляют его также в отношении городских бурятских и иных этнических практик. Нужно уточнить охват; не alias всего неошаманизма или только Core Shamanism. Профиль не выведен из обобщённых нейробиологических рассуждений."
+    },
+    {
+      "sourceIndex": 757,
+      "sourceName": "Vseyasvetnaya Gramota",
+      "decision": "keep",
+      "canonicalName": "Всеясветная грамота",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Родноверие",
+      "description": "Современное эзотерическое движение Анания Шубина-Абрамова, связывающее сакральную письменность, язык, космос и божественное.",
+      "profile": "+divine +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vseyasvetnaya_Gramota"
+      ],
+      "notes": "Название относится к движению и его учению о буквах, а не к установленной древней системе письма. Заявленная первичность алфавита по отношению ко всем письменностям представлена как убеждение сторонников. Не alias православного христианства, несмотря на употребление участниками слова «православный»."
+    },
+    {
+      "sourceIndex": 758,
+      "sourceName": "Wicca",
+      "decision": "alias",
+      "canonicalName": "Викка",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современная языческая религия с разнообразными ритуальными и духовными традициями.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wicca"
+      ],
+      "notes": "Точное совпадение с существующей записью «Викка» в religions.js; широкая категория не объединяет отдельные викканские линии в aliases. Существующий профиль в этой партии не пересматривается."
+    },
+    {
+      "sourceIndex": 759,
+      "sourceName": "Wiccan Churches",
+      "decision": "review",
+      "canonicalName": "Викканские церкви",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Викка",
+      "description": "Обобщающее обозначение публичных религиозных организаций викканской среды, объединяющих общины или предоставляющих открытые службы.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wiccan_church",
+        "https://en.wikipedia.org/wiki/Wiccan_organisation",
+        "https://www.wiccanada.ca/about.html"
+      ],
+      "notes": "Review: исходная ссылка Wiccan_church не открылась; доступна статья Wiccan organisation и примеры реальных церквей. Это организационная категория, а не подтверждённая единая деноминация. Нужно определить, нужна ли общая запись или отдельные организации. Не alias Викки или одной Church of Universal Eclectic Wicca."
+    },
+    {
+      "sourceIndex": 760,
+      "sourceName": "Ár nDraíocht Féin",
+      "decision": "keep",
+      "canonicalName": "Ár nDraíocht Féin — друидическое содружество ADF",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Друидизм",
+      "description": "Основанное Айзеком Боневитсом современное друидическое объединение, использующее различные индоевропейские религиозные традиции.",
+      "profile": "+divine +many_gods +ancestors +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/%C3%81r_nDra%C3%ADocht_F%C3%A9in"
+      ],
+      "notes": "Конкретная организация и обрядовая традиция, а не alias всего Друидизма. Источник прямо описывает почитание трёх родов: божеств, предков и природных духов. Кельтское имя не ограничивает практику одним кельтским пантеоном; сравнительное изучение Вед не означает обязательного признака vedas."
+    },
+    {
+      "sourceIndex": 761,
+      "sourceName": "Association for Research and Enlightenment",
+      "decision": "keep",
+      "canonicalName": "Ассоциация исследований и просвещения Эдгара Кейси (A.R.E.)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Организация, основанная в 1931 году для сохранения материалов Эдгара Кейси и изучения духовных и парапсихологических тем.",
+      "profile": "+meditation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Association_for_Research_and_Enlightenment"
+      ],
+      "notes": "Исходник посвящён организации и подтверждает группы молитвы и медитации, хранение ясновидческих чтений и духовные занятия. Это не единая обязательная вера всех участников и не alias всего Нью-эйдж. Заявления об оздоровлении не использованы как научные выводы."
+    },
+    {
+      "sourceIndex": 762,
+      "sourceName": "Church Universal and Triumphant",
+      "decision": "keep",
+      "canonicalName": "Церковь вселенская и торжествующая",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Эзотерическая религиозная организация Элизабет Клэр Профет, основанная на учениях вознесённых владык и духовной эволюции человека.",
+      "profile": "+divine +reincarnation +karma +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Church_Universal_and_Triumphant"
+      ],
+      "notes": "Church Universal and Triumphant связана с Summit Lighthouse, но организационная история не означает точной синонимии всех употреблений этих названий. Христианские имена и мотивы сочетаются с другими учениями; профиль христианства автоматически не перенесён. Пророчества о катастрофе описаны как исторические убеждения движения."
+    },
+    {
+      "sourceIndex": 763,
+      "sourceName": "Mayanism",
+      "decision": "keep",
+      "canonicalName": "Майянизм Нью-эйдж",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность современных эзотерических представлений, использующих переосмысленное наследие майя и идеи духовной трансформации.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mayanism"
+      ],
+      "notes": "Не alias исторической или современной религии народов майя и не академическая майянистика. Единого канона или обязательного для всех ожидания конца света нет. Утверждения об Атлантиде и древних космических контактах переданы как взгляды отдельных авторов, а не исторические факты."
+    },
+    {
+      "sourceIndex": 764,
+      "sourceName": "Michael Teachings",
+      "decision": "review",
+      "canonicalName": "Учения Майкла",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Комплекс духовных учений Нью-эйдж, передаваемых через ченнелинг коллективной сущности Майкл и посвящённых развитию души и перерождению.",
+      "profile": "+reincarnation +afterlife +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Michael_Teachings",
+        "https://michaelteachings.com/",
+        "https://mail.michaelteachings.com/mfaq.html"
+      ],
+      "notes": "Review: исходник отмечает недостаток подтверждающих ссылок. Сайт сообщества независимо подтверждает содержание учения о циклах воплощения; остаются различные каналы и версии. Майкл здесь не архангел Михаил. Учение не требует считать себя отдельной организованной религией; материальное существование сущности не утверждается."
+    },
+    {
+      "sourceIndex": 765,
+      "sourceName": "Rainbow Family",
+      "decision": "keep",
+      "canonicalName": "Радужная семья (Rainbow Family)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Децентрализованная контркультурная сеть встреч, объединяемых идеями мира, сообщества и духовного поиска.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rainbow_Family"
+      ],
+      "notes": "Источник описывает движение и собрания, а не единую религиозную деноминацию. Медитация и совместное молчание характерны для встреч, но теология и личные убеждения разнообразны. Интерес части участников к энтеогенам не принят за обязательное религиозное таинство каждого участника."
+    }
+  ]
+}

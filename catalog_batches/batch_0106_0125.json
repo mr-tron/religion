@@ -1,0 +1,369 @@
+{
+  "range": [
+    106,
+    125
+  ],
+  "entries": [
+    {
+      "sourceIndex": 106,
+      "sourceName": "Myal",
+      "decision": "keep",
+      "canonicalName": "Миал",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Афро-ямайская духовная традиция с ритуальными танцами, общением с духами и целительными практиками.",
+      "profile": "+ritual +spirit_possession +ancestors +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Myal",
+        "https://nljdigital.nlj.gov.jm/collections/show/6",
+        "https://www.loc.gov/item/hlas-bi81101047/",
+        "https://academic.oup.com/book/7570",
+        "https://escholarship.org/content/qt15m4j459/qt15m4j459.pdf"
+      ],
+      "notes": "Исходная статья содержит разноречивые утверждения о происхождении миал. Национальная библиотека Ямайки относит танцы миал к африканскому наследию и прямо подтверждает их религиозную функцию и вселение духов. Каталог Library of Congress характеризует миал как афро-ямайское движение XVIII века; рассказ о первоначально аравакском происхождении не принят за установленный факт. С родственным обеа не объединено. Проверка 2026-10: Национальная библиотека Ямайки прямо подтверждает вселение духов в религиозных танцах Myal. Исследование в репозитории UC Berkeley, опирающееся на интервью с марунами, описывает Myal как общение с предками посредством одержимости. Добавлены +spirit_possession, +ancestors и +afterlife; поздние христианские признаки Revivalism не перенесены на всю запись."
+    },
+    {
+      "sourceIndex": 107,
+      "sourceName": "N'um",
+      "decision": "keep",
+      "canonicalName": "Нум: целительные трансовые практики сан",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Практики некоторых общин сан, связывающие ночной танец, пение и состояние киа с целительной силой нум.",
+      "profile": "+ritual +divine +many_gods +occult",
+      "proposedQuestions": [
+        {
+          "id": "healing_trance",
+          "text": "Считаете ли вы обрядовый транс важным способом духовного исцеления?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отражает нум и киа у сан и помогает сопоставлять их с целительными обрядами миал, ндау и другими трансовыми практиками. В отличие от вопроса о вселении духов, не предполагает, что транс объясняется присутствием отдельного духа."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/San_healing_practices",
+        "https://psychiatryonline.org/doi/full/10.1176/appi.pn.1981.16.5.34",
+        "https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/eth.1982.10.4.02a00050"
+      ],
+      "notes": "Нум — название духовной силы в описываемых целительных практиках, а не подтверждённое название единой религии всех сан. Практика сохранена на допустимом узком уровне. Сам по себе транс не доказывает ритуального вселения духов; fire не выставлен, поскольку танец у костра ещё не означает самостоятельного культа священного огня. Проверка 2026-10: Публикация The Healing Dance (Psychiatric News, 1981) непосредственно передаёт доклад полевого исследователя Richard Katz: в танце участвует духовная сила n/um, боги понимаются как человекоподобные образы силы, душа целителя выходит из тела. Это основания +divine, +many_gods и +occult в смысле специальных духовных техник. Не добавлены possession, буквальное посмертное воскресение или передача энергии руками; предложенный healing_trance всё ещё точнее описывает центральную практику."
+    },
+    {
+      "sourceIndex": 108,
+      "sourceName": "Ndau witchcraft",
+      "decision": "keep",
+      "canonicalName": "Магические и медиумические практики ндау",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционные практики ндау Мозамбика и Зимбабве, связанные с духами предков, подношениями, гаданием и целителями нганга.",
+      "profile": "+ancestors +nature_spirits +ritual +occult +afterlife +divination_oracles +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ndau_witchcraft_and_sorcery",
+        "https://hts.org.za/index.php/hts/article/view/10041/27685"
+      ],
+      "notes": "Сохранено как локальный комплекс практик, а не самоназванная отдельная церковь и не характеристика всех ндау. Исходная статья подтверждает почитание вадзиму и подношения, водных и дождевых духов и работу медиумов; исследование Дубе отдельно рассматривает воду в религии ндау. Утверждения о вредоносном колдовстве описывают верования, не доказывают вину обвиняемых. Не приписано -scientific. Проверка 2026-10: Раздел N’anga исходной статьи прямо описывает гадание посредством вселения madzvoka, позволяющего специалисту узнавать о скрытых и удалённых событиях. Добавлены +divination_oracles и +spirit_possession; практика медиумов не приписывается автоматически всем ндау."
+    },
+    {
+      "sourceIndex": 109,
+      "sourceName": "New Orleans Voodoo",
+      "decision": "keep",
+      "canonicalName": "Современное возрождение вуду Нового Орлеана",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современные общины Нового Орлеана, возрождающие вуду с использованием гаитянских, кубинских и других афродиаспорных традиций.",
+      "profile": "+divine +ritual +personal +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/New_Orleans_Voodoo_Revival",
+        "https://online.ucpress.edu/nr/article-abstract/6/1/86/94224/Perceptions-of-New-Orleans-Voodoo-Sin-Fraud",
+        "https://pluralismarchive.hsites.harvard.edu/voodoo-spiritual-temple",
+        "https://64parishes.org/entry/voudou",
+        "https://voodoospiritualtemple.org/about",
+        "https://voodoospiritualtemple.org/services"
+      ],
+      "notes": "Название строки шире предмета исходной статьи, посвящённой возрождению конца XX века. Запись уточнена по ссылке: не синоним исторического Louisiana Voodoo, которое присутствует в religions.txt отдельно, и не синоним общей гаитянской записи «Воду». Академические источники различаются в оценке преемственности; не утверждается ни полное исчезновение, ни неизменное продолжение старой традиции. Проверка 2026-10: Самоописание Voodoo Spiritual Temple прямо называет службы поклонения и прошения и loa как посредников между создателем и людьми (+personal). Страница Services прямо описывает magick практикующей жрицы и ритуальные принадлежности (+occult). Источник относится к одной документированной общине современного возрождения, а не устанавливает единый катехизис всех общин."
+    },
+    {
+      "sourceIndex": 110,
+      "sourceName": "Nso religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия нсо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции нсо Камеруна с обращением к создателю Нюй Мбому, предкам и местным духовным силам.",
+      "profile": "+divine +ancestors +ritual +icons +personal +many_gods +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nso_people",
+        "https://repository.up.ac.za/bitstream/handle/2263/59094/Nyuyki_Missional_2017.pdf?sequence=1"
+      ],
+      "notes": "Статья о народе непосредственно подтверждает духов в масках и обрядовые выступления. Диссертация Питера Нюйки в Университете Претории отдельно описывает традиционную религию нсо, жрецов, молитвы, жертвы и подношения создателю и предкам. Социальные объединения нсо не сведены к одному религиозному обществу. Проверка 2026-10: Nyuyki (2017), с. 182 печатной пагинации (PDF 198), прямо описывает молитвы к различным богам, предкам и Nyuy Mbom с просьбами о помощи (+many_gods, +personal). На с. 186 (PDF 202) описано гадание семейного жреца при выборе имени ребёнка (+divination_oracles). Общие рассуждения диссертации обо всех африканских религиях не использованы для расширения профиля."
+    },
+    {
+      "sourceIndex": 111,
+      "sourceName": "Nuer religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия нуэр",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции нуэр с представлениями о Квоте, духах неба и продолжении духовного существования после смерти.",
+      "profile": "+divine +nature_spirits +afterlife +ritual +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nuer_people",
+        "https://www.cambridge.org/core/journals/africa/article/abs/some-features-and-forms-of-nuer-sacrifices/FD9F27C10A72A9C2BB4BEA39C08E91AF",
+        "https://www.everyculture.com/Africa-Middle-East/Nuer-Religion.html"
+      ],
+      "notes": "Раздел Religion статьи о народе подтверждает Квота как создателя, духов воздуха, природные проявления и разделение тела, жизни и души после смерти. Формулировка о высшем духе не превращена автоматически в строгий one_god. Исторические этнографические описания не приравнены к вере каждого современного нуэр. Проверка 2026-10: Evans-Pritchard, Some Features and Forms of Nuer Sacrifices, прямо называет жертвоприношение центральным религиозным действием (+ritual). Этнографическое описание Nuer — Religion указывает молитвы Квоту о здоровье и благополучии (+personal). Термин kwoth контекстен, поэтому строгий +one_god не выводится из одного верховенства Квота."
+    },
+    {
+      "sourceIndex": 112,
+      "sourceName": "Nyakyusa religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия ньякьюса",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции ньякьюса Танзании с семейными и общинными обрядами, почитанием умерших и героев-основателей.",
+      "profile": "+ancestors +ritual +afterlife +divination_oracles +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nyakyusa_people",
+        "https://ehrafworldcultures.yale.edu/cultures/FN17/summary",
+        "https://ehrafworldcultures.yale.edu/cultures/fn17/documents/009",
+        "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/nyakyusa-religion"
+      ],
+      "notes": "Исходная статья о народе даёт лишь краткое упоминание Кьялы. Этнографический обзор eHRAF и исследование Моники Уилсон подтверждают циклы семейных и вождеских ритуалов и жертвы предкам. Трактовка Кьялы менялась при взаимодействии с христианством; ни строгий монотеизм, ни отрицание божественного не кодируются. Родство с нгонде не означает полного тождества. Проверка 2026-10: Этнографическое описание Monica Wilson, Nyakyusa Religion, прямо описывает совместную трапезу живых и умерших родственников и присутствие теней (+afterlife). Обзор её Communal Rituals of the Nyakyusa в eHRAF отдельно указывает оракулы (+divination_oracles). Описанные очищающие medicines и их мистическая сила дают основание +occult; страх чужого колдовства отдельно таким основанием не служит."
+    },
+    {
+      "sourceIndex": 113,
+      "sourceName": "Nyau",
+      "decision": "keep",
+      "canonicalName": "Ньяу",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Посвятительные общества и ритуальные традиции чева с масками, танцами и общением с духами умерших.",
+      "profile": "+divine +ancestors +afterlife +ritual +icons +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nyau",
+        "https://ich.unesco.org/en/RL/gule-wamkulu-00142"
+      ],
+      "notes": "Сохранена конкретная ритуальная традиция обществ ньяу, не вся религия чева. Источник подтверждает связь с умершими и масочными представлениями. Участие в ньяу может сочетаться с христианской принадлежностью; поэтому христианские признаки не отвергаются и не навязываются. Проверка 2026-10: UNESCO, Gule Wamkulu, прямо описывает Nyau как братство посвящённых мужчин и танец в завершение посвящения; добавлен +initiatory_brotherhood. Костюмированные представления духов не отождествляются автоматически с одержимостью."
+    },
+    {
+      "sourceIndex": 114,
+      "sourceName": "Nyongo Society",
+      "decision": "review",
+      "canonicalName": "Представления об обществе ньонго",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Камерунские представления о предполагаемом тайном обществе, связываемом с колдовством, богатством и невидимым трудом жертв.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nyongo_society",
+        "https://punctum.gr/download/cooking-swallowing-chewing-culinary-semiotics-and-the-political-economy-of-witchcraft-in-the-cameroon-grassfields",
+        "https://journals.sagepub.com/doi/pdf/10.1177/0308275X9101100304"
+      ],
+      "notes": "Источники описывают ньонго прежде всего как верования и обвинения в существовании предполагаемого общества; самостоятельная организация с установленными участниками и собственным исповеданием не подтверждена. Review относится к типу записи, а не к отрицанию реальности самих верований. Не приписан occult людям, обвинённым в членстве. family=null: возможно, требуется тип «Межтрадиционные комплексы верований», а не отдельная религия."
+    },
+    {
+      "sourceIndex": 115,
+      "sourceName": "Obeah",
+      "decision": "keep",
+      "canonicalName": "Обеа",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Карибские комплексы духовных и магических практик, применяемых для защиты, исцеления и других жизненных задач.",
+      "profile": "+ritual +occult +divination_oracles +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Obeah",
+        "https://sites.lsa.umich.edu/blackclassicisms/wp-content/uploads/sites/468/2017/03/Creole-Religions-of-the-Caribbean.pdf"
+      ],
+      "notes": "Общее название локальных практик, а не единое вероучение или централизованная религия. Источник показывает различия нейтрального и отрицательного употребления термина; обеа не отождествлено исключительно с вредоносной магией. Связи с миал, пало и африканскими традициями не доказывают тождество. Проверка 2026-10: Creole Religions of the Caribbean, раздел The Spirit World и описание Obeah, прямо описывает гадание и работу с duppies — в том числе духами умерших. Добавлены +divination_oracles и +afterlife; единая теология создателя, почитание родовых предков и ритуальная одержимость для всех вариантов обеа не выводятся."
+    },
+    {
+      "sourceIndex": 116,
+      "sourceName": "Odinala / Odinani",
+      "decision": "keep",
+      "canonicalName": "Одинани / Одинала",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционные религиозные представления и обычаи игбо с Чукву, аруси, духами предков и местными обрядами.",
+      "profile": "+divine +many_gods +ancestors +nature_spirits +ritual +icons +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Odinani",
+        "https://prm.web.ox.ac.uk/node/2778321",
+        "https://collections.bowers.org/objects/28519/spirit-figure-ikenga"
+      ],
+      "notes": "Источник прямо связывает Odinala/Odinani как диалектные варианты; внутри одной строки нет отдельной записи для alias. Чукву, аруси и предки подтверждены. Не спутано с Одином и германским неоязычеством. Религиозные и обычноправовые значения термина пересекаются; профиль относится к религиозному комплексу. В religions.js эквивалентная запись не найдена. Проверка 2026-10: Pitt Rivers Museum прямо документирует Agu-’nsi как фигуру для гадания игбо (+divination_oracles). Каталог Bowers Museum описывает ikenga как изображение alusi, используемое в молитве и жертвоприношении (+icons). Эти признаки подтверждены конкретными предметами и практиками игбо, а не выводятся из общего семейства."
+    },
+    {
+      "sourceIndex": 117,
+      "sourceName": "Oro Religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия орон (оро)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции орон Нижнего Кросс-Ривер с почитанием Абази Оро, предков, местных божеств и водных сил.",
+      "profile": "+divine +many_gods +ancestors +nature_spirits +ritual +icons -scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Oro_Religion",
+        "https://philarchive.org/archive/BENFTI-2",
+        "https://journals.upress.ufl.edu/delos/article/view/1874",
+        "https://gnosijournal.com/index.php/gnosi/article/download/89/95/344"
+      ],
+      "notes": "Исходная статья посвящена народу орон, а не йорубскому культу Оро. Это существенная неоднозначность английского названия; каноническое название уточнено. Дополнительная исследовательская статья о фестивале Абаба описывает оронские святилища, водных божеств и обряды. Родство с эфик и ибибио не означает синонимию. Проверка 2026-10: Статья о фестивале Ababa в GNOSI, основанная также на интервью, прямо описывает резные изображения родовых предков в святилищах (+icons) и отсутствие священного текста при устной передаче (-scripture). Отрицательный признак относится к традиционному комплексу орон; он не отрицает возможности личного участия человека в христианстве или исламе."
+    },
+    {
+      "sourceIndex": 118,
+      "sourceName": "Oropom religion",
+      "decision": "keep",
+      "canonicalName": "Историческая религия оропом",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические обрядовые традиции оропом Восточной Африки, описываемые через жертвоприношения и пиры у каменных кругов.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Oropom_people"
+      ],
+      "notes": "Статья о народе сообщает о рассветных обрядах на скалах, жертвах животных и ритуальных пирах. Это скудный ретроспективный материал, а не изложение целостного вероучения; divine, ancestors и nature_spirits не добавлены. Историчность или малое число сведений сами по себе не являются основанием исключения. Проверка 2026-10: Повторная проверка 2026-10: ретроспективное описание по-прежнему даёт только обряды. Найденная диссертация о Календжин реконструирует имя божества оропом лишь предположительно, исходя из соседних культур и слов «вода»/«дождь»; такое рассуждение не принято как основание нового признака."
+    },
+    {
+      "sourceIndex": 119,
+      "sourceName": "Otuho religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия отухо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции отухо Южного Судана с почитанием предков и представлениями о божестве Аджоке.",
+      "profile": "+divine +personal +ancestors +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Otuho_people",
+        "https://link.springer.com/article/10.1007/s10745-025-00635-4"
+      ],
+      "notes": "Раздел Religion статьи о народе прямо называет почитание природы и предков и описывает молитву Аджоку. Миф о воскрешении не принят за доказательство общего учения о посмертной жизни. Этническая принадлежность сама по себе не определяет религию конкретного человека. Проверка 2026-10: Статья Rain: The Arena of Power and Religion in Africa, раздел Sacrificing the Rain-King: The Lotuko, прямо описывает жертвы и проверку правильности дождевых обрядов у отухо/лотуко; добавлен +ritual. Рассказы о царе-дождедателе не переносятся на соседние народы, а миф об Аджоке по-прежнему не используется как достаточное основание +afterlife."
+    },
+    {
+      "sourceIndex": 120,
+      "sourceName": "Ovambo traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия овамбо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции овамбо Намибии и Анголы с создателем Калунгой и обрядами священного огня.",
+      "profile": "+divine +ritual +fire +ancestors +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ovambo_people",
+        "https://helda.helsinki.fi/server/api/core/bitstreams/851d1c57-ddc5-4ba3-b5e0-ee2830681101/content",
+        "https://projetoceaa.com.br/pdfs/teses/pr-phd-17520_ocr.pdf"
+      ],
+      "notes": "Статья о народе содержит раздел Traditional religion, прямо подтверждающий Калунгу и центральность священного огня. Современная распространённость христианства не отменяет традиционную запись; конкретная текущая доля последователей не требуется и не используется для классификации. Проверка 2026-10: Исследование Olufuko в Хельсинкском университете описывает сохраняющуюся связь поколений и духов предков; историческая диссертация о Kwanyama отдельно описывает непрерывное существование предков после смерти и обязательные подношения. Добавлены +ancestors и +afterlife. Возрастное посвящение не превращено автоматически в членство в закрытом религиозном братстве."
+    },
+    {
+      "sourceIndex": 121,
+      "sourceName": "Palo",
+      "decision": "keep",
+      "canonicalName": "Пало",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Афро-кубинская религиозная традиция конголезского происхождения с духами умерших, ритуальными сосудами нганга и практиками гадания.",
+      "profile": "+divine +ancestors +afterlife +ritual +occult +divination_oracles +spirit_possession +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Palo_(religion)"
+      ],
+      "notes": "Источник подтверждает обращение к духам умерших и предкам, нганга, подношения и гадание. Пало связано с сантерией и эспиритисмо, но сохраняется отдельно; соответствие мпунгу некоторым ориша не делает orisha универсальным признаком пало. Разные ветви и ритуальные дома не сведены к одинаковому вероучению. Разделы исходного источника о гадании, танцах и rayamiento непосредственно описывают толкование знаков, управление телом медиума духом умершего и посвящение в конкретный дом пало. Добавлены divination_oracles, spirit_possession и initiatory_brotherhood, без переноса практик других афро-кубинских религий."
+    },
+    {
+      "sourceIndex": 122,
+      "sourceName": "Pedi traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия педи",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции педи с обращением к создателю Модимо и предкам через воззвания, подношения и семейные обряды.",
+      "profile": "+divine +ancestors +ritual +divination_oracles +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pedi_people"
+      ],
+      "notes": "В статье о народе раздел Religion подтверждает предков как посредников, возжигание благовоний, подношения и при необходимости жертвоприношения. Это основание для описания традиционных практик, а не для приписывания их всем современным педи или всем северным сото. Раздел Religion прямо описывает наследование/призвание ngaka (гадателя) и malopo — одержимость духами, после которой человек обучается гаданию. Добавлены divination_oracles и spirit_possession; обучение специалиста не превращено автоматически в обязательное посвящение каждого педи."
+    },
+    {
+      "sourceIndex": 123,
+      "sourceName": "Quimbanda",
+      "decision": "keep",
+      "canonicalName": "Кимбанда",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Афро-бразильские традиции работы с духами эшу и помбажира через посвящение, подношения и магические обряды.",
+      "profile": "+ritual +occult +afterlife +spirit_possession +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Quimbanda"
+      ],
+      "notes": "Источник различает духов эшу кимбанды и одноимённое божество йоруба; поэтому orisha не выставлен автоматически. Умбанда и кандомбле близки по истории и взаимным влияниям, но не синонимы кимбанды. Формы и самоопределение различаются; демонизирующая характеристика как исключительно злой магии не используется. Раздел Beliefs прямо определяет кимбанду как медиумическую религию с воплощением духов; введение описывает помбажира как духов умерших женщин. Раздел Practices описывает massanga и полное посвящение, при котором духи усаживаются в человеке. Добавлены afterlife, spirit_possession и initiatory_brotherhood. Понятие духов умерших не сведено к обязательному семейному культу предков."
+    },
+    {
+      "sourceIndex": 124,
+      "sourceName": "Rada",
+      "decision": "keep",
+      "canonicalName": "Рада: тринидадский водуну",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Западноафриканский водун",
+      "description": "Тринидадская традиция водуну, известная как Рада, с подношениями божествам и предкам и ритуальной игрой на барабанах.",
+      "profile": "+divine +ancestors +ritual +icons +many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Trinidadian_Vodunu"
+      ],
+      "notes": "Исходная статья прямо называет Trinidadian Vodunu, Rada Feast и Rada именами местной практики. Запись сохранена как тринидадская традиция, а не как гаитянская группа духов рада; Trinidad Orisha в исходном списке отдельно и не является подтверждённым синонимом. Христианские изображения в святилищах не доказывают принятия всего христианского богословия. Раздел Practices прямо говорит о подношениях множественным божествам, а vodunkwe описан как дом богов. Добавлен many_gods на основании местной практики Рада, а не наследования общего профиля водун."
+    },
+    {
+      "sourceIndex": 125,
+      "sourceName": "Safwa religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия сафва",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции сафва Танзании с почитанием предков и священными рощами, посещаемыми старейшинами во время бедствий.",
+      "profile": "+ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Safwa_people"
+      ],
+      "notes": "Раздел Religion статьи о народе подтверждает предков, священные рощи и обращения старейшин при засухе или эпидемии. Священная роща сама по себе не доказывает nature_spirits; сведения о создателе или системе божеств отсутствуют. Современные сафва могут исповедовать другие религии."
+    }
+  ]
+}

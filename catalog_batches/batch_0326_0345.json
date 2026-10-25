@@ -1,0 +1,372 @@
+{
+  "range": [
+    326,
+    345
+  ],
+  "entries": [
+    {
+      "sourceIndex": 326,
+      "sourceName": "Wiyot religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования вийот",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местная традиция народа вийот Калифорнии, включающая церемонию обновления мира в Тулувате.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wiyot",
+        "https://www.wiyot.us/186/Tuluwat-Project"
+      ],
+      "notes": "Исходная статья о народе; сайт племени подтверждает значение церемонии. Родство с обрядами юрок не означает тождества традиций."
+    },
+    {
+      "sourceIndex": 327,
+      "sourceName": "Wocekiye",
+      "decision": "keep",
+      "canonicalName": "Wocekiye — молитвенная практика лакота и дакота",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Молитвенное обращение за помощью и утверждение родства в духовной жизни лакота и дакота.",
+      "profile": "+ritual +divine +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wocekiye",
+        "https://www.wolakotaproject.org/lakota-pronunciation-glossary/",
+        "https://cncfr.jbsinternational.com/sites/default/files/uploads/CNCFR_OLCJC_Evaluation%20Report.pdf"
+      ],
+      "notes": "Сохраняется как локальная практика, а не отдельная конфессия. Термин используется и в традиционной религии, и в христианской среде; пантеон лакота не переносится на всех практикующих. Не синоним всей Dakota Spirituality или Sioux religion. Дополнение 2026-10-25: отчёт Center for Native Child and Family Resilience, Exhibit 9, воспроизводит традиционные законы Oglala Sioux Child and Family Code и определяет Wocekiye как веру и молитву Tunkasila/Wakan Tanka, творцу и высшей силе — divine и personal. Отдельные детали полного пантеона и христианские признаки на всю молитвенную практику не перенесены."
+    },
+    {
+      "sourceIndex": 328,
+      "sourceName": "Wyandot religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования вайандотов (гуронов)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционные представления вайандотов о духах оки, сновидениях и духовном врачевании.",
+      "profile": "+nature_spirits +divine +ritual +revelation +divination_oracles +occult +ancestors +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wyandot_religion",
+        "https://ehrafworldcultures.yale.edu/cultures/ng05/summary",
+        "https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/002/MR82181.PDF",
+        "https://harvest.usask.ca/bitstreams/f783c662-7677-45f5-922c-4d3c84081d64/download"
+      ],
+      "notes": "Исходная ссылка перенаправляет на статью о народе, раздел Religion описывает духов-помощников целителей. Общие ирокезские традиции шире этой записи. Дополнение 2026-10-25: исходная запись описывает именно гуронско-вайандотский исторический комплекс, поэтому использованы исследования с явными этнонимами Huron/Wendat/Wandat. Yale eHRAF подтверждает подношения, духовные сны и шаманских помощников; Trading Well-Being, с. 20, — гадательную диагностику, обрядовое лечение, Feast of the Dead и страну душ. Landscapes of Love (University of Saskatchewan), с. 52, непосредственно фиксирует вайандотские пиры Творцу, больным и умершим. Это основания divine, ritual, revelation, divination_oracles, occult, ancestors и afterlife; признаки не перенесены от соседних ирокезских народов."
+    },
+    {
+      "sourceIndex": 329,
+      "sourceName": "Yaqui religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные религиозные практики яки",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местная религиозная традиция яки с представлениями о взаимосвязанных мирах, танцем оленя и католическими обрядами.",
+      "profile": "+ritual +divine +personal +jesus +trinity +ancestors +afterlife +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yaqui",
+        "https://www.pascuayaqui-nsn.gov/culture/",
+        "https://www.pascuayaqui-nsn.gov/culture/yaqui-ceremonies/",
+        "https://www.gob.mx/inpi/articulos/etnografia-del-pueblo-yaqui-de-sonora?idiom=es",
+        "https://repository.arizona.edu/bitstream/10150/632287/1/978-0-8165-4035-8-web.pdf",
+        "https://mna.inah.gob.mx/detalle_pieza_mes.php?id=127"
+      ],
+      "notes": "Статья о народе отдельно описывает космологию и религиозные церемонии. Традиция сочетает местные представления и католицизм; профиль всего католицизма не назначается. Не отождествляется с книгами Карлоса Кастанеды. Дополнение 2026-10-25: сайт Pascua Yaqui Tribe прямо описывает Бога, обетные общества и инсценирование Страстей Христа, путь умерших к небесам с оленем-проводником, семейные молитвы и трапезы для вернувшихся душ — divine, personal, jesus, afterlife, ancestors. INPI отдельно называет Троицу и основополагающую роль Иисуса и Марии в местной мифологии — trinity; это не механическое наследование католического профиля. With Good Heart (University of Arizona Press) описывает процессии с образами Марии и сакральные изображения — icons. INAH подтверждает обрядовую роль масок паскола; ritual_masks задаётся генератором."
+    },
+    {
+      "sourceIndex": 330,
+      "sourceName": "Yaruro religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования пуме (яруро)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция пуме Венесуэлы, в которой ночные песенные церемонии тохе связаны с исцелением и общением с духами умерших.",
+      "profile": "+ritual +afterlife +divine +many_gods +personal +revelation +occult +entheogenic_ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yaruro",
+        "https://en.wikipedia.org/wiki/Yaruro_people",
+        "https://doi.org/10.1111/jlca.12715",
+        "https://archiv.ub.uni-marburg.de/diss/z2024/0124/pdf/dlss.pdf"
+      ],
+      "notes": "Yaruro — другое название народа пуме. Исходная ссылка нестабильна; религиозное описание проверено по статье Pumé people. Это не делает запись синонимом иной сохранённой религии. Дополнение 2026-10-25: полевое исследование Cultures of power and politics (2024), раздел о пуме, прямо описывает переговоры с богом Iĉiai и духами-помощниками, слова богов и умерших, передаваемые певцом, и духовное исцеление — divine, many_gods, personal, revelation, occult. Там же непосредственно зафиксировано обрядовое вдыхание йопо и употребление Banisteriopsis caapi во время tõhe — entheogenic_ritual. Диссертация Healing the Past (Marburg) подтверждает переговоры с богами, духами и умершими. Вдохновение певца само по себе не превращено в spirit_possession без отдельной проверки терминологии."
+    },
+    {
+      "sourceIndex": 331,
+      "sourceName": "Yuit shamanism",
+      "decision": "keep",
+      "canonicalName": "Шаманские традиции сибирских юпиков",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные шаманские традиции сибирских юпиков с духами-помощниками и представлениями о возвращении умершего в новорождённом.",
+      "profile": "+nature_spirits +ritual +reincarnation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Siberian_Yupik",
+        "https://atlaskmns.ru/page/ru/people_eskimosy_spirit.html"
+      ],
+      "notes": "Yuit относится здесь к сибирским юпикам. Это уже общих сибирских шаманских традиций и не тождественно традициям аляскинских юпиков. Сведения о соседних эвенах из исходной статьи не переносились. Дополнение 2026-10-25: Е. А. Давыдова, МАЭ РАН, раздел об азиатских эскимосах в атласе коренных малочисленных народов, прямо описывает изгнание болезней шаманом, воздействие на погоду и вызов промысловых животных — occult. Это сведения именно об азиатских эскимосах; свойства аляскинских юпиков или других сибирских народов не переносились."
+    },
+    {
+      "sourceIndex": 332,
+      "sourceName": "Yupik shamanism",
+      "decision": "keep",
+      "canonicalName": "Шаманские традиции юпиков Аляски",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции юпиков Аляски, включающие посредничество ангалькут между людьми и духами, обрядовую музыку и маски.",
+      "profile": "+nature_spirits +ritual +occult +icons +afterlife +revelation +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yup%27ik",
+        "https://www.si.edu/object/mask%3Anmnhanthropology_8396082",
+        "https://art.nelson-atkins.org/objects/55126/seal-mask",
+        "https://www.jstor.org/stable/10.2307/jj.25433746",
+        "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/5789/Srs/817474c4-e547-42ee-a3ca-a85d762e2283/2012-Yupik-Dictionary.pdf"
+      ],
+      "notes": "Исходная ссылка ведёт к Yup’ik, а не к Siberian Yupik. Духи-помощники и церемонии подтверждены разделом Shamanism; не alias записи Yuit shamanism. Дополнение 2026-10-25: Smithsonian Arctic Studies Center описывает маски как изображения шаманских видений и духов-помощников — icons и revelation. Издание Angalkut/Shamans in Yup’ik Oral Tradition прямо описывает духовное лечение и путешествия шаманов — occult. Nelson-Atkins Museum описывает посредничество масок между живыми и умершими — afterlife. Yup’ik Eskimo Dictionary, статьи qela- и qelatu-, содержит прямые свидетельства гадательных практик и шаманских способностей — divination_oracles. Важность обрядовых масок подтверждена независимо; ritual_masks в batch не добавлен."
+    },
+    {
+      "sourceIndex": 333,
+      "sourceName": "Zapotec religion",
+      "decision": "keep",
+      "canonicalName": "Религия древних сапотеков",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические религиозные традиции сапотекской цивилизации с почитанием божеств дождя, света и маиса.",
+      "profile": "+divine +many_gods +ritual +ancestors +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zapotec_civilization",
+        "https://www.metmuseum.org/art/collection/search/319468",
+        "https://smarthistory.org/ancestor-figure-zapotec/"
+      ],
+      "notes": "Предлагаемое семейство ancient_american: религии древней Америки. Существующее pagan означает преимущественно неоязычество и эзотерику. Не обозначает веру всех современных сапотеков или современные мезоамериканские возрождения. Дополнение 2026-10-25: Met, Effigy urn (Patricia J. Sarro, 2025), и материал British Museum, Ancestor figure, прямо описывают царское почитание предков, многократное посещение гробниц и фигурные сосуды как средство связи с божествами через предков — ancestors и icons. Фигуры нередко представляют предков в облике богов, поэтому их количество не используется для нового подсчёта богов. Маски на таких фигурах подтверждают сакральную иконографию, но сами по себе не устанавливают отдельный обряд ношения масок."
+    },
+    {
+      "sourceIndex": 334,
+      "sourceName": "Asur religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования асуров",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования асуров восточной Индии, связанные с Сингбонгой, предками и сезонными праздниками.",
+      "profile": "+divine +ancestors +ritual +many_gods +nature_spirits",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Asur_people",
+        "https://www.trijharkhand.in/en/asur"
+      ],
+      "notes": "Статья о народе подтверждает отдельное религиозное описание. Не следует путать с ассирийским Ашшуром. Упоминание naturalism в этнографии не означает научный натурализм; вера в колдовство не доказывает его практику. Дополнение 2026-10-25: Tribal Welfare Research Institute Jharkhand прямо называет помимо Singbonga божеств Dharati Mata, Duari, Patdaraha и Turi Husid (many_gods) и определяет религию асуров как анимистическую (nature_spirits). Упоминание веры в колдовство по-прежнему не используется как доказательство его практики."
+    },
+    {
+      "sourceIndex": 335,
+      "sourceName": "Birhor traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования бирхоров",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования бирхоров, в которых почитаются Сингбонга и духи предков хапрам.",
+      "profile": "+divine +ancestors +many_gods +nature_spirits +ritual +personal +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Birhor_people",
+        "https://scstrti.in/index.php/communities/pvtg/113-pvtg/445-birhor",
+        "https://tribal.nic.in/repository/ViewDoc.aspx?RepositoryNo=TRI28-08-2017115004&file=Docs%2FTRI28-08-2017115004.pdf",
+        "https://egyankosh.ac.in/bitstream/123456789/21692/1/Unit-18.pdf"
+      ],
+      "notes": "Родство с традициями хо не доказывает полного тождества. Исходная статья о народе содержит раздел Traditional religious beliefs; более подробные общеиндийские доктрины не назначены. Дополнение 2026-10-25: SCSTRTI Odisha и государственная этнографическая монография Birhor, раздел Magico-Religious Life, прямо описывают благих и вредоносных божеств, Sun God, Logobir и Budhimai, одушевлённый лес и обряды перед охотой — many_gods, nature_spirits, ritual. Подношения и молитвы духам-покровителям подтверждают personal. Учебное исследование IGNOU Unit 18 описывает конкретные заклинания и симпатическую магию охотничьего обряда — occult; это не просто приписывание магии по этническому родству."
+    },
+    {
+      "sourceIndex": 336,
+      "sourceName": "Bru religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования бру (Бру-Ванкьеу)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования бру Юго-Восточной Азии с почитанием предков, духов риса и других духов.",
+      "profile": "+ancestors +nature_spirits +ritual +divine +personal +occult +spirit_possession +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bru_people",
+        "https://bffvt.nti.btk.mta.hu/un_chant_brou_a_l_esprit_auxiliaire.html",
+        "https://www.eastwest.btk.mta.hu/images/pdf/PCS-.-szerk.-Sors-ldozat-Divinci-STUD-I.pdf"
+      ],
+      "notes": "Речь о Bru-Van Kieu, не о реанг Индии, которых также называют Bru. Наличие буддийских общин не позволяет присвоить буддийский профиль всем местным практикам. Дополнение 2026-10-25: полевое исследование Gábor Vargyas Un chant brou à l’esprit auxiliaire на сайте Института этнологии Венгерской академии наук описывает сверхъестественных существ, обращённую к ним молитву и лечение шаманом — divine, personal, occult. Дух-помощник входит в тело шамана, который воплощает и говорит от имени духа — spirit_possession; автор оговаривает сочетание одержимости и активного шаманского управления. Его исследование Divination among the Bru of Vietnam прямо описывает постоянную гадательную связь во время обрядов — divination_oracles. Речь о Bru-Van Kieu, а не реанг Индии."
+    },
+    {
+      "sourceIndex": 337,
+      "sourceName": "Cá Ông worship",
+      "decision": "keep",
+      "canonicalName": "Почитание Ка Онг во Вьетнаме",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Прибрежный вьетнамский культ китов Ка Онг как покровителей рыбаков, включающий погребения китов и храмовые праздники.",
+      "profile": "+nature_spirits +ritual +divine +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Whale_worship",
+        "https://vietnam.travel/node/1491",
+        "https://hoianheritage.danang.gov.vn/en/specialised-exchanges/research-exchange/whale-worship-belief-in-hoi-an-46.html"
+      ],
+      "notes": "Исходная статья посвящена мировому почитанию китов; использован только раздел Vietnam. Не отождествляется со всеми китовыми культами и японским почитанием Эбису. Дополнение 2026-10-25: Vietnam Tourism и Hội An World Cultural Heritage Conservation Center прямо называют Ка Онг покровительствующим божеством и описывают просьбы к нему о безопасности и улове — divine, personal. Культ нескольких китовых останков не используется автоматически для many_gods; человеческое почитание предков из сходной формы погребения не выводится."
+    },
+    {
+      "sourceIndex": 338,
+      "sourceName": "Four Palaces",
+      "decision": "keep",
+      "canonicalName": "Тыфу — культ Четырёх дворцов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Вьетнамское почитание богинь-матерей",
+      "description": "Вьетнамская культовая система Четырёх дворцов, связывающая божеств с небом, лесами и горами, водой и землёй.",
+      "profile": "+divine +many_gods +nature_spirits +ritual +personal +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Four_Palaces",
+        "https://ichcourier.unesco-ichcap.org/board.es?act=view&b_list=12&bid=A102&list_no=554&mid=a10202000000",
+        "https://journals.eco-vector.com/2618-9453/article/view/96284"
+      ],
+      "notes": "Локальная система пантеона и медиумических обрядов. Не считается точным синонимом всего Дао Мау или системы Трёх дворцов. Дополнение 2026-10-25: Ngo Duc Thinh, UNESCO ICH Courier, прямо описывает обращения в храмах Четырёх дворцов к Льеу Хань и другим божествам о здоровье, удаче и благополучии — personal. Полевое исследование An Imagined Worship (2021) непосредственно различает северные и центральные обряды Четырёх дворцов и описывает воплощение духов медиумами в lên đồng — spirit_possession. Признак подтверждён для этой системы, а не перенесён с более широкого зонтика Дао Мау или системы Трёх дворцов."
+    },
+    {
+      "sourceIndex": 339,
+      "sourceName": "Ka Niam Khasi",
+      "decision": "keep",
+      "canonicalName": "Ка Ниам Кхаси",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренная религия кхаси Мегхалаи с верой в высшего творца У Блей Нонгтхау и почитанием предков.",
+      "profile": "+divine +one_god +ancestors +personal +ritual +revelation +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Khasi_people",
+        "https://megpwd.gov.in/pdf/2026/ESMF/DRAFT%20Environmental%20%20Social%20Management%20Framework%20MLCIP%2029.01.2026.pdf",
+        "https://egyankosh.ac.in/bitstream/123456789/21692/1/Unit-18.pdf"
+      ],
+      "notes": "Статья о народе прямо называет Ka Niam Khasi. Государственный документ различает Niam Khasi у кхаси и Niamtre у джайнтия/пнар; близость традиций не служит основанием для alias. Дополнение 2026-10-25: IGNOU, Unit 18 Tribal Religion: Two Case Studies, раздел о кхаси, прямо описывает отношения человека с Богом и Его заботу (personal), откровение силой, праведностью и словом (revelation), нераздельность Ka Niam и Ka Rukom (ritual) и гадание по рису, каури, яйцам и жертвенной птице для выяснения причин несчастья (divination_oracles). Несколько имён и функций Бога не интерпретируются как дополнительные боги."
+    },
+    {
+      "sourceIndex": 340,
+      "sourceName": "Mon religion",
+      "decision": "keep",
+      "canonicalName": "Местные духопочитательские традиции монов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционные практики монов с семейными духами калок, духами мест и обрядами обращения к предкам.",
+      "profile": "+ancestors +nature_spirits +ritual +divine +spirit_possession +occult +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mon_people",
+        "https://www.repository.rmutt.ac.th/dspace/handle/123456789/2590",
+        "https://ethnicredb.sac.or.th/en/research_detail.php?id=718",
+        "https://www.bpi.ac.th/upload/media/2025/11/60116925423276e78.pdf"
+      ],
+      "notes": "Исходная статья о народе описывает сочетание тхеравады и местных верований. Выделен местный компонент, а не новая единая конфессия всех монов. Университетское исследование подтверждает самостоятельное значение родовых духов и обрядовых танцев; не alias Тхеравады. Дополнение 2026-10-25: Princess Maha Chakri Sirindhorn Anthropology Centre публикует резюме диссертации Spirit Dance Ritual of the Mon (2001), прямо называющее почитаемых духовных царей и цариц божествами — divine. Полевое исследование музыки Pad-Rang-Kwan, Bunditpatanasilpa Institute Conference, описывает лечение посредством Ram Phi Mon и советы, передаваемые духами предков через медиума — occult, spirit_possession, afterlife. Это местные общины монов Таиланда; не перенос на них всех черт бирманского культа натов."
+    },
+    {
+      "sourceIndex": 341,
+      "sourceName": "Muong ethnic religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования мыонгов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования мыонгов Вьетнама с множеством божественных существ, почитанием предков и представлениями о посмертном переходе.",
+      "profile": "+divine +many_gods +ancestors +ritual +afterlife +occult +nature_spirits",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Muong_ethnic_religion",
+        "https://vienamnhac.vn/Contents/Item/Display/30950"
+      ],
+      "notes": "Статья прямо посвящена этнической религии; опирается преимущественно на этнографические работы XX века. Представления о множественных душах не приравниваются к перерождению. Дополнение 2026-10-25: Инвентаризация Mo Mường Вьетнамского института музыковедения (семь провинций) документирует обряды изгнания духов, снятия несчастья и возвращения жизненной души (+occult), а также почитание богов земли (+nature_spirits). Это предметные практики мыонгов; одна профессия mo не приравнена автоматически к одержимости."
+    },
+    {
+      "sourceIndex": 342,
+      "sourceName": "Niamtre",
+      "decision": "keep",
+      "canonicalName": "Ниамтре",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренная религия пнар/джайнтия Мегхалаи с почитанием высшего божества, предков и духов, сезонными общинными праздниками.",
+      "profile": "+divine +ancestors +nature_spirits +ritual +personal +many_gods +afterlife +divination_oracles +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Niamtre",
+        "https://westjaintiahills.gov.in/about-district/",
+        "https://www.megartsculture.gov.in/festivals-jaintia.html",
+        "https://meghalaya.gov.in/index.php/behdienkhlam"
+      ],
+      "notes": "Официальный сайт округа подтверждает название Niamtre и её местную принадлежность. Родственная Ka Niam Khasi сохранена отдельно: источники различают традиции пнар и кхаси. Дополнение 2026-10-25: Департамент культуры Мегхалаи прямо связывает Behdienkhlam с Niamtre и описывает U-Mokhai и других местных божеств, обращения за урожаем (+many_gods/+personal). Государственный портал подтверждает кормление духов умерших предков (+afterlife). В том же описании обрядов джайнтия Beh Ser Soopen жрец определяет по разбитому яйцу место охоты (+divination_oracles), а Cher iung blai включает ритуальное запирание и символическое уничтожение духов (+occult). Не перенесены соседние обряды кхаси."
+    },
+    {
+      "sourceIndex": 343,
+      "sourceName": "Nicobarese traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования никобарцев",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования никобарцев с представлениями о духах умерших, фигурами духов и обрядами духовного врачевания.",
+      "profile": "+nature_spirits +ancestors +afterlife +ritual +icons +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nicobarese_people",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co125764/carved-wooden-kareau-figure",
+        "https://sma.prm.ox.ac.uk/index.php/primary-documents/primary-documents-index/440-e-h-man-nicobar-figure.html"
+      ],
+      "notes": "Исходная статья о народе подтверждает традиционный религиозный компонент. Христианство части населения не назначается этому профилю; традиции шомпенов не считаются точным синонимом. Дополнение 2026-10-25: Science Museum Group и первичная музейная документация E. H. Man в Pitt Rivers Museum, Oxford, описывают kareau: фигуры/изображения, которые изготавливают духовные целители для отпугивания духов болезни и умерших (+icons/+occult). Указаны центральные и южные Никобары, формы различаются; фигурки не объявлены универсальным изображением бога всех островов."
+    },
+    {
+      "sourceIndex": 344,
+      "sourceName": "Nocte religion",
+      "decision": "review",
+      "canonicalName": "Традиционные верования нокте",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Предполагаемая запись о коренных верованиях нокте Аруначал-Прадеша; границы относительно вишнуитских и христианских практик требуют уточнения.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nocte_people",
+        "https://censusindia.gov.in/nada/index.php/catalog/25566"
+      ],
+      "notes": "Review: исходная статья требует дополнительных ссылок и смешивает традиционные верования, вишнуизм и христианство. Хронология обращений внутренне неясна; упоминания Jauban и духов не дают достаточно надёжной основы для профиля. Переписной каталог отдельно содержит название Nocte, но не решает вопрос состава вероучения; прямое открытие каталога завершилось тайм-аутом."
+    },
+    {
+      "sourceIndex": 345,
+      "sourceName": "Pacoh animism",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования пакох (па-ко)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования пакох Лаоса и Вьетнама с почитанием духов природы и обрядами земледельческого календаря.",
+      "profile": "+divine +many_gods +nature_spirits +ritual +ancestors +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pacoh_people",
+        "https://dsvh.gov.vn/le-hoi-ada-koonh-mung-lua-moi-cua-nguoi-pa-co-3212"
+      ],
+      "notes": "Исходная статья о народе краткая; государственный орган охраны наследия Вьетнама подтверждает богов/духов урожая, природы и обряды Ada Koonh. Региональное описание не переносится безусловно на все современные общины. Дополнение 2026-10-25: Cục Di sản văn hóa, описание Ada Koonh, прямо указывает память и почитание ông bà tổ tiên (предков), обращения с просьбами о благословении урожая и подношения божествам (+ancestors/+personal). Основание — именно Pa Cô, не автоматическое родство с Ta Oi."
+    }
+  ]
+}

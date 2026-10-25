@@ -1,0 +1,367 @@
+{
+  "range": [
+    1406,
+    1425
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1406,
+      "sourceName": "Nirankari",
+      "decision": "alias",
+      "canonicalName": "Ниранкари",
+      "family": "sikh",
+      "inheritFamilyProfile": false,
+      "parent": "Сикхизм",
+      "description": "Сикхское реформаторское движение Бабы Дьяла, подчёркивающее бесформенность Бога.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nirankari"
+      ],
+      "notes": "Точное совпадение с существующей записью religions.js «Ниранкари». Исходная статья прямо отличает исходное движение от поздней Sant Nirankari Mission; последнее не становится alias автоматически."
+    },
+    {
+      "sourceIndex": 1407,
+      "sourceName": "Nirmala",
+      "decision": "keep",
+      "canonicalName": "Нирмала",
+      "family": "sikh",
+      "inheritFamilyProfile": false,
+      "parent": "Сикхизм",
+      "description": "Аскетическая и учёная традиция, соединяющая изучение сикхских писаний с ведантической литературой.",
+      "profile": "+guru_granth +scripture +vedas",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nirmala_(sect)"
+      ],
+      "notes": "Сохранена отдельная учёная традиция, не весь исторический санатанский круг и не орден удаси. Рассказ об основании по распоряжению Гуру Гобинд Сингха — традиционное предание. Источник обсуждает разногласия в ведантических интерпретациях; единая адвайта всем нирмала не приписывается."
+    },
+    {
+      "sourceIndex": 1408,
+      "sourceName": "Ramraiya",
+      "decision": "keep",
+      "canonicalName": "Рамраия",
+      "family": "sikh",
+      "inheritFamilyProfile": false,
+      "parent": "Удаси",
+      "description": "Традиция последователей Рам Рая с историческим центром в Дехрадуне.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ramraiya"
+      ],
+      "notes": "Источник относит линию к более широкому кругу удаси, но это не делает их точными синонимами. Биографические рассказы о конфликте Рам Рая с другими сикхскими гуру не превращены в профиль всех современных последователей; подробные доктринальные признаки не подтверждены."
+    },
+    {
+      "sourceIndex": 1409,
+      "sourceName": "Sanatan Sikh",
+      "decision": "review",
+      "canonicalName": "Санатанские сикхские традиции",
+      "family": "sikh",
+      "inheritFamilyProfile": false,
+      "parent": "Сикхизм",
+      "description": "Историографическое обозначение сикхских сред, сохранявших множественные религиозные принадлежности и практики, особенно в XIX веке.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sanatan_Sikh",
+        "https://press.uchicago.edu/ucp/books/book/chicago/C/bo3640357.html"
+      ],
+      "notes": "Статья объединяет исследовательскую категорию Harjot Oberoi, амритсарскую фракцию Сингх Сабхи и более широкие практики. Издатель академического исследования подтверждает категорию и дискуссию о религиозных границах, но не существование единой деноминации с одинаковым профилем. Нужна редакторская проверка объёма названия; не alias Нирмала или Удаси."
+    },
+    {
+      "sourceIndex": 1410,
+      "sourceName": "Sewapanthi",
+      "decision": "keep",
+      "canonicalName": "Севапантхи",
+      "family": "sikh",
+      "inheritFamilyProfile": false,
+      "parent": "Сикхизм",
+      "description": "Сикхский орден, связанный с Бхаи Канхайей и сосредоточенный на бескорыстном служении другим.",
+      "profile": "+guru_granth +ahimsa",
+      "proposedQuestions": [
+        {
+          "id": "selfless_service_path",
+          "text": "Считаете ли вы бескорыстное служение без привязанности к результату самостоятельным путём духовного освобождения?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Выделяет карма-йогу и акцент севапантхи на служении как духовном пути. Отличает их от путей, сосредоточенных на созерцании или знании; доброжелательность сама по себе не означает такой позиции. Подходит также интегральной йоге Сатчидананды, включающей карма-йогу. Не равен karma: речь о способе практики, а не законе последствий.",
+          "supportedEntries": [
+            "Sewapanthi",
+            "Karma yoga",
+            "Integral Yoga"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sewapanthi"
+      ],
+      "notes": "В источнике Sewapanthi, Sevapanthi и Addanshahi обозначают одну традицию. Строгое ненасилие и сева подтверждены отдельно; само служение не кодируется как humanism, поскольку имеет религиозное основание. Родство с удаси не доказывает тождества."
+    },
+    {
+      "sourceIndex": 1411,
+      "sourceName": "Taksali",
+      "decision": "keep",
+      "canonicalName": "Дамдами-таксал",
+      "family": "sikh",
+      "inheritFamilyProfile": false,
+      "parent": "Сикхизм",
+      "description": "Сикхская образовательная традиция и организация, обучающая чтению и толкованию гурбани.",
+      "profile": "+guru_granth +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Damdami_Taksal",
+        "https://damdamitaksal.com/about/faq?view=search"
+      ],
+      "notes": "Taksali в исходной строке связано ссылкой с конкретной Damdami Taksal; сохранена именно она. Не alias всех школ таксал или святыни Takht Sri Damdama Sahib. Собственный сайт подтверждает авторитет Гуру Грантх Сахиб и правила изучения гурбани; традиционное происхождение линии не представлено как бесспорная дата учреждения."
+    },
+    {
+      "sourceIndex": 1412,
+      "sourceName": "Tat Khalsa",
+      "decision": "review",
+      "canonicalName": "Тат-халса",
+      "family": "sikh",
+      "inheritFamilyProfile": false,
+      "parent": "Сикхизм",
+      "description": "Название сикхских течений, отстаивавших нормы халсы, включая реформаторское направление Сингх Сабхи XIX века.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tat_Khalsa",
+        "https://press.uchicago.edu/ucp/books/book/chicago/C/bo3640357.html"
+      ],
+      "notes": "Одно название использовано для противников Банда Сингха в XVIII веке и для реформаторов XIX века. Исходная статья содержит разные утверждения об авторитете Дасам-грантха в этих контекстах; единый профиль не назначен. Академическое исследование Oberoi подтверждает поздний реформаторский контекст. Требуется уточнить исторический объём записи; не alias всей Халсы или всего движения Сингх Сабха."
+    },
+    {
+      "sourceIndex": 1413,
+      "sourceName": "Udasi",
+      "decision": "keep",
+      "canonicalName": "Удаси",
+      "family": "sikh",
+      "inheritFamilyProfile": false,
+      "parent": "Сикхизм",
+      "description": "Аскетическая традиция Шри Чанда, исторически распространявшая сикхские учения и сочетавшая их с индуистскими практиками.",
+      "profile": "+guru_granth +scripture +karma +reincarnation +bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Udasi"
+      ],
+      "notes": "Udasipanth и Udasins — названия того же круга. Семейство sikh — ближайшая историческая связь, а не утверждение о современном самоопределении каждого удаси. Исходная статья подтверждает карму, перерождение и преданность; отличия от норм халсы не означают отсутствия авторитета сикхского писания."
+    },
+    {
+      "sourceIndex": 1414,
+      "sourceName": "Ananda Yoga",
+      "decision": "keep",
+      "canonicalName": "Ананда-йога Криянанды",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Хатха-йога",
+      "description": "Система Криянанды, соединяющая позы, дыхательные практики и аффирмации с подготовкой к медитации.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ananda_Yoga",
+        "https://www.ananda.org/yoga/"
+      ],
+      "notes": "Конкретная методика, а не alias ранее сохранённого движения «Ананда — движение Свами Криянанды» (партия 1066–1085). Собственный сайт подтверждает практики и связь с Йоганандой; одинаковое вероисповедание всех участников занятий не предполагается."
+    },
+    {
+      "sourceIndex": 1415,
+      "sourceName": "Bhakti yoga",
+      "decision": "keep",
+      "canonicalName": "Бхакти-йога",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Индуизм",
+      "description": "Духовный путь любящей преданности личному божеству, представленный в разных индуистских традициях.",
+      "profile": "+divine +personal +bhakti +liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bhakti_yoga"
+      ],
+      "notes": "Bhakti marga — название пути, а не точный синоним современной организации Bhakti Marga. Не alias всего вайшнавизма или любой отдельной традиции бхакти; выбор почитаемого божества различается."
+    },
+    {
+      "sourceIndex": 1416,
+      "sourceName": "Bihar School of Yoga",
+      "decision": "keep",
+      "canonicalName": "Бихарская школа йоги",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Йога как духовный путь",
+      "description": "Школа Сатьянанды Сарасвати в Мунгере, развивающая комплексную систему йогических практик.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bihar_School_of_Yoga",
+        "https://biharyoga.net/apps.php"
+      ],
+      "notes": "Конкретная школа и институт, связанные с системой Bihar Yoga / Satyananda Yoga. Не alias всех центров Шивананды или всей хатха-йоги. Учебная программа включает различные пути; подробное общее богословие каждому учащемуся не назначено. Самоописание как науки не основание для scientific."
+    },
+    {
+      "sourceIndex": 1417,
+      "sourceName": "Hatha yoga",
+      "decision": "keep",
+      "canonicalName": "Хатха-йога",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Йога как духовный путь",
+      "description": "Разнообразные йогические методы работы с телом и дыханием, исторически связанные с духовной дисциплиной и медитативным погружением.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hatha_yoga"
+      ],
+      "notes": "Не единая конфессия и не alias одной современной школы или всей йоги. Исторические практики и современные занятия под тем же названием существенно различаются; общий метафизический профиль, включая освобождение для всех посетителей занятий, не назначен."
+    },
+    {
+      "sourceIndex": 1418,
+      "sourceName": "Integral Yoga",
+      "decision": "keep",
+      "canonicalName": "Интегральная йога Сатчидананды",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Йога как духовный путь",
+      "description": "Система Свами Сатчидананды, объединяющая хатха-, раджа-, бхакти-, карма-, джняна- и джапа-йогу.",
+      "profile": "+meditation +bhakti +ahimsa",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Integral_Yoga_(Satchidananda)",
+        "https://www.yogaville.org/about/"
+      ],
+      "notes": "Исходная ссылка однозначно обозначает систему Сатчидананды, отличную от интегральной йоги Шри Ауробиндо. Собственный сайт Yogaville подтверждает шесть ветвей и межрелигиозную ориентацию. Набор практик адаптируется к человеку; это не единое обязательное вероисповедание каждого участника."
+    },
+    {
+      "sourceIndex": 1419,
+      "sourceName": "Jivamukti Yoga",
+      "decision": "keep",
+      "canonicalName": "Дживамукти-йога",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Йога как духовный путь",
+      "description": "Современная система Шэрон Гэннон и Дэвида Лайфа, соединяющая йогические упражнения с преданностью, ненасилием, изучением текстов, звуком и медитацией.",
+      "profile": "+scripture +bhakti +ahimsa +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jivamukti_Yoga",
+        "https://jivamuktiyoga.com/the-jivamukti-method/"
+      ],
+      "notes": "Пять принципов проверены по собственному сайту метода; это конкретная школа, а не весь круг виньяса-йоги. Биографическая путаница в исходной статье относительно одноимённых наставников не используется. Профиль описывает принципы школы, а не одинаковые убеждения всех посетителей."
+    },
+    {
+      "sourceIndex": 1420,
+      "sourceName": "Jnana yoga",
+      "decision": "keep",
+      "canonicalName": "Джняна-йога",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Индуизм",
+      "description": "Путь духовного знания и исследования природы Я, направленный на освобождение.",
+      "profile": "+liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jnana_yoga"
+      ],
+      "notes": "Jnana marga — альтернативное обозначение пути. Особенно важен в адвайте, но не тождествен всей адвайта-веданте; здесь не назначается общий пантеистический профиль. Предложенный ранее self_enquiry применим после уточнения конкретной формы практики, поэтому новый дублирующий вопрос не создаётся."
+    },
+    {
+      "sourceIndex": 1421,
+      "sourceName": "Karma yoga",
+      "decision": "keep",
+      "canonicalName": "Карма-йога",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Индуизм",
+      "description": "Путь освобождения через действие и исполнение долга без привязанности к плодам своих поступков.",
+      "profile": "+liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Karma_yoga"
+      ],
+      "notes": "Отдельный духовный путь, а не синоним самого закона кармы. Потому karma автоматически не добавлен; scientific и humanism также не следуют из деятельного служения. Формулировка нового вопроса selfless_service_path предложена в записи Sewapanthi этой партии."
+    },
+    {
+      "sourceIndex": 1422,
+      "sourceName": "Kripalu Yoga",
+      "decision": "keep",
+      "canonicalName": "Крипалу-йога",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Хатха-йога",
+      "description": "Современная система, связанная с учением Свами Крипалвананды и сочетающая телесную практику, осознанность и самоисследование.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kripalu_Yoga",
+        "https://kripalu.org/living-kripalu/what-kripalu-yoga-guide-its-philosophy-stages-and-benefits"
+      ],
+      "notes": "Исходный URL не загрузился. Идентичность, связь со Свами Крипалу и созерцательная направленность подтверждены доступным поисковому индексу материалом самой школы. Это метод, а не только учреждение Kripalu Center. Не alias всей кундалини-йоги; конкретное общее учение о Боге всем практикующим не назначено."
+    },
+    {
+      "sourceIndex": 1423,
+      "sourceName": "Kriya Yoga",
+      "decision": "keep",
+      "canonicalName": "Крия-йога линии Лахири Махасаи",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Йога как духовный путь",
+      "description": "Система медитации и пранаямы линии Лахири Махасаи, получившая международное распространение через Йогананду.",
+      "profile": "+divine +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kriya_Yoga_school",
+        "https://yogananda.org/kriya-yoga-path-of-meditation"
+      ],
+      "notes": "Исходная статья прямо ограничена школой Лахири Махасаи, а не всеми значениями kriya yoga у Патанджали или в иных организациях. Школа шире Self-Realization Fellowship, Йогода Сатсанга и движения Ананда, поэтому не alias одной из них. Рассказ о передаче от Бабаджи — утверждение традиции. Собственное обозначение «наука» не кодируется как scientific."
+    },
+    {
+      "sourceIndex": 1424,
+      "sourceName": "Kundalini yoga",
+      "decision": "keep",
+      "canonicalName": "Кундалини-йога",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Йога как духовный путь",
+      "description": "Круг йогических практик, ориентированных на пробуждение кундалини и работу с чакрами, включая современные школы.",
+      "profile": "+meditation",
+      "proposedQuestions": [
+        {
+          "id": "kundalini_awakening",
+          "text": "Важно ли для вашей духовной практики пробуждение кундалини и её движение через чакры?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отражает центральную установку кундалини-йоги, которую meditation не выражает. Может встречаться и в отдельных тантрических, крия- и хатха-йогических линиях; применять к ним следует после отдельной проверки, а не на основании общего названия йоги.",
+          "supportedEntries": [
+            "Kundalini yoga"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kundalini_yoga"
+      ],
+      "notes": "Исходная статья соединяет общий тантрический комплекс и современные формы, в том числе линию Йоги Бхаджана. Не тождественна одной 3HO или всему сикхизму. Профиль ограничен подтверждённой медитативной практикой; breath of fire не означает сакрального почитания огня. Различие отражено предложенным вопросом, а не произвольным occult."
+    },
+    {
+      "sourceIndex": 1425,
+      "sourceName": "Raja yoga",
+      "decision": "review",
+      "canonicalName": "Раджа-йога — исторический и современный термин",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Йога как духовный путь",
+      "description": "Название высшего состояния йоги и путей к нему, в современной интерпретации Вивекананды связанное с системой Патанджали.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Raja_yoga"
+      ],
+      "notes": "Исходная статья отличает историческое значение от позднего отождествления с классической йогой. Поэтому не ставится автоматический alias к «Классической йоге Патанджали» (строка 1230) или к «Йоге как духовному пути» в religions.js. Требуется уточнить, сохранять ли широкий термин или конкретную современную интерпретацию. Не тождественна одноимённым практикам Брахма Кумарис."
+    }
+  ]
+}

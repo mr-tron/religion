@@ -1,0 +1,341 @@
+{
+  "range": [
+    1226,
+    1245
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1226,
+      "sourceName": "Samkhya",
+      "decision": "alias",
+      "canonicalName": "Санкхья",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Индийская философская традиция различения сознания-пуруши и природы-пракрити.",
+      "profile": "+liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Samkhya",
+        "https://iep.utm.edu/hindu-ph/"
+      ],
+      "notes": "Alias существующей записи religions.js «Санкхья». Samkhya — английская транслитерация того же названия; исходная статья и академическое изложение подтверждают идентичность. Не синоним всей йоги, хотя философские системы тесно связаны."
+    },
+    {
+      "sourceIndex": 1227,
+      "sourceName": "Sassatavada",
+      "decision": "review",
+      "canonicalName": "Сассатавада — требуется уточнение",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Буддийское обозначение этерналистских воззрений; исходная строка связывает его с учителем Пакудхой Каччаяной.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pakudha_Kaccayana",
+        "https://suttacentral.net/dn2/en/sujato",
+        "https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/sa07.pdf"
+      ],
+      "notes": "Review: Sassatavada шире конкретной системы Пакудхи, тогда как URL ведёт именно на биографию этого учителя. DN 2 подтверждает приписываемое ему учение о семи неизменных субстанциях, но не тождество всей сассатавады одной школе. Требуется выбрать общий философский тезис или конкретное учение; профиль не переносится с полемического буддийского пересказа без уточнения."
+    },
+    {
+      "sourceIndex": 1228,
+      "sourceName": "Vaisheshika",
+      "decision": "keep",
+      "canonicalName": "Вайшешика",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Индийская философская школа, анализирующая категории бытия, субстанции и атомарное устройство материального мира.",
+      "profile": "+liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vaisheshika"
+      ],
+      "notes": "Исходник связывает освобождение с истинным знанием категорий опыта. Исторический атомизм не равен современному scientific или naturalism: система включает нематериальные сущности и менялась со временем. Теистические поздние формы не назначены всей ранней традиции. Не alias ньяи, хотя позднее школы тесно сблизились."
+    },
+    {
+      "sourceIndex": 1229,
+      "sourceName": "Vedanta",
+      "decision": "keep",
+      "canonicalName": "Веданта",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Семейство индийских философских школ, интерпретирующих Упанишады, Брахма-сутры и Бхагавадгиту.",
+      "profile": "+vedas +scripture +liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vedanta",
+        "https://iep.utm.edu/hindu-ph/"
+      ],
+      "notes": "Сохраняется как родительское семейство школ, не alias существующей Адвайта-веданты, Двайта-веданты или Вишишта-адвайты. Отношения души, Брахмана и мира, личность Бога и роль преданности различаются между направлениями. Ни pantheism, ни one_god, ни -personal не назначены всем автоматически."
+    },
+    {
+      "sourceIndex": 1230,
+      "sourceName": "Yoga",
+      "decision": "keep",
+      "canonicalName": "Классическая йога Патанджали",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Индийская философско-практическая школа, связывающая освобождение сознания с дисциплиной, сосредоточением и медитацией.",
+      "profile": "+meditation +liberation +ahimsa",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yoga_(philosophy)",
+        "https://iep.utm.edu/yoga/"
+      ],
+      "notes": "Исходная ссылка Yoga (philosophy) определяет классическую даршану и Йога-сутры. Это уже существующей записи «Йога как духовный путь», охватывающей индийские духовные практики вообще; поэтому не alias общего зонтичного названия. Академическое изложение подтверждает строгую ахимсу как основу дисциплины. Особое понимание Ишвары не упрощено до обычного теизма."
+    },
+    {
+      "sourceIndex": 1231,
+      "sourceName": "Amarapura–Rāmañña Nikāya",
+      "decision": "keep",
+      "canonicalName": "Амарапура–Раманна-никая",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тхеравада",
+      "description": "Монашеское объединение Шри-Ланки, созданное в 2019 году союзом Амарапура-никаи и Раманна-никаи.",
+      "profile": "+buddha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amarapura%E2%80%93R%C4%81ma%C3%B1%C3%B1a_Nik%C4%81ya"
+      ],
+      "notes": "Источник подтверждает определённое объединение монашеских орденов, а не новую самостоятельную религию. Не alias всей тхеравады или каждого из двух предшествующих орденов по отдельности. История административного союза не доказывает уникального общего набора медитативных техник; семейный профиль не наследуется."
+    },
+    {
+      "sourceIndex": 1232,
+      "sourceName": "Azhaliism",
+      "decision": "keep",
+      "canonicalName": "Ачжали — буддийская традиция Дали",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Эзотерический буддизм",
+      "description": "Эзотерическая буддийская традиция народа бай в Юньнани, связанная с ритуальными специалистами ачжали и местными формами почитания буддийских божеств.",
+      "profile": "+buddha +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Azhaliism"
+      ],
+      "notes": "Исходник подтверждает тантрическую традицию, ритуальных специалистов и особое почитание Авалокитешвары и Махакалы. Не alias бэньчжуизма, всей религии бай или китайского буддизма. Исторические связи с Тибетом и Индией не доказывают тождества одной современной тибетской школе."
+    },
+    {
+      "sourceIndex": 1233,
+      "sourceName": "Baiyunzong",
+      "decision": "keep",
+      "canonicalName": "Байюньцзун — школа Белого облака",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Хуаянь",
+      "description": "Историческое китайское мирянское буддийское движение, связанное с хуаяньской традицией и изданием буддийского канона.",
+      "profile": "+buddha +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Baiyunzong",
+        "https://shihshansusanhuang.com/wp-content/uploads/2022/09/2014_Susan-Huang_Reassessing-Printed-Buddhist-Frontispieces-from-Xi-Xiacompress.pdf"
+      ],
+      "notes": "Исходник и исследование печатного канона подтверждают White Cloud sect и Пӯнинский канон. Это не Белый лотос: сходство названия и преследования властями не синонимия. Конфуцианские и даосские влияния не означают обязательного принятия всеми полного учения Дао; оценки ереси переданы как внешние исторические оценки."
+    },
+    {
+      "sourceIndex": 1234,
+      "sourceName": "Bodongpa",
+      "decision": "keep",
+      "canonicalName": "Бодонг",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тибетский буддизм",
+      "description": "Тибетская буддийская традиция вокруг монастыря Бодонг Э и наследия Бодонг Панчена Чокле Намгьяла.",
+      "profile": "+buddha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bodongpa",
+        "https://treasuryoflives.org/tradition/Bodong"
+      ],
+      "notes": "Специализированная энциклопедия подтверждает самостоятельную институциональную традицию и сложную историю передач. Не путать Бодонг Панчена с Джонанг Чокле Намгьялом и не alias всей Сакья из-за передачи ламдре. Описания отдельных исторических учителей недостаточно для универсального подробного профиля."
+    },
+    {
+      "sourceIndex": 1235,
+      "sourceName": "Bon",
+      "decision": "keep",
+      "canonicalName": "Бон",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Тибетская религиозная традиция с собственными текстами, монастырями, ритуалами и созерцательными учениями.",
+      "profile": "+scripture +meditation +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bon",
+        "https://ligmincha.org/practice/",
+        "https://ligmincha.org/the-bon-lineage-of-teachers/"
+      ],
+      "notes": "Собственный источник подтверждает тексты, дзогчен, тантрические практики, бардо и ритуалы. Буддоподобный статус Тонпа Шенраба не означает автоматического +buddha, если вопрос понимается как центральность учения исторического Шакьямуни. Бон сохраняет самостоятельную идентичность при тесных связях с тибетским буддизмом; семейство indigenous выбрано по коренному тибетскому контексту без наследования обобщений. Не alias каждой практики, называемой «бон» соседними народами."
+    },
+    {
+      "sourceIndex": 1236,
+      "sourceName": "Bongthingism",
+      "decision": "keep",
+      "canonicalName": "Мун — традиционные верования лепча",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренная духовная традиция лепча, связанная с природными духами и деятельностью жрецов мун и бонгтхинг.",
+      "profile": "+nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mun_(religion)"
+      ],
+      "notes": "Исходная статья прямо называет Bongthingism вариантом обозначения Mun. Отдельной сохранённой записи Mun в готовых партиях не найдено, поэтому keep с общим каноническим названием. Термины также обозначают разные категории ритуальных специалистов; не отождествлены все их функции. Совместное исповедание буддизма не делает коренную традицию синонимом буддизма или бон."
+    },
+    {
+      "sourceIndex": 1237,
+      "sourceName": "Caodong school",
+      "decision": "keep",
+      "canonicalName": "Цаодун",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Чань-буддизм",
+      "description": "Школа китайского чань-буддизма, связанная с Дуншанем Лянцзе, его преемниками и практикой безмолвного озарения.",
+      "profile": "+buddha +meditation +no_self",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Caodong_school",
+        "https://ddmenglish.ddm.org.tw/portal_d6_cnt_page.php?cnt_id=2&folder_id=3"
+      ],
+      "notes": "Современный источник Dharma Drum подтверждает специфический метод mozhao и созерцательную цель. Не alias всего Чань-буддизма или японской Сото: японская линия исторически происходит из Цаодун, но имеет отдельное развитие. Не приписан единый обязательный ритуальный уклад всем историческим ветвям."
+    },
+    {
+      "sourceIndex": 1238,
+      "sourceName": "Cheontae",
+      "decision": "keep",
+      "canonicalName": "Чхонтхэ",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тяньтай",
+      "description": "Корейская буддийская традиция тяньтайского происхождения, выделяющая Лотосовую сутру и сочетание изучения учения с созерцанием.",
+      "profile": "+buddha +scripture +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cheontae"
+      ],
+      "notes": "Источник прямо подтверждает Лотосовую сутру и попытку Ыйчхона соединить доктринальные и медитативные школы. Историческое учение и современный возрождённый орден связаны, но не все организационные детали перенесены между эпохами. Не alias всей китайской Тяньтай, японской Тэндай или новейших движений Лотосовой сутры."
+    },
+    {
+      "sourceIndex": 1239,
+      "sourceName": "Chinese Esoteric Buddhism",
+      "decision": "keep",
+      "canonicalName": "Китайский эзотерический буддизм",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Эзотерический буддизм",
+      "description": "Китайские буддийские традиции эзотерических передач, посвящений, мантр, мудр и мандал.",
+      "profile": "+buddha +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chinese_Esoteric_Buddhism"
+      ],
+      "notes": "Исходник охватывает исторические танские передачи, последующие местные практики и современные возрождения. Не alias всей Ваджраяны, японской Сингон или тибетского буддизма. Ритуальные и эзотерические признаки подтверждены самим предметом статьи, а не перенесены из семейства; единый пантеон всех ветвей не назначен."
+    },
+    {
+      "sourceIndex": 1240,
+      "sourceName": "Chinzei",
+      "decision": "keep",
+      "canonicalName": "Тиндзэй — линия Дзёдо-сю",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Дзёдо-сю",
+      "description": "Японская линия буддизма Чистой земли, связанная с Бэнтё и Рё:тю: и подчёркивающая многократное произнесение имени Амиды.",
+      "profile": "+buddha +bhakti +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chinzei"
+      ],
+      "notes": "Источник подтверждает самостоятельную историческую линию и учение о многократном нэмбуцу. Не alias всей записи «Буддизм Чистой земли» или всей Дзёдо-сю: современное организационное преобладание линии не отменяет других направлений. Медитативная терминология samadhi не автоматически описывает практику как сидячую медитацию."
+    },
+    {
+      "sourceIndex": 1241,
+      "sourceName": "Dagpo Kagyu",
+      "decision": "keep",
+      "canonicalName": "Дагпо-кагью",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Кагью",
+      "description": "Совокупность тибетских линий кагью, восходящих к Гампопе и объединяющих кадамские наставления с махамудрой.",
+      "profile": "+buddha +meditation +liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dagpo_Kagyu",
+        "https://kagyuoffice.org/an-introduction-to-the-dakpo-kagyu-and-the-great-deeds-of-lord-gampopa/"
+      ],
+      "notes": "Современное собственное наставление подтверждает методы медитации и освобождения. Не alias всего Кагью, поскольку есть другие линии передачи, и не одна Карма-кагью или Друкпа. Исходник также отмечает узкое употребление для монастырской линии Даглха Гампо; здесь выбран его основной широкий охват. История спорных преемств Кармап не разрешается этой записью."
+    },
+    {
+      "sourceIndex": 1242,
+      "sourceName": "Daśabhūmikā",
+      "decision": "review",
+      "canonicalName": "Дашабхумика — требуется уточнение",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Название, связанное с десятью ступенями пути бодхисаттвы и одноимённой сутрой, а также с её комментаторскими традициями.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dashabhumika",
+        "https://www.lrcnepal.org.np/article/SanskritScripts",
+        "https://thuvienhoasen.org/images/file/I1_qb1jf0wgQAP0o/vol-vii-s-.pdf"
+      ],
+      "notes": "Review: исходный Dashabhumika не загрузился. Проверенные источники различают сутру о десяти ступенях, комментарий Васубандху и китайскую школу Дилун, использовавшую комментарий. По одной строке нельзя определить, какое из этих значений предназначено как отдельная запись. Не объявлена новая конфессия только по названию текста; профиль пуст до уточнения."
+    },
+    {
+      "sourceIndex": 1243,
+      "sourceName": "Dhammakaya Movement",
+      "decision": "keep",
+      "canonicalName": "Движение Дхаммакая",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тхеравада",
+      "description": "Тайская буддийская медитативная традиция, связанная с Луан Пу Сот Чантасаро и методом видджа-дхаммакая.",
+      "profile": "+buddha +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dhammakaya_Movement"
+      ],
+      "notes": "Исходный URL перенаправляет на Dhammakaya tradition, охватывающую несколько связанных храмов и организаций. Не alias одного Wat Phra Dhammakaya или всей тхеравады. Дискуссия о дхаммакае, ниббане и атмане не сведена к общему +no_self или -no_self; полемика вокруг одного храма не задаёт доктрину всех линий."
+    },
+    {
+      "sourceIndex": 1244,
+      "sourceName": "Dhammayuttika Nikaya",
+      "decision": "keep",
+      "canonicalName": "Дхаммаюттика-никая",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тхеравада",
+      "description": "Реформаторский монашеский орден тхеравады, возникший вокруг Монгкута и уделяющий внимание канонической дисциплине.",
+      "profile": "+buddha +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dhammayuttika_Nikaya"
+      ],
+      "notes": "Источник подтверждает орден, внимание к Винае и текстам. Не alias всей тхеравады, тайской лесной традиции или одной современной организации медитации: отдельные лесные линии связаны с орденом, но не исчерпывают его. Варианты Dhammayut и Thammayut — другие формы его названия."
+    },
+    {
+      "sourceIndex": 1245,
+      "sourceName": "Drukpa Kagyu",
+      "decision": "keep",
+      "canonicalName": "Друкпа-кагью",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Дагпо-кагью",
+      "description": "Тибетская буддийская линия, связанная с Цангпа Гьяре и наставлениями махамудры и шести йог Наропы.",
+      "profile": "+buddha +meditation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Drukpa_Kagyu"
+      ],
+      "notes": "Источник прямо подтверждает отдельную линию и тантрические созерцательные методы. Не alias всей Дагпо-кагью, других школ Кагью или всего буддизма Бутана. Различающиеся северные и южные институциональные формы не сведены к единому современному руководству."
+    }
+  ]
+}

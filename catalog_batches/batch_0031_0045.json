@@ -1,0 +1,340 @@
+{
+  "range": [
+    31,
+    45
+  ],
+  "entries": [
+    {
+      "sourceIndex": 31,
+      "sourceName": "Bori",
+      "decision": "keep",
+      "canonicalName": "Бори",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Традиция хауса, включающая общение с духами через ритуальные танцы, транс и целительные практики.",
+      "profile": "+divine +nature_spirits +ritual +occult +initiatory_brotherhood +spirit_possession",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Считаете ли вы ритуальное вселение духов важным способом общения с ними?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Разделяет традиции с центральной практикой медиумического транса (бори, кандомбле, комфа, конвинс) и традиции, для которых подтверждены иные способы почитания духов. Отсутствие упоминания транса не означает ответ «Нет»."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hausa_animism"
+      ],
+      "notes": "Источник различает традиционные верования магузава, общую веру в духов у мусульман хауса и общества ритуального транса. Запись сохранена для практики бори; нельзя автоматически приписывать ей все убеждения хауса или отрицание ислама. Уточнение профиля: разделы Beliefs и Possession-trance rites исходной статьи, с отсылками к полевой монографии Fremont Besmer, описывают духов как посредников к божественному творцу, речь духа через участника и принятие больного в группу как основную форму посвящения. Отсюда +divine, +spirit_possession и +initiatory_brotherhood. Гадание не добавлено автоматически: статья отдельно отмечает его необязательную связь с бори.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 32,
+      "sourceName": "Bubi spirituality",
+      "decision": "keep",
+      "canonicalName": "Традиционная духовность буби",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Местные духовные традиции острова Биоко с представлениями о создателе Рупе и духах природных мест.",
+      "profile": "+divine +nature_spirits +ancestors +afterlife +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bubi_people",
+        "https://portalrecerca.uab.cat/en/studentTheses/los-ritos-de-paso-entre-los-bubi-2/"
+      ],
+      "notes": "Ссылка ведёт на статью о народе; раздел Religion подтверждает духов природных объектов и Рупе. Она также сообщает о католической принадлежности многих буби: этничность не приравнивается к этому профилю. Схема рая, ада и ангелов в статье не использована как уверенный признак дохристианского учения. Уточнение профиля: этнография José Francisco Eteo Soriso «Los ritos de paso entre los bubi» (UAB, 2013) на основе ритуалов рождения и смерти описывает духовный мир умерших, прародительницу матриклана и сохраняющуюся ритуальность. Это независимо поддерживает +ancestors, +afterlife и +ritual без заимствования христианской схемы рая и ада.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 33,
+      "sourceName": "Bushongo religion",
+      "decision": "keep",
+      "canonicalName": "Религия бушонго",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Традиционные представления бушонго бассейна Конго, включая миф о сотворении мира Бумбой.",
+      "profile": "+divine +ritual +icons +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bushongo_religion",
+        "https://www.khm.uio.no/english/collections/objects/the-mask-that-sees-all-and-knows-all.html"
+      ],
+      "notes": "Статья главным образом описывает космогонию Бумбы (Мбомбо). Из её ограниченного охвата нельзя уверенно вывести почитание предков или строгий монотеизм; обрядовые признаки проверены по дополнительному музейному источнику. Уточнение профиля: Museum of Cultural History, Oslo описывает именно Bushoong, ритуальные маски при посвящении мужчин и тайное общество Batende с передачей знания через посвящение. Это позволяет добавить +ritual, +icons и +initiatory_brotherhood сверх космогонии. Общие для всех куба признаки не переносятся без указанной связи с Bushoong.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 34,
+      "sourceName": "Bwa religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия бва",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Разнообразные традиции бва с почитанием духов, обрядами инициации и ритуальными масками.",
+      "profile": "+divine +many_gods +nature_spirits +ritual +icons +afterlife +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bwa_people",
+        "https://www.metmuseum.org/art/collection/search/312401"
+      ],
+      "notes": "Статья о народе содержит отдельный раздел о религии: Вуро, Дво, Сохо, Квере, культ До и ритуалы масок. Практики различаются по регионам, часть связана с заимствованиями у нуна; профиль относится к традиционным культам, а не всем бва. Уточнение профиля: Metropolitan Museum описывает маски природных духов, сопровождающие душу умершего в иной мир, и посвящение юношей и девушек в знания и обязанности взрослого сообщества. Добавлены +afterlife и +initiatory_brotherhood. Музей различает творца Difini/Dobweni и посредника Do; эта терминология предпочтительнее механического переноса имён от бобо.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 35,
+      "sourceName": "Bwiti",
+      "decision": "keep",
+      "canonicalName": "Бвити",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Духовные традиции Габона, соединяющие посвящение, почитание предков и ритуальное употребление ибоги.",
+      "profile": "+ancestors +nature_spirits +ritual +initiatory_brotherhood +entheogenic_ritual",
+      "proposedQuestions": [
+        {
+          "id": "entheogenic_ritual",
+          "text": "Занимает ли обрядовое употребление психоактивных растений важное место в вашей духовной традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отражает документированное значение ибоги в бвити и отделяет его от традиций, где такой обряд не является центральным. При переносе нужны подтверждения ответов для остальных записей; это вопрос о практике традиции, а не рекомендация употребления."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bwiti",
+        "https://pdf.usaid.gov/pdf_docs/Pnads957.pdf"
+      ],
+      "notes": "Разные ветви бвити включают христианские элементы в неодинаковой степени. Статья помечена как нуждающаяся в дополнительных ссылках; христианское богословие не обобщено на всё направление. Уточнение профиля: исследование Tabernanthe iboga, размещённое USAID, содержит свидетельство практикующей Bwiti о необходимости посвящения и перечисляет ибогу и священные музыкальные инструменты разных ветвей. Это поддерживает +initiatory_brotherhood и +entheogenic_ritual; описывается существующий обряд, не рекомендация употребления.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 36,
+      "sourceName": "Candomblé",
+      "decision": "alias",
+      "canonicalName": "Кандомбле",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Афро-бразильские религиозные традиции, объединяющие разные ритуальные нации и почитание ориша, водун и инкисе.",
+      "profile": "+divine +orisha +nature_spirits +ritual",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Считаете ли вы ритуальное вселение духов важным способом общения с ними?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Разделяет традиции с центральной практикой медиумического транса (бори, кандомбле, комфа, конвинс) и традиции, для которых подтверждены иные способы почитания духов. Отсутствие упоминания транса не означает ответ «Нет»."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Candombl%C3%A9"
+      ],
+      "notes": "Совпадает с широкой записью «Кандомбле» в religions.js, поэтому при переносе следует расширить её, а не создавать дубликат. Ветви банту, жежи и кету сохраняются отдельно; одинаковые семейные признаки не доказывают тождество ветвей. Это та же традиция, что русское название «Кандомбле» в действующем каталоге; не добавлять второй корневой вариант.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 37,
+      "sourceName": "Candomblé Bantu",
+      "decision": "keep",
+      "canonicalName": "Кандомбле банту (Ангола)",
+      "family": "indigenous",
+      "parent": "Кандомбле",
+      "description": "Ветвь кандомбле конголезского и мбунду происхождения с почитанием Нзамби и инкисе.",
+      "profile": "+divine +many_gods +ritual +initiatory_brotherhood +spirit_possession",
+      "proposedQuestions": [
+        {
+          "id": "inkisi",
+          "text": "Близко ли вам почитание инкисе (минкиси) в религиозной традиции банту?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Помогает различать бантускую ветвь кандомбле, кету с ориша и жежи с водун. Допускает смешанные практики; сходство функций божеств не означает одинаковой самоидентификации."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Candombl%C3%A9_Bantu",
+        "https://new.scielo.br/j/psoc/a/77BTpWW3yFzKqpSCtB7d9ZS/?ilang=pt_BR&lang=pt",
+        "https://www2.uesb.br/ppg/ppgmls/wp-content/uploads/2024/09/Tese-de-Alexandre-Garcia-Ara%C3%BAjo1.pdf"
+      ],
+      "notes": "Исходная статья перенаправляет на Candomblé Angola и прямо называет Bantu/Banto другими именами этой ветви. Это нормализация названия внутри записи; она не является синонимом всего кандомбле. Признак orisha не навязан: местный термин — инкисе. Уточнение профиля: исследование в Psicologia & Sociedade прямо называет ступени посвящения Анголы Muzenza и Maganza. Диссертация Alexandre Garcia Araújo (UESB, 2024) различает посвящённых Muzenza, непосвящённых Ndumbe и не входящих в транс Kambondos/Makotas, описывая уход за nkisis во время их присутствия на земле. Это поддерживает +initiatory_brotherhood и +spirit_possession именно для Анголы, без семейного наследования и без утверждения, что каждый участник входит в транс.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 38,
+      "sourceName": "Candomblé Jejé",
+      "decision": "keep",
+      "canonicalName": "Кандомбле жежи",
+      "family": "indigenous",
+      "parent": "Кандомбле",
+      "description": "Ветвь кандомбле, восходящая к традициям аджа, фон и эве и почитающая водун.",
+      "profile": "+divine +many_gods +ritual +initiatory_brotherhood +spirit_possession",
+      "proposedQuestions": [
+        {
+          "id": "vodun",
+          "text": "Близко ли вам почитание водун в традициях фон, эве или связанных с ними общинах?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Различает жежи и дагомейскую религию с одной стороны и кету/банту по характерной терминологии с другой. Не следует автоматически приравнивать водун, ориша и гаитянских лва."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Candombl%C3%A9_Jej%C3%A9",
+        "https://new.scielo.br/j/psoc/a/77BTpWW3yFzKqpSCtB7d9ZS/?ilang=pt_BR&lang=pt",
+        "https://www2.uesb.br/ppg/ppgmls/wp-content/uploads/2024/09/Tese-de-Alexandre-Garcia-Ara%C3%BAjo1.pdf",
+        "https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?id_trabalho=5212664&popup=true"
+      ],
+      "notes": "Jejé/Jeje — варианты написания; Brazilian Vodum — приведённое источником другое название. Это отдельная ветвь, не синоним всего кандомбле или дагомейской религии. Источник отмечает взаимное заимствование имён и культов между нациями. Уточнение профиля: исследование в Psicologia & Sociedade прямо называет ступени посвящения жежи Vodunci и Etemi; UESB (Araújo, 2024) различает посвящённых Vodunsi, непосвящённых Kajèkaji и участников, не входящих в транс, которые ухаживают за присутствующими водун. Это поддерживает +initiatory_brotherhood и +spirit_possession именно для жежи. Посвящение дополнительно документировано в диссертации Renata Silva da Costa о terreiro Jeje Ilê Asé Gunidá; термин водун не заменён на ориша.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 39,
+      "sourceName": "Candomblé Ketu",
+      "decision": "keep",
+      "canonicalName": "Кандомбле кету",
+      "family": "indigenous",
+      "parent": "Кандомбле",
+      "description": "Ветвь кандомбле с йорубским ритуальным наследием и почитанием ориша.",
+      "profile": "+divine +orisha +many_gods +nature_spirits +ritual +initiatory_brotherhood +divination_oracles +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Candombl%C3%A9_Ketu",
+        "https://new.scielo.br/j/psoc/a/77BTpWW3yFzKqpSCtB7d9ZS/?ilang=pt_BR&lang=pt"
+      ],
+      "notes": "Источник прямо определяет кету как нацию кандомбле, описывает ориша как природные силы и жертвоприношения. Общий йорубский источник не делает её синонимом сантерии или всей йорубской религии. Уточнение профиля: исходная статья прямо описывает транс и гадательную систему общения с духами. Полевое исследование в Psicologia & Sociedade включает последователей terreiro кету с минимум семью годами посвящения и описывает оракул Èrìndílógún и звания Iyawo/Egbomi. Это поддерживает +spirit_possession, +divination_oracles и +initiatory_brotherhood непосредственно для кету.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 40,
+      "sourceName": "Chamba traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия чамба",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Традиции чамба Нигерии и Камеруна с представлениями о создателе Су и продолжающих жить предках.",
+      "profile": "+divine +ancestors +afterlife +ritual +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chamba_people"
+      ],
+      "notes": "Ссылка на статью о народе; раздел Beliefs подтверждает Су, живущих под землёй умерших и посредничество предков, раздел Cults — обряды посвящения и исцеления. Часть чамба исповедует другие религии. Су не приписано личное обращение: источник подчёркивает его невмешательство. Уточнение профиля: раздел Cults исходной статьи прямо описывает мужские и женские jup, вступление в которые возможно лишь через посвящение; поддержан +initiatory_brotherhood. Простая вера в создателя Су не превращена в +personal или +deism.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 41,
+      "sourceName": "Chokwe spiritual beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования чокве",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Местные традиции чокве с почитанием духов махамба, предков и природных сил.",
+      "profile": "+ancestors +nature_spirits +ritual +icons +divine +divination_oracles +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chokwe_people",
+        "https://collections.carlos.emory.edu/objects/1074/miniature-divination-figure-tuphele",
+        "https://africa.si.edu/collection/object/nmafa_86-12-17.1"
+      ],
+      "notes": "Статья о народе содержит раздел Rituals: махамба предков и природы представлены деревьями, термитниками, фигурками и масками; им адресуются молитвы, жертвы и подношения. Сохраняется как комплекс традиций, без утверждения единой организации или веры всех чокве. Музей Карлоса Университета Эмори описывает создателя Калунгу, гадательные фигуры тупхеле и одержимость гадателя духом Нгомбо; это основание для divine, divination_oracles и spirit_possession. Полный текст музейной страницы блокирует проверка JavaScript, проверено подробное индексированное описание предмета.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 42,
+      "sourceName": "Comfa",
+      "decision": "keep",
+      "canonicalName": "Комфа",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Народная религиозная традиция Гайаны с молитвой Богу, служением духам и медиумическими обрядами.",
+      "profile": "+divine +personal +one_god +ancestors +nature_spirits +ritual +afterlife +spirit_possession",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Считаете ли вы ритуальное вселение духов важным способом общения с ними?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Разделяет традиции с центральной практикой медиумического транса (бори, кандомбле, комфа, конвинс) и традиции, для которых подтверждены иные способы почитания духов. Отсутствие упоминания транса не означает ответ «Нет»."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Comfa"
+      ],
+      "notes": "Источник подтверждает Бога-создателя, духов умерших и подношения. Также отмечены элементы ориша, индуизма и других традиций, но они не сделаны обязательными признаками каждого последователя. Comfa может означать и сам транс, и более широкую религию. В проверенном описании Comfa слово обозначает также одержимость духом; spirit_possession теперь кодируется существующим вопросом. Это не перенос христианского spirit_gifts.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 43,
+      "sourceName": "Convince",
+      "decision": "keep",
+      "canonicalName": "Конвинс",
+      "family": "indigenous",
+      "parent": null,
+      "description": "Афро-ямайская традиция общения с духами умерших через медиумов, танцы и целительные обряды.",
+      "profile": "+ancestors +afterlife +ritual -scripture +spirit_possession",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Считаете ли вы ритуальное вселение духов важным способом общения с ними?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Разделяет традиции с центральной практикой медиумического транса (бори, кандомбле, комфа, конвинс) и традиции, для которых подтверждены иные способы почитания духов. Отсутствие упоминания транса не означает ответ «Нет»."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Convince"
+      ],
+      "notes": "Источник прямо называет традицию нетекстовой; подтверждены духи умерших членов общины, бонго-медиумы и ритуальное вселение. Указанные синонимы Bongo/Flenke не представлены отдельными записями данной партии. Связь с кумина и марунскими традициями не означает тождество. Ритуальная одержимость духами умерших прямо названа центральной практикой; добавлен существующий spirit_possession.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 44,
+      "sourceName": "Cuban Vodú",
+      "decision": "keep",
+      "canonicalName": "Кубинское воду",
+      "family": "indigenous",
+      "parent": "Гаитянское воду",
+      "description": "Кубинская форма гаитянского воду, развившаяся среди мигрантов с Гаити и их потомков, особенно на востоке Кубы.",
+      "profile": "+ritual +ancestors +nature_spirits +divine +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cuban_Vod%C3%BA",
+        "https://en.wikipedia.org/wiki/Haitian_Vodou_in_Cuba",
+        "https://hemisphericinstitute.org/es/emisferica-121-caribbean-rasanblaj/12-1-essays/e-121-essay-hume-from-bush-to-stage.html",
+        "https://biblioteca.clacso.edu.ar/Cuba/cips/20120823114602/hodge.pdf"
+      ],
+      "notes": "Исходная ссылка не загрузилась. Проверена статья Haitian Vodou in Cuba и академические исследования: описана местная форма, сохраняющая связь с гаитянским воду, но изменившаяся в кубинской среде. Сохраняется как локальная ветвь, не объединяется с сантерией или общей записью воду. Местное почитание лва подтверждено в разделе о верованиях Oriente; исследование Хьюм непосредственно описывает кубинский обряд с вселением Огу и подношениями. Отсюда divine и spirit_possession, без переноса всего профиля гаитянского воду.",
+      "inheritFamilyProfile": false
+    },
+    {
+      "sourceIndex": 45,
+      "sourceName": "Dahomean religion",
+      "decision": "keep",
+      "canonicalName": "Дагомейская религия",
+      "family": "indigenous",
+      "parent": "Западноафриканский водун",
+      "description": "Историческая форма западноафриканского водун в королевстве Дагомея с пантеонами божеств и почитанием предков.",
+      "profile": "+divine +many_gods +ancestors +afterlife +ritual +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dahomean_religion"
+      ],
+      "notes": "Источник прямо называет её формой West African Vodún у фон Дагомеи; подтверждены обожествлённые предки, мир умерших кутоме и ритуалы. Историческая местная традиция сохраняется отдельно от общего водун и гаитянского воду. Раздел Ceremony and worship прямо описывает вступление в культ через формальное посвящение, уединение и обучение обязанностям водун: добавлен initiatory_brotherhood.",
+      "inheritFamilyProfile": false
+    }
+  ]
+}

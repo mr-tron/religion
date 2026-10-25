@@ -1,0 +1,346 @@
+{
+  "range": [
+    1286,
+    1305
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1286,
+      "sourceName": "Sangharaj Nikaya",
+      "decision": "keep",
+      "canonicalName": "Сангхарадж-никая",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тхеравада",
+      "description": "Бангладешский монашеский орден тхеравады, возникший в ходе реформаторского возрождения XIX века.",
+      "profile": "+buddha +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sangharaj_Nikaya",
+        "https://heritagehub.gov.bd/HeritageInfoes/Details/2127"
+      ],
+      "notes": "Исходник подтверждает реформу дисциплины Винаи, государственный реестр наследия независимо различает Сангхарадж и Махастхабир. Не alias всей тхеравады Бангладеш или почётного титула сангхараджа вообще. Подробные специфические медитативные техники по одному административному названию не назначены."
+    },
+    {
+      "sourceIndex": 1287,
+      "sourceName": "Sanlun",
+      "decision": "keep",
+      "canonicalName": "Саньлун — школа Трёх трактатов",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Мадхьямака",
+      "description": "Китайская и связанная с ней восточноазиатская традиция мадхьямаки, основанная на толковании трёх ключевых трактатов.",
+      "profile": "+buddha +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/East_Asian_M%C4%81dhyamaka"
+      ],
+      "notes": "Исходник прямо употребляет Sanlun и описывает восточноазиатскую рецепцию Нагарджуны и Арьядевы. Не alias всей индийской мадхьямаки или всех махаянских школ. Пустотность не равна отрицанию существования любого божественного или современному натурализму; эти признаки не назначены."
+    },
+    {
+      "sourceIndex": 1288,
+      "sourceName": "Seizan",
+      "decision": "keep",
+      "canonicalName": "Сэйдзан",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Дзёдо-сю",
+      "description": "Японская линия Дзёдо-сю, восходящая к Сёку и ставящая произнесение имени Амиды в центр пути Чистой земли.",
+      "profile": "+buddha +bhakti +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Seizan"
+      ],
+      "notes": "Источник отличает несколько ветвей Сэйдзан и признаёт вспомогательные практики при первенстве нэмбуцу. Не alias Тиндзэй, Дзёдо-синсю или общего «Буддизма Чистой земли». Сходное происхождение от Хонэна не доказывает тождества разных линий."
+    },
+    {
+      "sourceIndex": 1289,
+      "sourceName": "Seon Buddhism",
+      "decision": "keep",
+      "canonicalName": "Корейский сон-буддизм",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Буддизм махаяны",
+      "description": "Корейские традиции созерцательного буддизма, исторически связанные с китайским чань и местными линиями передачи.",
+      "profile": "+buddha +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Seon_Buddhism"
+      ],
+      "notes": "Исходная ссылка перенаправляет на Korean Seon. Сохраняется как регионально-историческая традиция: не alias всей записи «Чань-буддизм», японского дзэн или одного ордена Чоге. Методы хваду и сочетание с изучением сутр различаются; отдельная организация не исчерпывает всё направление."
+    },
+    {
+      "sourceIndex": 1290,
+      "sourceName": "Shangpa Kagyu",
+      "decision": "keep",
+      "canonicalName": "Шангпа-кагью",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тибетский буддизм",
+      "description": "Тибетская линия эзотерической передачи, связанная с Кхьюнгпо Налджором и наставлениями Нигумы и Сукхасиддхи.",
+      "profile": "+buddha +meditation +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shangpa_Kagyu",
+        "https://www.shangpafoundation.org/tradition/the-shangpa/"
+      ],
+      "notes": "Собственная организация подтверждает йогическую передачу, посвящения и самостоятельность линии. Не alias Дагпо-кагью или линии Марпы: совпадение Kagyu в названии не означает одного происхождения. Шангпа может передаваться внутри разных институциональных школ, поэтому не объявлена единой отдельной централизованной церковью."
+    },
+    {
+      "sourceIndex": 1291,
+      "sourceName": "Shingon Buddhism",
+      "decision": "keep",
+      "canonicalName": "Сингон",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Эзотерический буддизм",
+      "description": "Японская эзотерическая буддийская традиция Кукая, развивающая практику трёх тайн тела, речи и ума.",
+      "profile": "+buddha +scripture +ritual +meditation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shingon_Buddhism",
+        "https://www.koyasan.or.jp/wp-content/themes/koyasan-child/pdf/kokusaikyoku_english_panfu.pdf",
+        "https://nckoyasan.org/shingon-teachings/"
+      ],
+      "notes": "Собственные источники подтверждают ключевые сутры, мантры, мудры и созерцание. Не alias всего китайского эзотерического буддизма, тибетского буддизма или Ваджраяны: общие индийские истоки не устраняют отдельных передач. Постижение буддовости в этом теле не приравнено автоматически к pantheism."
+    },
+    {
+      "sourceIndex": 1292,
+      "sourceName": "Shwegyin Nikaya",
+      "decision": "keep",
+      "canonicalName": "Швегин-никая",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тхеравада",
+      "description": "Бирманский монашеский орден тхеравады, известный акцентом на строгом соблюдении Винаи.",
+      "profile": "+buddha +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shwegyin_Nikaya"
+      ],
+      "notes": "Источник подтверждает определённый орден и дисциплинарный акцент. Не alias всей бирманской тхеравады, Тхудхамма-никаи или одной современной медитативной организации. Текущее руководство и статистика не используются как неизменные доктринальные признаки."
+    },
+    {
+      "sourceIndex": 1293,
+      "sourceName": "Siam Nikaya",
+      "decision": "keep",
+      "canonicalName": "Сиам-никая",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тхеравада",
+      "description": "Монашеский орден Шри-Ланки, возникший в XVIII веке при восстановлении линии посвящения из Сиама.",
+      "profile": "+buddha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Siam_Nikaya"
+      ],
+      "notes": "Siam и Siyam — формы названия одного ордена, но отдельной сохранённой записи с другим вариантом не найдено. Это не весь тайский буддизм и не все шриланкийские ордена: сиамское происхождение посвящения не превращает местную традицию в точный синоним тайской. Организационная история не доказывает отдельной общей метафизики."
+    },
+    {
+      "sourceIndex": 1294,
+      "sourceName": "Southern Esoteric Buddhism",
+      "decision": "keep",
+      "canonicalName": "Южный эзотерический буддизм",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тхеравада",
+      "description": "Совокупность эзотерических медитативно-ритуальных традиций тхеравады Южной и Юго-Восточной Азии.",
+      "profile": "+buddha +meditation +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Southern_Esoteric_Buddhism",
+        "https://www.shambhala.com/esoteric-theravada.html"
+      ],
+      "notes": "Исследование Кейт Кросби подтверждает borān kammaṭṭhāna как историческую практическую традицию, отличную от модернистских форм випассаны. Это аналитическое собирательное название, а не одна централизованная секта. Не alias всей Ваджраяны, Дхаммакаи или любого южного буддизма; состав техник различается."
+    },
+    {
+      "sourceIndex": 1295,
+      "sourceName": "Sri Lankan Forest Tradition",
+      "decision": "keep",
+      "canonicalName": "Шриланкийская лесная традиция",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тхеравада",
+      "description": "Монашеские традиции Шри-Ланки, ориентированные на лесное уединение, дисциплину и медитацию.",
+      "profile": "+buddha +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sri_Lankan_Forest_Tradition",
+        "https://www.bps.lk/olib/mi/mi008.pdf",
+        "https://whc.unesco.org/en/tentativelists/6774/"
+      ],
+      "notes": "Собственный справочник буддийского издательского общества подтверждает несколько сетей и центров, а не один орден. Не alias Амарапура–Раманна-никаи: в ней есть лесные подразделения, но организационный и практический объёмы различаются. Не синоним тайской лесной традиции только по общему аскетическому образу жизни."
+    },
+    {
+      "sourceIndex": 1296,
+      "sourceName": "Svatantrika",
+      "decision": "keep",
+      "canonicalName": "Сватантрика",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Мадхьямака",
+      "description": "Буддийская философская категория мадхьямаки, связанная с использованием самостоятельных логических аргументов и особым изложением двух истин.",
+      "profile": "+buddha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Svatantrika",
+        "https://plato.stanford.edu/archives/spr2014/entries/twotruths-india/"
+      ],
+      "notes": "Исходный URL не загрузился; академическое изложение подтверждает Sautrāntika Svātantrika и её философские тезисы. Термин используется в классификации индийской мысли и последующей тибетской доксографии, а не обязательно как самоназвание единой исторической общины. Не alias всей мадхьямаки; из логической аргументации не следует scientific."
+    },
+    {
+      "sourceIndex": 1297,
+      "sourceName": "Sōtō",
+      "decision": "keep",
+      "canonicalName": "Сото-дзэн",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Дзен-буддизм",
+      "description": "Японская дзэнская традиция Догэна и Кэйдзана, подчёркивающая практику дзадзэн и сикантадза.",
+      "profile": "+buddha +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/S%C5%8Dt%C5%8D",
+        "https://www.sotozen.com/eng/zazen/school/index.html"
+      ],
+      "notes": "Собственный сайт прямо подтверждает сикантадза как основу школы. Не alias китайской Цаодун, из которой выросла японская передача, и не всего «Дзен-буддизма» в religions.js. Учение о единстве практики и пробуждения не упрощено до психологической техники вне религии."
+    },
+    {
+      "sourceIndex": 1298,
+      "sourceName": "Tachikawa-ryū",
+      "decision": "review",
+      "canonicalName": "Татикава-рю — требуется историческая сверка",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Сингон",
+      "description": "Название средневековой японской эзотерической линии и позднейшего полемического комплекса обвинений в ереси.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tachikawa-ry%C5%AB",
+        "https://nirc.nanzan-u.ac.jp/journal/6/issue/200/article/1521",
+        "https://dlbs.liberal.ntu.edu.tw/DLMBS/search/search_detail.jsp?seq=630455"
+      ],
+      "notes": "Review: исследования Раппо и Хино различают локальную линию передачи и меняющийся ярлык «Татикава» в текстах её противников. Описание сексуальных и черепных обрядов исходной статьи нельзя без проверки принять за единое самоисповедание всей линии. Требуется определить исторический охват записи и отделить реконструируемые практики от ересиологических обвинений. Профиль пуст."
+    },
+    {
+      "sourceIndex": 1299,
+      "sourceName": "Taego Order",
+      "decision": "keep",
+      "canonicalName": "Орден Тхэго",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Корейский сон-буддизм",
+      "description": "Корейский буддийский орден, сохраняющий сонскую практику и традиционный ритуальный репертуар.",
+      "profile": "+buddha +meditation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taego_Order",
+        "https://taegozen.pl/"
+      ],
+      "notes": "Источник прямо описывает орден и ритуалы Ёнсанджэ; собственный сайт школы подтверждает медитативную практику. Не alias всего корейского сон или ордена Чоге. Возможность брака части духовенства не считается универсальным личным убеждением и не подменяет профиль веры."
+    },
+    {
+      "sourceIndex": 1300,
+      "sourceName": "Tendai",
+      "decision": "keep",
+      "canonicalName": "Тэндай",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тяньтай",
+      "description": "Японская буддийская традиция Сайтё, опирающаяся на Лотосовую сутру и китайскую систему Тяньтай с собственным развитием.",
+      "profile": "+buddha +scripture +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tendai",
+        "https://www.tendai.or.jp/english/chapter01.php",
+        "https://www.nichirenlibrary.org/en/dic/Content/T/43"
+      ],
+      "notes": "Собственный сайт подтверждает центральность Лотосовой сутры, китайское наследие и путь бодхисаттвы. Не alias китайской Тяньтай, корейской Чхонтхэ или отдельного сюгэндо; похожее чтение иероглифов и историческая передача не устраняют регионального и институционального развития."
+    },
+    {
+      "sourceIndex": 1301,
+      "sourceName": "Thai Forest Tradition",
+      "decision": "keep",
+      "canonicalName": "Тайская лесная традиция",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тхеравада",
+      "description": "Тайские монашеские линии тхеравады, делающие акцент на дисциплине, уединении и непосредственной медитативной практике.",
+      "profile": "+buddha +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thai_Forest_Tradition",
+        "https://forestsangha.org/system/resources/W1siZiIsIjIwMTgvMDEvMTgvNzhiaW1td3dlZl9TZWVpbmdfVGhlX1dheV8yMDExX1dlYi5wZGYiXV0/Seeing%20The%20Way%202011%20Web.pdf?sha=0131751418d7d7ec"
+      ],
+      "notes": "Собственные наставления Forest Sangha подтверждают медитацию во всех сторонах монашеской жизни. Не alias всей Дхаммаюттика-никаи: лесные линии не сводятся к одному административному ордену; не только международная сеть Аджана Чаа. Не тождественна шриланкийской лесной традиции."
+    },
+    {
+      "sourceIndex": 1302,
+      "sourceName": "Thiền Buddhism",
+      "decision": "keep",
+      "canonicalName": "Вьетнамский тхиен",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Буддизм махаяны",
+      "description": "Вьетнамские буддийские линии созерцательной традиции, развивавшиеся во взаимодействии с чань и практиками Чистой земли.",
+      "profile": "+buddha +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thi%E1%BB%81n_Buddhism",
+        "https://en.wikipedia.org/wiki/Thi%E1%BB%81n",
+        "https://plumvillage.org/gems/collection/Living-Tradition-of-Buddhist-Meditation-1994-1996-HG83oqa9h99kmzQ7VUKhR8"
+      ],
+      "notes": "Исходный URL Thiền_Buddhism не загрузился; статья Thiền и собственные наставления Plum Village подтверждают вьетнамскую медитативную традицию. Не alias всего китайского чань, японского дзэн или одного современного сообщества Тхить Нят Ханя. Совместимость с преданностью Чистой земле не означает одинакового акцента на ней во всех линиях."
+    },
+    {
+      "sourceIndex": 1303,
+      "sourceName": "Thudhamma Nikaya",
+      "decision": "keep",
+      "canonicalName": "Тхудхамма-никая",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тхеравада",
+      "description": "Бирманский монашеский орден тхеравады, также известный как Тхудхамма-гайн.",
+      "profile": "+buddha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thudhamma_Nikaya"
+      ],
+      "notes": "Исходная ссылка Thudhamma Nikaya перенаправляет на Thudhamma Gaing; в готовых партиях отдельного синонима не найдено. Это определённый орден, не весь буддизм Мьянмы и не Швегин-никая. Численная распространённость и сравнительная строгость отдельных правил не дают полного общего профиля всех монастырей."
+    },
+    {
+      "sourceIndex": 1304,
+      "sourceName": "Tiantai",
+      "decision": "keep",
+      "canonicalName": "Тяньтай",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Буддизм махаяны",
+      "description": "Китайская махаянская школа Чжии, связывающая систематизацию учения с Лотосовой сутрой и практикой прекращения и созерцания.",
+      "profile": "+buddha +scripture +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tiantai",
+        "https://www.tendai.or.jp/english/chapter01.php"
+      ],
+      "notes": "Исходник подтверждает китайскую школу и комплексное сочетание доктрины и медитации. Японский собственный источник независимо описывает китайское основание и последующую японскую рецепцию. Не alias всей махаяны, Тэндай или Чхонтхэ; это родительская китайская традиция, из которой выросли отдельные региональные школы."
+    },
+    {
+      "sourceIndex": 1305,
+      "sourceName": "Tibetan Buddhism",
+      "decision": "alias",
+      "canonicalName": "Тибетский буддизм",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность тибетских буддийских школ, объединяющих махаянское учение, тантрические передачи и созерцательные практики.",
+      "profile": "+buddha +ritual +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tibetan_Buddhism"
+      ],
+      "notes": "Alias точной существующей записи religions.js «Тибетский буддизм». Английское Tibetan Buddhism — то же общее название. Не сведено к одной Ньингма, Кагью, Сакья или Гелуг; особенности конкретных линий не приписаны всему зонтичному направлению."
+    }
+  ]
+}

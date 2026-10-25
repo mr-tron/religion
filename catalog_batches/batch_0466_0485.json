@@ -1,0 +1,368 @@
+{
+  "range": [
+    466,
+    485
+  ],
+  "entries": [
+    {
+      "sourceIndex": 466,
+      "sourceName": "Neopythagoreanism",
+      "decision": "keep",
+      "canonicalName": "Неопифагореизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": "Пифагореизм",
+      "description": "Античное возобновление пифагорейской традиции с аскезой и учением о духовном очищении души.",
+      "profile": "+divine +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Neopythagoreanism",
+        "https://www.rep.routledge.com/articles/thematic/neo-pythagoreanism/v-1"
+      ],
+      "notes": "Историческая философско-религиозная школа, не синоним первоначального пифагореизма или неоплатонизма. Энциклопедия Routledge подтверждает божественное первооснование и бессмертие души (+divine +afterlife). Течение включало разные школы; переселение души и ритуалы не назначены всем его формам автоматически. Дополнительная проверка: бессмертие души, уже подтверждённое Routledge, сохранено; строгие аскетические практики не доказывают одинаковые ритуалы, ненасилие или теорию перерождений всех неопифагорейцев."
+    },
+    {
+      "sourceIndex": 467,
+      "sourceName": "Nordic Bronze Age religion",
+      "decision": "keep",
+      "canonicalName": "Религия североевропейского бронзового века",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Археологически известные культы Северной Европы бронзового века с солнечной символикой и подношениями.",
+      "profile": "+divine +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nordic_Bronze_Age",
+        "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-bronze-age/",
+        "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-bronze-age/the-chariot-equipment-from-gallemose/the-sacrifice/",
+        "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-bronze-age/the-sun-chariot/the-journey-of-the-sun-across-the-sky/"
+      ],
+      "notes": "Предлагаемое семейство ancient_european: древние религии Европы. Исходная статья предупреждает о фрагментарности данных; Национальный музей Дании подтверждает солнечную символику и жертвенные дары высшим силам. Имена божеств, точный пантеон и посмертные представления остаются реконструкциями и не закодированы. Не синоним поздней древнескандинавской религии. Дополнение: Национальный музей Дании, The journey of the sun across the sky, описывает религиозную значимость изображений солнечного пути на колеснице, бронзовых предметах и наскальных рисунках: +icons. Мифический ночной путь солнца не принят за доказательство личной жизни человека после смерти."
+    },
+    {
+      "sourceIndex": 468,
+      "sourceName": "Norse religion",
+      "decision": "keep",
+      "canonicalName": "Древнескандинавская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": "Древнегерманские религии",
+      "description": "Дохристианские скандинавские традиции с асами, ванами, духами мест и жертвенными обрядами.",
+      "profile": "+divine +many_gods +nature_spirits +ritual +personal +afterlife +occult +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Old_Norse_religion",
+        "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/religion-magic-death-and-rituals/",
+        "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/religion-magic-death-and-rituals/the-old-religion/",
+        "https://natmus.dk/historisk-viden/danmark/oldtid-indtil-aar-1050/vikingetiden-800-1050/tro-og-magi-doed-og-ritual/vikingernes-voelver/"
+      ],
+      "notes": "Предлагаемое семейство ancient_european. Историческая запись отличается от современных Асатру и других реконструкций. Источник прямо описывает божеств, landvættir и подношения; региональные и временные различия не сняты. Дополнение: Национальный музей Дании описывает жертвы богам ради их благосклонности (+personal), погибших воинов в Вальхалле (+afterlife), sejd как магическую практику и прорицание вёльв (+occult +divination_oracles). Приведено и археологическое, и саговое свидетельство; поздняя христианская запись мифов учитывается как ограничение. Транс и путешествие души не приравнены к вселению духа; находка белены не доказывает центральность энтеогенов."
+    },
+    {
+      "sourceIndex": 469,
+      "sourceName": "Orphism",
+      "decision": "keep",
+      "canonicalName": "Орфизм",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": "Древнегреческая религия",
+      "description": "Античные религиозные традиции, связанные с приписываемыми Орфею текстами, посвящением и судьбой души.",
+      "profile": "+divine +many_gods +reincarnation +afterlife +liberation +ritual +scripture +personal +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Orphism_(religion)",
+        "https://www.getty.edu/art/exhibitions/ancient_underworld/inner.html",
+        "https://www.getty.edu/news/golden-tickets-to-the-underworld/"
+      ],
+      "notes": "Предлагаемое семейство ancient_european. Не единая централизованная церковь: границы орфического материала и отдельные мифы обсуждаются исследователями. Источник подтверждает посвящение, очищение и освобождение от повторных рождений; родство с пифагореизмом не доказывает тождества. Дополнение: Getty, Golden Tickets to the Underworld и выставка Underworld, описывают частные посвящения и приписываемые Орфею авторитетные книги, на которые ссылались инициаторы: +initiatory_brotherhood +scripture. Золотые таблички содержат обращения души к Персефоне и стражам подземного мира: +personal. Это не единый канон всех орфиков; название «орфические» для табличек введено современными исследователями, сами они Орфея не называют."
+    },
+    {
+      "sourceIndex": 470,
+      "sourceName": "Paeonian religion",
+      "decision": "keep",
+      "canonicalName": "Религия пеонов",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические культы пеонов Балкан с почитанием солнца и божеств, известных по античным свидетельствам.",
+      "profile": "+divine +many_gods +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paeonians",
+        "https://www.researchgate.net/publication/379807158_N_Chausidis_The_Iron_Age_cross-shaped_strap_dividers_as_paradigms_of_the_wheel_motif_on_Edonian_and_Ichnaean_coins_6th_-_5th_Century_BCE_In_A_Jakimovski_E_Dimitrova_eds_International_Scientific_Confer"
+      ],
+      "notes": "Предлагаемое семейство ancient_european. Статья о народе описывает солнечный диск, культ Диала/Диониса и жертвы Артемиде. Греческие соответствия не означают полного тождества всей религии греческой; неизвестные обряды не восстановлены по соседям. Дополнение: N. Čausidis, The Iron Age cross-shaped strap dividers as paradigms of the wheel motif (Faculty of Philosophy in Skopje, 2024), p. 269, приводит свидетельство Максима Тирского II.8 о почитании пеонами солнца в виде диска на шесте: +icons. Предположенное автором отождествление отдельных колёсных мотивов на монетах с этим объектом не принято за установленное."
+    },
+    {
+      "sourceIndex": 471,
+      "sourceName": "Palà religion",
+      "decision": "keep",
+      "canonicalName": "Палайская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Древнеанатолийские культы Палы, известные по палайским ритуальным текстам из Хаттусы.",
+      "profile": "+divine +many_gods +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pal%C3%A0",
+        "https://www.uni-marburg.de/en/fb10/languages-literatures/fields-of-study/comp-ling/research/doctoral-and-habilitation-projects/habilitation-project-gorke",
+        "https://smaw.de.dariah.eu/txhet_festrit/intro.php?lang=DE&xst=CTH+750",
+        "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/CHDP.pdf",
+        "https://knowledge.uchicago.edu/record/720/files/Marcuson_uchicago_0330D_13264.pdf"
+      ],
+      "notes": "Предлагаемое семейство ancient_anatolian: древние религии Анатолии. Исходная статья о регионе дополнена исследованием палайских праздников и критическим изданием CTH 750, подтверждающими жертвы Ципарве и другим богам. Тексты сохранялись в хеттской среде, но это не делает запись синонимом всей хеттской религии. Дополнение: Chicago Hittite Dictionary, s.v. palaumnili, и Hannah Marcuson, Word of the Old Woman, pp. 88–89, описывают чтение палайских заклинаний старой женщиной в храмовом празднике Ципарвы: +occult. Дошедшая инструкция упоминает заклинания, но не сохраняет их полного текста; из неё не восстановлены конкретные магические эффекты или гадание. Свидетельство сохранено хеттским архивом, а не прямой записью всех практик населения Палы."
+    },
+    {
+      "sourceIndex": 472,
+      "sourceName": "Phrygian religion",
+      "decision": "keep",
+      "canonicalName": "Фригийская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Древние культы Фригии, в особенности почитание Матери Матар.",
+      "profile": "+divine +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Phrygians",
+        "https://www.penn.museum/sites/gordion/articles/myth-religion/phrygian-cult-practice/"
+      ],
+      "notes": "Предлагаемое семейство ancient_anatolian. Дополнение музея Пенсильванского университета отделяет данные собственно Фригии от поздней греко-римской Кибелы. Образы и культовые памятники надёжны, но точные ритуалы и ранний пантеон известны неполно; широкие поздние обобщения не включены в профиль. Дополнение: Penn Museum, Phrygian Cult Practice, прямо описывает вотивные подношения, ступенчатые алтари, идолы и рельефы Матар в сакральных пространствах: +ritual +icons. Точное содержание обрядов неизвестно, но само наличие культовых даров и изображений надёжно. Двойные фигуры не использованы для категорического восстановления полного пантеона."
+    },
+    {
+      "sourceIndex": 473,
+      "sourceName": "Platonism",
+      "decision": "keep",
+      "canonicalName": "Платонизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Философская традиция Платона и его последователей с различными учениями об идеях и природе действительности.",
+      "profile": "",
+      "proposedQuestions": [
+        {
+          "id": "abstract_realism",
+          "text": "Считаете ли вы, что абстрактные сущности, например числа или общие свойства, существуют независимо от человеческого мышления и физических предметов?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Различает современный метафизический платонизм, концептуализм и номинализм; существующие вопросы о божественном этого не определяют. Историческим платоникам и другим философским школам ответы требуют отдельной проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Platonism",
+        "https://plato.stanford.edu/entries/platonism/"
+      ],
+      "notes": "Широкое направление с античными, религиозными и современными метафизическими формами. Современный реализм абстрактных объектов связан с Платоном, но не тождествен всем его историческим взглядам. Ни теизм, ни перерождение, ни нерелигиозность не назначены всему платонизму автоматически. Дополнительная проверка: современный платонизм абстрактных объектов не требует религиозных верований Платона или античных школ; общий профиль оставлен пустым."
+    },
+    {
+      "sourceIndex": 474,
+      "sourceName": "Proto-Celtic paganism",
+      "decision": "keep",
+      "canonicalName": "Протокельтская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Реконструируемые представления ранних носителей протокельтского языка о божествах и мифологических сюжетах.",
+      "profile": "+divine +many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Proto-Celtic_paganism"
+      ],
+      "notes": "Предлагаемое семейство ancient_european. Сохранена историко-сравнительная реконструкция, а не современное движение. Исходная статья различает степень надёжности восстановленных имён и мотивов; конкретные обряды и единое вероучение не установлены. Дополнительная проверка: археология более поздних кельтских обществ не перенесена на реконструируемую протокельтскую стадию без прямого сравнительного обоснования."
+    },
+    {
+      "sourceIndex": 475,
+      "sourceName": "Proto-Germanic paganism",
+      "decision": "review",
+      "canonicalName": "Протогерманская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Кандидат на запись о реконструируемых дохристианских верованиях ранних германцев.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Proto-Germanic_paganism",
+        "https://en.wikipedia.org/wiki/Germanic_paganism"
+      ],
+      "notes": "Предлагаемое семейство ancient_european. Review: исходная статья не открылась при повторной попытке; доступная статья Germanic paganism относится к более широкому историческому комплексу. Не установлены границы заявленного Proto-Germanic paganism и его отличие от общей германской религии, поэтому профиль пуст и alias не назначен. Ранее сохранённая запись «Древнегерманские религии» (Germanic paganism, 447) шире; точная синонимия не подтверждена."
+    },
+    {
+      "sourceIndex": 476,
+      "sourceName": "Proto-Indo-Iranian religion",
+      "decision": "keep",
+      "canonicalName": "Протоиндоиранская религия",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Реконструируемый общий слой древнеиндийских и древнеиранских религиозных представлений и обрядов.",
+      "profile": "+divine +many_gods +ritual +fire +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Proto-Indo-Iranian_religion",
+        "https://www.iranicaonline.org/articles/indo-iranian-religion/"
+      ],
+      "notes": "Encyclopaedia Iranica подтверждает сравнительно восстанавливаемые пантеон, жертвенную практику и символику огня. Она прямо предупреждает, что это не позволяет восстановить целостную догматику или обрядовую систему. Не синоним индуизма, ведийской религии или зороастризма; Веды и Авеста — позднейшие свидетельства, а не готовый общий канон. Дополнение: Gherardo Gnoli, Encyclopaedia Iranica, Indo-Iranian Religion, прямо включает представления о смерти и посмертном существовании в сравнительно восстанавливаемый общий слой: +afterlife. Конкретная карта загробного мира, перерождение или моральная карма не реконструированы. Упоминание haoma/soma без однозначного определения психоактивного состава недостаточно для +entheogenic_ritual."
+    },
+    {
+      "sourceIndex": 477,
+      "sourceName": "Punjabi folk religion",
+      "decision": "keep",
+      "canonicalName": "Пенджабская народная религия",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные практики Пенджаба с почитанием святых, героев, предков и защитными обрядами.",
+      "profile": "+ancestors +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Folk_practices_in_Punjab",
+        "https://scholarship.claremont.edu/cmc_fac_pub/132/"
+      ],
+      "notes": "Пересекает границы сикхских, индуистских и мусульманских общин. Описанные амулеты, заклинания и местные культы подтверждают практики, но не одинаковые взгляды на число богов у всех участников. Не синоним сикхизма или индуизма в целом. Дополнительная проверка: Bhatti и Michon, Folk Practices in Punjab (Journal of Punjab Studies 11.2, 2004), подтверждают трансграничный характер комплекса, но доступная аннотация недостаточна для отдельных ответов о вселении духов, числе богов и посмертной судьбе. Полный текст репозитория недоступен; новые признаки по нему не назначены."
+    },
+    {
+      "sourceIndex": 478,
+      "sourceName": "Pythagoreanism",
+      "decision": "keep",
+      "canonicalName": "Пифагореизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Античная философско-религиозная традиция Пифагора и его последователей, включающая учение о переселении душ.",
+      "profile": "+reincarnation +afterlife +ritual +divine +many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pythagoreanism",
+        "https://plato.stanford.edu/entries/pythagoras/"
+      ],
+      "notes": "Ранний пифагорейский образ жизни, поздние философские школы и неопифагореизм различаются. Дополнительная статья Stanford Encyclopedia of Philosophy подтверждает ранние свидетельства переселения душ и ритуальной дисциплины, но подчёркивает спорность многих поздних приписываний. Освобождение от цикла рождений не закодировано как надёжно установленное общее учение. Дополнение: SEP, Pythagoras, раздел 4.3, связывает ранние acusmata с возлияниями богам, жертвами и правилами посещения храмов: +divine +many_gods. Это положительные свидетельства культовой практики раннего образа жизни, а не перенос поздней платонической метафизики; чудеса, приписанные одному Пифагору, не объявлены общей магической практикой всех последователей."
+    },
+    {
+      "sourceIndex": 479,
+      "sourceName": "Roman religion",
+      "decision": "keep",
+      "canonicalName": "Древнеримская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические религиозные культы Древнего Рима с божествами, жречеством и публичными и домашними обрядами.",
+      "profile": "+divine +many_gods +ritual +personal +ancestors +afterlife +icons +divination_oracles +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Religion_in_ancient_Rome",
+        "https://resources.metmuseum.org/resources/metpublications/pdf/Roman_Art_A_Resource_for_Educators.pdf",
+        "https://research.ncl.ac.uk/expandedinteriors/projectinformation/romanobjects/",
+        "https://www.cambridge.org/core/books/abs/religions-of-rome/divination-and-diviners/54CAD637A30B5BC4176F2F52818505FC",
+        "https://www.penn.museum/sites/expedition/secrets-of-ancient-magic/",
+        "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/ois3.pdf"
+      ],
+      "notes": "Предлагаемое семейство ancient_european. Длительный исторический комплекс с меняющимися культами и местными вариантами, а не единственная догматика. Отличается от современной римской реконструкции и не сводится к одному императорскому культу. Дополнение: Met, Roman Art, раздел Roman Myth, Religion, and the Afterlife, и Newcastle University, Roman Objects, подтверждают культовые изображения и обращения за помощью к домашним божествам (+icons +personal). Исследование Ritualizing Death in Republican Rome в Performing Death (Chicago, OIS 3), pp. 243–244, описывает почитание продолжающих существовать умерших Di Manes/Di Parentes: +ancestors +afterlife. Beard, North, Price, Religions of Rome, гл. 7, подтверждают центральность ауспиций (+divination_oracles); Penn Museum, Secrets of Ancient Magic, — римские заклятия и таблички проклятий (+occult). Это засвидетельствованные компоненты меняющегося комплекса, не одинаковые обязанности всех римлян. Погребальные восковые imagines реальны, но их собственно религиозная роль дискутируется, поэтому ответ о ritual_masks здесь не установлен."
+    },
+    {
+      "sourceIndex": 480,
+      "sourceName": "Sabine religion",
+      "decision": "keep",
+      "canonicalName": "Религия сабинов",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Древние религиозные традиции сабинов Италии, связанные с Санком и другими местными божествами.",
+      "profile": "+divine +many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sabines",
+        "https://api.repository.cam.ac.uk/server/api/core/bitstreams/9060ee71-7c0a-499e-b8bb-34c6e01e9e50/content"
+      ],
+      "notes": "Предлагаемое семейство ancient_european. Статья о народе содержит отдельный перечень богов и сведения об их принятии римлянами. Общие божества не делают сабинские и самнитские либо римские традиции точными синонимами; поздние легенды происхождения не приняты за бесспорную историю. Дополнительная проверка: исследование происхождения сабинских имён богов в Cambridge repository отмечает отсутствие эпиграфического подтверждения Sancus в самой Сабинии; римские молитвы и храмовые обряды Санка не приписаны автоматически самостоятельному сабинскому профилю."
+    },
+    {
+      "sourceIndex": 481,
+      "sourceName": "Samnite religion",
+      "decision": "keep",
+      "canonicalName": "Самнитская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Древние культы самнитов Италии с местными божествами, святилищами и подношениями.",
+      "profile": "+divine +many_gods +nature_spirits +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Samnite_religion"
+      ],
+      "notes": "Предлагаемое семейство ancient_european. Источник описывает духов мест, жертвы и защитные амулеты. Рассказ Ливия о воинской клятве отмечен как спорный и не использован для отдельного признака. Сходство с сабинами и Римом не означает синонимии."
+    },
+    {
+      "sourceIndex": 482,
+      "sourceName": "Saxon paganism",
+      "decision": "keep",
+      "canonicalName": "Язычество континентальных саксов",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": "Древнегерманские религии",
+      "description": "Дохристианские традиции континентальных саксов с местными богами, священными местами и обрядами.",
+      "profile": "+divine +many_gods +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saxon_paganism"
+      ],
+      "notes": "Предлагаемое семейство ancient_european. Источник описывает почитание священных мест, богов, заклинания и амулеты. Христианские запретительные тексты отражают внешний взгляд и не дают полной собственной догматики саксов. Не синоним англосаксонской или древнескандинавской религии."
+    },
+    {
+      "sourceIndex": 483,
+      "sourceName": "School of the Sextii",
+      "decision": "keep",
+      "canonicalName": "Школа Секстиев",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Античная римская философская школа с нравственной дисциплиной, воздержанием и ежедневным самоиспытанием.",
+      "profile": "+reincarnation +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/School_of_the_Sextii",
+        "https://plato.stanford.edu/entries/pythagoreanism/"
+      ],
+      "notes": "Сохраняется как философская школа. SEP со ссылкой на Сенеку (Ep. 108.17) сообщает, что школа Секстиев учила переселению душ (+reincarnation +afterlife); сам Секстий приводил для вегетарианства иные доводы, чем Пифагор. Заимствования из стоицизма и пифагореизма не делают школу их синонимом. Вегетарианство не приравнено строгой ахимсе, а ночное самоиспытание — медитации без уточнения практики; описанное бестелесное начало не автоматически личный бог."
+    },
+    {
+      "sourceIndex": 484,
+      "sourceName": "Scythian religion",
+      "decision": "keep",
+      "canonicalName": "Скифская религия",
+      "family": "iranian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические религиозные традиции скифов с местными божествами, жертвоприношениями и почитанием Табити.",
+      "profile": "+divine +many_gods +ritual +fire",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scythian_religion",
+        "https://www.iranicaonline.org/articles/scythians/",
+        "https://www.iranicaonline.org/articles/scythian-language/"
+      ],
+      "notes": "Encyclopaedia Iranica подтверждает пантеон и связь Табити с огнём и очагом. Греческие соответствия у Геродота — интерпретация внешнего автора. Гипотетические функции отдельных богов и автоматическое отождествление жрецов-энареев с шаманами не использованы."
+    },
+    {
+      "sourceIndex": 485,
+      "sourceName": "Slavic paganism",
+      "decision": "keep",
+      "canonicalName": "Историческое славянское язычество",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Дохристианские славянские традиции с божествами, природными духами, предками и сезонными обрядами.",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Slavic_paganism"
+      ],
+      "notes": "Предлагаемое семейство ancient_european. Не alias существующего «Родноверия»: religions.js определяет его как современные славянские движения, тогда как исходная статья о дохристианских традициях. Источники фрагментарны и регионы различались; единый обязательный пантеон не навязан."
+    }
+  ]
+}

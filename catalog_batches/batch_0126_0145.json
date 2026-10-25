@@ -1,0 +1,360 @@
+{
+  "range": [
+    126,
+    145
+  ],
+  "entries": [
+    {
+      "sourceIndex": 126,
+      "sourceName": "Samburu religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия самбуру",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция самбуру Кении с обращением к Нкай, пророческими видениями и практиками гадателей loibonok.",
+      "profile": "+divine +personal +revelation +occult +ritual +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Samburu_people"
+      ],
+      "notes": "Раздел Religion исходной статьи непосредственно описывает Нкай, видения и ритуальное гадание. Родство самбуру с масаи не доказывает тождество религий; запись сохранена отдельно. Единственное упомянутое божество не означает автоматически исключительный монотеизм. Раздел Religion непосредственно называет ритуальных гадателей loibonok, которые выясняют причины болезней/несчастий и направляют воинов. Добавлены ritual и divination_oracles."
+    },
+    {
+      "sourceIndex": 127,
+      "sourceName": "San religion",
+      "decision": "keep",
+      "canonicalName": "Религиозные традиции сан",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные традиции народов сан Южной Африки с мифологией, целительством и трансовыми танцами.",
+      "profile": "+nature_spirits +ritual +occult +icons +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/San_religion",
+        "https://www.metmuseum.org/pt/essays/san-ethnography"
+      ],
+      "notes": "Исходная статья подтверждает духовный мир, животных-покровителей и центральную роль трансового танца. Это зонтичная запись, а не единая конфессия. Не синоним верований койкоин: их языковое и региональное родство не устанавливает тождества. Не приравнивать транс к медитации, а гипотезы о наскальном искусстве — к единой догме. Обзор San Ethnography музея Metropolitan, подготовленный исследователем Origins Centre, описывает сакральные изображения, наделённые сверхъестественной силой, и трансовые переживания как религиозные откровения для участников. Добавлены icons и revelation для документированной религиозной традиции, включая историческую живопись; это не утверждение о единой догме или обязанности всех современных сан использовать изображения."
+    },
+    {
+      "sourceIndex": 128,
+      "sourceName": "Santería",
+      "decision": "alias",
+      "canonicalName": "Сантерия / Лукуми",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Афрокубинская традиция почитания ориша, известная также как Regla de Ocha и Regla Lucumí.",
+      "profile": "+orisha +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Santer%C3%ADa",
+        "https://folklife-media.si.edu/docs/festival/program-book-articles/FESTBK1989_10.pdf"
+      ],
+      "notes": "Совпадает с существующей записью religions.js «Сантерия / Лукуми». Smithsonian прямо подтверждает Santería, La Regla Lucumí и La Regla de Ocha как названия той же традиции. Афро-китайские практики сантерии из предыдущей партии остаются более узкой локальной записью."
+    },
+    {
+      "sourceIndex": 129,
+      "sourceName": "Saramaka religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия сарамака",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции сарамака Суринама с предками, лесными и речными духами, гаданием и обрядами умилостивления.",
+      "profile": "+ancestors +nature_spirits +ritual +occult +afterlife +divine +divination_oracles +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saramaka",
+        "https://ehrafworldcultures.yale.edu/cultures/sr15/documents/003"
+      ],
+      "notes": "Статья о народе непосредственно описывает религию. eHRAF независимо подтверждает по исследованию Richard Price культ kúnu и его роль в родственных группах. Не синоним всех традиций маронов или Winti: местное происхождение и частичное сходство не означают тождества. Раздел о религии прямо перечисляет индивидуализированных богов леса и рек, а также гадания и одержимость духами как способы их общения с людьми. Добавлены divine, divination_oracles и spirit_possession. Нравственные последствия прошлых поступков не приравнены автоматически к карме."
+    },
+    {
+      "sourceIndex": 130,
+      "sourceName": "Serer religion",
+      "decision": "alias",
+      "canonicalName": "Серерская религиозная традиция",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция серер Сенегамбии с представлениями о Рооге, почитанием pangool и обрядами предков.",
+      "profile": "+divine +ancestors +nature_spirits +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Serer_religion"
+      ],
+      "notes": "Точное соответствие существующей записи religions.js «Серерская религиозная традиция», описывающей верования народа серер. Исходная статья прямо подтверждает Serer religion как верования и практики этого народа; основание alias — та же традиция, а не просто сходное название."
+    },
+    {
+      "sourceIndex": 131,
+      "sourceName": "Shona traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия шона",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Коренные религиозные традиции Зимбабве",
+      "description": "Традиция шона с представлениями о Мвари, посредничеством предков и церемониями bira.",
+      "profile": "+divine +personal +ancestors +ritual +afterlife +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shona_people"
+      ],
+      "notes": "Исходная статья прямо описывает религию шона, молитвы Мвари и жизнь в мире духов. Уже обработанная запись «Коренные религиозные традиции Зимбабве» включает также ндебеле и другие группы; шона — более узкая традиция, не её синоним. Раздел Shona religion прямо описывает сообщения Мвари людям непосредственно или через избранных членов семьи и пророческие способности некоторых из них. Добавлен revelation как божественная коммуникация, а не как наследуемый семейный признак."
+    },
+    {
+      "sourceIndex": 132,
+      "sourceName": "Sidama religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия сидама",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местная традиция сидама Эфиопии с представлениями о Магано, духовным целительством, предками и обрядами.",
+      "profile": "+divine +ancestors +ritual +spirit_possession +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sidama_people",
+        "https://dice.missouri.edu/assets/docs/afro-asiatic/Sidamo.pdf"
+      ],
+      "notes": "Исходная статья о народе прямо подтверждает одержимость духами и целительство, но мало описывает богословие. Материал Университета Миссури с библиографическими отсылками дополнительно подтверждает Магано, жертвы предкам и обряды перехода. Не переносить теорию антропологов о социальной компенсации на самопонимание последователей. Раздел Religion and beliefs прямо описывает одержимость и духовное целительство. Материал Missouri, п. 6.10 с библиографической отсылкой, отдельно описывает встречу умершего с Магано и дальнейшую посмертную участь. Добавлены spirit_possession и afterlife; социологическая гипотеза о причинах одержимости не используется как вероучение."
+    },
+    {
+      "sourceIndex": 133,
+      "sourceName": "Songye religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования сонге",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции сонге ДР Конго, включающие ритуальные фигуры силы mankishi и работу гадателей-целителей nganga.",
+      "profile": "+ritual +occult +divine +ancestors +icons +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Songye",
+        "https://en.wikipedia.org/wiki/Songye_people",
+        "https://umma.umich.edu/objects/power-figure-2005-1-229/"
+      ],
+      "notes": "Исходная ссылка Songye при открытии недоступна; действующая статья Songye people и музей Университета Мичигана подтверждают религиозный комплекс и взаимодействие со духами через nkisi. Наличие подобных терминов у конго и луба не делает традиции синонимами. Профиль ограничен непосредственно подтверждёнными практиками. Раздел Cosmology действующей статьи описывает Эфиле Мукулу и благих предков-покровителей; музей UMMA непосредственно описывает nkisi как материальное средство доступа к духу, создаваемое гадателем nganga. Добавлены divine, ancestors, icons и divination_oracles. Верховный творец не принят автоматически за исключительное единобожие."
+    },
+    {
+      "sourceIndex": 134,
+      "sourceName": "Suku religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования суку",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции суку ДР Конго и Анголы с представлениями о небесном творце, гаданием ngoombu и посвящением.",
+      "profile": "+divine +ritual +occult +divination_oracles +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Suku_people"
+      ],
+      "notes": "Раздел Religion исходной статьи описывает творца ndzambyaphuungu и гадателя ngoombu; раздел Initiation — обряды перехода. Культурные сходства с яка не подтверждают религиозную синонимию. Отсутствие культа или изображения творца не означает отсутствие божественного. Раздел Religion прямо описывает консультации гадателя ngoombu; разделы Masks — сакральные маски-чары kakungu и hemba и их защитные и целительные функции. Добавлены divination_oracles и icons. Возрастной переход mukhanda не приравнен автоматически к вступлению в отдельный религиозный орден."
+    },
+    {
+      "sourceIndex": 135,
+      "sourceName": "Surma religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования сури (сурма)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования сури Эфиопии с представлениями о Туму, духах, гадании и наследственных обрядах вызывания дождя.",
+      "profile": "+divine +nature_spirits +ritual +occult +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Surma_people"
+      ],
+      "notes": "Исходная статья использует Surma в заголовке, но раздел Religion and beliefs конкретно описывает Suri. Каноническое название уточняет этот объём: не распространять его автоматически на все группы, к которым применялось внешнее название Surma. Не синоним записи о мурси из предыдущей партии. Проценты религиозной принадлежности не используются как доказательство единообразия. Раздел Religion and beliefs прямо называет обращение сури к женщинам-гадателям: добавлен divination_oracles. Этот признак относится к сури, без распространения на все народы, обозначавшиеся словом Surma."
+    },
+    {
+      "sourceIndex": 136,
+      "sourceName": "Swazi traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия свази",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция свази с представлениями о творце Мвелинканти, предках и семейными обрядами жизненного цикла.",
+      "profile": "+divine +ancestors +ritual +afterlife +divination_oracles +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Swazi_people",
+        "https://publishing.cdlib.org/ucpressebooks/public/book/ngoma-discourses-of-healing-in-central-and-southern-africa.html"
+      ],
+      "notes": "Раздел Religion исходной статьи прямо подтверждает творца, предков и ритуалы рождения, брака и смерти. Совмещение с христианством распространено, но не означает, что традиция тождественна христианской конфессии. Первичная этнография Джона Янзена Ngoma (UC Press, 1992), с. 49–50, описывает у свази гадание по костям, медиумизм takoza, духи погибших и овладение гадателем духом предка. Добавлены afterlife, divination_oracles и spirit_possession; это документированная местная практика, не вывод из общей принадлежности к народам банту."
+    },
+    {
+      "sourceIndex": 137,
+      "sourceName": "Tambor de Mina",
+      "decision": "keep",
+      "canonicalName": "Тамбор-ди-мина",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Афробразильская традиция Мараньяна и соседних регионов с почитанием водун, ориша и encantados и трансовыми обрядами.",
+      "profile": "+divine +orisha +nature_spirits +ritual +many_gods +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tambor_de_Mina"
+      ],
+      "notes": "Исходная статья прямо описывает пантеон и обряды. Не синоним Энкантарии из предыдущей партии: encantados входят в Tambor de Mina, но встречаются и в других комплексах. Не синоним кандомбле жежи или всей дагомейской религии. Практики домов Jeje и Nagô различаются; профиль не требует от каждого дома одинакового пантеона. Раздел Beliefs непосредственно описывает семьи множества водун и вызов сущностей во время транса жреца/жрицы. Добавлены many_gods и spirit_possession; различия конкретных домов и статуса энкантадос сохранены."
+    },
+    {
+      "sourceIndex": 138,
+      "sourceName": "Tammari traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия батаммариба",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция батаммариба Того и Бенина с почитанием предков, творца Куйе, земных сил и сакральной архитектурой takienta.",
+      "profile": "+divine +ancestors +nature_spirits +ritual +many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tammari_people",
+        "https://whc.unesco.org/en/list/1140/"
+      ],
+      "notes": "Tammari/Batammariba — названия народа, а не отдельные религии. Исходная статья непосредственно описывает верования; UNESCO независимо подтверждает сакральные места, церемонии и дома как места культа предков. Наличие верховного божества не приравнивается к единобожию. Раздел Traditional religion прямо называет наряду с Куйе богиню Бутан, бога грозы Ойинкакуата и божеств посвящений. Это прямое основание many_gods; верховенство Куйе не интерпретируется как исключительный монотеизм."
+    },
+    {
+      "sourceIndex": 139,
+      "sourceName": "Temne traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия темне",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция темне Сьерра-Леоне с верховным Куру Масабой, посредничеством предков и подношениями духам.",
+      "profile": "+divine +ancestors +ritual +afterlife +many_gods +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Temne_people"
+      ],
+      "notes": "Раздел Traditional beliefs исходной статьи описывает творца, предков, других духов и жертвоприношения. Poro и Bondo — общества, присутствующие в традиции и у других народов, а не синоним всей религии темне. Современное большинство принадлежит исламу, что не отменяет исторической записи. Раздел Traditional beliefs прямо отличает Куру Масабу от меньших божеств и описывает тайные посвящения в общества Poro, Bondo и Ragbenle. Добавлены many_gods и initiatory_brotherhood; наличие обществ у соседних народов не делает традиции синонимами."
+    },
+    {
+      "sourceIndex": 140,
+      "sourceName": "Tonga religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования тонга Малави",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции тонга у озера Малави с почитанием предков, гаданием и общением с умершими.",
+      "profile": "+ancestors +afterlife +occult +ritual +divination_oracles +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tonga_people_(Malawi)",
+        "https://embassymalawi.be/ova_sev/culture-recreation-2/"
+      ],
+      "notes": "Исходная статья о народе не содержит описания религии. Сайт посольства Малави независимо описывает традиционный культ умерших, гадание и одержимость у Tonga Tribe. Уточнение «Малави» необходимо: не смешивать с тонга Замбии и Зимбабве или полинезийского Тонга. Представление о посмертном превращении в животное не кодируется автоматически как реинкарнация. Проверенный раздел Tonga Tribe официального сайта посольства прямо описывает культ духов умерших, гадателей, одержимость и обращение к специалистам по общению с умершими. Добавлены ritual, divination_oracles и spirit_possession. Речь именно о тонга Северного Малави, не о соседних одноимённых народах."
+    },
+    {
+      "sourceIndex": 141,
+      "sourceName": "Trinidad Orisha",
+      "decision": "keep",
+      "canonicalName": "Ориша Тринидада",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Йоруба и Ифа",
+      "description": "Синкретическая афрокарибская религия Тринидада и Тобаго с почитанием ориша, музыкальными церемониями и медиумизмом.",
+      "profile": "+divine +orisha +ritual +spirit_possession +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Trinidad_Orisha",
+        "https://tupress.temple.edu/books/spirits-blood-and-drums"
+      ],
+      "notes": "Статья подтверждает названия Trinidad Orisha, Orisha religion и Shango в местном контексте. Это локальная диаспорная традиция происхождения йоруба, не синоним всей религии йоруба и не всей сантерии. Термин Shango Baptist может обозначать пересекающиеся общины; не объединять автоматически со Spiritual Baptists. Уточнение профиля: Монография James T. Houk «Spirits, Blood, and Drums» основана на полевой работе автора и его собственном посвящении; издатель прямо описывает вселение духов и посвящение в местную Orisha. Добавлены +spirit_possession и +initiatory_brotherhood без переноса христианских или индийских признаков со смежных общин."
+    },
+    {
+      "sourceIndex": 142,
+      "sourceName": "Tsonga traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования тсонга",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции тсонга Южной Африки с почитанием предков, обрядами и практиками духовного целительства и гадания.",
+      "profile": "+divine +ancestors +ritual +occult +afterlife +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tsonga_people",
+        "https://www.scielo.org.za/scielo.php?pid=S2074-77052023000100041&script=sci_arttext",
+        "https://repository.up.ac.za/items/a5f3b14b-b3b5-48b9-a61b-7ec48c8fe8d0/full"
+      ],
+      "notes": "Исходная статья описывает призвание гадателей предками и духов. Исследование о погребальных обрядах независимо подтверждает молитвы и подношения предкам и представления о высшем существе; практики различаются между семьями. Языковые и миссионерские варианты имени Бога не используются для вывода единой теологии. Уточнение профиля: Архив University of Pretoria хранит текст E. J. Mtebule «Divination of the Tsonga» (1939), написанный на тсонга в коллекции van Warmelo; он независимо подтверждает гадательную традицию. Добавлен +divination_oracles. Понятия ancestral calling и целительства сами по себе не считаются доказательством вселения духа."
+    },
+    {
+      "sourceIndex": 143,
+      "sourceName": "Turkana traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия туркана",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция туркана Кении с представлениями об Акудже, отношениями с предками, жертвоприношениями и деятельностью ngimurok.",
+      "profile": "+divine +ancestors +ritual +revelation +occult +divination_oracles +afterlife +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Turkana_people",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8977660/"
+      ],
+      "notes": "Исходная статья подробно описывает Акуджа, предков, гадателей и сновидческие откровения. Не синоним соседних нилотских традиций. Гадание и предсказания не кодируются как новое всеобщее откровение; -one_god или +one_god не выводятся только из наличия верховного творца. Уточнение профиля: Полевое исследование «Turkana warriors’ call to arms» документирует гадателей, получающих сведения во сне и предписывающих ритуалы; +divination_oracles. Исходный раздел Traditional religion прямо описывает продолжающих действовать умерших предков и их вселение в членов семьи для речи: +afterlife и +spirit_possession. Этот профиль не означает, что каждый туркана практикует гадание или вселение."
+    },
+    {
+      "sourceIndex": 144,
+      "sourceName": "Umbanda",
+      "decision": "keep",
+      "canonicalName": "Умбанда",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Бразильская религия духовного целительства и медиумизма, сочетающая спиритическое, афробразильское и католическое наследие.",
+      "profile": "+divine +one_god +reincarnation +ritual +afterlife +spirit_possession",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Имеет ли ритуальное вселение духов в человека важное место в вашей традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Продолжает предложение из предыдущих партий: медиумизм характерен для Umbanda, Tambor de Mina и Trinidad Orisha; метод гадания Ifá основан на интерпретации знаков. Транс в San religion не считать автоматически вселением духов.",
+          "supportedEntries": [
+            "Umbanda",
+            "Tambor de Mina",
+            "Trinidad Orisha",
+            "Ifá"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Umbanda",
+        "https://www.researchgate.net/publication/334678005_Incorporating_spirit_ritual_possession_in_Brazilian_Umbanda"
+      ],
+      "notes": "Отдельная традиция, а не синоним кандомбле, Батуке, Кимбанды или спиритизма Кардека, хотя общины и практики пересекаются. Исходная статья подтверждает творца, перерождение и медиумизм; единого обязательного пантеона и центральной организации нет. +orisha не назначен всем формам автоматически. Уточнение профиля: Полевое исследование Emma Francis Stone «Incorporating spirit» опирается на свидетельства медиумов двух центров умбанды в Рио и Сан-Паулу и непосредственно исследует ритуальное вселение. Добавлен +spirit_possession; не переносится весь пантеон кандомбле или Кардекизма."
+    },
+    {
+      "sourceIndex": 145,
+      "sourceName": "Urhobo traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия урхобо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция урхобо Нигерии с почитанием Огене, божеств Edjo и Erhan, предков и семейными обрядами.",
+      "profile": "+divine +ancestors +ritual +afterlife +nature_spirits +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Urhobo_people",
+        "https://umma.umich.edu/objects/shrine-figure-2006-2-72/"
+      ],
+      "notes": "Исходная статья о народе содержит прямое описание религиозного комплекса и молитв предкам. Разные божества могут пониматься как атрибуты Огене; не назначать однозначный монотеизм или политеизм без уточнения. Семейные брачные ритуалы не считаются обязательным поведением каждого современного урхобо. Уточнение профиля: University of Michigan Museum of Art (2006/2.72) прямо описывает Охахе, духа хлопкового дерева, и фигуры edjo как силы природы и предков-основателей в святилищах, с ежегодными праздниками. Это поддерживает +nature_spirits и +icons; речь о ритуально действующих образах, а не о наличии скульптуры вообще."
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "range": [
+    1646,
+    1665
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1646,
+      "sourceName": "Mahdist movement",
+      "decision": "keep",
+      "canonicalName": "Суданское махдистское движение",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозное движение Мухаммада Ахмада в Судане конца XIX века, признавшее его ожидаемым махди и создавшее Махдистское государство.",
+      "profile": "+divine +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mahdist_State",
+        "https://tile.loc.gov/storage-services/master/frd/frdcstdy/su/sudancountrystud00metz/sudancountrystud00metz.pdf"
+      ],
+      "notes": "Охват ограничен суданским движением, которому посвящена исходная статья о государстве; это не все исламские представления о махди. Исследование Библиотеки Конгресса подтверждает религиозную общину ансаров и ожидание Судного дня. Суфийское происхождение основателя не превращает движение в обычный тарикат."
+    },
+    {
+      "sourceIndex": 1647,
+      "sourceName": "Maliki",
+      "decision": "keep",
+      "canonicalName": "Маликитский мазхаб",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суннитский ислам",
+      "description": "Суннитская правовая школа, связанная с Маликом ибн Анасом и придающая особое значение практике ранней Медины.",
+      "profile": "+quran +scripture +sharia",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maliki"
+      ],
+      "notes": "Правовая школа, а не синоним суннизма и не отдельная единая школа догматического богословия. Профиль ограничен прямо описанными источниками исламского права."
+    },
+    {
+      "sourceIndex": 1648,
+      "sourceName": "Maturidi",
+      "decision": "keep",
+      "canonicalName": "Матуридизм",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суннитский ислам",
+      "description": "Школа исламского богословия Абу Мансура аль-Матуриди, сочетающая откровение с рациональным рассуждением.",
+      "profile": "+divine +quran +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maturidi"
+      ],
+      "notes": "Отдельная богословская школа; историческая связь с ханафитским правом не доказывает тождество с ханафитским мазхабом. Рациональная аргументация не означает натурализма или отрицания откровения."
+    },
+    {
+      "sourceIndex": 1649,
+      "sourceName": "Messiah Foundation International",
+      "decision": "keep",
+      "canonicalName": "Messiah Foundation International",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Учение Гохар Шахи",
+      "description": "Международное духовное движение, распространяющее учение Гохар Шахи о божественной любви и практику сердечного поминания Бога.",
+      "profile": "+divine +scripture +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Messiah_Foundation_International",
+        "https://goharshahi.us/teachings/"
+      ],
+      "notes": "Сохраняется организация и распространяемая ею духовная практика. «The Religion of God» используется как духовный текст. Самоописание как межрелигиозного движения не означает нерелигиозности. Мессианские заявления и сообщения об изображениях основателя рассматриваются как убеждения движения. Не синоним всей совокупности последователей Гохар Шахи."
+    },
+    {
+      "sourceIndex": 1650,
+      "sourceName": "Mevlevi Order",
+      "decision": "keep",
+      "canonicalName": "Мевлевийя",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суфизм",
+      "description": "Суфийский тарикат, сложившийся вокруг наследия Джалаладдина Руми и известный церемонией сема с вращением дервишей.",
+      "profile": "+sufi +ritual +meditation +quran",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mevlevi_Order"
+      ],
+      "notes": "Источник прямо описывает сема, поминание Бога, медитативную практику и изучение Корана. Танцевальный обряд не исчерпывает учение ордена."
+    },
+    {
+      "sourceIndex": 1651,
+      "sourceName": "Mouride",
+      "decision": "review",
+      "canonicalName": "Муридийя (суфийское братство)",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суфизм",
+      "description": "Сенегальское суфийское братство Ахмаду Бамбы, строящее духовную жизнь вокруг наставничества и практики ученичества.",
+      "profile": "+sufi",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mouride",
+        "https://berkleycenter.georgetown.edu/publications/the-mouride-sufi-order"
+      ],
+      "notes": "Review: исходная статья отмечает недостаток внутритекстовых ссылок. Публикация Georgetown подтверждает основателя и самостоятельность братства; её автор — потомок основателя, что требует учитывать внутреннюю перспективу. Не смешивать с общим понятием мюридизма и кавказскими движениями."
+    },
+    {
+      "sourceIndex": 1652,
+      "sourceName": "Murshidism",
+      "decision": "keep",
+      "canonicalName": "Муршидийя",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Алавизм",
+      "description": "Сирийская религиозная община, возникшая вокруг Сальмана аль-Муршида и оформившая самостоятельное учение при его преемниках.",
+      "profile": "+divine +reincarnation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Salman_al-Murshid",
+        "https://english.religion.info/2022/10/28/the-murshidiyya-in-syria-interview-with-dmitry-sevruk/"
+      ],
+      "notes": "Исходная ссылка ведёт на биографию, но отдельное интервью исследователя Дмитрия Севрука подтверждает существование общины и переселение душ в её современном учении. Семейство islam выбрано по историческому происхождению и самоопределению общины. Современные убеждения нельзя без оговорок переносить на первоначальное движение 1920-х годов; тезис об обожествлении основателя не добавляется."
+    },
+    {
+      "sourceIndex": 1653,
+      "sourceName": "Mustaali",
+      "decision": "keep",
+      "canonicalName": "Мусталитский исмаилизм",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Исмаилизм",
+      "description": "Ветвь исмаилизма, признающая аль-Мустали законным преемником аль-Мустансира в линии имамов.",
+      "profile": "+ali",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mustaali"
+      ],
+      "notes": "Шире отдельных таййибитских общин бохра и включает историческое хафизитское направление. С исмаилизмом в religions.js связана отношением ветви к родительской традиции, а не синонимии."
+    },
+    {
+      "sourceIndex": 1654,
+      "sourceName": "Muʿtazila",
+      "decision": "keep",
+      "canonicalName": "Мутазилизм",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исламская богословская школа, подчёркивающая единство Бога, божественную справедливость и рациональное истолкование откровения.",
+      "profile": "+divine +one_god +quran +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mu%CA%BFtazila"
+      ],
+      "notes": "Учение о сотворённости Корана не означает отрицания его религиозного авторитета. Позиции отдельных мутазилитов по хадисам не обобщаются на всю школу; рационализм не кодируется как светский гуманизм."
+    },
+    {
+      "sourceIndex": 1655,
+      "sourceName": "Najdat",
+      "decision": "keep",
+      "canonicalName": "Надждиты",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Хариджизм",
+      "description": "Раннее хариджитское течение последователей Наджды ибн Амира, действовавшее в Аравии в конце VII века.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Najdat"
+      ],
+      "notes": "Источник описывает отдельную общину и её отличие в отношении согрешивших мусульман: возможность Божьего прощения вместо немедленного признания неверующими. Не синоним хариджизма в целом; остальные признаки из родительского направления не выводятся."
+    },
+    {
+      "sourceIndex": 1656,
+      "sourceName": "Naqshbandi",
+      "decision": "keep",
+      "canonicalName": "Накшбандийя",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суфизм",
+      "description": "Суфийский тарикат, связанный с Бахауддином Накшбандом и известный практикой безмолвного зикра и внутренней сосредоточенности.",
+      "profile": "+sufi +sharia +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Naqshbandi"
+      ],
+      "notes": "Сохраняется общий тарикат, а не одна его региональная или реформированная линия. В источнике прямо указаны соблюдение шариата, тихий зикр и внутреннее наблюдение."
+    },
+    {
+      "sourceIndex": 1657,
+      "sourceName": "Ni'matullāhī",
+      "decision": "review",
+      "canonicalName": "Ниматуллахийя",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суфизм",
+      "description": "Суфийская традиция, восходящая к Шаху Ниматуллаху Вали и представленная несколькими линиями преемства.",
+      "profile": "+sufi",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ni%27matull%C4%81h%C4%AB",
+        "https://www.nematollahi.org/obrasociosanitaria/ordensufinematollahi.htm"
+      ],
+      "notes": "Review: исходная статья предупреждает о смещении к современной истории и недостатке источников. Официальная страница подтверждает основателя и преемство в линии Нурбахша, но не представляет автоматически все ветви. Общий тарикат нельзя свести к современной организации одной линии."
+    },
+    {
+      "sourceIndex": 1658,
+      "sourceName": "Nizari",
+      "decision": "keep",
+      "canonicalName": "Низаритский исмаилизм",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Исмаилизм",
+      "description": "Исмаилитская ветвь, признающая линию имамов через Низара; крупнейшая современная линия признаёт имамат Ага-ханов.",
+      "profile": "+ali",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nizari"
+      ],
+      "notes": "Отдельная ветвь исмаилизма, не его синоним. Источник описывает также исторические внутренние разделения, поэтому признаки одной современной линии не объявляются универсальными для всех низаритов."
+    },
+    {
+      "sourceIndex": 1659,
+      "sourceName": "Pagal Panthis",
+      "decision": "keep",
+      "canonicalName": "Пагал-пантхи",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Бенгальское религиозное движение Карима Шаха, соединявшее популярное толкование ислама с местными традициями и учением о равенстве людей перед Богом.",
+      "profile": "+divine +one_god",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pagal_Panthis",
+        "https://en.banglapedia.org/index.php?title=Pagal_Panthi_Movement"
+      ],
+      "notes": "Banglapedia подтверждает религиозную общину и учение Карима Шаха; движение не сводится к крестьянским выступлениям. Семейство выбрано по происхождению учения, хотя среди последователей были мусульмане, индуисты и приверженцы местных верований. Равенство людей не кодируется как светский гуманизм."
+    },
+    {
+      "sourceIndex": 1660,
+      "sourceName": "Persian mysticism",
+      "decision": "review",
+      "canonicalName": "Персидская мистическая традиция",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательное обозначение мистических течений персидской культуры; в исламском контексте включает разные формы суфийской мысли и ирфана.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Persian_mysticism",
+        "https://www.iranicaonline.org/articles/erfan-1/"
+      ],
+      "notes": "Review: исходная статья отмечает недостаток ссылок, оригинальные исследования и необходимость переработки. Iranica характеризует ирфан как широкий и неоднородный комплекс, а не один тарикат. Требуется уточнить охват: исламский ирфан, персидский суфизм или более широкая история мистики. Исламское семейство предварительное; не присваиваются единый пантеизм, непрерывное доисламское происхождение или тождество всему суфизму."
+    },
+    {
+      "sourceIndex": 1661,
+      "sourceName": "Progressive Dawoodi Bohra",
+      "decision": "review",
+      "canonicalName": "Прогрессивные давуди-бохра",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Давуди-бохра",
+      "description": "Реформаторское движение внутри общины давуди-бохра, выступающее за подотчётность религиозного руководства и равноправие.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Progressive_Dawoodi_Bohra",
+        "https://dbws.co.uk/"
+      ],
+      "notes": "Review: исходная статья чрезмерно опирается на первичные источники. Сайт Dawoodi Bohra Welfare Society подтверждает названия Progressive Dawoodi Bohras и Dawoodi Bohra Reformists и принадлежность реформаторов к той же общине. Это не синоним всех давуди-бохра; организация и административные требования не дают достаточного основания для единого нового догматического профиля."
+    },
+    {
+      "sourceIndex": 1662,
+      "sourceName": "Qadiriyya",
+      "decision": "keep",
+      "canonicalName": "Кадирийя",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суфизм",
+      "description": "Суфийский тарикат, восходящий к Абд аль-Кадиру аль-Джилани и объединяющий многочисленные региональные линии.",
+      "profile": "+sufi",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qadiriyya"
+      ],
+      "notes": "Сохраняется общий орден, а не отдельная региональная организация. Практики и исторические позиции одного шейха не переносятся на всё братство; духовная цепь через Али сама по себе не означает шиитскую доктрину имамата."
+    },
+    {
+      "sourceIndex": 1663,
+      "sourceName": "Quranism",
+      "decision": "alias",
+      "canonicalName": "Коранизм",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исламские подходы, отдающие Корану исключительный нормативный приоритет; запись уже существует в religions.js.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Quranism"
+      ],
+      "notes": "Подтверждённый английский синоним сохранённой записи «Коранизм». Исходная статья прямо определяет Quranism через первенство или исключительный авторитет Корана. Профиль существующей записи в этой партии не изменяется."
+    },
+    {
+      "sourceIndex": 1664,
+      "sourceName": "Riaz Ahmed Gohar Shahi",
+      "decision": "review",
+      "canonicalName": "Учение Гохар Шахи",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовное учение Риаза Ахмеда Гохар Шахи о любви к Богу, представленное его сочинениями и несколькими организациями последователей.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Riaz_Ahmed_Gohar_Shahi",
+        "https://thereligionofgod.com/book/en/introduction-by-ra-gohar-shahi"
+      ],
+      "notes": "Review: исходная ссылка — биография с предупреждением о несбалансированном изложении. Первоисточник подтверждает центральное значение любви к Богу. Требуется определить границы записи об учении и разграничить Anjuman Serfaroshan-e-Islam и Messiah Foundation International. Имя основателя не превращается автоматически в синоним одной из этих организаций; мессианские заявления отдельной группы не переносятся на всех последователей."
+    },
+    {
+      "sourceIndex": 1665,
+      "sourceName": "Roshani",
+      "decision": "keep",
+      "canonicalName": "Рошанийя",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суфизм",
+      "description": "Религиозное движение пуштунов XVI века, связанное с Баязидом Ансари, известным как Пир Рошан, и сочетавшее мистическое наставничество с эсхатологическими ожиданиями.",
+      "profile": "+sufi +divine +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Roshani_movement"
+      ],
+      "notes": "Сохраняется историческое движение, а не только политическое восстание. Источник различает этапы его развития; пантеистические характеристики отдельных поздних фаз не задаются как общий профиль. Не смешивать с европейскими иллюминатами."
+    }
+  ]
+}

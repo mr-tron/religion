@@ -1,0 +1,348 @@
+{
+  "range": [
+    806,
+    825
+  ],
+  "entries": [
+    {
+      "sourceIndex": 806,
+      "sourceName": "Classical pantheism",
+      "decision": "keep",
+      "canonicalName": "Классический пантеизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": "Пантеизм",
+      "description": "Детерминистская разновидность пантеизма в классификации Чарльза Хартсхорна, связывающая божественное с единой реальностью мира.",
+      "profile": "+divine +pantheism",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Classical_pantheism"
+      ],
+      "notes": "Название также используют в иных смыслах, включая античный пантеизм. Здесь сохранено явно определённое в источнике употребление Хартсхорна. Это более узкий философский тип, а не точный синоним всей существующей записи «Пантеизм»."
+    },
+    {
+      "sourceIndex": 807,
+      "sourceName": "Cosmicism",
+      "decision": "keep",
+      "canonicalName": "Космицизм Лавкрафта",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Литературно-философское мировоззрение, подчёркивающее космическую незначительность человека и отсутствие понятного ему высшего замысла.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cosmicism"
+      ],
+      "notes": "Не alias русского космизма, реальный культ персонажей Лавкрафта или обязательное следование оккультным практикам. Вымышленные существа и сюжеты не превращены в религиозные убеждения читателей. Сомнение в человеческой значимости не означает отказ от этического гуманизма."
+    },
+    {
+      "sourceIndex": 808,
+      "sourceName": "Cosmism",
+      "decision": "keep",
+      "canonicalName": "Русский космизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнородное философское и культурное течение о космическом будущем человечества, преобразовании природы и преодолении смертности.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Russian_cosmism"
+      ],
+      "notes": "Включает религиозные и нерелигиозные направления. Научно-технические надежды на воскрешение у Фёдорова не приравнены к универсальной вере всех космистов в загробную жизнь; ни scientific, ни атеизм всем не приписаны. Не alias космицизма Лавкрафта."
+    },
+    {
+      "sourceIndex": 809,
+      "sourceName": "Cosmotheism",
+      "decision": "keep",
+      "canonicalName": "Космотеизм Уильяма Пирса",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозно-идеологическое учение Уильяма Пирса о космическом развитии и божественности, связанное с американским белым национализмом.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cosmotheism",
+        "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1397563389&disposition=inline"
+      ],
+      "notes": "Исходная ссылка перенаправляет на биографию Пирса; диссертация Деймона Берри отдельно анализирует его религиозное учение и расовую метафизику. Это конкретное современное движение, а не синоним пантеизма вообще. Расовая иерархия описана как идеология движения, а не научно установленный факт; scientific не назначен по самоназванию."
+    },
+    {
+      "sourceIndex": 810,
+      "sourceName": "Cult of Reason",
+      "decision": "keep",
+      "canonicalName": "Культ Разума",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческое атеистическое гражданское культовое движение Французской революции с публичными празднествами и символическим почитанием разума.",
+      "profile": "-one_god -many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cult_of_Reason"
+      ],
+      "notes": "Исторические движения допустимы. Не alias деистического Культа Верховного существа. Персонификация Разума во время празднеств не принята за веру в буквальное божество. Общественные обряды не означают принятия религиозного откровения."
+    },
+    {
+      "sourceIndex": 811,
+      "sourceName": "Cultural Christians",
+      "decision": "keep",
+      "canonicalName": "Культурное христианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Культурная или семейная связь с христианским наследием без обязательного принятия христианского вероучения.",
+      "profile": "",
+      "proposedQuestions": [
+        {
+          "id": "cultural_religious_identity",
+          "text": "Является ли ваша принадлежность к религиозной традиции преимущественно культурной?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Помогает отличать культурное христианство, индуизм и ислам от принадлежности, основанной преимущественно на принятии вероучения. Не определяет саму традицию: её нужно уточнять отдельно. Ответ не подразумевает автоматически атеизм или отказ от всех обрядов.",
+          "supportedEntries": [
+            "Cultural Christians",
+            "Cultural Hindus",
+            "Cultural Muslims"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cultural_Christians"
+      ],
+      "notes": "Категория идентичности, а не отдельная церковь. Источник перечисляет широкий спектр убеждений, поэтому пустой профиль не подменён атеизмом, агностицизмом или принятием догматов. Региональные примеры статьи не обобщены на весь мир."
+    },
+    {
+      "sourceIndex": 812,
+      "sourceName": "Cultural Hindus",
+      "decision": "keep",
+      "canonicalName": "Культурный индуизм",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Преимущественно культурная или общинная идентификация с индуистским наследием при невысокой религиозной вовлечённости.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cultural_Hindus"
+      ],
+      "notes": "Не самостоятельная богословская школа и не alias индуистского атеизма. Праздники или эпизодические посещения храма не доказывают принятия Вед, кармы, перерождения либо определённого числа богов."
+    },
+    {
+      "sourceIndex": 813,
+      "sourceName": "Cultural Muslims",
+      "decision": "keep",
+      "canonicalName": "Культурный ислам",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Связь с мусульманским культурным, семейным или общественным наследием при необязательном соблюдении религиозных предписаний.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cultural_Muslims"
+      ],
+      "notes": "Категория включает разные отношения к вере и практике. Не alias всех мусульман без деноминации, исламского модернизма или атеизма. Ни принятие Корана и шариата, ни их отрицание не назначены по культурной принадлежности."
+    },
+    {
+      "sourceIndex": 814,
+      "sourceName": "Dialectical monism",
+      "decision": "review",
+      "canonicalName": "Диалектический монизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Философская категория, описывающая единство реальности, проявляющееся через взаимосвязанные противоположности.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dialectical_monism",
+        "https://iep.utm.edu/aztec-philosophy/"
+      ],
+      "notes": "Review: исходная статья предупреждает о недостатке источников и объединяет разные философские контексты. Internet Encyclopedia of Philosophy подтверждает конкретное употребление «диалектический полярный монизм» для науаской метафизики, но не общую единую школу с обязательным отношением к божественному. Сохранён термин; профиль пуст."
+    },
+    {
+      "sourceIndex": 815,
+      "sourceName": "Ecospirituality",
+      "decision": "keep",
+      "canonicalName": "Экологическая духовность",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные духовные подходы, связывающие отношения человека с природной средой и экологическую ответственность.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ecospirituality"
+      ],
+      "notes": "Ecospirituality — межрелигиозная категория, встречающаяся в теистических, нетеистических и коренных традициях. Её размещение в исходном разделе атеизма не доказывает отрицание богов. Забота о природе не равна утверждению, что она населена духами."
+    },
+    {
+      "sourceIndex": 816,
+      "sourceName": "Ethical movement",
+      "decision": "alias",
+      "canonicalName": "Этическая культура",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Этическое и общественное движение, связанное с Феликсом Адлером и приоритетом нравственного действия.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ethical_movement"
+      ],
+      "notes": "Ethical movement, Ethical Culture movement и Ethical Culture явно перечислены исходником как названия одного движения. Точный alias существующей записи «Этическая культура» в religions.js."
+    },
+    {
+      "sourceIndex": 817,
+      "sourceName": "First Satanic Church",
+      "decision": "keep",
+      "canonicalName": "Первая сатанинская церковь",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Лавеевский сатанизм",
+      "description": "Организация Карлы Лавей, основанная в 1999 году для продолжения лавеевского сатанизма.",
+      "profile": "-one_god -many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/First_Satanic_Church",
+        "https://firstsatanicchurch.com/about/"
+      ],
+      "notes": "First Satanic Church не тождественна Church of Satan: самостоятельная организация возникла после разделения. Официальный сайт подтверждает основательницу и дату. Исходник относит её к атеистическому сатанизму; интерес к оккультным исследованиям сам по себе не доказывает магическую практику. Библиографический авторитет Satanic Bible не приравнен автоматически к откровенному писанию."
+    },
+    {
+      "sourceIndex": 818,
+      "sourceName": "Freethought",
+      "decision": "keep",
+      "canonicalName": "Свободомыслие",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Интеллектуальное и общественное направление, основывающее убеждения на самостоятельном рассуждении, фактах и исследовании вместо догмы.",
+      "profile": "+scientific -revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Freethought"
+      ],
+      "notes": "Не alias атеизма или общего права на свободу мысли. Опора на проверку и логику не требует единого ответа о божественном, загробной жизни или обязательной светской этической системы."
+    },
+    {
+      "sourceIndex": 819,
+      "sourceName": "God-Building",
+      "decision": "keep",
+      "canonicalName": "Богостроительство",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Течение начала XX века, стремившееся использовать эмоциональные, символические и обрядовые формы религии для социалистического преобразования общества.",
+      "profile": "+ritual -revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/God-Building"
+      ],
+      "notes": "Речь о программе Луначарского и близких мыслителей. Создание коллективного религиозного чувства не доказывает веру в сверхъестественного творца. Не alias богоискательства, православного христианства или марксизма в целом."
+    },
+    {
+      "sourceIndex": 820,
+      "sourceName": "Humanism",
+      "decision": "keep",
+      "canonicalName": "Гуманизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность философских подходов, ставящих в центр достоинство, возможности и благополучие человека.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Humanism"
+      ],
+      "notes": "Название употребляется шире современного светского гуманизма и включает исторические и религиозные варианты. Поэтому не alias существующего «Светского гуманизма». Признак humanism в вопроснике требует этики без религиозного авторитета и не перенесён на весь широкий термин."
+    },
+    {
+      "sourceIndex": 821,
+      "sourceName": "Hylotheism",
+      "decision": "keep",
+      "canonicalName": "Гилотеизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": "Пантеизм",
+      "description": "Философское представление, отождествляющее божественное с материей.",
+      "profile": "+divine +pantheism",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hylotheism",
+        "https://www.merriam-webster.com/dictionary/hylotheism"
+      ],
+      "notes": "Определение независимо подтверждено Merriam-Webster. Рассматривается как более узкая материалистическая формулировка пантеизма; не всякий пантеизм сводит реальность к материи, а материализм не обязательно обожествляет её. Не религия лютеран, хотя в статье цитируется лютеранский словарь."
+    },
+    {
+      "sourceIndex": 822,
+      "sourceName": "Ietsism",
+      "decision": "keep",
+      "canonicalName": "Иетсизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Неопределённое убеждение в существовании «чего-то» за пределами повседневной материальной действительности без обязательной конфессиональной доктрины.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ietsism"
+      ],
+      "notes": "Нидерландское ietsisme шире одной определённой концепции Бога. Не точный синоним агностицизма, деизма или всей «Духовности без религии». Уверенность и содержание предполагаемого «чего-то» различаются, поэтому даже признаки divine и agnostic оставлены незаданными."
+    },
+    {
+      "sourceIndex": 823,
+      "sourceName": "Ignosticism",
+      "decision": "alias",
+      "canonicalName": "Игностицизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Позиция, требующая прояснить смысл понятия Бога до обсуждения его существования.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ignosticism"
+      ],
+      "notes": "Точный alias существующей записи «Игностицизм» в religions.js. Источник отличает этот подход от агностицизма; сходство некоторых выводов не делает эти названия синонимами."
+    },
+    {
+      "sourceIndex": 824,
+      "sourceName": "Implicit and explicit atheism",
+      "decision": "keep",
+      "canonicalName": "Неявный и явный атеизм",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": "Атеизм",
+      "description": "Различение отсутствия теистической веры без сознательного отвержения и осознанного отказа от такой веры.",
+      "profile": "-one_god -many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Implicit_and_explicit_atheism"
+      ],
+      "notes": "Классификационная пара внутри атеизма, а не единая новая организация. Сохранена как тематическая категория, поскольку описание различия не является точным альтернативным названием всего атеизма. Неявность не означает скрывание убеждений; отрицание всех сверхъестественных явлений не выводится."
+    },
+    {
+      "sourceIndex": 825,
+      "sourceName": "Indefinite monism",
+      "decision": "review",
+      "canonicalName": "Неопределённый монизм — требуется уточнение",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Неясное название философской позиции, исходная ссылка на которую перенаправляет к общей статье о монизме.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Indefinite_monism"
+      ],
+      "notes": "Review: перенаправление не подтверждает отдельную школу или содержание названия Indefinite monism. Поиск дополнительного источника не дал однозначного определения. Не назначены признаки и не сделан alias нейтральному монизму, апейрону Анаксимандра или монизму вообще."
+    }
+  ]
+}

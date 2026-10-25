@@ -1,0 +1,407 @@
+{
+  "range": [
+    146,
+    165
+  ],
+  "entries": [
+    {
+      "sourceIndex": 146,
+      "sourceName": "Vanruvairuwa",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия чагга",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции чагга Килиманджаро с Рувой, духами предков и обрядами поддержания благополучия.",
+      "profile": "+divine +ancestors +ritual +afterlife +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chagga_religion",
+        "https://dice.missouri.edu/assets/docs/niger-congo/Chagga.pdf",
+        "https://repositorio.sandamaso.es/bitstream/123456789/1277/1/Asenga%2C%20Kosmas%20Baltazar.pdf"
+      ],
+      "notes": "Vanruvairuwa встречается в поисковом снимке исходной статьи как название на кичагга, но в открытом тексте термин отсутствует. Сама традиция чагга и признаки подтверждены текстом статьи и академическими материалами. Значения имени Рува и его соотношение с солнцем трактуются по-разному; +one_god и +many_gods не назначены. Отдельного дубля Chagga religion в реестре нет. Уточнение профиля: Исходная статья с отсылками к этнографической литературе прямо описывает продолжающееся существование умерших, подношения им, духовное путешествие жертвенного животного и обряды посвящения мальчиков и девочек. Добавлены +afterlife и +initiatory_brotherhood; спорные трактовки численности богов и буквальности отдельных мифов не кодируются."
+    },
+    {
+      "sourceIndex": 147,
+      "sourceName": "Vodun",
+      "decision": "keep",
+      "canonicalName": "Западноафриканский водун",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные традиции почитания водун у народов Бенина, Того и соседних стран.",
+      "profile": "+divine +nature_spirits +ancestors +ritual +spirit_possession +initiatory_brotherhood +divination_oracles",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Имеет ли ритуальное вселение духов в человека важное место в вашей традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Выделяет медиумические практики Winti, Vodun и Waaqeffanna среди традиций, где одно признание предков или божеств не означает вселения. Отрицательные ответы других традиций требуют отдельной проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/West_African_Vodun",
+        "https://etheses.bham.ac.uk/id/eprint/3158/5/Baker_11_MPhil.pdf"
+      ],
+      "notes": "Источник различает западноафриканский Vodun и диаспорные религии. Существующее «Воду» в religions.js прямо описывает гаитянскую традицию лва, поэтому это не alias. Профиль опирается на природные проявления водун, предков, подношения и жертвоприношения; региональные культы неодинаковы. Уточнение профиля: Исследование Vodún в University of Birmingham описывает обучение vodú-si в храме, посвящение божеству, вселение в танце и консультации жреца с Fá. Это поддерживает +spirit_possession, +initiatory_brotherhood и +divination_oracles для документированных западноафриканских культов; их местная вариативность сохраняется."
+    },
+    {
+      "sourceIndex": 148,
+      "sourceName": "Waaqeffanna",
+      "decision": "keep",
+      "canonicalName": "Ваакаффанна",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционная религия оромо с единым создателем Ваакой, духами айяана и институтом кааллуу.",
+      "profile": "+divine +one_god +ritual +spirit_possession +personal",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Имеет ли ритуальное вселение духов в человека важное место в вашей традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Выделяет медиумические практики Winti, Vodun и Waaqeffanna среди традиций, где одно признание предков или божеств не означает вселения. Отрицательные ответы других традиций требуют отдельной проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Waaqeffanna",
+        "https://policy-powertools.org/related/docs/Workineh_Kelbessa_final3.pdf"
+      ],
+      "notes": "Исходная статья прямо описывает Waaqa Tokkicha как одного Бога, посредников и Ирреча. Айяана и их неодинаковые местные толкования не превращены автоматически в +many_gods. Общий +ancestors не выведен из происхождения традиции. Уточнение профиля: Исследование Workineh Kelbessa на основе устных данных из Ambo и Illuababorra описывает Ayyaana, говорящего через рот Qaalluu при вселении: +spirit_possession. Автор прямо отличает Borena, где эти религиозные лидеры не одержимы духами; признак отражает документированную часть широкой традиции, а не всех оромо. Исходное описание обращений к любящему Вааке и молитв Ирреча поддерживает +personal."
+    },
+    {
+      "sourceIndex": 149,
+      "sourceName": "Winti",
+      "decision": "keep",
+      "canonicalName": "Винти",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Афро-суринамская религия с создателем Ананой, духами винти и почитанием предков.",
+      "profile": "+divine +nature_spirits +ancestors +ritual +afterlife +spirit_possession",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Имеет ли ритуальное вселение духов в человека важное место в вашей традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Выделяет медиумические практики Winti, Vodun и Waaqeffanna среди традиций, где одно признание предков или божеств не означает вселения. Отрицательные ответы других традиций требуют отдельной проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Winti",
+        "https://pure.knaw.nl/portal/files/1175710/06_Van_Wetering.pdf"
+      ],
+      "notes": "Источник описывает духов леса и воды, молитву, посмертную судьбу души и вселение. Сходство с воду и кандомбле не означает тождества; это отдельная суринамская традиция. Уточнение профиля: Этнографический очерк Ineke van Wetering, опубликованный KNAW, основан на включённом наблюдении и прямо описывает проявления духов, вызывающих одержимость. Это независимо поддерживает +spirit_possession для винти; сходство ритуала с иными афродиаспорными религиями не использовалось как доказательство."
+    },
+    {
+      "sourceIndex": 150,
+      "sourceName": "Xhosa traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования коса",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции коса Южной Африки с предками, ритуальными специалистами и обрядами общения с духовным миром.",
+      "profile": "+divine +ancestors +ritual +divination_oracles +initiatory_brotherhood +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Xhosa_people",
+        "https://journals.co.za/doi/10.10520/EJC46926",
+        "https://www.scielo.org.za/scielo.php?pid=S2078-67862021000100011&script=sci_arttext"
+      ],
+      "notes": "Исходная статья о народе подтверждает обращение к предкам и создателю, роль гадателей и подношений. Традиции коса не отождествляются с верой всех современных коса или с ранее рассмотренными мпондомисе; региональное родство не доказывает синонимию. Уточнение профиля: Полевое исследование Manton Hirst о гадателях и учениках коса прямо описывает imvumisa/evumiso и сны о предках; +divination_oracles. Исследование «Becoming a Xhosa traditional healer» на основе интервью документирует ukuthwasa как обучение и посвящение по призванию предков: +initiatory_brotherhood. Продолжающие общаться умершие родственники поддерживают +afterlife. Эти признаки не переносятся на всех современных коса."
+    },
+    {
+      "sourceIndex": 151,
+      "sourceName": "Yakan",
+      "decision": "keep",
+      "canonicalName": "Движение якан",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Традиционные верования лугбара",
+      "description": "Историческое религиозно-целительное движение среди лугбара Уганды, связанное с Рембе и ритуальной водой.",
+      "profile": "+ritual +occult +spirit_possession +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yakan_movement"
+      ],
+      "notes": "Yakan здесь — угандийское движение, не народ якан Филиппин. Источник подтверждает ритуальную воду, лечебно-защитные ожидания и колониальное подавление. Состав воды и фармакологические утверждения не используются как признаки. Самостоятельная историческая организация сохранена; единая подробная теология не подтверждена. Уточнение профиля: Разделы Beliefs и History исходной статьи со ссылками на Middleton (1963) и Allen (1991) прямо описывают притязание Рембе на вселение духа Yakan, его гадание и защитные силы ритуальной воды. Добавлены +spirit_possession, +divination_oracles и +occult именно для описанной деятельности лидера и лечебно-защитного ритуала. Это не утверждение химического состава воды, её эффективности или наличия тех же практик у каждого участника."
+    },
+    {
+      "sourceIndex": 152,
+      "sourceName": "Yoruba religion",
+      "decision": "alias",
+      "canonicalName": "Йоруба и Ифа",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционная религия йоруба с ориша и системой гадания Ифа.",
+      "profile": "+divine +orisha +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yoruba_religion",
+        "https://ich.unesco.org/en/RL/ifa-divination-system-00146"
+      ],
+      "notes": "Подтверждённое соответствие существующей записи religions.js «Йоруба и Ифа», чьё описание прямо указывает традиции ориша и Ифа. Исходная статья описывает ту же религию и включает Ифа. Отдельная запись Ifá в готовой партии 66–85 остаётся узкой системой внутри этой традиции."
+    },
+    {
+      "sourceIndex": 153,
+      "sourceName": "Zulu traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия зулу",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции зулу с представлениями о создателе, предках и гадательных обрядах.",
+      "profile": "+divine +ancestors +ritual +afterlife +divination_oracles +spirit_possession +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zulu_traditional_religion",
+        "https://www.cambridge.org/core/journals/journal-of-african-history/article/women-as-diviners-and-as-christian-converts-in-rural-south-africa-c-18801963/5FBE07A653AF1D54DB43D149CE845DFA",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9558832/"
+      ],
+      "notes": "Источник прямо подтверждает предков и связь мира живых с духовным миром. Хотя введение называет религию монотеистической, далее отмечена вариативность ролей создателя и духов; для широкого исторического охвата +one_god пока опущен. Уточнение профиля: Исходное описание сохраняющихся духов умерших поддерживает +afterlife. Историческое исследование в Journal of African History описывает у зулу призвание к гаданию, сновидения и вселение духа предка; +divination_oracles и +spirit_possession. Продольное исследование в KwaZulu-Natal документирует ukuthwasa как длительное ученичество с церемониями и передачей знания: +initiatory_brotherhood. Это роли специалистов внутри традиции, а не требование одержимости для каждого зулу."
+    },
+    {
+      "sourceIndex": 154,
+      "sourceName": "ǃKung religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования !кунг",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Традиционные верования сан",
+      "description": "Локальные традиции !кунг с высшим существом, духами умерших и целительными танцами.",
+      "profile": "+divine +nature_spirits +ritual +afterlife +occult +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/%C7%83Kung_people",
+        "https://www.si.edu/object/archives/components/sova-hsfa-1983-11-ref138",
+        "https://sova.si.edu/components/hsfa.1983.11"
+      ],
+      "notes": "Статья о народе прямо описывает эти верования. Духи умерших не обязательно связаны с личными предками; +ancestors не назначен. Это локальная традиция внутри более широких верований сан, не доказанный синоним всей San religion. Уточнение профиля: Smithsonian хранит снятый в 1957–1958 годах N/um Tchai с объяснением n/um как сверхъестественной целительной силы: +occult относится к этой силе и обряду, не к внешним обвинениям в колдовстве. Опись экспедиций Marshall 1951–1953 годов прямо фиксирует гадание с дисками-оракулами: +divination_oracles. Целительный транс не приравнивается к вселению духа."
+    },
+    {
+      "sourceIndex": 155,
+      "sourceName": "Aksumite religion",
+      "decision": "keep",
+      "canonicalName": "Дохристианская религия Аксума",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические культы Астара, Махрема и других божеств в Аксумском царстве до христианизации.",
+      "profile": "+divine +many_gods +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kingdom_of_Aksum",
+        "https://www.researchgate.net/publication/281279211_Archaeological_rescue_Excavations_at_AksumEthiopia_2005-2007_The_Ethiopian_Cultural_Heritage_Project_Addis_Ababa_Ethiopia_2008_a_book",
+        "https://citeseerx.ist.psu.edu/document?doi=b76c7161c139f5928f382bfaeb2eedb31a110d30&repid=rep1&type=pdf"
+      ],
+      "notes": "Исходная статья о государстве содержит предметный раздел дохристианской религии. Название уточнено, поскольку история Аксума включает также христианский период. Связь с Южной Аравией не доказывает тождества её религиозным системам. Уточнение профиля: Отчёт об археологических раскопках Аксума 2005–2007 годов разбирает дохристианскую надпись Эзаны: царь установил золотую, серебряную и бронзовую статуи в честь Махрема и посвятил ему земельный участок. Историческое исследование Stuart Munro-Hay также описывает дары Махрему после походов. Добавлены +ritual и +icons по конкретным культовым посвящениям; погребальные памятники сами по себе не считаются достаточным доказательством учения о загробном мире."
+    },
+    {
+      "sourceIndex": 156,
+      "sourceName": "Amorite religion",
+      "decision": "keep",
+      "canonicalName": "Религиозные традиции амореев",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические верования амореев, известные по именам божеств и письменным свидетельствам древнего Ближнего Востока.",
+      "profile": "+divine +many_gods +ritual +divination_oracles +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amorites",
+        "https://archeologie.culture.gouv.fr/mari/en/diverse-sources",
+        "https://archeologie.culture.gouv.fr/mari/en/world-gods"
+      ],
+      "notes": "Статья о народе содержит двуязычный список аморейских божеств и аккадских соответствий. Это подтверждает пантеон, но не позволяет восстановить единый обязательный культ всех аморейских групп; ритуальные детали дополнены ниже по материалам аморейского Мари. Предлагаемое семейство: ancient_neareastern — древние религии Ближнего Востока и Египта; оно обозначает исторический регион, без общего доктринального профиля. Уточнение профиля: Французская археологическая миссия Mari прямо связывает дворцовые архивы XVIII века до н.э. с аморейским миром. Её раздел World of the Gods описывает поздние тексты обряда Иштар, гадание для царя по внутренностям и пророчества через сны и видения. Добавлены +ritual, +divination_oracles и +revelation для документированных аморейских царств Мари; это не перенос всех более ранних шумеро-аккадских практик или всего культа города на каждую аморейскую группу."
+    },
+    {
+      "sourceIndex": 157,
+      "sourceName": "Arabian paganism",
+      "decision": "keep",
+      "canonicalName": "Древнеаравийские политеистические культы",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные культы богов и духов Аравии до распространения ислама.",
+      "profile": "+divine +many_gods +ritual +icons +divination_oracles +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Religion_in_pre-Islamic_Arabia",
+        "https://art.thewalters.org/object/21.43/",
+        "https://iris.uniroma1.it/handle/11573/1696332"
+      ],
+      "notes": "Исходная статья шире записи: включает также иудаизм, христианство и другие религии доисламской Аравии. Профиль относится к описанным в ней местным политеистическим культам, а не ко всем доисламским жителям региона. Не единая организованная религия. Предлагаемое семейство: ancient_neareastern — древние религии Ближнего Востока и Египта; оно обозначает исторический регион, без общего доктринального профиля. Уточнение профиля: Walters Art Museum (21.43) описывает южноаравийские вотивные фигуры в святилищах, поддерживающие отношения молящегося с божеством: +icons. Исследование Alessio Agostini по древним надписям прямо документирует masʾal, обращение к оракулу за божественным содействием и ответами на личные и общественные вопросы: +divination_oracles и +personal. Это подтверждённые южноаравийские культы в рамках широкой записи, без обобщения на каждое племя или на единую аравийскую теологию."
+    },
+    {
+      "sourceIndex": 158,
+      "sourceName": "Assyrian religion",
+      "decision": "keep",
+      "canonicalName": "Древняя ассирийская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": "Древние месопотамские религиозные традиции",
+      "description": "Исторические культы Ассирии с Ашшуром, другими месопотамскими божествами и храмовыми обрядами.",
+      "profile": "+divine +many_gods +ritual +icons +occult +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Assyria",
+        "https://www.metmuseum.org/essays/mesopotamian-magic-in-the-first-millennium-bc"
+      ],
+      "notes": "Источник о государстве содержит предметный раздел Ancient Assyrian religion. Сведения лучше отражают государственные культы, чем личные верования всех жителей. Это не Ассирийская церковь Востока. Общий пантеон с Вавилонией не делает государственные культовые традиции синонимами. Предлагаемое семейство: ancient_neareastern — древние религии Ближнего Востока и Египта; оно обозначает исторический регион, без общего доктринального профиля. Уточнение профиля: Metropolitan Museum по ассирийским клинописным текстам и памятникам описывает придворных baru, толкующих божественные знамения, ashipu с защитными заклинаниями и одушевлённые образы божеств и охранительных существ. Это прямо поддерживает +divination_oracles, +occult и +icons для древней Ассирии; предметы из иных периодов статьи не перенесены автоматически."
+    },
+    {
+      "sourceIndex": 159,
+      "sourceName": "Atenism",
+      "decision": "keep",
+      "canonicalName": "Атонизм",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": "Древнеегипетская религия",
+      "description": "Религиозная реформа Эхнатона в Древнем Египте с исключительным государственным почитанием Атона.",
+      "profile": "+divine +ritual +icons +personal",
+      "proposedQuestions": [
+        {
+          "id": "exclusive_worship",
+          "text": "Считаете ли вы обязательным поклоняться только одному божеству, независимо от вопроса о существовании других?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Разделяет исключительное почитание Атона в государственной реформе Эхнатона и обычное почитание многих божеств в египетских, ассирийских и вавилонских культах; не смешивает монолатрию с утверждением one_god о существовании только одного Бога."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Atenism",
+        "https://arce.org/resource/akhenaten-mysteries-religious-revolution/",
+        "https://www.ucl.ac.uk/museums-static/digitalegypt/amarna/belief.html"
+      ],
+      "notes": "Монотеистическая или монолатрическая интерпретация остаётся предметом научной дискуссии, поэтому one_god/many_gods не кодируются. Академический материал UCL подтверждает исключительный царский культ, гимны и алтари. Народные практики эпохи не приравниваются к официальной реформе. Предлагаемое семейство: ancient_neareastern — древние религии Ближнего Востока и Египта; оно обозначает исторический регион, без общего доктринального профиля. Уточнение профиля: UCL публикует изображение Атона как солнечного диска с лучами-руками и объясняет его роль в царском культе: +icons. Прямое обращение к Атону в Великом гимне, опубликованном с переводом и указанием гробницы Айя, поддерживает +personal. Это молитвенное отношение в официальной царской традиции; оно не доказывает свободный непосредственный доступ каждого подданного к Атону."
+    },
+    {
+      "sourceIndex": 160,
+      "sourceName": "Babylonian religion",
+      "decision": "keep",
+      "canonicalName": "Древняя вавилонская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": "Древние месопотамские религиозные традиции",
+      "description": "Историческая месопотамская традиция Вавилонии с Мардуком и другими божествами.",
+      "profile": "+divine +many_gods +ritual +icons +divination_oracles +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Babylonian_religion",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co85238/copy-of-clay-liver-used-for-divination-original-from-babylon-2050-1750-bce",
+        "https://www.metmuseum.org/essays/mesopotamian-magic-in-the-first-millennium-bc"
+      ],
+      "notes": "Статья прямо описывает пантеон, новогодний праздник акиту и храмовые изображения. Первенство Мардука не равно отрицанию других божеств. Не объединяется с ассирийской религией только из-за родственного пантеона. Предлагаемое семейство: ancient_neareastern — древние религии Ближнего Востока и Египта; оно обозначает исторический регион, без общего доктринального профиля. Уточнение профиля: Science Museum Group описывает вавилонскую модель печени для гепатоскопии, оригинал которой находится в British Museum: +divination_oracles. Metropolitan Museum прослеживает заклинательные ритуалы Maqlu до старовавилонского времени и отдельно документирует защитные фигурки из Вавилона: +occult и +icons. Эти признаки опираются на конкретные вавилонские свидетельства, а не просто на общий месопотамский пантеон."
+    },
+    {
+      "sourceIndex": 161,
+      "sourceName": "Beduin shamanism",
+      "decision": "keep",
+      "canonicalName": "Традиции бедуинских целителей фукара",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные целительные и экстатические практики религиозных специалистов бедуинских общин.",
+      "profile": "+ancestors +ritual +afterlife +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fugara",
+        "https://journal.fi/store/issue/download/8478/1501",
+        "https://www.ammarinbedouincamp.org/ammarin-tribe",
+        "https://medwinpublishers.com/article/AEOAJ/10.23880/aeoaj-16000175/full",
+        "https://dokumen.pub/being-bedouin-around-petra-life-at-a-world-heritage-site-in-the-twenty-first-century-9781789201215.html"
+      ],
+      "notes": "Термин «бедуинский шаманизм» — сравнительная исследовательская классификация, а не подтверждённое самоназвание единой религии. Второй академический источник описывает фукара, транс и магико-медицинские практики в южной Иордании; это позволяет сохранить локальную практику. Не переносить автоматически +quran или +occult каждому бедуину. Доступен текст второго источника в поисковом индексе; прямое открытие PDF не удалось. Проверка 2026-10: Самоописание Ammarin прямо описывает посещение могил предков, получение их благословения, жертвоприношения и дары; исследование Shqiarat и соавторов по интервью подтверждает эти практики у гробниц el-Fugarā (+ancestors, +ritual, +afterlife). Этнография Mikkel Bille документирует защитные талисманы (+occult), одновременно предупреждая, что слово «шаман» в туристическом представлении факира расходится с местным пониманием его как святого wali. Это характеристика описанных специалистов и культов, не всех бедуинов."
+    },
+    {
+      "sourceIndex": 162,
+      "sourceName": "Canaanite religion",
+      "decision": "keep",
+      "canonicalName": "Древняя ханаанская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические религиозные традиции Ханаана с Элом, Баалом, Ашерат и другими божествами.",
+      "profile": "+divine +many_gods +ancestors +ritual +icons +personal +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ancient_Canaanite_religion",
+        "https://people.brandonu.ca/nollk/canaanite-religion/",
+        "https://www.mdpi.com/2077-1444/10/4/258"
+      ],
+      "notes": "Статья описывает разнообразные местные политеистические и иногда монолатрические формы, семейные культы умерших и ритуальную практику. Родство с соседними системами не означает тождества; не приравнивать к современному иудаизму. Предлагаемое семейство: ancient_neareastern — древние религии Ближнего Востока и Египта; оно обозначает исторический регион, без общего доктринального профиля. Проверка 2026-10: Исследование K. L. Noll на сайте Brandon University описывает одежду для божественных изображений (+icons), души умерших царей и глав семей как духовные существа (+afterlife). Archaeology and Religion in Late Bronze Age Canaan отдельно описывает молитву как общение с богами (+personal). Продолжение существования отдельных умерших не превращено в единую эсхатологическую доктрину для всех социальных групп."
+    },
+    {
+      "sourceIndex": 163,
+      "sourceName": "Eblaite religion",
+      "decision": "keep",
+      "canonicalName": "Древняя религия Эблы",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические культы Эблы с местными божествами, храмовыми подношениями и почитанием умерших царей.",
+      "profile": "+divine +many_gods +ritual +divination_oracles +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ebla",
+        "https://www.sprachwiss.uni-muenchen.de/ueber_uns/personen/lmu/sallaberger/publ_sallaberger/wasa_2018_kura.pdf",
+        "https://www.cambridge.org/core/journals/iraq/article/semitic-or-sumerian-a-case-of-mistaken-identity-in-the-incantations-from-ebla/9834E9B03977F4EA944B5808D6025232"
+      ],
+      "notes": "Статья о городе содержит отдельный раздел Religion, различающий его исторические царства и пантеоны. Культ умерших царей не принят за достаточное доказательство общего семейного почитания предков: +ancestors опущен. Предлагаемое семейство: ancient_neareastern — древние религии Ближнего Востока и Египта; оно обозначает исторический регион, без общего доктринального профиля. Проверка 2026-10: Sallaberger, Kura, Youthful Ruler and Martial City-God of Ebla, прямо описывает гадание по внутренностям в храме Куры (+divination_oracles). Gill (IRAQ, 2026) публикует и исследует заклинательные тексты архива Эблы (+occult). Наличие письменных заклинаний не означает существование единого авторитетного священного канона."
+    },
+    {
+      "sourceIndex": 164,
+      "sourceName": "Egyptian religion",
+      "decision": "keep",
+      "canonicalName": "Древнеегипетская религия",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические традиции Древнего Египта с множеством божеств, храмовыми обрядами и представлениями о посмертии.",
+      "profile": "+divine +many_gods +ritual +afterlife +scripture +occult +icons +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ancient_Egyptian_religion",
+        "https://echoesofegypt.peabody.yale.edu/hieroglyphs/egyptian-book-dead",
+        "https://www.getty.edu/news/how-to-merge-with-the-gods/",
+        "https://www.britishmuseum.org/collection/object/Y_EA826"
+      ],
+      "notes": "Статья прямо описывает древнюю систему. Существующий «Кеметизм» в religions.js обозначает современное возрождение, поэтому историческая Egyptian religion не alias к нему. Атонизм сохранён отдельно как конкретная религиозная реформа внутри древнеегипетской истории. Предлагаемое семейство: ancient_neareastern — древние религии Ближнего Востока и Египта; оно обозначает исторический регион, без общего доктринального профиля. Проверка 2026-10: Yale Peabody и Getty описывают «Книгу мёртвых» как влиятельное собрание религиозных текстов и заклинаний, применявшееся более тысячелетия (+scripture, +occult); это не утверждение о едином каноне всех эпох Египта. Британский музей документирует на стеле EA826 изображения богов, подношения и гимны с обращением к ним (+icons, +personal)."
+    },
+    {
+      "sourceIndex": 165,
+      "sourceName": "Guanche religion",
+      "decision": "keep",
+      "canonicalName": "Исторические верования гуанчей",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные религиозные традиции коренных жителей Канарских островов до колонизации.",
+      "profile": "+divine +many_gods +ritual +icons +nature_spirits",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Guanches",
+        "https://www.museosdetenerife.org/assets/downloads/publication-2b6825ee9d.pdf"
+      ],
+      "notes": "Исходная статья о народе содержит раздел верований и различает островные имена божеств и формы культа. Широкое употребление «гуанчи» для архипелага оговорено: в узком смысле речь о Тенерифе. Историческая традиция не объединяется с современной Church of the Guanche People. Полного единства островных пантеонов не предполагается. Проверка 2026-10: Музейное археологическое издание о находках Фаснии обсуждает Guatimac как магико-религиозную фигурку/амулет жрецов (+icons); точная идентификация изображённого существа остаётся неясной. Исходный раздел верований прямо описывает Maxios как духов-покровителей определённых мест (+nature_spirits). Мумии сами по себе не использованы как доказательство конкретной загробной доктрины."
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "range": [
+    1546,
+    1565
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1546,
+      "sourceName": "Presbyterianism",
+      "decision": "alias",
+      "canonicalName": "Пресвитерианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Реформатское христианство",
+      "description": "Реформатская христианская традиция с пресвитериальным церковным управлением.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Presbyterianism"
+      ],
+      "notes": "Точное совпадение с существующей записью religions.js «Пресвитерианство». Отдельные национальные церкви не становятся его синонимами; существующий профиль здесь не пересматривается."
+    },
+    {
+      "sourceIndex": 1547,
+      "sourceName": "Progressive Christianity",
+      "decision": "keep",
+      "canonicalName": "Прогрессивное христианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Межденоминационный круг христианских подходов, подчёркивающих открытость, социальную справедливость и критическое исследование веры.",
+      "profile": "+jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Progressive_Christianity",
+        "https://www.douglasucc.org/uploads/1/2/2/7/122798879/progressivechristianity.pdf"
+      ],
+      "notes": "Не единая деноминация и не alias политического либерализма, всего либерального богословия или организации ProgressiveChristianity.org. Восемь пунктов, опубликованные одной из общин UCC, подтверждают ориентацию на учение Иисуса при открытости к разным убеждениям. Это не основание для общей атеистической позиции, -trinity, -scripture или +humanism у всех участников."
+    },
+    {
+      "sourceIndex": 1548,
+      "sourceName": "Protestant fundamentalism",
+      "decision": "keep",
+      "canonicalName": "Протестантский фундаментализм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Межденоминационное протестантское движение, защищающее основные догматы веры и библейскую безошибочность в полемике с богословским модернизмом.",
+      "profile": "+jesus +scripture +bible_alone",
+      "proposedQuestions": [
+        {
+          "id": "biblical_inerrancy",
+          "text": "Считаете ли вы Библию в её первоначальном тексте полностью свободной от ошибок во всём, что она утверждает?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Передаёт характерную для протестантского фундаментализма библейскую безошибочность. Scripture спрашивает об авторитете текста, а bible_alone — об окончательном источнике вероучения: эти позиции не обязательно означают безошибочность всех утверждений. Не равен требованию читать любой литературный жанр буквально.",
+          "supportedEntries": [
+            "Protestant fundamentalism"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Christian_fundamentalism"
+      ],
+      "notes": "Исходная ссылка использует более широкое Christian fundamentalism, но описывает прежде всего историческое протестантское движение. Не alias всего евангельского христианства, консерватизма или отдельной баптистской церкви. Оценочные употребления слова и единая политическая позиция в профиль не включены."
+    },
+    {
+      "sourceIndex": 1549,
+      "sourceName": "Proto-Gnosticism",
+      "decision": "review",
+      "canonicalName": "Протогностицизм — историческая гипотеза",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Гностицизм",
+      "description": "Исследовательское обозначение предполагаемых ранних мотивов и течений, предшествовавших развитым гностическим системам.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Proto-Gnosticism",
+        "https://iep.utm.edu/gnostic/",
+        "https://www.cambridge.org/core/journals/church-history/article/abs/prechristian-gnosticism-in-the-nag-hammadi-texts/D6DA0380CDADCBCD1DAE5566646DFC8B"
+      ],
+      "notes": "Исходная статья отмечена отсутствием точных страниц в ссылках и прямо указывает спорность реконструкций. Академические исследования обсуждают разные источники и хронологию гнозиса, а не единую протогностическую церковь. Семейство christian условно отражает контекст исходного реестра; обсуждаемые влияния включают также еврейские и философские среды. Общий профиль не назначен; не alias всего гностицизма."
+    },
+    {
+      "sourceIndex": 1550,
+      "sourceName": "Proto-orthodox Christianity",
+      "decision": "review",
+      "canonicalName": "Протоортодоксальное христианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Раннее христианство",
+      "description": "Историографическое обозначение раннехристианских течений, чьи позиции впоследствии вошли в господствующее церковное вероучение.",
+      "profile": "+jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Proto-orthodox_Christianity",
+        "https://academic.oup.com/book/54424"
+      ],
+      "notes": "Академическое исследование Bart D. Ehrman подтверждает употребление термина, но его границы и реконструкция исторического преобладания оспариваются. Возможное перекрытие с записью 1498 «Великая церковь — историческое понятие» требует согласования, поэтому точный alias не заявлен. Не синоним одного современного православия или Римско-католической церкви; поздние догматические формулы не перенесены на всех ранних авторов."
+    },
+    {
+      "sourceIndex": 1551,
+      "sourceName": "Pulahan",
+      "decision": "keep",
+      "canonicalName": "Пулахан",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Филиппинские религиозно-политические движения, сочетавшие народный католицизм с местными верованиями и защитными обрядами.",
+      "profile": "+scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pulahan",
+        "https://www.asj.upd.edu.ph/mediabox/archive/ASJ_56_1_2020/Pulahanes_Masbate_Philippines_Pelorina2.pdf"
+      ],
+      "notes": "Исследование Renato Pelorina подтверждает региональные группы и их связь с кругом Dios-dios. Это не доказательство полного тождества всем движениям Dios-dios или одному основателю; противоречивые генеалогии исходной статьи не используются. Семейство отражает народно-католическую составляющую, не навязывая всем группам римское богословие."
+    },
+    {
+      "sourceIndex": 1552,
+      "sourceName": "Puritans",
+      "decision": "keep",
+      "canonicalName": "Пуританство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Реформатское христианство",
+      "description": "Историческое движение английских протестантов XVI–XVII веков, стремившихся к дальнейшему реформированию церкви и богослужения.",
+      "profile": "+scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Puritans"
+      ],
+      "notes": "Исторический круг включает разные церковные устройства; не alias всего пресвитерианства, конгрегационализма или современного фундаментализма. Вопросы крещения, церковной власти и подробной обрядности не назначены одинаково всем группам. Бытовое значение «пуританский» не используется как религиозный профиль."
+    },
+    {
+      "sourceIndex": 1553,
+      "sourceName": "Quakers",
+      "decision": "alias",
+      "canonicalName": "Квакерство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция Религиозного общества Друзей, исторически связанная с непосредственным духовным опытом.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Quakers"
+      ],
+      "notes": "Quakers точно соответствует существующей записи religions.js «Квакерство». Не alias отдельным нетеистическим квакерам, сохранённым в партии 0826–0845; ветви существенно различаются, поэтому существующий профиль здесь не расширяется."
+    },
+    {
+      "sourceIndex": 1554,
+      "sourceName": "River Brethren",
+      "decision": "keep",
+      "canonicalName": "Речные братья",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Анабаптизм",
+      "description": "Семейство анабаптистско-пиетистских церквей пенсильванского происхождения, практикующее крещение после обращения.",
+      "profile": "+adult_baptism +trinity +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/River_Brethren"
+      ],
+      "notes": "Источник прямо отличает River Brethren от Schwarzenau Brethren, несмотря на взаимные влияния и тройное погружение. Не alias одной современной Brethren in Christ Church, одной старообрядной ветви или United Brethren. Одежда и бытовые ограничения поздних ветвей неодинаковы; они не назначены всему кругу."
+    },
+    {
+      "sourceIndex": 1555,
+      "sourceName": "Rizalista",
+      "decision": "keep",
+      "canonicalName": "Ризалистские религиозные движения",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные филиппинские религиозные общины, придающие Хосе Рисалю особое духовное значение.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rizalista_religious_movements"
+      ],
+      "notes": "Rizalista — общее обозначение нескольких движений, а не единая церковь. Источник перечисляет разные представления о Рисале: от духовного наставника до божественного воплощения. Ни его божественность, ни перерождение Христа, ни исключительное спасение в одной организации не назначены всему кругу. Не alias каждой из перечисленных организаций или светскому почитанию национального героя."
+    },
+    {
+      "sourceIndex": 1556,
+      "sourceName": "Romanian Greek Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Румынская грекокатолическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Восточнокатолическая церковь византийского обряда, исторически связанная с Трансильванией.",
+      "profile": "+church +pope +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Romanian_Greek_Catholic_Church"
+      ],
+      "notes": "Отдельная церковь sui iuris, также называемая Румынской церковью, объединённой с Римом. Не Румынская православная церковь и не весь католицизм Румынии. Источник подтверждает папское общение, Библию и византийское богослужение."
+    },
+    {
+      "sourceIndex": 1557,
+      "sourceName": "Romanian Orthodox Church",
+      "decision": "keep",
+      "canonicalName": "Румынская православная церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Православие",
+      "description": "Автокефальная православная церковь румынской традиции с патриаршим устройством.",
+      "profile": "+church +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Romanian_Orthodox_Church"
+      ],
+      "notes": "Не alias всего православия или Румынской грекокатолической церкви. Источник подтверждает автокефальную церковную структуру, византийское богослужение и библейское писание. Национальность не трактуется как обязательный признак каждого последователя."
+    },
+    {
+      "sourceIndex": 1558,
+      "sourceName": "Russian Greek Catholic Church",
+      "decision": "review",
+      "canonicalName": "Российская грекокатолическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Восточнокатолическая традиция русского византийского обряда, объединяющая общины в России и диаспоре.",
+      "profile": "+church +pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Russian_Greek_Catholic_Church",
+        "https://www.russiancatholic.org/",
+        "https://cnewa.org/eastern-christian-churches/the-catholic-eastern-churches/from-the-orthodox-church/other-eastern-catholic-communities/"
+      ],
+      "notes": "Исходная статья отмечена как личное или аргументативное эссе. Собственное описание общин и обзор CNEWA подтверждают идентичность и общение с Римом, но не оправдывают перенос всех широких исторических утверждений исходника. Не весь католицизм России, не Русская православная и не Русинская грекокатолическая церковь."
+    },
+    {
+      "sourceIndex": 1559,
+      "sourceName": "Russian Orthodox Church",
+      "decision": "keep",
+      "canonicalName": "Русская православная церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Православие",
+      "description": "Автокефальная православная церковь Московского патриархата.",
+      "profile": "+church +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Russian_Orthodox_Church"
+      ],
+      "notes": "Сохраняется конкретная церковь, не alias всего православия. Белорусский экзархат (строка 1447) является частью РПЦ, а не её полным синонимом. Источник подтверждает библейское писание, епископальное устройство и православную традицию; политические позиции и территориальные споры не назначаются убеждениями каждого верующего."
+    },
+    {
+      "sourceIndex": 1560,
+      "sourceName": "Ruthenian Greek Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Русинская грекокатолическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Современная восточнокатолическая церковная традиция византийского обряда, связанная с русинским наследием и диаспорой.",
+      "profile": "+church +pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ruthenian_Greek_Catholic_Church"
+      ],
+      "notes": "Источник прямо отличает современную Ruthenian Greek Catholic Church от исторической Ruthenian Uniate Church и от Украинской грекокатолической церкви. Не Российская грекокатолическая церковь; сходные переводы Ruthenian/Russian не основание для alias."
+    },
+    {
+      "sourceIndex": 1561,
+      "sourceName": "Samaritan Christians",
+      "decision": "review",
+      "canonicalName": "Самаритянские христиане",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Раннее христианство",
+      "description": "Историческое обозначение последователей христианства самаритянского происхождения и реконструируемых ранних общин Самарии.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Samaritan_Christians",
+        "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/origins-and-development-of-samaritan-christianity/11331F7E3CF2C0150CE6E4084A86C606"
+      ],
+      "notes": "Исходная статья отмечена недостатком ссылок и не устанавливает единую деноминацию с особым вероучением. Академическое исследование обсуждает происхождение самаритянского христианства и пределы источников. Не alias самаритянской религии в целом: этническое происхождение само по себе не подтверждает общий современный профиль Торы, канона или христологии."
+    },
+    {
+      "sourceIndex": 1562,
+      "sourceName": "Schwarzenau Brethren",
+      "decision": "keep",
+      "canonicalName": "Шварценауские братья",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Анабаптизм",
+      "description": "Христианская анабаптистско-пиетистская традиция, начавшаяся в Шварценау в 1708 году и образовавшая несколько позднейших церквей.",
+      "profile": "+jesus +scripture +adult_baptism",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Schwarzenau_Brethren"
+      ],
+      "notes": "German Baptist Brethren, Dunkers и Tunkers — названия этого исторического круга, а не всего баптизма. Не alias River Brethren (строка 1554): статья прямо различает традиции. Не одна современная Church of the Brethren; бытовые правила отдельных старообрядных ветвей не обобщаются."
+    },
+    {
+      "sourceIndex": 1563,
+      "sourceName": "Sedeprivationism",
+      "decision": "review",
+      "canonicalName": "Седепривационизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Католический традиционализм",
+      "description": "Позиция, согласно которой послесоборные избранники на папский престол обладают им материально, но не формально и потому не имеют полноты папских полномочий.",
+      "profile": "+pope",
+      "proposedQuestions": [
+        {
+          "id": "papal_material_formal_distinction",
+          "text": "Считаете ли вы, что избранный после Второго Ватиканского собора папа занимает престол лишь материально, без формального обладания папской властью?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Передаёт тезис Кассичиакума и отличает седепривационизм от признания полноты власти и от обычного седевакантизма. Не равен отказу от самого папского первенства. Подробные границы признания выборов могут различаться между последователями.",
+          "supportedEntries": [
+            "Sedeprivationism"
+          ]
+        },
+        {
+          "id": "postconciliar_papal_authority",
+          "text": "Признаёте ли вы полноту папских полномочий у римских понтификов, законно избранных в церковной иерархии после Второго Ватиканского собора?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Различает признание современной римской иерархии и традиционалистские позиции, оспаривающие её полномочия. Pope касается особого учительного первенства как принципа: седевакантисты могут принимать этот принцип и одновременно отрицать легитимность нынешних претендентов. Не используется для оценки действительности выборов извне.",
+          "supportedEntries": [
+            "Sedeprivationism",
+            "Sedevacantism"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sedeprivationism",
+        "https://magnuslundberg.net/wp-content/uploads/2020/06/palmar-second-edition.pdf"
+      ],
+      "notes": "Исходная статья предупреждает о ненадёжных источниках. Исследование Magnus Lundberg подтверждает различение materialiter/formaliter и происхождение тезиса. Не alias седевакантизма без этой оговорки, одной организации или всей традиционалистской среды. +pope отражает сохранение самого института первенства, а не признание полномочий нынешнего избранника."
+    },
+    {
+      "sourceIndex": 1564,
+      "sourceName": "Sedevacantism",
+      "decision": "review",
+      "canonicalName": "Седевакантизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Католический традиционализм",
+      "description": "Круг традиционалистских католических позиций, считающих папский престол вакантным из-за непризнания послесоборных понтификов.",
+      "profile": "+pope +church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sedevacantism",
+        "https://cmri.org/articles-on-the-traditional-catholic-faith/sedevacantism/",
+        "https://magnuslundberg.net/wp-content/uploads/2020/06/palmar-second-edition.pdf"
+      ],
+      "notes": "Исходная статья отмечена недостатком источников и неполнотой представленных взглядов. Собственное изложение CMRI прямо сохраняет папское первенство и непогрешимость как принцип, одновременно отвергая легитимность претендента: поэтому -pope был бы неверным. Не alias седепривационизма, конклавизма или одной общины; начальная дата предполагаемой вакансии и последующие решения различаются."
+    },
+    {
+      "sourceIndex": 1565,
+      "sourceName": "Seohak",
+      "decision": "review",
+      "canonicalName": "Сохак — западное учение в Корее",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторический корейский круг усвоения западных знаний, философии и католических идей в эпоху Чосон.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Seohak",
+        "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002115177",
+        "https://www.aks.ac.kr/cms/usr/wap/selectAplctnData.do?bookSeq=15684572&menuNo=2010111000&siteAplctnId=publishedBookAks"
+      ],
+      "notes": "Исходная статья отмечена отсутствием точных встроенных ссылок. Исследование Academy of Korean Studies показывает, что интерес к Seohak не обязательно означал принятие католической веры: например, И Ик избирательно усваивал идеи и отвергал загробные доктрины. Семейство christian лишь отражает религиозную составляющую реестра; нужен редакторский выбор между интеллектуальной категорией и конкретными католическими общинами. Не alias всего корейского католицизма или Тонхака, профиль пуст."
+    }
+  ]
+}

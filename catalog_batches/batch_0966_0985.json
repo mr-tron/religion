@@ -1,0 +1,359 @@
+{
+  "range": [
+    966,
+    985
+  ],
+  "entries": [
+    {
+      "sourceIndex": 966,
+      "sourceName": "Shōroku Shintō Yamatoyama",
+      "decision": "keep",
+      "canonicalName": "Сёроку синто Яматояма",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Синто",
+      "description": "Японское движение Тадзавы Сэйсиро, возникшее из религиозного опыта 1919 года и соединяющее почитание ками с нравственной дисциплиной и общественным служением.",
+      "profile": "+divine +kami +revelation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sh%C5%8Droku_Shint%C5%8D_Yamatoyama",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9772"
+      ],
+      "notes": "Академическая энциклопедия подтверждает откровения основателя и его дочери, поминальные службы, омовения и подношения. Посещение Омото не доказывает тождества или организационной преемственности. Обряды умерших не автоматически приравнены к семейному почитанию предков."
+    },
+    {
+      "sourceIndex": 967,
+      "sourceName": "Shōshinkai",
+      "decision": "review",
+      "canonicalName": "Сёсинкай (нитирэнское буддийское объединение)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Нитирэн-сёсю",
+      "description": "Японское объединение священников и мирян нитирэнской традиции, возникшее в 1980 году в результате разногласий внутри Нитирэн-сёсю.",
+      "profile": "+buddha +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sh%C5%8Dshinkai",
+        "https://www.kuonji.or.jp/people_practising_other_religions/shoshinkai/shoshinkai_overview_and_refutation/"
+      ],
+      "notes": "Исходная статья содержит полемические и неподкреплённые обобщения. Официальный источник противоположной стороны подтверждает самостоятельное существование объединения и использование Лотосовой сутры и сочинений Нитирэна; его оценки истинности веры не перенесены. Преемственность руководителей и актуальный статус храмов здесь не определяются. Не alias всей Нитирэн-сёсю или Сока Гаккай. Требуется нейтральная сверка спорной истории преемственности и собственного исповедания; до неё запись оставлена на review."
+    },
+    {
+      "sourceIndex": 968,
+      "sourceName": "Sukyo Mahikari",
+      "decision": "keep",
+      "canonicalName": "Сукё Махикари",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Махикари",
+      "description": "Японская организация линии Махикари, практикующая передачу божественного «Истинного света» через ладонь для духовного очищения.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [
+        {
+          "id": "spiritual_light_transmission",
+          "text": "Является ли передача духовного или божественного света через руки важной практикой вашего пути?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отражает центральную практику Махикари, включая Сукё Махикари и World Divine Light; отличает её от общей молитвы, медитации и трансового исцеления. Не предполагает доказанного лечебного действия или обязательного отказа от медицинской помощи."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sukyo_Mahikari",
+        "https://www.sukyomahikari.org/faq.html",
+        "https://www.sukyomahikari.or.jp/en/introduction/index.html"
+      ],
+      "notes": "Официальные источники подтверждают учение о божественном источнике света и разрешают сохранение иной религиозной принадлежности. Профиль описывает учение организации, а не обязательную исходную веру каждого посетителя. Это отдельная организация с 1978 года, а не синоним World Divine Light или всего движения Махикари."
+    },
+    {
+      "sourceIndex": 969,
+      "sourceName": "Tenrikyo",
+      "decision": "alias",
+      "canonicalName": "Тэнрикё",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Японская религиозная традиция Накаямы Мики с учением о Боге-Родителе и Радостной жизни.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tenrikyo"
+      ],
+      "notes": "Точное совпадение с существующей записью «Тэнрикё» в religions.js. Отдельное написание Tenrikyo не делает её новым направлением."
+    },
+    {
+      "sourceIndex": 970,
+      "sourceName": "Tenrin-Ō Meisei Kyōdan",
+      "decision": "keep",
+      "canonicalName": "Тэнрин-о Мэйсэй кёдан",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Тэнрикё",
+      "description": "Японское движение Оку Рокубэя, выросшее из тэнрикёского братства и использующее имя божества Тэнрин-о-но-микото.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tenrin-%C5%8C_Meisei_Ky%C5%8Ddan"
+      ],
+      "notes": "Источник различает учение о Тэнрин-о и основную тэнрикёскую форму имени Тэнри-о. Ранняя организация Сидокай не отождествлена с современным одноимённым движением другого происхождения. Доктрины Тэнрикё и практика оммёдо не перенесены автоматически."
+    },
+    {
+      "sourceIndex": 971,
+      "sourceName": "Tenshō Kōtai Jingūkyō",
+      "decision": "keep",
+      "canonicalName": "Тэнсё Котай Дзингукё",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Японская религиозная традиция Китамуры Саё, известная экстатическим танцем муга-но-маи, ежедневной декламацией и собственным священным текстом «Сэйсё».",
+      "profile": "+divine +revelation +scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tensh%C5%8D_K%C5%8Dtai_Jing%C5%ABky%C5%8D"
+      ],
+      "notes": "Название танца «не-я» не принято за подтверждение буддийского учения no_self. Упоминание Иисуса и Будды в сопоставлении с основательницей не означает центральности их учений. Сохраняется самостоятельная традиция, а не ветвь по совпадению отдельных терминов."
+    },
+    {
+      "sourceIndex": 972,
+      "sourceName": "World Divine Light",
+      "decision": "keep",
+      "canonicalName": "Всемирный божественный свет (World Divine Light)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Махикари",
+      "description": "Организация линии Махикари, известная в Японии как Сэкай Махикари Буммэй кёдан и практикующая духовное очищение Истинным светом.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/World_Divine_Light",
+        "https://www.worlddivinelight.org/en"
+      ],
+      "notes": "Официальный сайт подтверждает учение о свете от Бога и духовном очищении. Источник отличает организацию от отделившейся Сукё Махикари (968); родительское движение Махикари шире обеих организаций. Вопрос spiritual_light_transmission из записи 968 применим и здесь."
+    },
+    {
+      "sourceIndex": 973,
+      "sourceName": "Zenrinkyo",
+      "decision": "keep",
+      "canonicalName": "Дзэнринкё",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Японское движение Рикихисы Тацусая, подчёркивающее дисциплину сознания, изменение жизненного пути и религиозные практики духовной помощи.",
+      "profile": "+divine +ritual +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zenrinkyo",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/id=9124"
+      ],
+      "notes": "Академическая энциклопедия различает раннее учение о самореализации и позднейший культ духа основателя как спасительного божества. Признаки относятся к описанной развившейся традиции; ранние целительные приёмы основателя не приписаны автоматически каждому участнику. Название Zenrinkai — прежнее имя той же организации."
+    },
+    {
+      "sourceIndex": 974,
+      "sourceName": "Aetherius Society",
+      "decision": "keep",
+      "canonicalName": "Общество Эфириуса (Aetherius Society)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Джорджа Кинга, связывающее духовное развитие и служение человечеству с наставлениями космических учителей, кармой и перевоплощением.",
+      "profile": "+reincarnation +karma +occult",
+      "proposedQuestions": [
+        {
+          "id": "extraterrestrial_teachers",
+          "text": "Играют ли внеземные разумные существа важную роль как духовные наставники или источник религиозного знания в вашем мировоззрении?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Позволяет описывать общую тему Общества Эфириуса, движения Аштара, раэлизма и других контактёрских религий, не приписывая им одинаковую теологию. Отличает духовную роль предполагаемых внеземных существ от простого интереса к возможности жизни вне Земли."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aetherius_Society"
+      ],
+      "notes": "Сохраняется конкретное движение, а не любая вера в НЛО. Телепатические и духовные сообщения описаны как религиозные утверждения. Представления об Иисусе или Будде как космических учителях не означают автоматического принятия всех христианских или буддийских догматов."
+    },
+    {
+      "sourceIndex": 975,
+      "sourceName": "Ashtar Galactic Command",
+      "decision": "keep",
+      "canonicalName": "Аштарское командование (контактёрское движение)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Сеть контактёрских и ченнелинговых групп, связывающих духовные наставления и преобразование человечества с Аштаром и предполагаемой космической организацией.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ashtar_Galactic_Command",
+        "https://www.cdamm.org/articles/extraterrestrial",
+        "https://christopherhelland.com/test"
+      ],
+      "notes": "Исходный адрес ведёт на статью об Аштаре, но отдельный раздел описывает именно сеть Ashtar Command. Академический обзор CDAMM и публикации Кристофера Хелланда подтверждают самостоятельный предмет. Это не одна централизованная церковь; отдельные сообщения и пророчества противоречат друг другу и не назначены всей сети."
+    },
+    {
+      "sourceIndex": 976,
+      "sourceName": "Chen Tao (UFO religion)",
+      "decision": "keep",
+      "canonicalName": "Чэнь Тао (Церковь спасения Бога)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Чэнь Хэнмина тайваньского происхождения, связывавшее божественное спасение с ожидаемым явлением Бога и внеземным транспортом.",
+      "profile": "+divine +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chen_Tao_(UFO_religion)"
+      ],
+      "notes": "God’s Salvation Church, True Way Church и Chen Tao в статье являются названиями этой группы, а не обычного даосизма. Биографическое изучение основателем Библии, сутр и Дао дэ цзина не делает каждый из этих текстов единым обязательным каноном. Неудавшиеся предсказания приведены как контекст, а не как определение всей религиозной практики."
+    },
+    {
+      "sourceIndex": 977,
+      "sourceName": "Fiat Lux",
+      "decision": "keep",
+      "canonicalName": "Фиат Люкс (движение Уриэллы)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Эрики Бертшингер-Айке, известной как Уриэлла, признававшее получаемые ею сообщения Иисуса и Марии и ожидание спасения посредством внеземных кораблей.",
+      "profile": "+divine +jesus +revelation +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fiat_Lux_(UFO_religion)"
+      ],
+      "notes": "Транс медиума, регулярная молитва и религиозный уклад прямо описаны источником. Не синоним всякого использования латинского выражения fiat lux. Строгое вегетарианство не приравнено к особенно строгому ненасилию ahimsa; для него применим ранее предложенный religious_vegetarianism."
+    },
+    {
+      "sourceIndex": 978,
+      "sourceName": "Ground Crew Project",
+      "decision": "keep",
+      "canonicalName": "Проект Ground Crew",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Контактёрское движение Шелдана Найдла, связывающее предполагаемые сообщения внеземных наставников с грядущим преобразованием Земли.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ground_Crew_Project",
+        "https://christopherhelland.com/test"
+      ],
+      "notes": "Источник различает исходный проект и последующие Ground Crew и Planetary Activation Organization после разделения. Последние не объявлены взаимными синонимами. Утверждения о телепатии и космическом обучении относятся к верованиям движения; интерес к технологиям не означает scientific."
+    },
+    {
+      "sourceIndex": 979,
+      "sourceName": "Heaven's Gate",
+      "decision": "keep",
+      "canonicalName": "Врата рая (Heaven’s Gate)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Американское движение Маршалла Эпплуайта и Бонни Неттлз, связывавшее Иисуса и духовное преображение с переходом на внеземной «Следующий уровень».",
+      "profile": "+jesus +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heaven%27s_Gate_(religious_group)"
+      ],
+      "notes": "Профиль учитывает позднее учение о продолжении сознания после смерти; более ранняя модель предполагала физический отлёт. Не назначены всем общая доктрина кармы или циклического перевоплощения. Коллективная гибель 1997 года — существенный исторический контекст, но описание сохранено как характеристика религиозных идей, а не только события."
+    },
+    {
+      "sourceIndex": 980,
+      "sourceName": "Industrial Church of the New World Comforter",
+      "decision": "keep",
+      "canonicalName": "Вселенская индустриальная церковь Нового мирового утешителя",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозная организация Аллена Майкла, связанная с коммуной One World Family и полученным посредством ченнелинга «Вечным Евангелием».",
+      "profile": "+divine +revelation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Industrial_Church_of_the_New_World_Comforter"
+      ],
+      "notes": "Исходный адрес перенаправляет на статью о коммуне, но она прямо подтверждает регистрацию её церковной формы и содержание учения. Не отдельная промышленная конфессия по одному слову Industrial; связь коммуны и церкви установлена, но другой уже сохранённой записи того же движения не найдено. Современная организация описана без признания её космических сообщений фактическими контактами."
+    },
+    {
+      "sourceIndex": 981,
+      "sourceName": "Mark-Age",
+      "decision": "keep",
+      "canonicalName": "Марк-Эйдж (Mark-Age)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Американское контактёрское движение Полины Шарп и Чарльза Бойда Гентцеля, сочетающее ченнелинг, теософские идеи и ожидание духовного преобразования мира.",
+      "profile": "+occult +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mark-Age"
+      ],
+      "notes": "Источник подтверждает телепатию, автоматическое письмо и сообщения, приписываемые умершей Глории Ли. Поэтому afterlife подтверждён конкретным верованием, а не наследованием семейства. Различающиеся даты основания не воспроизведены; прежнее название Mark-Age MetaCenter обозначает то же движение."
+    },
+    {
+      "sourceIndex": 982,
+      "sourceName": "Rational Culture",
+      "decision": "keep",
+      "canonicalName": "Рациональная культура (Cultura Racional)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Умбанда",
+      "description": "Бразильское движение Мануэла Жасинту Коэлью, выросшее из среды умбанды и использующее корпус «Universo em Desencanto» как основной путь духовного знания.",
+      "profile": "+scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rational_Culture"
+      ],
+      "notes": "Не синоним рационализма, научного натурализма или умбанды в целом. Самоописание как «культуры», а не религии, не отменяет самостоятельного учения. Слово Rational не обосновывает scientific; заимствованные термины из других религий не превращены в их доктринальные признаки."
+    },
+    {
+      "sourceIndex": 983,
+      "sourceName": "Raëlism",
+      "decision": "keep",
+      "canonicalName": "Раэлизм",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Раэля (Клода Ворильона), объясняющее происхождение человечества деятельностью технологически развитых внеземных создателей и практикующее чувственную медитацию.",
+      "profile": "-divine +naturalism +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ra%C3%ABlism"
+      ],
+      "notes": "Элохим в данном учении — материальные внеземные существа, ошибочно принимавшиеся за богов, поэтому не назначены one_god или many_gods. Утверждение о «научной религии» не приравнено к проверенности контактов или автоматическому приоритету научного метода. Вопрос extraterrestrial_teachers из записи 974 применим и здесь."
+    },
+    {
+      "sourceIndex": 984,
+      "sourceName": "The Seekers",
+      "decision": "keep",
+      "canonicalName": "Искатели (группа Дороти Мартин)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Американская контактёрская группа 1950-х годов, ожидавшая спасения внеземными кораблями на основании сообщений Дороти Мартин.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Seekers_(rapturists)"
+      ],
+      "notes": "The Brotherhood of the Seven Rays — альтернативное название в статье, не отдельная запись этой партии. Мартин известна также под именем Sister Thedra; в исследовании «When Prophecy Fails» использованы псевдонимы. Неудавшаяся дата катастрофы не означает единый профиль всех последующих групп с похожими названиями."
+    },
+    {
+      "sourceIndex": 985,
+      "sourceName": "Unarius Academy of Science",
+      "decision": "keep",
+      "canonicalName": "Академия Унариус",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Эрнеста и Рут Норман, связывающее духовную эволюцию, предполагаемую память прошлых жизней и контакт с космическими наставниками.",
+      "profile": "+reincarnation +karma +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Unarius_Academy_of_Science"
+      ],
+      "notes": "Источник прямо описывает ченнелинг и практику терапии прошлых жизней. Названия «академия» и «наука» отражают самоописание; они не обосновывают scientific. Религиозная классификация исследователей не означает, что участники обязательно сами называют свою деятельность религией; единая центральность богослужений не назначена."
+    }
+  ]
+}

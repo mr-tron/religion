@@ -1,0 +1,345 @@
+{
+  "range": [
+    1526,
+    1545
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1526,
+      "sourceName": "Modernist Catholics",
+      "decision": "keep",
+      "canonicalName": "Католический модернизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Римский католицизм",
+      "description": "Историческое направление католической мысли рубежа XIX–XX веков, связанное с переосмыслением богословия и историко-критическим изучением Библии.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Modernism_(Roman_Catholicism)",
+        "https://en.wikipedia.org/wiki/Modernism_in_the_Catholic_Church",
+        "https://www.jstor.org/stable/j.ctvbtzm89"
+      ],
+      "notes": "Исходный адрес не загрузился; действующая статья Modernism in the Catholic Church и исследование Джеффри Морроу об Альфреде Луази подтверждают исторический контекст. Название относится к модернистскому кризису, а не всем современным католикам и не единой новой церкви. Историко-критический метод не приравнен к натурализму или отрицанию божественного."
+    },
+    {
+      "sourceIndex": 1527,
+      "sourceName": "Moravians",
+      "decision": "alias",
+      "canonicalName": "Моравская церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Моравская протестантская церковь, уже представленная в religions.js.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Moravian_Church"
+      ],
+      "notes": "Moravians обозначает последователей Moravian Church — сохранённой «Моравской церкви». Профиль не дублируется. Не устанавливается автоматическое тождество всех исторических или современных организаций с названием Czech Brethren."
+    },
+    {
+      "sourceIndex": 1528,
+      "sourceName": "Mormon fundamentalism",
+      "decision": "keep",
+      "canonicalName": "Мормонский фундаментализм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Мормонизм",
+      "description": "Совокупность мормонских групп, сохраняющих отдельные учения и практики XIX века, оставленные основной Церковью Иисуса Христа Святых последних дней.",
+      "profile": "",
+      "proposedQuestions": [
+        {
+          "id": "religious_plural_marriage",
+          "text": "Считаете ли вы допустимым с религиозной точки зрения одновременный брак с несколькими супругами?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Различает признание многобрачия в мормонском фундаментализме и его запрет в основной Церкви Иисуса Христа Святых последних дней; применим также к другим традициям после проверки их норм. Вопрос о допустимости, а не о личном семейном положении."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mormon_fundamentalism"
+      ],
+      "notes": "Источник подтверждает ориентацию на наследие Джозефа Смита, Бригама Янга и Джона Тейлора, особенно религиозное признание многобрачия. Не alias всего мормонизма, одной FLDS или основной LDS Church. Признание многобрачия не означает, что каждый участник живёт в полигамной семье; другие доктрины различаются между группами."
+    },
+    {
+      "sourceIndex": 1529,
+      "sourceName": "Neo-Calvinism",
+      "decision": "keep",
+      "canonicalName": "Неокальвинизм Кёйпера и Бавинка",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Реформатское христианство",
+      "description": "Реформатское богословское движение нидерландского происхождения, связывающее христианскую веру с участием во всех областях культуры и общества.",
+      "profile": "+divine +jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Neo-Calvinism"
+      ],
+      "notes": "Источник прямо отличает Neo-Calvinism конца XIX века от современного американского New Calvinism. Подтверждены верховенство Христа, культурный мандат и самостоятельность общественных сфер. Не alias всего реформатского христианства или христианского реконструкционизма."
+    },
+    {
+      "sourceIndex": 1530,
+      "sourceName": "Neo-Chalcedonism",
+      "decision": "keep",
+      "canonicalName": "Неохалкидонизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Халкидонское христианство",
+      "description": "Богословское течение VI века, истолковывавшее Халкидонский собор в согласии с христологическим языком Кирилла Александрийского.",
+      "profile": "+jesus +trinity",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Neo-Chalcedonism"
+      ],
+      "notes": "Источник подтверждает учение об ипостасном единении двух природ Христа и формулу о страдании одного из Троицы. Сохраняется историческая богословская школа, не современная отдельная церковь и не синоним нехалкидонских церквей. Различие христологических формул не сведено к простому противопоставлению веры и неверия в Христа."
+    },
+    {
+      "sourceIndex": 1531,
+      "sourceName": "Neo-charismatic movement",
+      "decision": "keep",
+      "canonicalName": "Неохаризматическое движение",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Харизматическое христианство",
+      "description": "Круг независимых и постденоминационных христианских движений, выделяющих современные дары Святого Духа и сверхъестественные знамения.",
+      "profile": "+spirit_gifts",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Neo-charismatic_movement"
+      ],
+      "notes": "Исходник выделяет третью волну относительно классического пятидесятничества и харизматического обновления исторических конфессий. Не alias всего «Харизматического христианства». Название Neo-Pentecostalism употребляется неоднозначно, поэтому не устанавливается тождество категории ROR «Неопятидесятничество» (индекс 1147), пока её границы не уточнены."
+    },
+    {
+      "sourceIndex": 1532,
+      "sourceName": "Neo-Lutheranism",
+      "decision": "keep",
+      "canonicalName": "Неолютеранство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Лютеранство",
+      "description": "Лютеранское движение возрождения XIX века с акцентом на конфессиональное наследие Реформации и церковную жизнь.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Neo-Lutheranism"
+      ],
+      "notes": "Источник различает богословие репристинации, Эрлангенскую школу и более узкое употребление названия для высокой экклезиологии. Поэтому особый приоритет таинств одной группы не назначен всему движению. Не alias всего лютеранства, старолютеранства или пиетизма; влияние пиетистского пробуждения не исключало последующей полемики с пиетизмом."
+    },
+    {
+      "sourceIndex": 1533,
+      "sourceName": "New Calvinism",
+      "decision": "keep",
+      "canonicalName": "Новый кальвинизм (Young, Restless, and Reformed)",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Реформатское христианство",
+      "description": "Современное движение внутри консервативного евангелического протестантизма, возобновляющее интерес к кальвинистскому учению о спасении.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/New_Calvinism"
+      ],
+      "notes": "Источник прямо отличает New Calvinism от нидерландского Neo-Calvinism. Участников объединяют кальвинистские представления о благодати, но разделяют вопросы крещения, церковного устройства и даров Духа. Эти различия не превращены в единый подробный профиль и не основание слить движение со всем реформатским христианством."
+    },
+    {
+      "sourceIndex": 1534,
+      "sourceName": "Nicene Christianity",
+      "decision": "keep",
+      "canonicalName": "Никейское христианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Христианство",
+      "description": "Широкая категория христианских традиций, принимающих никейское исповедание веры и божественное достоинство Христа.",
+      "profile": "+jesus +trinity",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nicene_Christianity"
+      ],
+      "notes": "Источник указывает Никейский символ 325 года и его развитие на Константинопольском соборе 381 года. Сохранена межконфессиональная богословская категория, а не единая современная организация. Не alias всего христианства: нетринитарные направления в неё не входят. Общие позиции о папе, иконах и церковном устройстве не установлены."
+    },
+    {
+      "sourceIndex": 1535,
+      "sourceName": "Nondenominational Christianity",
+      "decision": "keep",
+      "canonicalName": "Неденоминационное христианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Христианство",
+      "description": "Христианские общины, не относящие себя к установленной деноминации либо организованные в независимые сети.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nondenominational_Christianity"
+      ],
+      "notes": "Источник описывает разные евангелические, харизматические и иные формы, включая независимые общины и объединения. Это форма самоидентификации и организации, а не единое исповедание с одинаковым крещением и дарами Духа. Не alias любой одной сети, включая Calvary Chapel, Acts 29 или Церкви Христа."
+    },
+    {
+      "sourceIndex": 1536,
+      "sourceName": "Nontrinitarianism",
+      "decision": "keep",
+      "canonicalName": "Нетринитарное христианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Христианство",
+      "description": "Совокупность христианских направлений, не принимающих догмат о трёх единосущных и равных Лицах единого Бога.",
+      "profile": "-trinity",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nontrinitarianism"
+      ],
+      "notes": "Сохраняется широкая богословская категория, не одна конфессия. Не alias одного унитарианства или пятидесятников-единственников: источник включает разные христологии, модалистские и другие подходы. Отрицание никейской Троицы само по себе не означает отрицания божественности Иисуса."
+    },
+    {
+      "sourceIndex": 1537,
+      "sourceName": "Old Believers",
+      "decision": "keep",
+      "canonicalName": "Старообрядчество",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Православие",
+      "description": "Православные традиции, сохраняющие дореформенные русские богослужебные обычаи после раскола XVII века.",
+      "profile": "+jesus +trinity +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Old_Believers"
+      ],
+      "notes": "Источник подтверждает старый обряд, двуперстие и чтение Символа веры. Различия поповских и беспоповских согласий, включая отношение к священству и числу доступных таинств, не сведены к одному ответу church. Не alias всего православия и не тождество старостильному движению."
+    },
+    {
+      "sourceIndex": 1538,
+      "sourceName": "Old Calendarists",
+      "decision": "keep",
+      "canonicalName": "Старостильное православное движение",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Православие",
+      "description": "Православные группы, отделившиеся от основных церквей из-за календарной реформы и сохраняющие юлианский богослужебный календарь.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Old_Calendarists"
+      ],
+      "notes": "Исходник прямо отличает Old Calendarists от всех православных, которые просто служат по юлианскому календарю, оставаясь в общении с другими основными церквями. Не alias русского старообрядчества или Древней церкви Востока; несколько юрисдикций не представлены одной организацией."
+    },
+    {
+      "sourceIndex": 1539,
+      "sourceName": "Old Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Старокатолицизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Католическая традиция",
+      "description": "Совокупность церквей католической традиции, независимых от Рима и сохраняющих епископальное преемство и таинства.",
+      "profile": "+church +jesus -pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Old_Catholic_Church",
+        "https://www.oikoumene.org/church-families/old-catholic-churches"
+      ],
+      "notes": "Всемирный совет церквей подтверждает апостольское преемство, семь таинств, евхаристическую веру и отказ от догматов папской непогрешимости и универсальной юрисдикции. Название не обозначает одну всемирную организацию; Утрехтская уния и другие линии различаются. Не alias римского католицизма, седевакантизма или Либеральной католической церкви."
+    },
+    {
+      "sourceIndex": 1540,
+      "sourceName": "Oneness Pentecostalism",
+      "decision": "keep",
+      "canonicalName": "Пятидесятники-единственники",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Пятидесятничество",
+      "description": "Нетринитарное направление пятидесятничества, понимающее Отца, Сына и Святого Духа как проявления единого Бога и подчёркивающее имя Иисуса.",
+      "profile": "+divine +personal +one_god +jesus -trinity +spirit_gifts",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Oneness_Pentecostalism"
+      ],
+      "notes": "Источник непосредственно подтверждает единого личного Бога, отрицание различия божественных Лиц и роль говорения на языках. Не alias всего пятидесятничества, любого унитарианства или индийского Oneness Movement (индекс 1094). Учение о божественности Иисуса не исключено признаком -trinity."
+    },
+    {
+      "sourceIndex": 1541,
+      "sourceName": "Paulicianism",
+      "decision": "review",
+      "canonicalName": "Павликианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Средневековое христианское движение в армянско-византийском мире, о вероучении которого сохранились преимущественно полемические свидетельства.",
+      "profile": "+divine +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paulicianism",
+        "https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/paulician-dualism-revisited/5E5A8DEDBC87597E92714D235D6FE6A3"
+      ],
+      "notes": "Review: научная реконструкция дуализма и христологии остаётся спорной. Исследование Paulician Dualism Revisited (2025) анализирует собственные свидетельства в поздней передаче и оспаривает уверенное отнесение к абсолютному дуализму. Профиль ограничен божественным и новозаветными текстами, подтверждёнными для рассматриваемых общин IX–X веков; one_god, many_gods и trinity не назначены. Не alias манихейства, богомильства или павлианского христианства."
+    },
+    {
+      "sourceIndex": 1542,
+      "sourceName": "Pauline Christianity",
+      "decision": "review",
+      "canonicalName": "Павлианское христианство — исследовательская категория",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Раннее христианство",
+      "description": "Обозначение традиций, общин и богословских интерпретаций, связанных с апостолом Павлом и восприятием его посланий.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pauline_Christianity",
+        "https://books.google.com/books/about/Pauline_Christianity.html?id=4et5DwAAQBAJ"
+      ],
+      "notes": "Review: исходник содержит предупреждение о несбалансированности и спорных утверждениях. Исследование Кристофера Маунта отдельно рассматривает категорию, рецепцию Павла и конструирование раннехристианской истории; это не подтверждает единую самостоятельную конфессию. Нельзя без оговорок представлять тезис «Павел создал другую религию» историческим фактом. Не alias павликианства; единый доктринальный профиль отложен."
+    },
+    {
+      "sourceIndex": 1543,
+      "sourceName": "Pentecostalism",
+      "decision": "alias",
+      "canonicalName": "Пятидесятничество",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Христианское движение с акцентом на крещение Святым Духом и духовные дары, уже представленное в religions.js.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pentecostalism"
+      ],
+      "notes": "Точный английский эквивалент сохранённой записи «Пятидесятничество» в religions.js. Профиль не дублируется. Разнообразие тринитарных и нетринитарных ветвей не устранено созданием второй записи."
+    },
+    {
+      "sourceIndex": 1544,
+      "sourceName": "Pietism",
+      "decision": "keep",
+      "canonicalName": "Пиетизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Протестантизм",
+      "description": "Протестантское движение благочестия, подчёркивающее духовное возрождение, личную религиозную жизнь и практическое изучение Библии.",
+      "profile": "+scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pietism"
+      ],
+      "notes": "Источник подтверждает роль Шпенера и девотиональное применение Библии. Пиетизм исторически возник в лютеранской среде и влиял на другие конфессии, но не тождествен всему лютеранству, методизму или одной Моравской церкви. Роль личного обращения не означает обязательного крещения только взрослых."
+    },
+    {
+      "sourceIndex": 1545,
+      "sourceName": "Polish folk beliefs",
+      "decision": "review",
+      "canonicalName": "Польские народные религиозные верования",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Неоднородные местные верования и обычаи Польши, в которых христианские представления сочетаются с народной обрядностью и памятью предков.",
+      "profile": "+ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Polish_folk_beliefs",
+        "https://rcin.org.pl/Content/54890/WA308_75368_P368_Old-age-and-cultural_I.pdf"
+      ],
+      "notes": "Review: исходная ссылка перенаправляет на общую статью Folklore of Poland, помеченную недостатком построчных ссылок и описывающую преимущественно историю фольклористики. Работа Уршули Лер в Ethnologia Polona независимо подтверждает конкретные обычаи, связанные с предками и поминовением умерших; профиль относится к этому документированному пласту, не всем полякам или всему фольклору. Предлагаемое семейство european_folk; не alias древнеславянской религии или современного родноверия."
+    }
+  ]
+}

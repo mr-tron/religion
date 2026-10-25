@@ -1,0 +1,351 @@
+{
+  "range": [
+    266,
+    285
+  ],
+  "entries": [
+    {
+      "sourceIndex": 266,
+      "sourceName": "Mohawk religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования мохоков",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Традиционные верования хауденосауни",
+      "description": "Местные традиции мохоков в составе духовного наследия хауденосауни, включающие анимистические представления и общинные практики.",
+      "profile": "+nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mohawk_people",
+        "https://akwesasne.travel/our-stories/thanksgiving-address/"
+      ],
+      "notes": "Исходная статья о народе прямо описывает традиционную религию и отличает её от более поздней Longhouse Religion и христианства. Не синоним всей религии хауденосауни или отдельной реформы Handsome Lake. Не назначать всем мохокам одно современное вероисповедание. Дополнение 2026-10-25: собственный культурно-туристический ресурс Akwesasne описывает Ohenten Kariwatekwen как традиционную молитву, происходящую из религиозной церемонии мохоков, и её регулярное произнесение в начале и конце собраний. Это прямо подтверждает ritual; перенос подробностей иных народов хауденосауни не использован."
+    },
+    {
+      "sourceIndex": 267,
+      "sourceName": "Mopan religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования мопан",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Религиозные традиции майя",
+      "description": "Местная майя-католическая духовная традиция мопан Белиза и Гватемалы, включая обрядовое использование какао и представления о духах растений.",
+      "profile": "+nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mopan_people"
+      ],
+      "notes": "Раздел Religion исходной статьи прямо подтверждает духов какао и обрядовые напитки. Современные протестантские общины могут отвергать эти практики; профиль относится к традиционному комплексу. Не синоним всех религиозных традиций майя."
+    },
+    {
+      "sourceIndex": 268,
+      "sourceName": "Muisca religion",
+      "decision": "keep",
+      "canonicalName": "Историческая религия муисков",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторический религиозный комплекс муисков Колумбии с пантеоном, сакральными озёрами, жреческими обрядами и подношениями.",
+      "profile": "+divine +many_gods +ritual +entheogenic_ritual +divination_oracles +occult +icons +ancestors +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Muisca_religion",
+        "https://enciclopedia.banrepcultural.org/index.php?title=Muisca",
+        "https://enciclopedia.banrepcultural.org/Muisca"
+      ],
+      "notes": "Исходная статья прямо описывает божеств Чиминигагуа, Чиа и Суэ, ритуалы и священные места. Многие детали известны по испанским колониальным хроникам; не считать все пересказы единым дословным вероучением. Историческая традиция не объединяется автоматически с современными возрождениями. Предлагаемое семейство ancient_american — древние религиозные традиции Америки. Дополнение 2026-10-25: Museo del Oro / Banco de la República прямо описывает йопо у жрецов для общения с мифическими существами (entheogenic_ritual), гадательные действия и сакральное знание жрецов (divination_oracles, occult), а также вотивные фигуры как действенные сообщения богам (icons). Страница выставки Historias de ofrendas muiscas описывает мумии в качестве продолжающих действовать священных покровителей общины и пищу для путешествия в иной мир — ancestors и afterlife. Культовое использование изображений не означает, что каждая фигура изображает божество."
+    },
+    {
+      "sourceIndex": 269,
+      "sourceName": "Muzo religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования мусо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические верования мусо Колумбии с представлениями об Аре, Макипе, Солнце, Луне и сакральных вершинах Фура и Тена.",
+      "profile": "+divine +many_gods +nature_spirits",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Muzo_people"
+      ],
+      "notes": "Статья о народе непосредственно описывает религию и сакральные горы. Сходство Аре с божеством муисков не доказывает тождества религий. Сюжет Фура и Тена и функции божеств известны по поздним пересказам, поэтому не кодируются более подробные психологические или этические признаки."
+    },
+    {
+      "sourceIndex": 270,
+      "sourceName": "Nagual",
+      "decision": "review",
+      "canonicalName": "Nagual — нагуаль и нагуализм",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Многозначное мезоамериканское понятие человека или сущности, связанной с животным двойником и способностью к превращению.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nagual",
+        "https://historicas.unam.mx/publicaciones/publicadigital/libros/el/nahualismo.html",
+        "https://historicas.unam.mx/publicaciones/publicadigital/libros/374/374_04_08_nahualismopoder.pdf"
+      ],
+      "notes": "Исходная статья определяет nagual прежде всего как человека/сущность, а не название религии. Исследование UNAM подтверждает разнообразие значений nahualli и практик нагуализма. Для самостоятельной записи нужно уточнить: классифицируется ли комплекс местных представлений, роль специалиста или современное эзотерическое движение. Не объединять автоматически с учениями Карлоса Кастанеды; до уточнения review и пустой профиль."
+    },
+    {
+      "sourceIndex": 271,
+      "sourceName": "Navajo beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования навахо (дине)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции дине, ориентированные на восстановление гармонии Hózhó, отношения со Святыми Людьми и целительные песенные церемонии.",
+      "profile": "+divine +nature_spirits +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Navajo",
+        "https://spencerart-temp.ku.edu/art/collections-online/object/37088",
+        "https://opvp.navajo-nsn.gov/donor-returns-set-of-11-ceremonial-yei-bi-chei-masks-to-navajo-nation/"
+      ],
+      "notes": "Исходная статья прямо описывает Святых Людей, сакральные горы, подношения пыльцы и церемонии Blessing Way и Enemy Way. Смена миров в мифе о происхождении не является доказательством реинкарнации. Неприязнь к вредоносному колдовству не превращается в обязательное +occult всем последователям. Дополнение 2026-10-25: Spencer Museum of Art (University of Kansas), The Water Way Chant, описывает целительный обряд с изображениями Святых Людей, священных растений и животных из цветного песка — icons. Постоянные коммерческие картины отличаются от обрядовых. Navajo Nation (23.10.2024) прямо подтверждает важность масок Yei Bi Chei для Night Way Chant; ritual_masks задаётся генератором и не включён в эту строку."
+    },
+    {
+      "sourceIndex": 272,
+      "sourceName": "Nazca religion",
+      "decision": "keep",
+      "canonicalName": "Религиозная традиция Наска",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Древнеандский комплекс культов и обрядов Наска, связанный с природными силами, плодородием и церемониальными ландшафтами.",
+      "profile": "+divine +ritual +many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nazca_culture",
+        "https://whc.unesco.org/en/list/700",
+        "https://www.cultura.gob.es/museodeamerica/en/coleccion/america-prehispanica/vasija-nazca.html"
+      ],
+      "notes": "Исходная статья и UNESCO подтверждают религиозный и обрядовый характер комплекса. Точные функции геоглифов и идентификация изображённых существ обсуждаются, поэтому астрономическое назначение каждого геоглифа и использование конкретных веществ не превращены в догму. Не синоним общей записи «Андские традиции». Предлагаемое семейство ancient_american — древние религиозные традиции Америки. Дополнение 2026-10-25: Museo de América, Nazca Vessel (08067), прямо указывает наличие в религии морских божеств, в том числе косатки, и значение музыки в обрядах. Это достаточное подтверждение many_gods; возможная связь конкретного сосуда с улучшением улова в источнике сформулирована предположительно и не кодируется отдельно."
+    },
+    {
+      "sourceIndex": 273,
+      "sourceName": "Odawa religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия одава",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Религиозные традиции анишинаабе",
+      "description": "Разнообразные местные духовные традиции одава Канады и США, входящие в круг религий анишинаабе.",
+      "profile": "+divine +ritual +ancestors",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Odawa_religion",
+        "https://ltbbodawa-nsn.gov/",
+        "https://www.northernexpress.com/news/food/article-2173-ghost-supper/"
+      ],
+      "notes": "Исходная статья прямо подтверждает существование традиции, отсутствие общей организации и вариативность; она описывает её как сходную с оджибве, а не тождественную. В готовой партии «Религиозные традиции анишинаабе» — зонтичная категория, поэтому здесь keep. Краткого исходника самого по себе недостаточно для специфического профиля; дополнения ниже подтверждены отдельными свидетельствами одава. Дополнение 2026-10-25: официальный сайт Little Traverse Bay Bands of Odawa в духовном материале Odemin Giizis прямо говорит о Творце (divine). В интервью Ghost Supper (Northern Express, 25.10.2006) директор племенного отдела архивов и сохранения культуры Winnay Wemigwase описывает ежегодный обряд совместной трапезы с предками и подношениями; культурный координатор Joe Mitchell проводит молитву одава — ritual и ancestors. Это непосредственное свидетельство местной традиции одава; признаки не перенесены от оджибве или всего зонтика анишинаабе."
+    },
+    {
+      "sourceIndex": 274,
+      "sourceName": "Ojibwe religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия оджибве",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Религиозные традиции анишинаабе",
+      "description": "Традиции оджибве с отношениями с manidoog, видениями и сновидениями, подношениями и практиками духовного знания.",
+      "profile": "+divine +nature_spirits +ritual +revelation +afterlife +ancestors +divination_oracles +occult +initiatory_brotherhood +reincarnation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ojibwe_religion",
+        "https://ehrafworldcultures.yale.edu/cultures/ng06/summary"
+      ],
+      "notes": "Исходная статья непосредственно описывает manidoog и общение через сны и видения. Это местная составляющая зонтика «Религиозные традиции анишинаабе» и не синоним одного общества Midewiwin. Термин manidoo переводят и как дух, и как божество; признак числа богов не назначен. Дополнение 2026-10-25: этнографическое резюме Yale eHRAF непосредственно описывает шаманское целительство, гадательный shaking tent и посвящения новых членов в Midewiwin — occult, divination_oracles и initiatory_brotherhood. Раздел Death and Afterlife описывает путь умерших в иной мир, подношения умершим родственниками и возможную, хотя редкую, реинкарнацию — afterlife, ancestors и reincarnation. География мира мёртвых и распространение церемоний различаются между локальными группами; запись означает засвидетельствованные элементы комплекса, не обязательность для каждого оджибве."
+    },
+    {
+      "sourceIndex": 275,
+      "sourceName": "Olmec religion",
+      "decision": "keep",
+      "canonicalName": "Религиозная традиция ольмеков",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Реконструируемые религиозные представления ольмеков Мезоамерики, известные по сакральной иконографии, культовым центрам и ритуальным предметам.",
+      "profile": "+divine +ritual +icons +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Olmec_religion",
+        "https://www.metmuseum.org/art/collection/search/310279",
+        "https://artmuseum.princeton.edu/art/stories-perspectives/collection-publications-olmec-world-ritual-and-rulership",
+        "https://www.brooklynmuseum.org/opencollection/objects/5084"
+      ],
+      "notes": "Исходная статья прямо отмечает отсутствие сохранившегося непосредственного описания верований и условность идентификации божеств. Музейный источник независимо подтверждает сверхъестественные образы, включая образ божества кукурузы. Не кодировать спорное число божеств, гендер каждого образа или обязательное шаманство как установленный факт. Предлагаемое семейство ancient_american — древние религиозные традиции Америки. Дополнение 2026-10-25: Princeton University Art Museum описывает изображения как средство ритуального взаимодействия со сверхъестественным (icons), а Brooklyn Museum, Winged Figure, непосредственно связывает культовые составные фигурки с превращением ритуальных специалистов в животных (occult). Это реконструкция элитных обрядов по иконографии, не утверждение об обязательном шаманстве всех жителей. Принстонское объяснение транса галлюциногенами не кодируется entheogenic_ritual без дополнительной проверки археологических оснований."
+    },
+    {
+      "sourceIndex": 276,
+      "sourceName": "Omaha religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия омаха",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции омаха Равнин с почитанием Священного Столба Umoⁿ’hoⁿ’ti и ежегодными обрядами обновления.",
+      "profile": "+nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Omaha_people"
+      ],
+      "notes": "Исходная статья о народе прямо описывает Столб как личность, сакральную палатку, общество и обряд обновления. Описания исторических обрядов не означают обязательного их исполнения всеми современными омаха. Не синоним традиций осейджей или всех народов дегиха."
+    },
+    {
+      "sourceIndex": 277,
+      "sourceName": "Onondaga religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования онондага",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Традиционные верования хауденосауни",
+      "description": "Духовная традиция онондага с благодарственными обращениями к Творцу и природному миру и общинными церемониями.",
+      "profile": "+divine +personal +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Onondaga_people",
+        "https://www.onondaganation.org/culture/"
+      ],
+      "notes": "Исходная статья перечисляет несколько религиозных направлений среди народа; официальный сайт Onondaga Nation непосредственно описывает Ganoñhéñ•nyoñ’ и благодарность Творцу, Земле и природным существам. Это местная традиция хауденосауни, не синоним всей Longhouse Religion. Родство кланов само по себе не доказывает культ предков."
+    },
+    {
+      "sourceIndex": 278,
+      "sourceName": "Osage spirituality",
+      "decision": "keep",
+      "canonicalName": "Традиционная духовность осейджей",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция осейджей с представлением о Вахконда как всепроникающей жизненной силе и обрядами, отражающими космический порядок.",
+      "profile": "+divine +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Osage_Nation"
+      ],
+      "notes": "Раздел Traditional spirituality исходной статьи прямо подтверждает Вахконда, присутствие духовной силы во всём и церемониальные имена. Слово «сила» не приравнивается автоматически к личному единому Богу или пантеизму. Современные христианство и Native American Church среди осейджей не определяют общий профиль этой записи."
+    },
+    {
+      "sourceIndex": 279,
+      "sourceName": "Parakanã shamanism",
+      "decision": "keep",
+      "canonicalName": "Шаманские практики паракана",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Сновидческие и целительские практики паракана Бразилии, в которых отношения с приснившимися существами дают песни и возможности исцеления.",
+      "profile": "+occult +ritual +revelation +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Parakan%C3%A3_people",
+        "https://www.pib.socioambiental.org/en/Povo%3AParakan%C3%A3",
+        "https://pib.socioambiental.org/en/Povo%3AParakan%C3%A3"
+      ],
+      "notes": "Исходная статья непосредственно описывает практики. Этнографический материал Carlos Fausto на сайте Instituto Socioambiental уточняет «шаманизм без шаманов»: постоянной публичной роли специалиста нет. Не переносить на паракана общий шаблон сибирского шаманизма или религий всех тупи; сами понятия внешних наблюдателей оговорены. Дополнение 2026-10-25: исследование Carlos Fausto (ISA), раздел Shamanism without shamans, описывает получение во сне песен и целительных знаний от иных существ — revelation в том же значении духовных снов и видений, что и в записи оджибве. Раздел The Conflict прямо описывает wari’imogetawa, публичное обрядовое сновидение, в котором предсказывают события и местонахождение врагов — divination_oracles. Не кодировать topiwara и karowara автоматически как духов природы: источник специально отличает их от духов у соседних тупи."
+    },
+    {
+      "sourceIndex": 280,
+      "sourceName": "Pech religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования печ",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции печ Гондураса с космогоническими представлениями и обрядами, обращёнными к духам гор и хозяевам животных.",
+      "profile": "+divine +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pech_people"
+      ],
+      "notes": "Разделы Cosmogony и Religion исходной статьи прямо описывают Patako-ko, духов гор, владельцев животных и покровительницу рыб. Современное католическое большинство не означает тождества старой традиции с католицизмом. Схема семи небес не равна семи богам и не даёт отдельного признака."
+    },
+    {
+      "sourceIndex": 281,
+      "sourceName": "Pemon religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования пемон",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции пемон Гвианского нагорья с повествованиями о Макунаиме, духовными силами ландшафта и шаманскими обрядами.",
+      "profile": "+divine +many_gods +nature_spirits +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pemon_people"
+      ],
+      "notes": "Исходная статья прямо описывает мифологию и религиозные практики, но охватывает несколько групп пемон. Варианты повествований и влияние миссий требуют осторожности: профиль относится к традиционному комплексу, а не всем современным пемон. Отдельное упоминание адаптированного имени Иисуса не даёт +jesus."
+    },
+    {
+      "sourceIndex": 282,
+      "sourceName": "Penobscot spirituality",
+      "decision": "keep",
+      "canonicalName": "Традиционная духовность пенобскот",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовная традиция пенобскот с взаимными обязательствами перед одушевлённым ландшафтом и повествованиями о Клосе-кур-бе (Глускэбе).",
+      "profile": "+nature_spirits +ritual +fire",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Penobscot",
+        "https://www.penobscotnation.org/services/cultural_historic_preservation/download_penobscot_nation_curriculum/",
+        "https://www.penobscotnation.org/category/chiefs-message/page/2/"
+      ],
+      "notes": "Раздел Spirituality исходной статьи прямо подтверждает природных духов и взаимность с живым миром. Учебные материалы Penobscot Nation подтверждают собственную передачу рассказов о Глускэбе; прямая ссылка на PDF вернула 404, поэтому добавлена действующая страница учебной программы. Вабанаки — более широкая общность, не подтверждённый синоним этой локальной традиции. Дополнение 2026-10-25: собственная программа Penobscot Nation Community Days (11.07.2025) включает sacred fire и общественную sweatlodge ceremony; это подтверждает +fire и +ritual в современной местной практике, без переноса общих обычаев вабанаки."
+    },
+    {
+      "sourceIndex": 283,
+      "sourceName": "Pericues religion",
+      "decision": "keep",
+      "canonicalName": "Исторические верования перику",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические верования перику Нижней Калифорнии с представлениями о Нипарае, его божественной семье, целительстве и погребальных обрядах.",
+      "profile": "+divine +many_gods +occult +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pericues"
+      ],
+      "notes": "Исходная статья прямо описывает религию, но подчёркивает фрагментарность сведений, записанных в 1730-х годах. Не реконструировать на этой основе полную согласованную догматику. Исторический народ и его практики сохраняются, несмотря на отсутствие отдельной современной конфессии."
+    },
+    {
+      "sourceIndex": 284,
+      "sourceName": "Piaroa religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия пиароа",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции пиароа (хуоттыя) Венесуэлы с представлениями о Вахари и шаманскими практиками.",
+      "profile": "+divine +occult +ritual +divination_oracles +entheogenic_ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Piaroa_people",
+        "https://research-repository.uwa.edu.au/en/publications/the-biocultural-ecology-of-piaroa-shamanic-practice/"
+      ],
+      "notes": "Раздел Religion исходной статьи прямо описывает Вахари и шаманство. Значительная часть народа перешла в христианство, а традиции сохраняются неравномерно. Современный туризм с растительными веществами не используется как характеристика каждого последователя; отсутствие ненасильственных иерархий в обществе не равно строгому религиозному +ahimsa. Дополнение 2026-10-25: полевая диссертация Robin Rodd (2004), аннотация в репозитории UWA, прямо связывает шаманские сеансы пиароа с гаданием и использованием галлюциногенов для взаимодействия человека, животных и божеств. +ritual/+divination_oracles/+entheogenic_ritual относятся к традиционному шаманскому комплексу; это этнография, а не современное туристическое предложение."
+    },
+    {
+      "sourceIndex": 285,
+      "sourceName": "Pomo religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия помо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции помо Калифорнии с повествованиями о Койоте, природных духах и целительными и посвятительными церемониями Guksu.",
+      "profile": "+divine +nature_spirits +ritual +personal +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pomo_religion",
+        "https://www.gutenberg.org/files/47446/47446-h/47446-h.htm",
+        "https://digicoll.lib.berkeley.edu/record/82740/files/ucp012-012.pdf"
+      ],
+      "notes": "Статья подтверждает духов направлений мира, танцевые церемонии и Guksu. Это более широкий местный комплекс: Kuksu практиковали и другие народы, а у помо также возникали поздние движения. Поэтому не синоним Kuksu, Ghost Dance, Earth Lodge Cult или миссисипского Earth Cult из предыдущей партии. Дополнение 2026-10-25: S. A. Barrett, Ceremonies of the Pomo Indians (1917), разделы Ghost Ceremony и Guksu Ceremony, описывает доступ посвящённых к закрытым церемониям и посвящение детей; +initiatory_brotherhood обозначает именно допуск в церемониальную общность, не централизованный орден (Барретт отвергает такую организацию). +personal подтверждается обращёнными к Guksu молитвами целителей в разделе World order исходной статьи. Исполнение роли духа не объявляется одержимостью."
+    }
+  ]
+}

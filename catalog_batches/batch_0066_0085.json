@@ -1,0 +1,412 @@
+{
+  "range": [
+    66,
+    85
+  ],
+  "entries": [
+    {
+      "sourceIndex": 66,
+      "sourceName": "Giriama traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования гириама",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции гириама побережья Кении, включающие представления о Мулингу, гадание, ритуалы и общение с духами.",
+      "profile": "+divine +ritual +occult +ancestors +icons +spirit_possession +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Giriama_people",
+        "https://artsandculture.google.com/story/CQVxWZ0XYqhsIw"
+      ],
+      "notes": "Исходная ссылка о народе, но раздел Religion непосредственно описывает религиозные практики. Не считать всех гириама традиционалистами: существуют христианские и мусульманские общины. Наличие верховного божества не кодируется как исключительный монотеизм. National Museums of Kenya непосредственно описывает виганго как изображения предков и подношения им: добавлены ancestors и icons. Раздел Religion исходной статьи прямо называет гадание и одержимость духами: добавлены divination_oracles и spirit_possession. Эти практики не переносятся на всех современных гириама."
+    },
+    {
+      "sourceIndex": 67,
+      "sourceName": "Hadza religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная космология и обряды хадза",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Космологические представления и ритуальные практики хадза Танзании, включая танцы и ограничения epeme.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hadza_people",
+        "https://cultureandmind.sites.sheffield.ac.uk/fieldsites/hadza",
+        "https://pure.au.dk/portal/en/publications/notes-on-hadza-cosmology-epeme-objects-and-rituals/"
+      ],
+      "notes": "Источники расходятся в описании богов, предков и посмертия. Исследования Sheffield и Aarhus подтверждают космологию и epeme, поэтому отсутствие формальной религиозной организации не ведёт к исключению записи. Не добавлены ни +nonreligious, ни -divine, ни универсальные признаки посмертия."
+    },
+    {
+      "sourceIndex": 68,
+      "sourceName": "Haitian Vodou",
+      "decision": "alias",
+      "canonicalName": "Воду",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Гаитянская религиозная традиция служения духам лва, ритуальных подношений и медиумизма.",
+      "profile": "+divine +nature_spirits +ancestors +ritual +afterlife",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Имеет ли ритуальное вселение духов в человека важное место в вашей традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отличает медиумические церемонии Haitian Vodou, Jamaican Maroon religion и Jarê от гадания Ifá, которое, по UNESCO, основано на толковании знаков, а не медиумизме. Это сравнение методов практики; участие в Ifá не исключает иных обрядов в более широкой традиции.",
+          "supportedEntries": [
+            "Haitian Vodou",
+            "Jamaican Maroon religion",
+            "Jarê",
+            "Ifá"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Haitian_Vodou"
+      ],
+      "notes": "Подтверждённое соответствие существующей записи religions.js «Воду»: её описание прямо указывает Гаити и лва; статья Haitian Vodou описывает ту же традицию. Это не синоним западноафриканского Vodun или луизианского Voodoo. Спорную классификацию лва как богов или духов не превращать в однозначные one_god/many_gods."
+    },
+    {
+      "sourceIndex": 69,
+      "sourceName": "Herero traditional faith",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования гереро",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции гереро Южной Африки с почитанием предков и священным огнём okuruuo как средством обращения к Нджамби.",
+      "profile": "+divine +ancestors +fire +ritual +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Herero_people"
+      ],
+      "notes": "Исходная статья о народе, но раздел Religion прямо подтверждает священный огонь и посредничество предков. Современное христианское большинство не означает тождества традиции с христианством. Родство с химба не доказывает синонимию. Источник прямо описывает обращение через священный огонь к предкам, которые говорят с Нджамби от имени живых; personal отражает возможность личного обращения через посредников."
+    },
+    {
+      "sourceIndex": 70,
+      "sourceName": "Himba religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования химба",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Традиционные верования гереро",
+      "description": "Местная традиция химба с почитанием Мукуру и клановых предков через семейный священный огонь.",
+      "profile": "+divine +one_god +ancestors +fire +ritual +personal +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Himba_people"
+      ],
+      "notes": "Раздел Religion непосредственно называет традицию монотеистической и описывает обращение хранителя огня к Мукуру и предкам. Сохраняется как местная традиция, связанная с гереро, а не автоматически как синоним всей религии гереро. Раздел Religion описывает обращение хранителя огня к Мукуру от имени семьи и консультации гадателя-целителя для выяснения причины необычных событий. Добавлены personal и divination_oracles; сама вера в omiti не кодируется как личное использование вредоносной магии."
+    },
+    {
+      "sourceIndex": 71,
+      "sourceName": "Hoodoo",
+      "decision": "keep",
+      "canonicalName": "Худу",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Афроамериканский комплекс духовных и магических практик rootwork и conjure, сложившийся на Юге США.",
+      "profile": "+occult +ritual +ancestors +afterlife +divination_oracles +spirit_possession",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hoodoo_(folk_magic)",
+        "https://home.nps.gov/articles/000/hoodoo-in-st-louis-an-african-american-religious-tradition.htm"
+      ],
+      "notes": "Исходная статья отличает Hoodoo от самостоятельной обязательной конфессии: практики могут сочетаться с разными религиями. Не синоним Haitian Vodou, несмотря на похожее написание; единые теологические и библейские признаки всем практикующим не приписываются. Обзор US National Park Service перечисляет почитание предков, одержимость духами и гадания среди документированных практик худу; работа с духами умерших также подтверждена разделом об умерших исходной статьи. Добавлены ancestors, afterlife, divination_oracles и spirit_possession. Это признаки традиционного комплекса с местными различиями, без навязывания общей конфессиональной теологии."
+    },
+    {
+      "sourceIndex": 72,
+      "sourceName": "Hyel",
+      "decision": "review",
+      "canonicalName": "Hyel — название божества в традиции бура",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Хьел — имя или титул верховного божества бура; запись, вероятно, подразумевает традиционные верования бура.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Babur_and_Bura_people",
+        "https://www.uni-hildesheim.de/ojs/index.php/SIM/article/download/215/253"
+      ],
+      "notes": "Исходная ссылка ведёт на народ Babur/Bura и называет Hyel богом. Диссертация Christopher Yusufu Mtaku (2020), раздел 3.6, с. 50–51, независимо подтверждает Hyel как титул божества. Самостоятельная религия с названием Hyel не подтверждена; требуется редакторское решение о переименовании в традиционные верования бура. Профиль не переносится с божества на неуточнённую запись."
+    },
+    {
+      "sourceIndex": 73,
+      "sourceName": "Idoma traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия идома",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования идома Нигерии с почитанием Овоичо, предков Alekwu и природных духов Anjenu.",
+      "profile": "+divine +ancestors +nature_spirits +ritual +icons +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Idoma_people"
+      ],
+      "notes": "Статья о народе содержит прямые описания Anjenu, Alekwu, возлияний и жертвоприношений. Сохраняется общий комплекс; культ Alekwu — его часть и не подменяет всю религию. Признаки не относятся автоматически ко всем современным идома. Раздел Traditional religion прямо описывает фигуры на святилищах анджену и защитные сакральные изображения; раздел Alekwu — условия, при которых душа умершего входит в мир предков. Добавлены icons и afterlife. Упоминание одного верховного Бога не приравнено к отрицанию существования иных божеств."
+    },
+    {
+      "sourceIndex": 74,
+      "sourceName": "Ifá",
+      "decision": "keep",
+      "canonicalName": "Ифа",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Йоруба и Ифа",
+      "description": "Система гадания и передачи духовного знания йоруба и африканской диаспоры, основанная на корпусе оду и толковании знаков.",
+      "profile": "+divine +orisha +ritual +occult +divination_oracles +initiatory_brotherhood",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Имеет ли ритуальное вселение духов в человека важное место в вашей традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отличает медиумические церемонии Haitian Vodou, Jamaican Maroon religion и Jarê от гадания Ifá, которое, по UNESCO, основано на толковании знаков, а не медиумизме. Это сравнение методов практики; участие в Ifá не исключает иных обрядов в более широкой традиции.",
+          "supportedEntries": [
+            "Haitian Vodou",
+            "Jamaican Maroon religion",
+            "Jarê",
+            "Ifá"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/If%C3%A1",
+        "https://ich.unesco.org/en/RL/ifa-divination-system-00146"
+      ],
+      "notes": "Более узкая традиция внутри уже имеющейся составной записи «Йоруба и Ифа», а не доказанный синоним всей религии йоруба. UNESCO подтверждает Ифа/Орунмилу как божество мудрости и корпус 256 оду. Устный корпус не кодируется автоматически как +scripture. Страница UNESCO при прямом открытии показала защиту; полный подтверждающий текст доступен в поисковой выдаче. Описание UNESCO непосредственно подтверждает гадательный метод с пальмовыми орехами и цепью, а раздел Initiation исходной статьи — посвящение в почитание Ифа и отдельное посвящение жреца. Добавлены divination_oracles и initiatory_brotherhood. Отсутствие медиумизма в этом методе не превращено в -spirit_possession для всех иных обрядов его участников."
+    },
+    {
+      "sourceIndex": 75,
+      "sourceName": "Ijaw traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования иджо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции иджо дельты Нигера с почитанием предков и водных духов Owuamapu, гаданием и масочными церемониями.",
+      "profile": "+ancestors +nature_spirits +ritual +occult +divination_oracles +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ijaw_people"
+      ],
+      "notes": "Раздел о религиозных верованиях прямо подтверждает культ предков, водных духов, гадание Igbadai и ежегодные церемонии. Представления о пребывании среди водных духов до рождения не приравниваются без дальнейших данных к циклу реинкарнации. В разделе Religious beliefs прямо названы гадания Igbadai с обращением к недавно умершему и церемонии водных духов с масками и резными изображениями. Добавлены divination_oracles и icons; факт вопроса умершему не дополнен неподтверждённым общим учением о реинкарнации."
+    },
+    {
+      "sourceIndex": 76,
+      "sourceName": "Inam",
+      "decision": "keep",
+      "canonicalName": "Инам — традиционная религия ибибио",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозные традиции ибибио Нигерии с обращением к Абаси, духовным посредникам me Ndem и обрядами подношений.",
+      "profile": "+divine +ritual +personal +afterlife +ancestors +icons +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ibibio_people",
+        "https://high.org/collection/mask-35/"
+      ],
+      "notes": "Исходная статья прямо употребляет Ibibio religion (Inam), а не только имя отдельного божества. Описаны возлияния, жертвоприношения, небесный и земной аспекты божественного. Монотеизм или политеизм не кодируются из-за неоднозначности соотношения Абаси и других сущностей. Раздел Religion прямо описывает обращения к Абаси, а исторический раздел — веру в продолжение существования умерших. Каталог High Museum of Art независимо подтверждает общество Экпо, посвящения, почитание предков и погребальные маски. Добавлены personal, afterlife, ancestors, icons и initiatory_brotherhood; историческое насилие не представлено как современное предписание. Неподкреплённые отдельными ссылками подробности о перевоплощениях из исходной статьи не кодируются."
+    },
+    {
+      "sourceIndex": 77,
+      "sourceName": "Indigenous religion in Zimbabwe",
+      "decision": "keep",
+      "canonicalName": "Коренные религиозные традиции Зимбабве",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Обобщающая запись о местных традициях Зимбабве, включая шона и ндебеле, с почитанием предков, духов и обрядами.",
+      "profile": "+divine +ancestors +nature_spirits +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Indigenous_religion_in_Zimbabwe"
+      ],
+      "notes": "Это региональный зонтичный термин, а не единая конфессия или синоним только религии шона. Статья прямо описывает верховное существо, духов мест, предков, загробную жизнь и церемонии; содержит слишком широкие формулировки о населении, которые здесь не воспроизводятся. При последующем переносе учитывать пересечение с отдельными этническими записями."
+    },
+    {
+      "sourceIndex": 78,
+      "sourceName": "Jamaican Maroon religion",
+      "decision": "keep",
+      "canonicalName": "Религия ямайских маронов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции ямайских маронов, включающие представления о Ньянкопонге, предках и ритуальных танцах Kromanti.",
+      "profile": "+divine +ancestors +ritual +afterlife +spirit_possession +occult",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Имеет ли ритуальное вселение духов в человека важное место в вашей традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отличает медиумические церемонии Haitian Vodou, Jamaican Maroon religion и Jarê от гадания Ifá, которое, по UNESCO, основано на толковании знаков, а не медиумизме. Это сравнение методов практики; участие в Ifá не исключает иных обрядов в более широкой традиции.",
+          "supportedEntries": [
+            "Haitian Vodou",
+            "Jamaican Maroon religion",
+            "Jarê",
+            "Ifá"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jamaican_Maroon_religion"
+      ],
+      "notes": "Не синоним Obeah или всей религии акан: статья описывает самостоятельную исторически сложившуюся традицию. Происхождение имени божества и части практик из традиций акан не означает тождества. Танцы Kromanti служат общению и ритуальному вселению предков. Раздел Practices прямо называет ритуальное вселение предков целью Kromanti; раздел Cosmology — использование духовных сил для земных задач (Obeah, также называемое science). Добавлены spirit_possession и occult. Английское science здесь не означает научного метода и не даёт scientific."
+    },
+    {
+      "sourceIndex": 79,
+      "sourceName": "Jarê",
+      "decision": "keep",
+      "canonicalName": "Жаре",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Афробразильская традиция Шапада-Диамантина в Баии с церемониями духов caboclos, целительством и африканско-индейскими связями.",
+      "profile": "+ritual +spirit_possession +initiatory_brotherhood +afterlife +occult",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Имеет ли ритуальное вселение духов в человека важное место в вашей традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отличает медиумические церемонии Haitian Vodou, Jamaican Maroon religion и Jarê от гадания Ifá, которое, по UNESCO, основано на толковании знаков, а не медиумизме. Это сравнение методов практики; участие в Ifá не исключает иных обрядов в более широкой традиции.",
+          "supportedEntries": [
+            "Haitian Vodou",
+            "Jamaican Maroon religion",
+            "Jarê",
+            "Ifá"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jar%C3%AA",
+        "https://www.scielo.br/j/mana/a/QQJPdmtPqyJGxktCt8Fb7qt/?lang=pt",
+        "https://www.scielo.br/j/elbc/a/3d8Qdz8XLWXYnsVYttX8zyc/?lang=pt"
+      ],
+      "notes": "Не синоним всего кандомбле. Этнография Gabriel Banaggia описывает жаре как отдельный исследуемый комплекс, иногда характеризуемый как вид candomblé de caboclos; другие авторы подчёркивают различия. Из-за изменчивого соотношения caboclos и ориша +orisha не назначен всей записи. Родитель не задан: простая линейная генеалогия не отражает синкретическое происхождение. Первичная этнография Банаджиа (Mana, 2018) непосредственно описывает воплощения сущностей в телах участников, посвящения в дом культа, существование духов умерших eguns и ритуальное направление жизненной силы ради исцеления и защиты. Добавлены spirit_possession, initiatory_brotherhood, afterlife и occult. Возможность посмертного существования не означает, что в описанной космологии каждый умерший сохраняется вечно; ancestors не добавлен, поскольку внимание к духам умерших может считаться нежелательным."
+    },
+    {
+      "sourceIndex": 80,
+      "sourceName": "Jola traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия диола",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные традиции диола Сенегамбии с почитанием Ата Эмита, священных мест, предков и погребальными обрядами.",
+      "profile": "+divine +one_god +ancestors +ritual +afterlife +nature_spirits",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jola_people"
+      ],
+      "notes": "Исходная статья о народе прямо описывает одного Бога, погребальные обряды и путь умершего к творцу и предкам. Диола исповедуют и другие религии; профиль характеризует традиционные верования. Упоминание гуманной жизни не даёт +humanism, поскольку вопрос требует этики без религиозного авторитета. Раздел Religion непосредственно описывает духов Bakin/Eneerti, охраняющих рисовые поля, деревни и семьи: добавлен nature_spirits как признак духов, связанных с местами. Из современного мусульманского большинства диола не выводятся исламские признаки традиционного профиля."
+    },
+    {
+      "sourceIndex": 81,
+      "sourceName": "Khoekhoen religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования койкоин",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические мифологические и религиозные традиции койкоин Южной Африки с небесными образами и представлениями о творце и хранителе здоровья.",
+      "profile": "+divine +personal +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Khoekhoe",
+        "https://www.scielo.org.za/scielo.php?pid=S0259-94222024000200028&script=sci_arttext"
+      ],
+      "notes": "Раздел Religion исходной статьи описывает Луну и Thiǁoab/Tsui’goab, но объединяет несколько кхойских культур. Запись сохранена как широкая традиция, без утверждения единой теологии и без автоматического включения всех религий сан. Слово «возможно» в трактовке Луны не превращается в обязательный признак. Уточнение профиля: Исследование Hartmann и Sukdaven (2024) рассматривает исторические источники о нама-койкоин: молитвы к Цуи-Гоабу как Отцу и коллективные жертвоприношения поддерживают +personal и +ritual. Солнечные и лунные образы авторы отличают от самостоятельного культа светил; +nature_spirits, +many_gods и +afterlife не выведены из мифов. Это ограниченный регионально-исторический материал, а не единая доктрина всех койкоин."
+    },
+    {
+      "sourceIndex": 82,
+      "sourceName": "Kikuyu traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования кикуйю",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции кикуйю Кении с представлениями о Нгаи, духах и предках и обрядами у священных деревьев.",
+      "profile": "+divine +ancestors +nature_spirits +ritual +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kikuyu_people",
+        "https://artsandculture.google.com/story/kikuyu-traditional-medicine-national-museums-of-kenya/rwXBwqUAs68qig?hl=en"
+      ],
+      "notes": "Раздел религии исходной статьи прямо подтверждает предков, духов, Нгаи и жертвоприношения у деревьев. Противоречивую классификацию высших и низших божеств не преобразовывать в однозначный монотеизм или политеизм. Не применять ко всем современным кикуйю. Уточнение профиля: National Museums of Kenya описывает mundu mugo и специальную гадательную тыкву mwano, используемую для узнавания будущего и объяснения дурных знамений; это прямое основание для +divination_oracles. Лечение травами само по себе не кодируется как магия."
+    },
+    {
+      "sourceIndex": 83,
+      "sourceName": "Kissi traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования кисси",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные духовные традиции кисси Гвинеи, Либерии и Сьерра-Леоне с обращением к умершим родственникам.",
+      "profile": "+ancestors +afterlife +ritual +icons +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kissi_people",
+        "https://africa.si.edu/collection/object/nmafa_80-27-11",
+        "https://collections.carlos.emory.edu/objects/6902/divination-figure-pomdo"
+      ],
+      "notes": "Раздел Religion and spiritual beliefs исходной статьи прямо подтверждает молитвы предкам. Назначение старых каменных фигур спорно; не кодировать их как обязательные изображения богов или доказанный культ плодородия. Современная религиозная принадлежность кисси разнообразна. Уточнение профиля: Smithsonian (80-27-11) различает неизвестное первоначальное изготовление камней и их позднейшее использование кисси: помдо получают имя предка, размещаются на алтаре и принимают жертвы; некоторые используются для гадания. Emory документирует деревянную гадательную помдо. Это поддерживает +ritual, +icons и +divination_oracles без разрешения спора о первоначальных изготовителях и функциях древней скульптуры."
+    },
+    {
+      "sourceIndex": 84,
+      "sourceName": "Kongo religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия конго",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовные традиции баконго Центральной Африки с почитанием предков, природных духов и целительскими и ритуальными практиками.",
+      "profile": "+divine +ancestors +nature_spirits +ritual +occult +afterlife +icons +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kongo_religion",
+        "https://www.britishmuseum.org/collection/object/E_Af1905-0525-3",
+        "https://www.africabib.org/rec.php?RID=119528711"
+      ],
+      "notes": "Самостоятельный комплекс традиций, а не синоним всех религий банту или происходящих от него диаспорных религий. Исходная статья подтверждает предков, духов и banganga, но её отдельные исторические и богословские формулировки оценочны; единую модель числа богов и пантеизма не назначать. Уточнение профиля: British Museum (Af1905,0525.3) подробно описывает наделение фигуры nkisi силой и её ритуальное применение: +icons относится к этому священному образу, а не просто наличию искусства. Исследование Wyatt MacGaffey о коллекции Ламана, сопоставляющее предметы с текстами на киконго, прямо включает гадательные функции minkisi; поддержан +divination_oracles."
+    },
+    {
+      "sourceIndex": 85,
+      "sourceName": "Kono traditional religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования коно",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные духовные практики коно Сьерра-Леоне с обращением к предкам и другим духам за защитой и благополучием.",
+      "profile": "+ancestors +afterlife +ritual +initiatory_brotherhood",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kono_people",
+        "https://www.haujournal.org/index.php/hau/article/view/hau6.3.011"
+      ],
+      "notes": "Исходная статья о народе имеет предупреждение о недостатке ссылок, но раздел Religious and spiritual beliefs прямо описывает обращения к предкам. Утверждение о чарах относится лишь к части коно, поэтому +occult всему профилю не добавлено. Не смешивать с народом конго. Уточнение профиля: Описание Bondo у коно и этнографический очерк Carlos David Londoño Sulkin (HAU, 2016) документируют посвящение в женское общество и его мужской аналог Poro. Это поддерживает +ritual и +initiatory_brotherhood для местных традиционных практик; оно не делает инициацию обязательной для всех коно. Внешнее обвинение или страх чужой магии не превращены в +occult."
+    }
+  ]
+}

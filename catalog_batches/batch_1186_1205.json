@@ -1,0 +1,349 @@
+{
+  "range": [
+    1186,
+    1205
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1186,
+      "sourceName": "Han Learning",
+      "decision": "keep",
+      "canonicalName": "Ханьсюэ — ханьское учение",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Конфуцианство",
+      "description": "Интеллектуальное направление эпохи Цин, обращавшееся к ранним комментариям и филологическому исследованию конфуцианских классиков.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Han_learning",
+        "https://www.cambridge.org/core/journals/modern-asian-studies/article/abs/training-scholars-not-politicians/D17690E8D6236BE17C90A1D23398668E"
+      ],
+      "notes": "Исходная ссылка перенаправляет на Hanxue. Это историческая школа изучения классики, не всё конфуцианство и не религия династии Хань. Академическое исследование подтверждает Han Learning как особый учёный подход. Текстологическая доказательность не равна обязательному признанию научного метода главным источником знания обо всём мире; исследуемые классики не автоматически scripture."
+    },
+    {
+      "sourceIndex": 1187,
+      "sourceName": "Holy Confucian Church",
+      "decision": "keep",
+      "canonicalName": "Святая конфуцианская церковь",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Конфуцианство",
+      "description": "Современное китайское объединение конфуцианских общин и священных залов, учреждённое в 2015 году.",
+      "profile": "+divine +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Holy_Confucian_Church"
+      ],
+      "notes": "Источник подтверждает почитание Неба и предков и объединение храмовой и образовательной деятельности. Не alias всего конфуцианства, Общества Конфуция Кан Ювэя 1912 года или индонезийского MATAKIN. Преемственность с прежними организациями передана как историческая интерпретация; church не назначен, поскольку вопрос относится к христианским таинствам."
+    },
+    {
+      "sourceIndex": 1188,
+      "sourceName": "Indonesian Confucianism",
+      "decision": "keep",
+      "canonicalName": "Индонезийское религиозное конфуцианство",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Конфуцианство",
+      "description": "Индонезийская конфуцианская религиозная традиция, представленная в том числе Верховным советом MATAKIN и общинными местами поклонения.",
+      "profile": "+divine +personal +one_god +scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Supreme_Council_for_the_Confucian_Religion_in_Indonesia",
+        "https://matakin.wordpress.com/2009/02/26/riwayat-matakin/",
+        "https://repository.ut.ac.id/4129/1/MKDU4226-M1.pdf",
+        "https://pustaka.ut.ac.id/lib/wp-content/uploads/pdfmk/MKWU4107-M1.pdf"
+      ],
+      "notes": "Исходник посвящён организации MATAKIN, а не исчерпывающей истории всех индонезийских конфуцианцев. Собственный текст главы её духовного совета и университетский курс подтверждают религию, веру в Тянь, Четверокнижие и Пятикнижие и совместное поклонение. Профиль относится к этому религиозному изложению, не ко всем этническим китайцам Индонезии. Не alias всего конфуцианства."
+    },
+    {
+      "sourceIndex": 1189,
+      "sourceName": "Korean Confucianism",
+      "decision": "keep",
+      "canonicalName": "Корейское конфуцианство",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Конфуцианство",
+      "description": "Исторические и современные корейские формы конфуцианской мысли, нравственного воспитания и семейно-общественных обрядов.",
+      "profile": "+ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Korean_Confucianism"
+      ],
+      "notes": "Широкая региональная традиция, включающая разные школы и эпохи. Источник подтверждает семейные и поминальные обряды; конкретная христианская или буддийская принадлежность современных корейцев не назначена всей традиции. Не alias всего неоконфуцианства, сирхака или Тонхака. Политические и социальные обобщения отдельных разделов не превращены в единый неизменный догмат."
+    },
+    {
+      "sourceIndex": 1190,
+      "sourceName": "Lingnan Confucianism",
+      "decision": "keep",
+      "canonicalName": "Линнаньское конфуцианство",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Конфуцианство",
+      "description": "Совокупность конфуцианских школ южнокитайского региона Линнань, включая школы Цуй Юйчжи и Чэнь Сяньчжана.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lingnan_Confucianism"
+      ],
+      "notes": "Это несколько связанных региональной средой школ, а не только учение Чэнь Байша. Медитация, субъективная теория ценностей и переосмысление буддизма одного автора не назначены всем школам. Не alias всего конфуцианства или янминизма; языковой и географический признак сам по себе не образует отдельной религиозной догматики."
+    },
+    {
+      "sourceIndex": 1191,
+      "sourceName": "Neo-Confucianism",
+      "decision": "keep",
+      "canonicalName": "Неоконфуцианство эпох Сун–Мин",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Конфуцианство",
+      "description": "Семейство конфуцианских философских направлений, развивавших учение о принципе, жизненной энергии, человеческой природе и нравственном самосовершенствовании.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Neo-Confucianism",
+        "https://plato.stanford.edu/entries/song-ming-confucianism/"
+      ],
+      "notes": "Академическая статья подтверждает несколько конкурирующих школ. Отдельно от New Confucianism XX века: приставки Neo и New не означают полного тождества. Влияние буддийских или даосских понятий не доказывает принятия учения Будды или Дао как общей религиозной идентичности. Метафизическое единство не автоматически pantheism, а рациональность не scientific."
+    },
+    {
+      "sourceIndex": 1192,
+      "sourceName": "New Confucianism",
+      "decision": "keep",
+      "canonicalName": "Современное новое конфуцианство",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Конфуцианство",
+      "description": "Направление конфуцианской мысли XX–XXI веков, переосмысляющее традицию в диалоге с современной философией, наукой и общественными институтами.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/New_Confucianism",
+        "https://plato.stanford.edu/entries/wang-yangming/"
+      ],
+      "notes": "Stanford Encyclopedia прямо отличает New Confucianism от исторического Neo-Confucianism. Не все представители одинаково понимают демократию, религиозность, познание или трансцендентность. Сохранено как философское направление; общий обязательный культ, медитация и scientific не выведены из одного интереса к современности."
+    },
+    {
+      "sourceIndex": 1193,
+      "sourceName": "New Text",
+      "decision": "keep",
+      "canonicalName": "Школа новых текстов — Цзиньвэнь",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Конфуцианство",
+      "description": "Конфуцианское экзегетическое направление, связанное с классическими текстами в письменности эпохи Хань и их последующей интерпретацией.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/New_Text_School",
+        "https://assets.cambridge.org/97805216/43122/excerpt/9780521643122_excerpt.pdf"
+      ],
+      "notes": "Исходник и академическое введение подтверждают историческую школу и противопоставление Old Text. New Text не означает новый пророческий священный текст, новое всеобщее откровение или современное New Confucianism. Интерпретации Конфуция у Дун Чжуншу не автоматически приписаны всем позднейшим цзиньвэньским авторам."
+    },
+    {
+      "sourceIndex": 1194,
+      "sourceName": "Old Text",
+      "decision": "keep",
+      "canonicalName": "Школа старых текстов — Гувэнь",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Конфуцианство",
+      "description": "Конфуцианское направление изучения классиков, ориентированное на тексты, связываемые с древней письменностью и историко-филологическим прочтением.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Old_Text_School",
+        "https://assets.cambridge.org/97805216/43122/excerpt/9780521643122_excerpt.pdf"
+      ],
+      "notes": "Исходная статья имеет недостаточные построчные ссылки; академическое введение независимо подтверждает Old Text как историческое направление классической учёности. Не синоним ханьсюэ: последующее движение шире и исторически иное. Споры о подлинности конкретных версий не превращены в утверждение о фальшивости всех текстов школы; религиозный авторитет не следует лишь из их академического изучения."
+    },
+    {
+      "sourceIndex": 1195,
+      "sourceName": "Progressive Confucianism",
+      "decision": "keep",
+      "canonicalName": "Прогрессивное конфуцианство",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Современное новое конфуцианство",
+      "description": "Современная конфуцианская философская позиция, связывающая нравственное совершенствование с критикой угнетения и развитием политических институтов.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Progressive_Confucianism",
+        "https://jcpc.skku.edu/_PR/view/?aidx=44426&bidx=4017",
+        "https://sangle.faculty.wesleyan.edu/research/"
+      ],
+      "notes": "Работы Стивена Энгла подтверждают самостоятельную философскую программу и отличие от простого отождествления конфуцианства с либерализмом. Не alias всего нового конфуцианства. Уважение человеческого достоинства не означает обязательной этики без религиозного авторитета, поэтому +humanism не назначен."
+    },
+    {
+      "sourceIndex": 1196,
+      "sourceName": "Silhak",
+      "decision": "keep",
+      "canonicalName": "Сирхак",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Корейское конфуцианство",
+      "description": "Корейское интеллектуальное и реформаторское направление позднего Чосона, ориентированное на практические общественные задачи и критическое изучение традиции.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Silhak"
+      ],
+      "notes": "Сохраняется как историческое философское течение. Практичность, эмпирические интересы и поддержка технических заимствований не означают единой научно-натуралистической картины мира. Критика ритуального формализма не доказывает полного отказа от любых обрядов; общая религиозная догматика разных авторов не реконструируется."
+    },
+    {
+      "sourceIndex": 1197,
+      "sourceName": "Taigu school",
+      "decision": "keep",
+      "canonicalName": "Школа Тайгу",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Конфуцианство",
+      "description": "Китайское конфуцианское религиозно-мистическое движение Чжоу Синъюаня, ориентированное на прояснение сознания и постижение собственной природы.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taigu_school"
+      ],
+      "notes": "Исходная статья опирается на исследование Ма Сиша и Мэн Хуэйин о превращении учёной группы в религиозное движение. Не спутано с Тайчжоуской школой: разные иероглифы, основатели и исторический контекст. Приписываемые основателю шаманские способности не подтверждают обязательные магические практики каждого последователя. Great Perfection здесь не тибетский Дзогчен. Одно название Dacheng не делает школу синонимом записи «Учение Дачэн горы Цзицзу» (635): её исходная статья определяет другое лоистское движение."
+    },
+    {
+      "sourceIndex": 1198,
+      "sourceName": "Taizhou School",
+      "decision": "keep",
+      "canonicalName": "Тайчжоуская школа",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Янминизм",
+      "description": "Направление минского конфуцианства, связанное с Ван Гэнем и распространением нравственного самосовершенствования среди обычных людей.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/:zh:%E6%B3%B0%E5%B7%9E%E5%AD%A6%E6%B4%BE",
+        "https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%B7%9E%E5%AD%A6%E6%B4%BE",
+        "https://plato.stanford.edu/entries/song-ming-confucianism/"
+      ],
+      "notes": "Исходный URL содержит некорректный межъязыковой префикс и не загрузился; соответствующая китайская статья и Stanford Encyclopedia подтверждают школу. Академический источник подчёркивает разнородность её авторов. Не alias всей школы Ван Янмина и не школа Тайгу. Положение о доступности мудрости простым людям не доказывает общего отказа от писаний или любых учителей."
+    },
+    {
+      "sourceIndex": 1199,
+      "sourceName": "Tianzuism",
+      "decision": "review",
+      "canonicalName": "Тяньцзуизм — требуется уточнение охвата",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Конфуцианство",
+      "description": "Обозначение религиозного конфуцианства либо традиции почитания Неба и предков.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Religious_Confucianism"
+      ],
+      "notes": "Review: исходная ссылка ведёт на широкую Religious Confucianism, а точное значение Tianzuism и его соотношение с родительской категорией в доступной актуальной статье не определены достаточно ясно. Не установлено, является ли строка отдельным учением или аналитическим названием религиозной стороны конфуцианства. Перенаправление и записи вторичных агрегаторов сами по себе не доказывают тождества с любой конкретной конфуцианской церковью. Профиль пуст до уточнения."
+    },
+    {
+      "sourceIndex": 1200,
+      "sourceName": "Tongcheng school",
+      "decision": "keep",
+      "canonicalName": "Тунчэнская школа",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Неоконфуцианство эпох Сун–Мин",
+      "description": "Китайская литературно-интеллектуальная школа эпохи Цин, связывающая классическую прозу с конфуцианскими нравственными идеалами.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tongcheng_school"
+      ],
+      "notes": "Источник описывает прежде всего литературную школу Фан Бао, Лю Дакуя и Яо Ная. Сохраняется как философско-культурное направление, не объявлено отдельной религиозной конфессией. Сходство названия не связано с корейским Тонхаком; литературный авторитет произведений не автоматически scripture."
+    },
+    {
+      "sourceIndex": 1201,
+      "sourceName": "Tonghak",
+      "decision": "keep",
+      "canonicalName": "Тонхак — Восточное учение",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Корейское религиозное движение Чхве Чжеу, возникшее в 1860 году и положившее начало нескольким последующим направлениям.",
+      "profile": "+divine +revelation +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tonghak",
+        "https://encykorea.aks.ac.kr/Article/E0016857",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i401600"
+      ],
+      "notes": "Академическая корейская энциклопедия подтверждает религиозный характер, опыт божественного обращения и собственные тексты; это шире школьной рубрики конфуцианства. Исторический Тонхак сохранён отдельно от современной Чхондогё: основной поток был переименован в 1905 году, но появились и самостоятельные линии. Не alias Суунизма только по общему основателю."
+    },
+    {
+      "sourceIndex": 1202,
+      "sourceName": "Yangmingism",
+      "decision": "keep",
+      "canonicalName": "Янминизм",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Неоконфуцианство эпох Сун–Мин",
+      "description": "Конфуцианское направление Ван Янмина, подчёркивающее врождённое нравственное знание и единство знания и действия.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yangmingism",
+        "https://plato.stanford.edu/entries/wang-yangming/"
+      ],
+      "notes": "Stanford Encyclopedia подтверждает школу и её отличие от чжусианства; японское оёмэйгаку рассматривается как её региональная рецепция. Не alias всего неоконфуцианства или Тайчжоуской школы. Размышления о едином теле человека, Неба, Земли и вещей не автоматически вера в божество, а врождённое нравственное знание не scientific."
+    },
+    {
+      "sourceIndex": 1203,
+      "sourceName": "Dragon Gate Taoism",
+      "decision": "keep",
+      "canonicalName": "Лунмэнь — школа Драконовых врат",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Цюаньчжэнь",
+      "description": "Даосская линия, связанная с Цю Чуцзи, монастырским преемством Цюаньчжэнь и практиками внутренней алхимии.",
+      "profile": "+dao +meditation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dragon_Gate_Taoism",
+        "https://plato.stanford.edu/archives/spr2026/entries/daoism-religion/index.html",
+        "https://edizionicafoscari.unive.it/media/pdf/books/978-886-969-660-2/978-886-969-660-2-ch-05_Z1WISSh.pdf"
+      ],
+      "notes": "Исходник содержит слабые исторические обобщения; академические исследования подтверждают линию и одновременно сложность её преемства. Профиль отражает подтверждённые медитативно-алхимические практики, а не обязательный образ жизни каждого мирянина. Не alias всего Цюаньчжэнь; цельная непрерывная линия от Цю Чуцзи не принята без оговорок."
+    },
+    {
+      "sourceIndex": 1204,
+      "sourceName": "Huang–Lao",
+      "decision": "keep",
+      "canonicalName": "Хуан-Лао",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Ранний даосский контекст",
+      "description": "Раннекитайское философско-политическое и религиозное направление, связываемое с Жёлтым императором, Лао-цзы и управлением через недеяние.",
+      "profile": "+dao",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Huang%E2%80%93Lao",
+        "https://plato.stanford.edu/archives/spr2019/entries/daoism-religion/"
+      ],
+      "notes": "Stanford Encyclopedia отмечает неясные точные границы исторического Huang-Lao. Сохраняется как именованное направление ранней Хань, не alias всего даосизма. Отдельные поздние практики бессмертия, алхимии и обожествления не назначены всем ранним представителям. Атрибуция найденных рукописей этому направлению остаётся исследовательской гипотезой."
+    },
+    {
+      "sourceIndex": 1205,
+      "sourceName": "Kōshin",
+      "decision": "keep",
+      "canonicalName": "Косин-синко",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Японская народная религиозность",
+      "description": "Японские народные верования и ночные бдения цикла косин, соединяющие даосские представления с буддийскими и местными культами.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/K%C5%8Dshin-shink%C5%8D",
+        "https://en.wikipedia.org/wiki/K%C5%8Dshin",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9022",
+        "https://d-museum.kokugakuin.ac.jp/bts/detail/?id=3814"
+      ],
+      "notes": "Исходная ссылка не загрузилась; статья Kōshin и университетский словарь Kokugakuin подтверждают вариант Kōshin-shinkō и характерные ночные бдения ради долголетия. Не синоним всего даосизма или синто. Назначение +dao не следует из одного исторического происхождения; конкретные почитаемые фигуры и местные формы различаются."
+    }
+  ]
+}

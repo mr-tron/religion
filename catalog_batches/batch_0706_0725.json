@@ -1,0 +1,354 @@
+{
+  "range": [
+    706,
+    725
+  ],
+  "entries": [
+    {
+      "sourceIndex": 706,
+      "sourceName": "Semitic neopaganism",
+      "decision": "keep",
+      "canonicalName": "Семитское неоязычество",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность современных направлений, обращающихся к древним семитским религиозным традициям, включая ханаанские и израильские.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Semitic_neopaganism"
+      ],
+      "notes": "Зонтичная категория, а не единая церковь. Исходник преимущественно описывает еврейские неоязыческие группы и синкретические практики; их частные убеждения не обобщены. Пересечение с отдельными формами зуизма не доказывает тождества двух категорий."
+    },
+    {
+      "sourceIndex": 707,
+      "sourceName": "Suomenusko",
+      "decision": "keep",
+      "canonicalName": "Суоменуско — современное финское язычество",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Уральское неоязычество",
+      "description": "Современное возрождение финской дохристианской религиозной традиции с почитанием богов и предков.",
+      "profile": "+divine +many_gods +ancestors",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Finnish_neopaganism"
+      ],
+      "notes": "Suomenusko, Finnish native faith и Finnish neopaganism обозначают современное движение. Не alias исторических «Финских дохристианских верований» из партии 0606–0625. У отдельных организаций различаются подходы к реконструкции."
+    },
+    {
+      "sourceIndex": 708,
+      "sourceName": "Tengir Ordo",
+      "decision": "keep",
+      "canonicalName": "Теңир Ордо",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Тенгрианство",
+      "description": "Киргизское движение, продвигающее тенгрианское мировоззрение и культурное наследие доисламского периода.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tengir_Ordo"
+      ],
+      "notes": "Отдельная организация Дастана Сарыгулова, а не синоним существующего «Тенгрианства». Исходник надёжнее раскрывает организационную и культурную деятельность, чем конкретные ответы участников о божествах; профиль оставлен пустым."
+    },
+    {
+      "sourceIndex": 709,
+      "sourceName": "Udmurt Vos",
+      "decision": "keep",
+      "canonicalName": "Удмурт Вӧсь",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Уральское неоязычество",
+      "description": "Современное движение возрождения удмуртской религии, включающее общественные молитвы, жертвоприношения и почитание божеств и духов.",
+      "profile": "+divine +many_gods +nature_spirits +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Udmurt_Vos"
+      ],
+      "notes": "Источник связывает название как с религиозным возрождением, так и с созданной в 1994 году ассоциацией. Не утверждается создание всей удмуртской религии в 1994 году; сельская преемственность и современные систематизации различаются."
+    },
+    {
+      "sourceIndex": 710,
+      "sourceName": "Uralic neopaganism",
+      "decision": "keep",
+      "canonicalName": "Уральское неоязычество",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Обобщающее название современных возрождений и реконструкций религий народов уральских языковых семей.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Uralic_neopaganism"
+      ],
+      "notes": "Категория охватывает разные финские, эстонские, венгерские и поволжские движения; не предполагает общего вероучения. Не alias научной реконструкции прауральской религии и не синоним межорганизационного Уральского союза."
+    },
+    {
+      "sourceIndex": 711,
+      "sourceName": "Zalmoxianism",
+      "decision": "review",
+      "canonicalName": "Залмоксианство",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современные румынские движения, стремящиеся возродить духовность, связываемую с дакийским и фракийским наследием.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zalmoxianism",
+        "https://www.researchgate.net/publication/233960637_Religious_Minorities%27_Web_Rhetoric_Romanian_and_Hungarian_Ethno-Pagan_Organizations"
+      ],
+      "notes": "Review: исходная статья предупреждает о недостатке ссылок и смешивает современные движения с реконструкциями древнего культа. Исследование Бако и Хуббеша независимо подтверждает современные группы, но не единую организацию или обязательный общий профиль. Не alias древних фракийских религий."
+    },
+    {
+      "sourceIndex": 712,
+      "sourceName": "Zuism",
+      "decision": "review",
+      "canonicalName": "Зуизм",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современные движения, использующие древнюю месопотамскую религиозную символику; особенно известна исландская организация Zuism trúfélag.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zuism",
+        "https://karolinum.cz/casopis/central-european-journal-for-contemporary-religion/rocnik-4/cislo-1/rok-2020/clanek-10103"
+      ],
+      "notes": "Review: охват термина неустойчив. Исходник объединяет венгерские, мардукитские, ханаанские и исландские движения, тогда как академическая статья Александера Нэша рассматривает зуизм как исландское явление. Нужно решить, сохранять широкую категорию или конкретную исландскую организацию. Единую практику Gate-Walking всем названным группам не приписано."
+    },
+    {
+      "sourceIndex": 713,
+      "sourceName": "Adonism",
+      "decision": "keep",
+      "canonicalName": "Адонизм",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Эзотерическая религия Франца Заттлера XX века с почитанием Адониса и других божеств.",
+      "profile": "+divine +many_gods +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Adonism"
+      ],
+      "notes": "Заявленная основателем непрерывная древняя преемственность не принята как исторический факт. Это самостоятельный современный синтез, а не alias античного культа Адониса, езидизма или других религий, на которые ссылался Заттлер."
+    },
+    {
+      "sourceIndex": 714,
+      "sourceName": "Alexandrian Wicca",
+      "decision": "keep",
+      "canonicalName": "Александрийская викка",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Британская традиционная викка",
+      "description": "Линия Викки Алекса и Максин Сандерс, возникшая в Британии в 1960-е годы и включающая церемониальную магию и каббалистические элементы.",
+      "profile": "+divine +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alexandrian_Wicca"
+      ],
+      "notes": "Название относится к основателю Алексу Сандерсу. Отдельная линия, близкая гарднерианской Викке; сходство и преемственность не делают их точными синонимами. Праздники Sabbat не относятся к вопросу sabbath о библейской субботе."
+    },
+    {
+      "sourceIndex": 715,
+      "sourceName": "Bazhovism",
+      "decision": "keep",
+      "canonicalName": "Бажовство",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Родноверие",
+      "description": "Уральское синкретическое религиозное движение Владимира Соболева, сакрализующее сказы Павла Бажова и образ Хозяйки Медной горы.",
+      "profile": "+divine +scripture +reincarnation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bazhovism"
+      ],
+      "notes": "Источник подтверждает эзотерическое прочтение сказов и представление основателя о собственном перевоплощении. Не alias всего родноверия, рериховского движения или уральского фольклора. Литературные образы не используются как доказательство непрерывного древнего культа."
+    },
+    {
+      "sourceIndex": 716,
+      "sourceName": "Blue Star Wicca",
+      "decision": "keep",
+      "canonicalName": "Викка Голубой звезды (Blue Star)",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Викка",
+      "description": "Американская викканская традиция с обрядами посвящения, песенной литургией и автономными ковенами.",
+      "profile": "+divine +ritual +meditation +reincarnation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Blue_Star_Wicca",
+        "https://bluestarfoundation.org/what-is-blue-star-wicca/"
+      ],
+      "notes": "Исходная статья имеет предупреждения о качестве источников; официальное описание Blue Star Foundation непосредственно подтверждает круговые обряды, почитание богов, медитацию, перерождение и эзотерические практики. Классификация как British Traditional Wicca признаётся не всеми; родителем оставлена более широкая Викка. Точная дата основания не закреплена из-за расхождений 1974/1975."
+    },
+    {
+      "sourceIndex": 717,
+      "sourceName": "British Traditional Wicca",
+      "decision": "keep",
+      "canonicalName": "Британская традиционная викка",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Викка",
+      "description": "Совокупность инициатических викканских традиций, объединяемых линиями посвящения и общим ритуальным наследием.",
+      "profile": "+ritual +occult",
+      "proposedQuestions": [
+        {
+          "id": "initiatory_brotherhood",
+          "text": "Занимает ли принадлежность к закрытому религиозному братству с посвящением центральное место в вашей практике?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Уже предложенное различие применимо к британским традиционным линиям Викки: важна передача посвящения, в отличие от самостоятельных эклектических форм Викки. Наличие общего признака ritual не передаёт эту организационную особенность. Для других движений отсутствие посвящения не выводится из молчания источника.",
+          "supportedEntries": [
+            "British Traditional Wicca",
+            "Alexandrian Wicca"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/British_Traditional_Wicca"
+      ],
+      "notes": "Исходная ссылка перенаправляет на общую статью Wicca, но её разделы явно выделяют British Traditional Wicca как более узкую категорию, включая гарднерианскую и александрийскую линии. Поэтому это не alias всей существующей записи «Викка». Границы включения некоторых американских традиций обсуждаются."
+    },
+    {
+      "sourceIndex": 718,
+      "sourceName": "Celtic Wicca",
+      "decision": "keep",
+      "canonicalName": "Кельтская викка",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Викка",
+      "description": "Современные варианты Викки, включающие кельтские имена божеств, мифологию и праздники в викканскую ритуальную систему.",
+      "profile": "+divine +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Celtic_Wicca",
+        "https://cog.org/about-witchcraft/traditions"
+      ],
+      "notes": "Не единая организация и не историческая религия кельтов. Не alias друидизма, кельтского реконструкционизма или всего кельтского неоязычества. Covenant of the Goddess отдельно перечисляет Celtic среди современных колдовских традиций."
+    },
+    {
+      "sourceIndex": 719,
+      "sourceName": "Central Valley Wicca",
+      "decision": "review",
+      "canonicalName": "Викка Центральной долины",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Викка",
+      "description": "Группа калифорнийских викканских линий, связываемых с ранними общинами Центральной долины.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Central_Valley_Wicca",
+        "https://cog.org/about-witchcraft/traditions"
+      ],
+      "notes": "Review: исходник предупреждает о недостатке источников; конкретное происхождение и отношение к гарднерианской линии оспариваются. Covenant of the Goddess независимо перечисляет Central Valley Wicca, подтверждая употребление названия, но не разрешая спор о преемственности. Унаследованные общевикканские признаки не назначены."
+    },
+    {
+      "sourceIndex": 720,
+      "sourceName": "Chthonioi Alexandrian Wicca",
+      "decision": "review",
+      "canonicalName": "Хтониой-александрийская викка",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Александрийская викка",
+      "description": "Бостонская семья викканских ковенов александрийского происхождения с выраженным греко-римским религиозным содержанием.",
+      "profile": "+divine +many_gods +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chthonioi_Alexandrian_Wicca",
+        "https://chthonioi.org/",
+        "https://chthonioi.org/catrad.html"
+      ],
+      "notes": "Review: исходная статья помечена как опирающаяся на ненадёжные источники. Собственное заявление традиции 2010 года подтверждает название, отдельное самоопределение, греческий пантеон и ритуальную форму; независимую оценку происхождения нужно дополнительно проверить. Это ветвь, а не alias всей Александрийской викки или Эллинизма."
+    },
+    {
+      "sourceIndex": 721,
+      "sourceName": "Church of All Worlds",
+      "decision": "keep",
+      "canonicalName": "Церковь всех миров",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Американское неоязыческое движение, связанное с Обероном Зеллом, мифологией Геи и ритуалом совместного разделения воды.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Church_of_All_Worlds",
+        "https://caw.org/about/"
+      ],
+      "notes": "Исходник предупреждает о нехватке ссылок и устаревших сведениях; описание сверено с официальной страницей организации. Она прямо подчёркивает разнообразие личных верований и общую идею имманентной божественности. Не alias Церкви Вселенной, которая является отдельным канадским движением."
+    },
+    {
+      "sourceIndex": 722,
+      "sourceName": "Church of Aphrodite",
+      "decision": "keep",
+      "canonicalName": "Церковь Афродиты",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозная организация Глеба Боткина, созданная в США в 1938 году и исповедовавшая единую богиню как источник любви и мироздания.",
+      "profile": "+divine +one_god +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Church_of_Aphrodite"
+      ],
+      "notes": "Источник прямо описывает монотеистическую систему и надежду на бессмертие. Имя Афродиты не делает движение синонимом древнегреческой религии, современного Эллинизма или всего движения Богини."
+    },
+    {
+      "sourceIndex": 723,
+      "sourceName": "Cochrane's Craft",
+      "decision": "review",
+      "canonicalName": "Колдовская традиция Роберта Кокрейна",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современная британская эзотерическая традиция Роберта Кокрейна, представленная в том числе Кланом Тубал-Каина.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cochrane%27s_Craft",
+        "https://www.clanoftubalcain.org.uk/"
+      ],
+      "notes": "Review: в исходнике отмечены ненадёжные источники, а заявление о наследовании древней семейной традиции оспаривается историками. Сайт Clan of Tubal Cain подтверждает современную инициатическую группу и преемственность от Кокрейна; древняя преемственность не принята как факт. Сходство с Виккой не устанавливает тождества."
+    },
+    {
+      "sourceIndex": 724,
+      "sourceName": "Covenant of the Goddess",
+      "decision": "keep",
+      "canonicalName": "Завет Богини (Covenant of the Goddess)",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Викка",
+      "description": "Созданное в США в 1975 году объединение автономных викканских ковенов и отдельных практиков разных традиций.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Covenant_of_the_Goddess",
+        "https://cog.org/"
+      ],
+      "notes": "Межтрадиционная организация, а не единая отдельная конфессия и не alias Викки. Почитание Богини и обряды описаны как общая направленность; число богов, эзотерические техники и обязательное вероучение всем членам не назначены."
+    },
+    {
+      "sourceIndex": 725,
+      "sourceName": "Daejongism",
+      "decision": "keep",
+      "canonicalName": "Тэджонгё (тэджонизм)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Корейское религиозное движение начала XX века с почитанием Тангуна и учением о едином небесном божестве в трёх проявлениях.",
+      "profile": "+divine +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Daejongism",
+        "https://www.kci.go.kr/kciportal/mobile/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003130744"
+      ],
+      "notes": "Daejonggyo, Taejonggyo и Daejongism — варианты названия; Dangungyo/Dangunism также употребляются в отношении близких движений. Академическое исследование подтверждает культ Тангуна и триединую концепцию. Христианский признак trinity не назначен; датировка священных текстов глубокой древностью не принята как установленный факт."
+    }
+  ]
+}

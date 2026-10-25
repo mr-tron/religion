@@ -1,0 +1,342 @@
+{
+  "range": [
+    1706,
+    1725
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1706,
+      "sourceName": "Hypsistarianism",
+      "decision": "review",
+      "canonicalName": "Гипсистарии",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Позднеантичные почитатели Всевышнего Бога, известные по каппадокийским христианским авторам и сопоставляемые с культами Theos Hypsistos.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hypsistarians",
+        "https://www.thebritishacademy.ac.uk/documents/5702/Memoirs-22-09-Mitchell.pdf"
+      ],
+      "notes": "Review: отождествление всех посвящений Theos или Zeus Hypsistos с единой религиозной общиной оспаривается. Исследовательский обзор British Academy подтверждает существование научной дискуссии. Не синоним иудаизма или всех «богобоязненных»; соблюдение отдельных еврейских практик не доказывает обращения в иудаизм. Для ограниченного каппадокийского охвата предлагается семейство ancient_anatolian; до уточнения family:null. Строгий монотеизм и единый канон не назначены."
+    },
+    {
+      "sourceIndex": 1707,
+      "sourceName": "Jewish Renewal",
+      "decision": "review",
+      "canonicalName": "Еврейское обновление (Jewish Renewal)",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное межденоминационное движение обновления еврейской духовной жизни через созерцательные практики, музыку и общинную молитву.",
+      "profile": "+divine +meditation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jewish_Renewal",
+        "https://archive.aleph.org/what-is-jewish-renewal/"
+      ],
+      "notes": "Review: исходная статья отмечена как содержащая рекламный материал. Официальное самоописание ALEPH подтверждает межденоминационный подход и созерцательные практики; это не реконструкционистский или реформистский иудаизм под другим именем. Профиль не устанавливает единую степень галахической обязательности для всех участников."
+    },
+    {
+      "sourceIndex": 1708,
+      "sourceName": "Karaite Judaism",
+      "decision": "alias",
+      "canonicalName": "Караимский иудаизм",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Еврейская религиозная традиция, отдающая нормативный приоритет письменному Писанию; уже представлена в religions.js.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Karaite_Judaism"
+      ],
+      "notes": "Подтверждённый синоним существующего «Караимского иудаизма». Исходник прямо посвящён религиозному движению, а не только этнической группе крымских караимов. Существующий профиль этой партией не изменяется."
+    },
+    {
+      "sourceIndex": 1709,
+      "sourceName": "Lurianic Kabbalah",
+      "decision": "review",
+      "canonicalName": "Лурианская каббала",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Каббала",
+      "description": "Школа еврейской мистики Ицхака Лурии, развивающая учения о цимцуме, разбиении сосудов, исправлении мира и переселении душ.",
+      "profile": "+divine +reincarnation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lurianic_Kabbalah",
+        "https://www.jtsa.edu/torah/exploring-kabbalah-episode-6/"
+      ],
+      "notes": "Review: исходная статья предупреждает о недостатке ссылок. Материал профессора Jewish Theological Seminary подтверждает школу Лурии, передачу учения Хаимом Виталем и ключевые сочинения, включая «Врата переселений». Это отдельная школа каббалы, а не синоним всей еврейской мистики. Космологическое исправление не сводится к современному социальному смыслу тиккун олам."
+    },
+    {
+      "sourceIndex": 1710,
+      "sourceName": "Magarites",
+      "decision": "keep",
+      "canonicalName": "Магариты (аль-Магарийя)",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Еврейская группа, описанная средневековым автором аль-Киркисани как хранители книг в пещерах и сторонники учения об ангеле-посреднике творения.",
+      "profile": "+divine +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Magarites",
+        "https://www.jewishencyclopedia.com/articles/10262-maghariyyah-al"
+      ],
+      "notes": "Сохраняется группа в том виде, в каком она засвидетельствована историческими сообщениями. Раннее происхождение сообщается аль-Киркисани значительно позднее предполагаемой эпохи; это не независимая точная датировка. Отождествление с ессеями — исследовательская гипотеза, а не основание для alias. Maghāriya в следующей строке — прямой вариант того же названия."
+    },
+    {
+      "sourceIndex": 1711,
+      "sourceName": "Maghāriya",
+      "decision": "alias",
+      "canonicalName": "Магариты (аль-Магарийя)",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Вариант названия магаритов, представленных строкой 1710.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Magh%C4%81riya",
+        "https://en.wikipedia.org/wiki/Magarites",
+        "https://www.jewishencyclopedia.com/articles/10262-maghariyyah-al"
+      ],
+      "notes": "Исходная ссылка ведёт на статью Magarites, прямо называющую группу также Maghāriya; Jewish Encyclopedia подтверждает арабскую форму Al-Maghariyyah. Точный синоним записи 1710, а не отдельное направление."
+    },
+    {
+      "sourceIndex": 1712,
+      "sourceName": "Merkabah mysticism",
+      "decision": "keep",
+      "canonicalName": "Мистика Меркавы",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Ранняя еврейская мистическая традиция созерцания Божьего престола-колесницы и небесных чертогов, связанная с видением Иезекииля и литературой Хейхалот.",
+      "profile": "+divine +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Merkabah_mysticism"
+      ],
+      "notes": "Сохраняется историческая мистическая традиция и её корпус текстов, а не современная школа «меркаба». Единство всех авторов и датировка ранних пластов не предполагаются; литературные рассказы о восхождении не автоматически превращены в универсальную медитативную практику всех участников."
+    },
+    {
+      "sourceIndex": 1713,
+      "sourceName": "Messianic sects",
+      "decision": "alias",
+      "canonicalName": "Древнее иудеохристианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические движения последователей Иисуса, сохранявшие еврейские религиозные практики; представлены записью 1510.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jewish_Christian",
+        "https://en.wikipedia.org/wiki/Jewish_Christianity"
+      ],
+      "notes": "Название Messianic sects слишком широкое само по себе, но указанная ссылка перенаправляет именно на Jewish Christianity — тот же предмет, что у сохранённой записи 1510 «Древнее иудеохристианство». Alias относится к явно заданному источником историческому предмету, не ко всем еврейским мессианским движениям и не к современному мессианскому иудаизму."
+    },
+    {
+      "sourceIndex": 1714,
+      "sourceName": "Misnagdim",
+      "decision": "keep",
+      "canonicalName": "Митнагдим",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Раввинистический иудаизм",
+      "description": "Историческое восточноевропейское раввинистическое движение противников хасидизма, особенно связанное с Литвой и Виленским гаоном.",
+      "profile": "+torah +halakha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Misnagdim"
+      ],
+      "notes": "Сохраняется историческое движение XVIII–XIX веков; не все литовские евреи и не весь ортодоксальный иудаизм. Акцент на изучении Торы и нормативном законе подтверждён источником. Противостояние хасидизму не означает полного отрицания каббалы или всякого мистического опыта."
+    },
+    {
+      "sourceIndex": 1715,
+      "sourceName": "Modern Orthodox Judaism",
+      "decision": "keep",
+      "canonicalName": "Современный ортодоксальный иудаизм",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Ортодоксальный иудаизм",
+      "description": "Направление ортодоксального иудаизма, сочетающее соблюдение еврейского закона с участием в современной общественной и интеллектуальной жизни.",
+      "profile": "+torah +halakha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Modern_Orthodox_Judaism"
+      ],
+      "notes": "Modern Orthodox — название конкретного подхода, а не всех современных ортодоксальных евреев. Направление внутренне неоднородно; не тождественно религиозному сионизму, хотя имеет с ним значительное пересечение."
+    },
+    {
+      "sourceIndex": 1716,
+      "sourceName": "Musar movement",
+      "decision": "keep",
+      "canonicalName": "Движение мусар",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Раввинистический иудаизм",
+      "description": "Еврейское движение нравственного совершенствования, развившееся в XIX веке вокруг учения Исраэля Салантера и практик работы над характером.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Musar_movement"
+      ],
+      "notes": "Историческое движение отличено от всей этической литературы мусар и от отдельных современных организаций. Прямо описаны самоанализ и созерцательные упражнения. Техническое предупреждение о дублирующихся библиографических ссылках само по себе не указывает на спорность учения; светский гуманизм из этического акцента не выводится."
+    },
+    {
+      "sourceIndex": 1717,
+      "sourceName": "Nasoraeans",
+      "decision": "review",
+      "canonicalName": "Насореи — требуется уточнение исторической группы",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Неоднозначное историческое обозначение, которое может относиться к описанным Епифанием насареям или к мандейской традиции; исходная статья также описывает иудеохристианских назореев.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nazarene_(sect)",
+        "https://api.pageplace.de/preview/DT0400.9781400863181_A23705295/preview-9781400863181_A23705295.pdf"
+      ],
+      "notes": "Review: Nasoraeans нельзя автоматически отождествить с христианскими Nazoraeans/Nazarenes. Jack Finegan в The Archeology of the New Testament (Princeton University Press) прямо различает насареев и назореев у Епифания. Сам исходник дополнительно обсуждает мандейское употребление термина и спорные гипотезы происхождения. До уточнения предмета не назначены семейство, вера в Иисуса, Тора или alias мандейству. В зависимости от разрешения подходят существующие jewish, christian либо семья сохранённой мандейской записи; новое семейство пока не предлагается."
+    },
+    {
+      "sourceIndex": 1718,
+      "sourceName": "Nazirite",
+      "decision": "keep",
+      "canonicalName": "Назорейский обет",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Библейская и еврейская практика посвящения по особому обету, предполагающая воздержание от винограда и вина, запрет стричь волосы и ограничения контакта с мёртвыми.",
+      "profile": "+torah +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nazirite"
+      ],
+      "notes": "Сохраняется религиозная практика, допустимая по промпту, а не вымышленная отдельная конфессия. Nazirite не тождественно Nazarene или Nasoraean. Условия завершения обета и жертвоприношений зависят от существования Храма; современная реализуемость не предполагается."
+    },
+    {
+      "sourceIndex": 1719,
+      "sourceName": "Okbarites",
+      "decision": "keep",
+      "canonicalName": "Укбариты (мишваиты)",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Средневековое еврейское течение последователей Мишви аль-Укбари, известное особым календарём и правилами религиозной практики.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Okbarites"
+      ],
+      "notes": "Источник сообщает о различиях и с караимами, и с раввинистами; это не синоним всего караимизма. Учение известно преимущественно по противникам, а собственные сочинения основателя не сохранились. Спорное обращение основателя в христианство не принимается как установленный факт; профиль оставлен пустым вместо переноса чужого канона или галахи."
+    },
+    {
+      "sourceIndex": 1720,
+      "sourceName": "Open Orthodox Judaism",
+      "decision": "keep",
+      "canonicalName": "Открытая ортодоксия в иудаизме",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Современный ортодоксальный иудаизм",
+      "description": "Подход, связанный с Ави Вайсом и сочетающий приверженность галахе с более открытым общинным устройством и расширением религиозных ролей женщин.",
+      "profile": "+torah +halakha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Open_Orthodox_Judaism",
+        "https://en.wikipedia.org/wiki/Open_Orthodoxy",
+        "https://yctorah.org/"
+      ],
+      "notes": "Исходная URL попытка не открылась; предмет проверен через актуальную статью Open Orthodoxy и официальный сайт YCT, подтверждающий Тору и галаху. Название и принадлежность к ортодоксии оспариваются частью других ортодоксальных организаций; некоторые связанные институты предпочитают самообозначение Modern Orthodox. Сохраняется исторически определённый подход, а не отдельная единая деноминация и не alias всей современной ортодоксии."
+    },
+    {
+      "sourceIndex": 1721,
+      "sourceName": "Pharisees",
+      "decision": "review",
+      "canonicalName": "Фарисеи",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Иудейское религиозное течение эпохи Второго храма, известное толкованием закона, традициями религиозной практики и верой в жизнь после смерти.",
+      "profile": "+torah +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pharisees",
+        "https://academic.oup.com/edited-volume/61673/chapter-abstract/549702719"
+      ],
+      "notes": "Review: историческая часть исходной статьи предупреждает о недостатке ссылок. Доступный поисковый экстракт статьи Eyal Regev в Oxford Classical Dictionary подтверждает самостоятельную группу, истолкование закона и посмертную жизнь; полный текст недоступен. Ретроспективное отождествление всех фарисейских традиций с позднейшей разработанной системой устной Торы и современной галахой требует осторожности, поэтому +halakha не назначено. Не синоним всего раввинистического иудаизма."
+    },
+    {
+      "sourceIndex": 1722,
+      "sourceName": "Practical Kabbalah",
+      "decision": "keep",
+      "canonicalName": "Практическая каббала",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Еврейская мистическая традиция",
+      "description": "Исторический круг еврейских эзотерических практик, включающий использование божественных имён, амулетов и заклинаний.",
+      "profile": "+occult +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Practical_Kabbalah"
+      ],
+      "notes": "Практики отличены от теоретической каббалы и от христианской или герметической каббалы. Многие каббалисты ограничивали или запрещали их применение; профиль описывает именно практический круг, а не всех каббалистов. Призыв расширить статью переводами не является предупреждением о недостоверности."
+    },
+    {
+      "sourceIndex": 1723,
+      "sourceName": "Prophetic Kabbalah",
+      "decision": "review",
+      "canonicalName": "Пророческая каббала Авраама Абулафии",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": "Каббала",
+      "description": "Направление еврейской мистики, связывающее достижение пророческого состояния с сосредоточением, сочетаниями букв и божественных имён.",
+      "profile": "+divine +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Abraham_Abulafia",
+        "https://assets.cambridge.org/97805218/25979/excerpt/9780521825979_excerpt.pdf",
+        "https://www.sefaria.org/topics/abraham-ben-samuel-abulafia"
+      ],
+      "notes": "Review: исходная ссылка ведёт на биографию с предупреждением о недостатке точных ссылок. Cambridge Dictionary of Judaism and Jewish Culture подтверждает отдельный экстатический/пророческий метод Абулафии и его цель. Сохраняется направление, а не биография человека. Духовный опыт пророчества не кодируется как новый общеобязательный канон откровения; не alias всей каббале или практической магии."
+    },
+    {
+      "sourceIndex": 1724,
+      "sourceName": "Qemant Judaism",
+      "decision": "review",
+      "canonicalName": "Традиционная религия кемант",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Эфиопская традиция кемант, сочетающая местные религиозные обряды с библейскими нормами, субботним покоем и почитанием верховного Бога.",
+      "profile": "+divine +sabbath +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qemant_people",
+        "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/east-african-religions-ethiopian-religions"
+      ],
+      "notes": "Review: исходная статья посвящена народу; ярлык Qemant Judaism не устанавливает тождества традиции кемант раввинистическому иудаизму или вере бета-исраэль. Encyclopedia of Religion в статье об эфиопских религиях отдельно подтверждает традиционные священные рощи, жречество и жертвоприношения кемант наряду с древнееврейскими элементами. Ближайшее семейство indigenous предварительно отражает местную традицию. Не все современные кемант следуют этой религии; доля верующих из старых исследований не используется как текущая."
+    },
+    {
+      "sourceIndex": 1725,
+      "sourceName": "Reconstructionist Judaism",
+      "decision": "alias",
+      "canonicalName": "Реконструкционистский иудаизм",
+      "family": "jewish",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Направление иудаизма, рассматривающее еврейскую религиозную жизнь как развивающуюся цивилизацию; уже представлено в religions.js.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Reconstructionist_Judaism"
+      ],
+      "notes": "Подтверждённый английский синоним существующего «Реконструкционистского иудаизма». Исходная статья определяет тот же исторический подход Мордехая Каплана. Не смешивается с Jewish Renewal или реконструкционистским язычеством; существующий профиль не дублируется."
+    }
+  ]
+}

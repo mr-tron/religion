@@ -1,0 +1,337 @@
+{
+  "range": [
+    1566,
+    1585
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1566,
+      "sourceName": "Serbian Orthodox Church",
+      "decision": "keep",
+      "canonicalName": "Сербская православная церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточное православие",
+      "description": "Автокефальная православная церковь сербской церковной традиции с собственным патриархатом.",
+      "profile": "+church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Serbian_Orthodox_Church"
+      ],
+      "notes": "Отдельная поместная церковь, не alias всего православия. Этническое происхождение не является обязательным условием принадлежности; текущие территориальные и политические споры не внесены в профиль."
+    },
+    {
+      "sourceIndex": 1567,
+      "sourceName": "Sethianism",
+      "decision": "review",
+      "canonicalName": "Сетианство — границы исторической категории требуют уточнения",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": "Гностицизм",
+      "description": "Современное обозначение группы древних гностических текстов и связанных с ними религиозных традиций с особой ролью Сифа.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sethianism",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444338386.wbeah05173",
+        "https://www.jstor.org/stable/jj.37972947"
+      ],
+      "notes": "Review: John D. Turner в The Encyclopedia of Ancient History определяет Sethianism как современную типологическую категорию авторов и читателей определённого корпуса текстов. Реконструкция единого отдельного движения и его происхождения остаётся спорной. Не alias всего гностицизма или мандейства; до уточнения групп и периода не назначены общий христианский профиль и единый канон. Для неконфессионального исторического корпуса может подойти предложенное семейство ancient_neareastern; family оставлено null."
+    },
+    {
+      "sourceIndex": 1568,
+      "sourceName": "Seventh-day Adventist Church",
+      "decision": "alias",
+      "canonicalName": "Адвентизм седьмого дня",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Адвентизм",
+      "description": "Христианская традиция Церкви адвентистов седьмого дня, придающая особое значение субботе и ожидаемому возвращению Христа.",
+      "profile": "+sabbath",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Seventh-day_Adventist_Church"
+      ],
+      "notes": "Соответствует существующей записи «Адвентизм седьмого дня» в religions.js. Здесь дано институциональное название основной церкви той же традиции; повтор не создаётся. Не alias всего адвентизма (1431) или отделившихся адвентистских реформаторских организаций."
+    },
+    {
+      "sourceIndex": 1569,
+      "sourceName": "Simonians",
+      "decision": "keep",
+      "canonicalName": "Симониане",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Ранние гностические традиции",
+      "description": "Историческое религиозное течение, связывавшее своё происхождение и духовное учение с Симоном Волхвом.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Simonians"
+      ],
+      "notes": "Источники о верованиях преимущественно внешние христианские полемические сочинения; точный вклад исторического Симона в позднейшую систему неясен. Сохраняется засвидетельствованное течение, не биография Симона и не весь гностицизм. Обвинения в магии, распущенности и конкретных тайных обрядах не приняты за обязательные признаки."
+    },
+    {
+      "sourceIndex": 1570,
+      "sourceName": "Slovak Greek Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Словацкая грекокатолическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Самоуправляемая католическая церковь византийского обряда, связанная со Словакией и находящаяся в общении с Римом.",
+      "profile": "+church +pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Slovak_Greek_Catholic_Church"
+      ],
+      "notes": "Конкретная церковь, не alias всех грекокатоликов, Венгерской или Русинской грекокатолической церкви. Византийский обряд не означает принадлежности к восточному православию."
+    },
+    {
+      "sourceIndex": 1571,
+      "sourceName": "Spiritual Baptist",
+      "decision": "keep",
+      "canonicalName": "Духовные баптисты Карибского региона",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Карибская христианская традиция, подчёркивающая действие Святого Духа, крещение и особые практики молитвенного уединения.",
+      "profile": "+divine +jesus +scripture +spirit_gifts +ritual +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Spiritual_Baptist",
+        "https://www.nalis.gov.tt/resources/tt-content-guide/baptist-liberation-day/"
+      ],
+      "notes": "NALIS подтверждает крещение, действие Духа, говорение на языках и mourning как молитву, пост и медитацию с видениями. Не alias общего баптизма или Trinidad Orisha; источник прямо различает религии, хотя отдельные люди участвуют в обеих. Африканское влияние не означает обязательного поклонения ориша. Возраст крещения не назначен по одному названию Baptist."
+    },
+    {
+      "sourceIndex": 1572,
+      "sourceName": "Spiritual Christianity",
+      "decision": "review",
+      "canonicalName": "Духовное христианство — состав категории требует уточнения",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Русские внеправославные христианские движения",
+      "description": "Собирательное историческое обозначение нескольких различных религиозных движений, возникших в Российской империи.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Spiritual_Christianity"
+      ],
+      "notes": "Review: исходная статья объединяет духоборов, молокан, хлыстов и другие группы с существенно различными практиками и неустойчивыми границами включения. Нужно выбрать исторический или более узкий современный смысл. Не alias любой одной включённой группы, беспоповцев или духовного баптизма Карибского региона; знаки по Троице, Библии, иконам, субботе и таинствам не распространены на всех."
+    },
+    {
+      "sourceIndex": 1573,
+      "sourceName": "Strigolniki",
+      "decision": "keep",
+      "canonicalName": "Стригольники",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Средневековое русское христианство",
+      "description": "Историческое религиозное движение Новгорода и Пскова, известное критикой духовенства и церковных злоупотреблений.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Strigolniki"
+      ],
+      "notes": "Самостоятельное историческое течение, не alias позднейших русских религиозных движений или всей Реформации. Учение известно главным образом по полемическим и поздним источникам. Отвержение симонии не доказывает отрицания всех таинств; иконоборчество, конкретная догматическая система и абсолютный авторитет только Библии не установлены достаточно надёжно для профиля."
+    },
+    {
+      "sourceIndex": 1574,
+      "sourceName": "Swedenborgianism",
+      "decision": "keep",
+      "canonicalName": "Сведенборгианство — традиции Новой церкви",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Христианские духовные и церковные традиции, опирающиеся на богословие Эмануэля Сведенборга и духовное толкование Библии.",
+      "profile": "+divine +one_god +jesus +scripture +afterlife -trinity",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Swedenborgianism",
+        "https://swedenborg.org/explore/beliefs/",
+        "https://swedenborg.org/explore/history/"
+      ],
+      "notes": "Официальное изложение Swedenborgian Church of North America подтверждает единство Бога, духовное прочтение Библии и посмертную жизнь. -trinity относится к классической формуле трёх вечных Лиц; собственный язык Божественной Троицы в одной Личности не отрицается. Сохраняется широкое движение с разными церквами и свободой богословских мнений, не одна североамериканская организация. Утверждения о видениях переданы как религиозный опыт, не +scientific."
+    },
+    {
+      "sourceIndex": 1575,
+      "sourceName": "Swiss Reformed",
+      "decision": "keep",
+      "canonicalName": "Швейцарская реформатская традиция",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Реформатское христианство",
+      "description": "Реформатская христианская традиция Швейцарии, восходящая к Цвингли, Буллингеру и Кальвину и представленная региональными церквами.",
+      "profile": "+jesus +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Swiss_Reformed",
+        "https://en.wikipedia.org/wiki/Swiss_Reformed_Church",
+        "https://www.evref.ch/wp-content/uploads/2019/11/18_a_z_reformation_prophezey_a4_en.pdf"
+      ],
+      "notes": "Исходный URL не загрузился; альтернативная статья и собственное историческое издание швейцарской протестантской церкви подтверждают региональную традицию. Она не равна одной современной федерации: та объединяет также методистов. Не alias всего кальвинизма или всего протестантизма; исторические положения о символическом причастии и запрете изображений не объявлены обязательными для каждого современного прихожанина."
+    },
+    {
+      "sourceIndex": 1576,
+      "sourceName": "Syriac Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Сирийская католическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Восточнокатолическая церковь западносирийского обряда, находящаяся в общении с Римом.",
+      "profile": "+church +pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Syriac_Catholic_Church"
+      ],
+      "notes": "Отдельная церковь, не alias Сирийской православной, Маронитской или Сиро-маланкарской католической церкви. Общие сирийские литургические корни не означают одинаковой современной церковной принадлежности."
+    },
+    {
+      "sourceIndex": 1577,
+      "sourceName": "Syriac Orthodox Church",
+      "decision": "keep",
+      "canonicalName": "Сирийская православная церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Древневосточные православные церкви",
+      "description": "Древневосточная православная церковь антиохийской традиции с западносирийским богослужебным наследием.",
+      "profile": "+scripture +church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Syriac_Orthodox_Church"
+      ],
+      "notes": "Конкретная церковь, а не вся группа Oriental Orthodox. Не alias Ассирийской церкви Востока или Сирийской католической церкви. Яковитская сирийская христианская церковь Индии (1508) связана с этим патриархатом, но уже сохранена на уровне конкретной индийской юрисдикции; родительская церковь шире этой записи."
+    },
+    {
+      "sourceIndex": 1578,
+      "sourceName": "Syro-Malabar Church",
+      "decision": "keep",
+      "canonicalName": "Сиро-малабарская католическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Католическая церковь индийских христиан святого Фомы, сохраняющая восточносирийскую литургическую традицию.",
+      "profile": "+church +pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Syro-Malabar_Church"
+      ],
+      "notes": "Отдельная церковь, не alias Сиро-маланкарской католической, Ассирийской церкви Востока или Халдейской сирийской церкви Индии (1463). Восточносирийский обряд и общее наследие христиан святого Фомы не отменяют различий современной юрисдикции."
+    },
+    {
+      "sourceIndex": 1579,
+      "sourceName": "Syro-Malankara Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Сиро-маланкарская католическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Самоуправляемая католическая церковь индийской маланкарской традиции, использующая западносирийский обряд и находящаяся в общении с Римом.",
+      "profile": "+church +pope +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Syro-Malankara_Catholic_Church"
+      ],
+      "notes": "Не alias Сиро-малабарской католической церкви восточносирийского обряда или Маланкарской православной сирийской церкви (1518). Общая историческая маланкарская среда не означает одинаковой конфессиональной принадлежности."
+    },
+    {
+      "sourceIndex": 1580,
+      "sourceName": "The Church of Jesus Christ of Latter-day Saints",
+      "decision": "alias",
+      "canonicalName": "Церковь Иисуса Христа Святых последних дней",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Реставрационистская христианская церковь, признающая дополнительные священные писания и продолжающееся откровение.",
+      "profile": "+jesus +scripture +restoration",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      ],
+      "notes": "Точное совпадение с существующей записью «Церковь Иисуса Христа Святых последних дней» в religions.js. Не alias всего движения святых последних дней со всеми независимыми ветвями; английское полное название обозначает именно эту церковь."
+    },
+    {
+      "sourceIndex": 1581,
+      "sourceName": "Traditionalist Catholic",
+      "decision": "keep",
+      "canonicalName": "Католический традиционализм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Католический религиозный контекст",
+      "description": "Совокупность движений, придающих особое значение католическому богослужению и церковным формам до реформ XX века.",
+      "profile": "+church +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Traditionalist_Catholic"
+      ],
+      "notes": "Не alias всего католицизма, седевакантизма или одного Братства святого Пия X. Включает группы с разным отношением к Риму и папскому престолу, поэтому единый знак pope не назначен. Предпочтение дореформенной литургии не равнозначно отрицанию любого решения Второго Ватиканского собора."
+    },
+    {
+      "sourceIndex": 1582,
+      "sourceName": "True Orthodox Church",
+      "decision": "keep",
+      "canonicalName": "Истинно-православные движения",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточное православие",
+      "description": "Группа православных традиционалистских церковных движений, прекративших общение с основными православными юрисдикциями по календарным, экуменическим и иным причинам.",
+      "profile": "+church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/True_Orthodox_Church"
+      ],
+      "notes": "Сохраняется родовой круг движений, не одна всемирная организация и не оценочное утверждение истинности. Старостильники Греции и других стран входят в него, но российские катакомбные и иные линии не сводятся к одной календарной организации. Поэтому не автоматический alias отдельной записи Old Calendarists; взаимное общение и иерархии различаются."
+    },
+    {
+      "sourceIndex": 1583,
+      "sourceName": "Ukrainian Greek Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Украинская грекокатолическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Самоуправляемая католическая церковь византийского обряда, исторически связанная с Украиной и находящаяся в общении с Римом.",
+      "profile": "+church +pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ukrainian_Greek_Catholic_Church"
+      ],
+      "notes": "Не alias Подгорецкой группы с похожим названием Ukrainian Orthodox Greek Catholic Church или Русинской грекокатолической церкви. Сходный обряд и исторические связи не означают одинаковой юрисдикции; политические позиции и этническое происхождение не включены в профиль."
+    },
+    {
+      "sourceIndex": 1584,
+      "sourceName": "Ukrainian Orthodox Church",
+      "decision": "keep",
+      "canonicalName": "Православная церковь Украины",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточное православие",
+      "description": "Православная церковь, сформированная объединительным собором в 2018 году и получившая томос об автокефалии от Константинопольского патриархата.",
+      "profile": "+church +jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Orthodox_Church_of_Ukraine",
+        "https://www.pomisna.info/uk/vsi-novyny/speech-of-his-beatitude-metropolitan-epiphaniy-at-the-ceremony-of-presenting-the-honorary-athenagoras-human-rights-award/"
+      ],
+      "notes": "Исходное английское название Ukrainian Orthodox Church неоднозначно, но заданный URL однозначно ведёт на Orthodox Church of Ukraine; официальная речь предстоятеля подтверждает собор 15 декабря 2018 года. Каноническое название выбрано по этому источнику. Не alias другой Украинской православной церкви, исторически связанной с Московским патриархатом; вопрос признания разными поместными церквами не объявлен общим консенсусом и не превращён в мировоззренческий признак."
+    },
+    {
+      "sourceIndex": 1585,
+      "sourceName": "Ukrainian Orthodox Greek Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Украинская правоверная грекокатолическая церковь — Подгорецкая группа",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Независимый католический религиозный контекст",
+      "description": "Религиозное движение, созданное группой бывших василианских священников в Подгорцах и отделившееся от Украинской грекокатолической церкви.",
+      "profile": "+church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ukrainian_Orthodox_Greek_Catholic_Church",
+        "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2012/03/29/0187/00427.html"
+      ],
+      "notes": "Отдельность и употребление названия подтверждены заявлением Конгрегации вероучения 2012 года; Рим не признаёт епископские хиротонии основателей и рассматривает группу как находящуюся вне католического общения. Не alias УГКЦ или Православной церкви Украины. Оценки канонического статуса указаны как позиция Рима; обвинения в политической деятельности, слухи и текущие притязания на папский престол не приняты за общий устойчивый профиль."
+    }
+  ]
+}

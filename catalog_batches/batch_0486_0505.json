@@ -1,0 +1,339 @@
+{
+  "range": [
+    486,
+    505
+  ],
+  "entries": [
+    {
+      "sourceIndex": 486,
+      "sourceName": "Stoicism",
+      "decision": "alias",
+      "canonicalName": "Стоицизм",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Философская традиция стоиков, связывающая добродетель с разумной жизнью и отношением к происходящему.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Stoicism"
+      ],
+      "notes": "Точный английский эквивалент уже сохранённого названия «Стоицизм» в religions.js; decision alias независимо от возможного улучшения существующего профиля. Древняя школа включала также физику и богословие, поэтому её не следует автоматически считать исключительно светской."
+    },
+    {
+      "sourceIndex": 487,
+      "sourceName": "Tharu religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования тхару",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования тхару, тесно связанные с природной средой и божествами леса.",
+      "profile": "+divine +many_gods +nature_spirits",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tharu_people"
+      ],
+      "notes": "Исходная статья о народе содержит религиозный раздел. Индуистские влияния и современные переходы отдельных групп в буддизм и христианство не означают общей принадлежности всех местных практик к одному из этих направлений."
+    },
+    {
+      "sourceIndex": 488,
+      "sourceName": "Thracian religion",
+      "decision": "keep",
+      "canonicalName": "Религии древних фракийцев",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Комплекс древних фракийских культов, включавших местных божеств, святилища, подношения и обряды.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thracian_religion"
+      ],
+      "notes": "Предлагаемое семейство ancient_european: древние религии Европы. Источник подчёркивает фрагментарность свидетельств и трудности реконструкции. Греческие имена в античных сообщениях не доказывают тождества греческому пантеону. Более узкая религия даков уже сохранена отдельно; это не точный синоним всей фракийской традиции."
+    },
+    {
+      "sourceIndex": 489,
+      "sourceName": "Tocharian religion",
+      "decision": "review",
+      "canonicalName": "Религиозные традиции тохаров",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические религиозные традиции тохароязычных общностей Таримского бассейна; наиболее полно засвидетельствован их буддийский период.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tocharians",
+        "https://www.cambridge.org/core/books/indoeuropean-language-family/tocharian/C416BA98689B60615EDD977E07CE5173"
+      ],
+      "notes": "Review: название не уточняет, имеются ли в виду буддийские традиции тохаров или реконструируемые добуддийские верования. Исходная статья сообщает о слабой изученности раннего периода; академическое исследование подтверждает преобладание буддийских рукописей. Нельзя назначить им предполагаемый праиндоевропейский пантеон. Возможное семейство для раннего слоя ancient_central_asian; для буддийского компонента buddhist."
+    },
+    {
+      "sourceIndex": 490,
+      "sourceName": "Umbrian religion",
+      "decision": "keep",
+      "canonicalName": "Религия древних умбров",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозные традиции древних умбров Италии, известные по Игувинским таблицам с описаниями жреческих обрядов и жертвоприношений.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Umbri"
+      ],
+      "notes": "Предлагаемое семейство ancient_european: древние религии Европы. Исходная статья о народе содержит религиозный раздел. Сходства с римскими триадами и имена божеств не доказывают тождества всех умбрских и римских культов; гипотеза прямого происхождения от праиндоевропейской системы не кодируется."
+    },
+    {
+      "sourceIndex": 491,
+      "sourceName": "Association of Shinto Shrines",
+      "decision": "keep",
+      "canonicalName": "Дзиндзя хонтё — Ассоциация синтоистских святилищ",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Синто",
+      "description": "Объединение синтоистских святилищ Японии, занимающееся обрядами, образованием и подготовкой священнослужителей.",
+      "profile": "+kami +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Association_of_Shinto_Shrines"
+      ],
+      "notes": "Сохраняется как религиозная организация, а не синоним всего «Синто». Источник подтверждает значение обрядов, ками и благодарности предкам; единый подробный катехизис всех входящих святилищ не предполагается."
+    },
+    {
+      "sourceIndex": 492,
+      "sourceName": "Fujiko",
+      "decision": "keep",
+      "canonicalName": "Фудзи-ко",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Японские горные культы",
+      "description": "Японское паломническое и обрядовое движение почитания Фудзи, развившееся в период Эдо в традиции Какугё.",
+      "profile": "+kami +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fujiko_(religion)"
+      ],
+      "notes": "Название обозначает как движение в целом, так и отдельные объединения. Источник описывает регулярные молитвенные собрания, восхождения и местные насыпи Фудзи; это не точный синоним всех синтоистских горных культов."
+    },
+    {
+      "sourceIndex": 493,
+      "sourceName": "Fukko",
+      "decision": "keep",
+      "canonicalName": "Фукко-синто",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Синто",
+      "description": "Направления восстановления древнего синто периода Эдо, связанные с изучением японской классики и стремлением отделить её от буддийских и конфуцианских интерпретаций.",
+      "profile": "+kami +scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fukko_Shinto",
+        "https://eos.kokugakuin.ac.jp/ijcc/wp/bts/bts_f.html"
+      ],
+      "notes": "Университетский справочник подтверждает школу и её филологический подход. Не тождественно всему кокугаку: последнее шире религиозных школ. Признак restoration не назначен, поскольку существующий вопрос относится именно к раннему христианству."
+    },
+    {
+      "sourceIndex": 494,
+      "sourceName": "Gasin faith",
+      "decision": "keep",
+      "canonicalName": "Касин синан — почитание домашних божеств",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Корейские народные верования",
+      "description": "Корейские домашние религиозные практики, связанные с божествами-покровителями разных частей дома и семейного благополучия.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gasin_faith",
+        "https://www.nfm.go.kr/user/bbs/english/17/469/bbsDataView/23209.do?page=2"
+      ],
+      "notes": "Исходная статья требует дополнительных ссылок; Национальный фольклорный музей независимо подтверждает домашних божеств касин и их функции. Узкий культовый комплекс внутри корейских народных верований, а не alias всего мусок."
+    },
+    {
+      "sourceIndex": 495,
+      "sourceName": "Izumo-taishakyo",
+      "decision": "keep",
+      "canonicalName": "Идзумо-тайся-кё",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Синто",
+      "description": "Синтоистская религиозная организация, созданная Сэнгэ Такатоми и связанная с традицией Идзумо и почитанием Окунинуси.",
+      "profile": "+kami",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Izumo-taishakyo"
+      ],
+      "notes": "Организация отличается юридически от самого святилища Идзумо-тайся и от Дзиндзя хонтё; совместный персонал и исторические связи не делают их синонимами. Проверенный профиль ограничен почитанием ками."
+    },
+    {
+      "sourceIndex": 496,
+      "sourceName": "Jingukyo",
+      "decision": "keep",
+      "canonicalName": "Дзингу-кё",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Синто",
+      "description": "Историческое синтоистское объединение периода Мэйдзи, возникшее в среде почитания Исэ и позднее реорганизованное.",
+      "profile": "+kami",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jingukyo"
+      ],
+      "notes": "Не путать с Tenshō Kōtai Jingūkyō. Историческая преемственность через Дзингу хосайкай к Ассоциации синтоистских святилищ не означает, что все эти организации — одна запись. Источник подтверждает принадлежность к культу Исэ; неподтверждённые частные ответы не добавлены."
+    },
+    {
+      "sourceIndex": 497,
+      "sourceName": "Juka",
+      "decision": "keep",
+      "canonicalName": "Дзюка-синто — конфуцианское синто",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Синто",
+      "description": "Группа японских религиозно-философских школ, интерпретировавших синто с помощью конфуцианской мысли в период Эдо.",
+      "profile": "+kami",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Confucian_Shinto",
+        "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=8760"
+      ],
+      "notes": "Juka Shintō — японское название Confucian Shinto. Это сочетание традиций, а не точный синоним существующего «Конфуцианство» или всего «Синто». Университетская энциклопедия подтверждает использование неоконфуцианских интерпретаций."
+    },
+    {
+      "sourceIndex": 498,
+      "sourceName": "Kokugaku",
+      "decision": "keep",
+      "canonicalName": "Кокугаку",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Японское филологическое и философское движение периода Эдо, обращавшееся к ранним японским текстам и культуре.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kokugaku"
+      ],
+      "notes": "Сохраняется как интеллектуальная традиция, а не единая религия. Влияние на восстановительное синто не делает всё кокугаку синонимом Фукко-синто. Изучение древних текстов само по себе не означает признание единого священного канона всеми исследователями."
+    },
+    {
+      "sourceIndex": 499,
+      "sourceName": "Konkōkyō",
+      "decision": "keep",
+      "canonicalName": "Конко-кё",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Синтоистская религиозная среда",
+      "description": "Японская религия, связанная с Конко Дайдзином, почитанием Тэнти Канэ-но Ками и практикой посредничества торицуги.",
+      "profile": "+divine +personal +kami +ancestors +ritual +afterlife -reincarnation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Konk%C5%8Dky%C5%8D",
+        "https://en.wikipedia.org/wiki/Konkokyo",
+        "https://konkokyo.jp/eng/our_faith/religious_beliefs.html",
+        "https://konkokyo.jp/eng/our_faith/how_to_worship.html"
+      ],
+      "notes": "Исходный URL не открылся; проверены статья Konkokyo и собственное изложение религии. Официальный источник подтверждает почитание предков, продолжение существования духа и отрицание переселения душ. Представление вселенной как тела Ками не сведено автоматически к строгому монотеизму или пантеизму."
+    },
+    {
+      "sourceIndex": 500,
+      "sourceName": "Kurozumikyō",
+      "decision": "keep",
+      "canonicalName": "Куродзуми-кё",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Синто",
+      "description": "Японская религия Куродзуми Мунэтады с почитанием Аматэрасу и ежедневным обрядом обращения к восходящему солнцу.",
+      "profile": "+divine +kami +ritual +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kurozumiky%C5%8D"
+      ],
+      "notes": "Источник прямо описывает ниппай и корпус Kurozumikyō Kyōsho. Особое почитание Аматэрасу и представление других ками её проявлениями не превращены в обязательное отрицание любых других божеств. Не alias всего синто."
+    },
+    {
+      "sourceIndex": 501,
+      "sourceName": "Matagi spirituality",
+      "decision": "keep",
+      "canonicalName": "Духовные традиции матаги",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Охотничьи традиции матаги северной Японии, связанные с почитанием горного божества и обрядами благодарности за добычу.",
+      "profile": "+divine +kami +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Matagi",
+        "https://www.jstage.jst.go.jp/browse/minkennewseries/32/4/_contents/-char/en"
+      ],
+      "notes": "Исходная статья о группе охотников содержит раздел Spirituality. Этнографическое исследование независимо подтверждает Яманоками, обряды и табу. Сходство с медвежьими обрядами айнов не доказывает тождества традиций."
+    },
+    {
+      "sourceIndex": 502,
+      "sourceName": "Musok",
+      "decision": "keep",
+      "canonicalName": "Корейский шаманизм (мусок)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные корейские традиции взаимодействия с божествами и духами через специалистов мудан и обряды кут.",
+      "profile": "+divine +many_gods +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Musok",
+        "https://en.wikipedia.org/wiki/Korean_shamanism",
+        "https://www.trad-culture.ru/en/article/shaman-kim-keum-hwa-koreas-national-treasure"
+      ],
+      "notes": "Исходный URL Musok не открылся; статья Korean shamanism и научная публикация подтверждают термин Musok и практику. Не единая централизованная церковь; региональные разновидности и домашние культы не становятся точными синонимами всего комплекса."
+    },
+    {
+      "sourceIndex": 503,
+      "sourceName": "Ontake-kyō",
+      "decision": "keep",
+      "canonicalName": "Онтакэ-кё",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Синто",
+      "description": "Японская религиозная организация синтоистского круга, связанная со священной горой Онтакэ и особыми горными обрядами.",
+      "profile": "+kami +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ontake-ky%C5%8D"
+      ],
+      "notes": "Исходная статья краткая, но подтверждает отдельную организацию и её место среди горных направлений сектантского синто. Не alias любого почитания Онтакэ, Фудзи-ко или всего сюгэндо."
+    },
+    {
+      "sourceIndex": 504,
+      "sourceName": "Oomoto",
+      "decision": "keep",
+      "canonicalName": "Оомото",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Синтоистская религиозная среда",
+      "description": "Японская религия Дэгути Нао и Дэгути Онисабуро с новыми откровениями, священными писаниями и идеей духовного единства человечества.",
+      "profile": "+divine +kami +revelation +new_revelation +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Oomoto",
+        "https://www.oomoto.or.jp/English/enDokt/dokt-en.html"
+      ],
+      "notes": "Официальный источник подтверждает откровенный статус Oomoto Shin’yu и Reikai Monogatari. Родственные движения, воспринявшие идеи Оомото, не считаются его синонимами. Сложное соотношение единого божественного начала и множества ками не сведено к взаимоисключающим ответам."
+    },
+    {
+      "sourceIndex": 505,
+      "sourceName": "Rokugō Manzan",
+      "decision": "keep",
+      "canonicalName": "Рокуго Мандзан",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Буддизм Тэндай и синбуцу-сюго",
+      "description": "Региональный комплекс храмов и религиозных практик полуострова Кунисаки, соединяющий буддизм Тэндай, почитание ками и горную культуру.",
+      "profile": "+buddha +kami +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rokug%C5%8D_Manzan"
+      ],
+      "notes": "Название означает и храмовое объединение, и местную религиозную культуру. Легендарное основание всех храмов Ниммоном не принимается за установленный исторический факт. Это уже всего Тэндай и синбуцу-сюго, поэтому не alias этих общих традиций."
+    }
+  ]
+}

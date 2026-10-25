@@ -1,0 +1,354 @@
+{
+  "range": [
+    1306,
+    1325
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1306,
+      "sourceName": "Tiep Hien Order",
+      "decision": "keep",
+      "canonicalName": "Орден взаимобытия (Тьеп Хьен)",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Вьетнамский тхиен",
+      "description": "Основанное Тхить Нят Ханем в 1966 году буддийское сообщество монахов и мирян, следующее четырнадцати практикам осознанности.",
+      "profile": "+buddha +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Order_of_Interbeing",
+        "https://orderofinterbeing.org/for-the-aspirant/fourteen-mindfulness-trainings/"
+      ],
+      "notes": "Tiep Hien и Order of Interbeing обозначают один орден. Его собственные наставления подтверждают практику осознанности и общественно ответственную этику. Не alias всего вовлечённого буддизма, школы Линьцзи или всей традиции Plum Village."
+    },
+    {
+      "sourceIndex": 1307,
+      "sourceName": "Trúc Lâm",
+      "decision": "review",
+      "canonicalName": "Чук Лам",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Вьетнамский тхиен",
+      "description": "Вьетнамская традиция тхиен, связываемая со средневековым наследием Чан Нян Тонга и современными медитативными общинами Тхить Тхань Ты.",
+      "profile": "+buddha +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tr%C3%BAc_L%C3%A2m",
+        "https://www.mdpi.com/2077-1444/15/3/352"
+      ],
+      "notes": "Review: исходная статья предупреждает о возможном тексте языковой модели. Исследование Nguyen 2024 подтверждает современное движение, но критически различает его и реконструируемую средневековую школу. Непрерывная преемственность и неизменность практики не утверждаются. Нужна редакционная проверка, объединять ли под одним именем эти исторические уровни."
+    },
+    {
+      "sourceIndex": 1308,
+      "sourceName": "Vipassana movement",
+      "decision": "keep",
+      "canonicalName": "Движение випассаны",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Тхеравада",
+      "description": "Современные линии буддийской медитации прозрения, возникшие преимущественно в тхераваде и распространившиеся среди монахов и мирян.",
+      "profile": "+buddha +meditation +no_self",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vipassana_movement"
+      ],
+      "notes": "Источник описывает прозрение непостоянства, неудовлетворительности и не-я, а также разные методы и линии учителей. Не alias всей Тхеравады, одной школы Гоенки или любой светской практики mindfulness. Религиозное самоопределение и отношение к метафизике у современных участников различаются."
+    },
+    {
+      "sourceIndex": 1309,
+      "sourceName": "Yellow Shamanism",
+      "decision": "review",
+      "canonicalName": "Жёлтый шаманизм",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Монгольские и сибирские шаманские традиции",
+      "description": "Обозначение форм монгольского и сибирского шаманизма, включающих буддийские элементы обрядов и представлений.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yellow_shamanism",
+        "https://www.tandfonline.com/doi/abs/10.1080/14631361003779489"
+      ],
+      "notes": "Review: объём термина и исторические утверждения о его исчезновении спорны уже в исходной статье. Исследование Балога подтверждает употребление названия и связь с буддийской «жёлтой верой», но не единое вероучение всех бурят и монголов. Выбрано indigenous по шаманскому контексту; не alias всей школы Гелуг или всего монгольского шаманизма."
+    },
+    {
+      "sourceIndex": 1310,
+      "sourceName": "Yogācāra",
+      "decision": "keep",
+      "canonicalName": "Йогачара",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Махаяна",
+      "description": "Махаянская философская и медитативная традиция, исследующая конструирование опыта сознанием, кармические семена и преобразование познания.",
+      "profile": "+buddha +meditation +karma +no_self",
+      "proposedQuestions": [
+        {
+          "id": "storehouse_consciousness",
+          "text": "Близка ли вам модель сознания-хранилища (алая-виджняны), несущего семена опыта и кармических последствий?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Передаёт важное учение йогачары и многих её восточноазиатских продолжений. Позволяет сопоставлять их с моделями сознания, не признающими алая-виджняну; не приписывает всем другим буддистам автоматическое отрицание. Сознание-хранилище не объявляется неизменной душой."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yogacara"
+      ],
+      "notes": "Исходник подтверждает восемь сознаний, алая-виджняну и критику ошибочного принятия сознания за истинное «я». Учение «только представление» имеет разные интерпретации и не приравнено к пантеизму или современному психологическому идеализму. Не alias более узкой Восточноазиатской йогачары."
+    },
+    {
+      "sourceIndex": 1311,
+      "sourceName": "Yuzu Nembutsu",
+      "decision": "keep",
+      "canonicalName": "Юдзу-нэмбуцу-сю",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Буддизм Чистой земли",
+      "description": "Японская школа Чистой земли, связывающая повторение имени Амитабхи с взаимным благом практикующего и всего мира.",
+      "profile": "+buddha +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yuzu_Nembutsu"
+      ],
+      "notes": "Источник описывает самостоятельную школу и учение о взаимопроникновении пользы нэмбуцу. Не alias всего Буддизма Чистой земли или одной только техники повторения имени Будды. Общий профиль перерождения не перенесён автоматически."
+    },
+    {
+      "sourceIndex": 1312,
+      "sourceName": "Zen Buddhism",
+      "decision": "alias",
+      "canonicalName": "Дзен-буддизм",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Буддийская традиция созерцательной практики, прямого постижения и наставничества.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zen_Buddhism"
+      ],
+      "notes": "Alias существующего «Дзен-буддизма» в religions.js. Исходная ссылка ведёт к общему обзору Zen, а не конкретной новой организации. Более узкие региональные школы и линии не слиты с этим общим названием."
+    },
+    {
+      "sourceIndex": 1313,
+      "sourceName": "Ōbaku",
+      "decision": "keep",
+      "canonicalName": "Обаку",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Дзен-буддизм",
+      "description": "Японская школа дзен, восходящая к китайским учителям XVII века и исторически соединявшая чаньскую практику с нэмбуцу и китайскими монастырскими формами.",
+      "profile": "+buddha +meditation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/%C5%8Cbaku"
+      ],
+      "notes": "Не alias всего Риндзай: исходник различает происхождение, историческую практику и последующее сближение школ. Термин Nembutsu Zen в источнике имеет полемическую историю и не принят как нейтральное название всего направления. Частные обычаи ранних монастырей не приписаны безоговорочно каждому нынешнему участнику."
+    },
+    {
+      "sourceIndex": 1314,
+      "sourceName": "Ōtani-ha",
+      "decision": "keep",
+      "canonicalName": "Синсю Отани-ха",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": "Дзёдо-синсю",
+      "description": "Ветвь японского Дзёдо-синсю с главным храмом Хигаси Хонган-дзи, опирающаяся на учение Синрана и сутры Амиды.",
+      "profile": "+buddha +scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/%C5%8Ctani-ha",
+        "https://english.higashihonganji.or.jp/buddhism/",
+        "https://english.higashihonganji.or.jp/experience/"
+      ],
+      "notes": "Официальный сайт подтверждает самостоятельную ветвь, её храм, учение и чтение сутры в утренних службах. Не alias события Ohigashi schism из строки 1279, всей Дзёдо-синсю или отдельной ветви Хонгандзи-ха. Численность из обзорной статьи не представлена подтверждённой текущей статистикой."
+    },
+    {
+      "sourceIndex": 1315,
+      "sourceName": "Achintya Bheda Abheda",
+      "decision": "keep",
+      "canonicalName": "Ачинтья-бхеда-абхеда",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Гаудия-вайшнавизм",
+      "description": "Гаудия-вайшнавская философия непостижимого одновременного единства и различия Кришны, индивидуальных душ и мира.",
+      "profile": "+divine +personal +bhakti +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Achintya_Bheda_Abheda"
+      ],
+      "notes": "Исходник подтверждает Кришну как высшую истину, авторитет писаний и преданность как путь. Это конкретная философская позиция, а не alias всего Кришнаизма, Гаудия-вайшнавизма или организации ИСККОН. Не сводится к недвойственности Адвайты, поскольку различие души и Бога сохраняет значение."
+    },
+    {
+      "sourceIndex": 1316,
+      "sourceName": "Adinath Sampradaya",
+      "decision": "review",
+      "canonicalName": "Адинатха-сампрадая",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Натха-сампрадая",
+      "description": "Название шиваитской традиции или линии натхов, связывающей начало передачи с Адинатхой — Шивой.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Adinath_Sampradaya",
+        "https://www.internationalnathorder.org/adinath/",
+        "https://www.himalayanacademy.com/media/books/the-guru-chronicles/web/14_na01_05.html",
+        "https://eprints.soas.ac.uk/17972/1/Nath%20Sampradaya.FP.pdf"
+      ],
+      "notes": "Review: источники расходятся в объёме названия. Исходная статья и INO описывают узкую аскетическую линию и её заявленное завершение с Махендранатхом, тогда как Himalayan Academy использует название для более широкой живой традиции. Академический обзор подтверждает натхов и Адинатху, но не разрешает это расхождение. Преемственность и исключительная «подлинность» одного гуру не приняты за установленный факт."
+    },
+    {
+      "sourceIndex": 1317,
+      "sourceName": "Advaita Vedanta",
+      "decision": "alias",
+      "canonicalName": "Адвайта-веданта",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Недвойственная ведантическая традиция постижения тождества атмана и Брахмана.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Advaita_Vedanta"
+      ],
+      "notes": "Alias существующей «Адвайта-веданты» в religions.js. Английское написание Advaita Vedanta обозначает то же направление; не создавать отдельную запись и дублирующий профиль."
+    },
+    {
+      "sourceIndex": 1318,
+      "sourceName": "Aghori",
+      "decision": "keep",
+      "canonicalName": "Агхори",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Шиваизм",
+      "description": "Шиваитская аскетическая традиция, связывающая преодоление привязанностей и различения чистого и нечистого с освобождением и почитанием Шивы.",
+      "profile": "+divine +reincarnation +liberation +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aghori"
+      ],
+      "notes": "Источник подтверждает Шиву в форме Бхайравы, тантрическую садхану и освобождение от сансары. Не alias всех капаликов, шиваитов или Адвайта-веданты. Сенсационные описания отдельных трансгрессивных обрядов не приняты за обязательное поведение каждого последователя; легендарное долголетие основателя не представлено историческим фактом."
+    },
+    {
+      "sourceIndex": 1319,
+      "sourceName": "Akshar-Purushottam Darshan",
+      "decision": "keep",
+      "canonicalName": "Акшар-Пурушоттам-даршан",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Традиция Сваминараяна",
+      "description": "Ведантическое учение традиции Сваминараяна, различающее Акшарбрахман и высшего Пурушоттама и связывающее освобождение с преданностью Богу и духовным наставничеством.",
+      "profile": "+divine +personal +scripture +bhakti +reincarnation +liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Akshar-Purushottam_Darshan",
+        "https://na.baps.org/learn/our-beliefs",
+        "https://www.baps.org/About-BAPS/TheFounder%E2%80%93BhagwanSwaminarayan/TeachingsandPhilosophy/Philosophy/AksharPurushottamUpasana.aspx"
+      ],
+      "notes": "Сайт BAPS подтверждает пять вечных сущностей, особую роль акшар-брахма-гуру и мокшу как освобождение от рождения и смерти. Это философско-богословское учение, а не точный синоним самой организации BAPS; преемственность гуру и богословские притязания переданы как её самоописание. Пять сущностей не приравнены к пяти равным богам."
+    },
+    {
+      "sourceIndex": 1320,
+      "sourceName": "Baarmati religion",
+      "decision": "review",
+      "canonicalName": "Бармати-пантх",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозная традиция Качча и Синда, связанная с Матанг Девом и собственным наследием духовных гимнов.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Baarmati_religion",
+        "https://books.google.com/books/about/Gin%C4%81ns.html?id=xmh3gQjPHkAC",
+        "https://www.erudit.org/fr/revues/ltp/2008-v64-n3-ltp3326/037706ar.pdf"
+      ],
+      "notes": "Review: исходная статья предупреждает о недостатке подтверждений, содержит неясную хронологию и утверждения о происхождении, требующие сверки. Научный сборник отдельно рассматривает общие гимны бармати и сатпантхи, подтверждая различимость традиций. Baarmati religion и Barmati Panth — варианты названия одной записи, а не две религии. Dharmic выбрано предварительно; связи с исмаилитским и натховским контекстами требуют уточнения, поэтому готовый индуистский профиль не назначен."
+    },
+    {
+      "sourceIndex": 1321,
+      "sourceName": "Balinese Hinduism",
+      "decision": "keep",
+      "canonicalName": "Балийский индуизм",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Индуизм",
+      "description": "Региональная индуистская традиция Бали с храмовыми и семейными обрядами, подношениями, почитанием предков и местной космологией.",
+      "profile": "+divine +ancestors +ritual +karma +reincarnation +liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Balinese_Hinduism"
+      ],
+      "notes": "Источник прямо описывает Панча-шраддха, карму, перерождение, мокшу и обряды для предков. Формальное признание высшего божественного принципа в современной Индонезии не превращено в простое отрицание многих божеств. Не alias всех традиций Бали, всего индонезийского индуизма или религии всех балийцев."
+    },
+    {
+      "sourceIndex": 1322,
+      "sourceName": "Balmikism",
+      "decision": "keep",
+      "canonicalName": "Вальмикизм (Бальмикизм)",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Индуизм",
+      "description": "Религиозная традиция почитания Вальмики, которого последователи признают божественным воплощением и связывают с авторитетом «Рамаяны» и «Йога-Васиштхи».",
+      "profile": "+divine +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Balmikism"
+      ],
+      "notes": "Источник прямо отличает религиозное направление от касты и социального названия Valmiki/Balmiki. Не все люди соответствующих общин автоматически считаются последователями этой веры. Приведённые варианты имени Вальмики не использованы для слияния с другими культами без отдельной проверки."
+    },
+    {
+      "sourceIndex": 1323,
+      "sourceName": "Banjara Hinduism",
+      "decision": "keep",
+      "canonicalName": "Индуистские традиции банджара",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Индуизм",
+      "description": "Местные индуистские формы религиозной жизни банджара, включая почитание Баладжи, Джагадамбы и святого Севалала.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Banjara",
+        "https://www.trad-culture.ru/en/article/religion-and-beliefs-banjaras-south-india"
+      ],
+      "notes": "Исходная статья посвящена народу, но содержит специальный раздел о религии. Этнографическое исследование Иванова и Ратхода подтверждает отдельный предмет — религиозные представления, праздники и обряды банджара Южной Индии. Сохранена региональная практика, а не единая вера всех банджара; почитание Гуру Нанака не делает её синонимом сикхизма."
+    },
+    {
+      "sourceIndex": 1324,
+      "sourceName": "Baul",
+      "decision": "keep",
+      "canonicalName": "Баулы",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Бенгальская мистическая религиозная традиция, выражающая духовное самосовершенствование и отношение человека к Богу через песни, наставничество и телесный опыт.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Baul",
+        "https://ich.unesco.org/en/RL/baul-songs-00107"
+      ],
+      "notes": "UNESCO подтверждает самостоятельную традицию, связанную с индуистскими, буддийскими, вайшнавскими и суфийскими влияниями, но не тождественную им. Это не только музыкальный жанр и не все выступающие певцы автоматически религиозные практики. Dharmic — ближайшее широкое семейство, а не утверждение исключительно индуистской принадлежности; отказ от организованной религии не приравнен к отсутствию религиозной традиции."
+    },
+    {
+      "sourceIndex": 1325,
+      "sourceName": "Bengali folk religion",
+      "decision": "review",
+      "canonicalName": "Народные религиозные направления Бенгалии",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательное обозначение ряда местных бенгальских направлений, включая баулов, баларами, сахебдхани и матуа.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Folk_sects_in_Bengal",
+        "https://en.banglapedia.org/index.php?title=Folk_Sects"
+      ],
+      "notes": "Review: sourceName Bengali folk religion шире содержания URL Folk sects in Bengal, который перечисляет несколько самостоятельных направлений. Banglapedia также описывает неоднородные движения с индуистскими и исламскими связями, а не общую конфессию. Не alias Баулов или всей бенгальской религиозности; профиль и семейство оставлены пустыми до уточнения объёма. Новое семейство для обзорной категории не предлагается."
+    }
+  ]
+}

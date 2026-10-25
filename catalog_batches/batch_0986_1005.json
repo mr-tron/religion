@@ -1,0 +1,356 @@
+{
+  "range": [
+    986,
+    1005
+  ],
+  "entries": [
+    {
+      "sourceIndex": 986,
+      "sourceName": "Universe people",
+      "decision": "keep",
+      "canonicalName": "Люди Вселенной (Universe People)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Чешско-словацкое уфологическое движение Иво Бенды, основанное на предполагаемых телепатических посланиях внеземных существ.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Universe_people"
+      ],
+      "notes": "Самостоятельное движение. Контакты с внеземными существами описывают убеждения участников; из них не выводятся божественность пришельцев или обязательный политеизм."
+    },
+    {
+      "sourceIndex": 987,
+      "sourceName": "Urantia movement",
+      "decision": "keep",
+      "canonicalName": "Движение читателей «Книги Урантии»",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Сеть читателей и организаций вокруг опубликованной в 1955 году «Книги Урантии», которую сторонники считают новым духовным откровением.",
+      "profile": "+divine +scripture +new_revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Urantia_Book",
+        "https://www.urantia.org/news/1999-09/urantia-book-and-overview-epochal-revelations"
+      ],
+      "notes": "Исходная ссылка посвящена книге; сайт фонда подтверждает сообщества читателей. Это не единая церковь: чтение книги может сочетаться с принадлежностью к другим религиям. Не alias христианства; трактовка Иисуса и космологии самостоятельна."
+    },
+    {
+      "sourceIndex": 988,
+      "sourceName": "Vale do Amanhecer",
+      "decision": "keep",
+      "canonicalName": "Вале-ду-Аманьесер — Долина Рассвета",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Бразильское движение Тиа Нейвы, объединяющее медиумизм, спиритизм, христианские и уфологические представления.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vale_do_Amanhecer"
+      ],
+      "notes": "Сохраняется как самостоятельная община и учение; родство с умбандой и спиритизмом не означает тождества. Набор общих богословских убеждений не перенесён из составляющих синтеза."
+    },
+    {
+      "sourceIndex": 989,
+      "sourceName": "Agasha Temple of Wisdom",
+      "decision": "keep",
+      "canonicalName": "Храм мудрости Агаша",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Основанная Ричардом Зенором в Лос-Анджелесе организация, передающая через медиумов учение о вселенском божественном сознании.",
+      "profile": "+divine +reincarnation +karma +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Agasha_Temple_of_Wisdom",
+        "https://agasha.org/",
+        "https://agasha.org/faqs/"
+      ],
+      "notes": "Официальные материалы подтверждают перевоплощение, карму и предполагаемую передачу учения вознесёнными учителями. Божественное понимается как коллективное сознание; личный Бог и христианский характер не выводятся из слова «храм»."
+    },
+    {
+      "sourceIndex": 990,
+      "sourceName": "Agni Yoga",
+      "decision": "keep",
+      "canonicalName": "Агни-йога (Живая этика)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Теософия",
+      "description": "Эзотерическое учение Елены и Николая Рерихов, сложившееся в 1920-х годах и связывающее духовное развитие с повседневной жизнью.",
+      "profile": "+reincarnation +karma +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Agni_Yoga",
+        "https://www.agniyoga.org/ay_en/Aum.php"
+      ],
+      "notes": "Живая этика — название того же учения. Рерихизм шире: он охватывает также культурное наследие и организации вокруг Рерихов, поэтому не принят за точный синоним. «Огонь» здесь прежде всего эзотерический принцип, а не основание для +fire."
+    },
+    {
+      "sourceIndex": 991,
+      "sourceName": "Ancient Mystical Order Rosae Crucis",
+      "decision": "keep",
+      "canonicalName": "Древний мистический орден Розы и Креста (AMORC)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Розенкрейцерская инициатическая организация, основанная Харви Спенсером Льюисом в США в 1915 году.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ancient_Mystical_Order_Rosae_Crucis"
+      ],
+      "notes": "AMORC — конкретная организация, а не точный синоним всех розенкрейцерских течений. Названия Ancient Mystical Order Rosae Crucis и Antiquus Mysticusque Ordo Rosae Crucis обозначают этот орден."
+    },
+    {
+      "sourceIndex": 992,
+      "sourceName": "Anthroposophy",
+      "decision": "alias",
+      "canonicalName": "Антропософия",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовно-эзотерическое учение Рудольфа Штайнера.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anthroposophy"
+      ],
+      "notes": "Точное совпадение с существующей записью «Антропософия» в religions.js. Использовать её каноническое имя; отдельный дублирующий профиль не создаётся."
+    },
+    {
+      "sourceIndex": 993,
+      "sourceName": "A∴A∴",
+      "decision": "keep",
+      "canonicalName": "A∴A∴ — эзотерический орден Кроули",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Телема",
+      "description": "Созданный Алистером Кроули и Джорджем Сесилом Джонсом орден духовной подготовки, соединяющий телемитское учение, медитацию и церемониальную магию.",
+      "profile": "+scripture +meditation +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/A%E2%88%B4A%E2%88%B4"
+      ],
+      "notes": "«Книга Закона» имеет священный авторитет; практики и степени описаны в исходнике. Не alias Ордена восточных тамплиеров или Золотой зари. Самоопределение scientific illuminism не доказывает scientific."
+    },
+    {
+      "sourceIndex": 994,
+      "sourceName": "Biotronics",
+      "decision": "review",
+      "canonicalName": "Биотроника Йозефа Зезулки",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Созданное Йозефом Зезулкой учение о предполагаемых жизненных силах, связанное с его философией Бытия и практикой энергетического целительства.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Biotronics",
+        "https://www.josefzezulka.cz/"
+      ],
+      "notes": "Исходная английская статья недоступна при проверке. Сайт последователей подтверждает термин и основателя, но это заинтересованный первичный источник: требуется независимая проверка границ религиозной традиции и её отличия от метода целительства. Заявления об эффективности не приняты как установленные факты."
+    },
+    {
+      "sourceIndex": 995,
+      "sourceName": "Builders of the Adytum",
+      "decision": "keep",
+      "canonicalName": "Строители Адитума (B.O.T.A.)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Герметический орден Золотой зари",
+      "description": "Эзотерическая школа Пола Фостера Кейса, обучающая каббале, символике Таро, медитации и ритуальным практикам.",
+      "profile": "+meditation +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Builders_of_the_Adytum"
+      ],
+      "notes": "Отдельная школа, исторически связанная с наследием Золотой зари; не alias этого ордена. Общая символика не устанавливает единое вероисповедание всех участников."
+    },
+    {
+      "sourceIndex": 996,
+      "sourceName": "Chaos magic",
+      "decision": "keep",
+      "canonicalName": "Магия хаоса",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Направление современной западной магии, использующее изменяемые системы убеждений и экспериментальные техники, включая сигилы.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chaos_magic"
+      ],
+      "notes": "Самостоятельное направление, а не одна организация или общее название всех магических практик. Практический эксперимент в магическом контексте не приравнен к научному методу; фиксированная теология не предполагается."
+    },
+    {
+      "sourceIndex": 997,
+      "sourceName": "Emin",
+      "decision": "review",
+      "canonicalName": "Эмин (Emin)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Возникшая в Великобритании вокруг Рэймонда Армина сеть групп духовного поиска и личного развития.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Emin_(esoteric_movement)",
+        "https://emin.org/front_pages/front_pages/8"
+      ],
+      "notes": "В исходной статье отмечена недостаточность источников. Официальная история подтверждает Армина и лондонскую группу начала 1970-х, но не даёт достаточно оснований для единого богословского профиля всех групп; даты основания требуют разграничения. Не смешивать с одноимёнными людьми."
+    },
+    {
+      "sourceIndex": 998,
+      "sourceName": "Enochian magic",
+      "decision": "review",
+      "canonicalName": "Енохианская магия",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Система ритуальной магии, связанная с записями Джона Ди и Эдварда Келли о предполагаемом общении с ангелами в XVI веке.",
+      "profile": "+ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Enochian_magic",
+        "https://www.britishmuseum.org/collection/object/H_1838-1232-90-a"
+      ],
+      "notes": "Исходная статья содержит предупреждение о тексте, предположительно созданном языковой моделью; требуется редакционная проверка. Каталог Британского музея независимо подтверждает магические печати Ди и их связь с записями о наставлениях ангела. Исторические практики и позднейшие интерпретации Золотой зари следует различать."
+    },
+    {
+      "sourceIndex": 999,
+      "sourceName": "Eubiose",
+      "decision": "keep",
+      "canonicalName": "Эубиоз — Бразильское общество эубиоза",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Теософия",
+      "description": "Бразильская инициатическая школа Энрике Жозе де Соузы и Элены Жеферсон де Соузы, выросшая из теософской среды.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/:pt:Sociedade_Brasileira_de_Eubiose",
+        "https://pt.wikipedia.org/wiki/Sociedade_Brasileira_de_Eubiose",
+        "https://eubiose.org.br/"
+      ],
+      "notes": "Исходный URL ошибочно оформлен как межъязыковая ссылка; проверена соответствующая португальская статья и официальный сайт. Сохраняется конкретное общество и его учение, а не вся теософия. Прежние названия общества описывают организационную преемственность."
+    },
+    {
+      "sourceIndex": 1000,
+      "sourceName": "Faithism",
+      "decision": "keep",
+      "canonicalName": "Последователи «Оаспе» (Faithism)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение вокруг опубликованной Джоном Ньюбро в 1882 году книги «Оаспе», которую её сторонники считают переданным духовными существами откровением.",
+      "profile": "+divine +scripture +new_revelation +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Oahspe"
+      ],
+      "notes": "Исходная статья посвящена книге, но также описывает называющих себя Faithists последователей и их общины. Автоматическое письмо описывает заявленный способ получения текста; небесное авторство не принимается как установленный факт. Не alias всех спиритуалистов или христианства."
+    },
+    {
+      "sourceIndex": 1001,
+      "sourceName": "Fourth Way",
+      "decision": "review",
+      "canonicalName": "Четвёртый путь",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Связанное с Георгием Гурджиевым и Петром Успенским учение о самонаблюдении и развитии внимания в повседневной жизни.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fourth_Way",
+        "https://www.gfnyc.org/"
+      ],
+      "notes": "Исходная статья отмечена недостатком ссылок, поэтому review. Фонд Гурджиева независимо подтверждает самонаблюдение, движения и регулярную медитацию в своей линии; это не утверждение об одинаковом устройстве всех групп Четвёртого пути. Медитация указана по подтверждённой практике, без переноса индуистских или буддийских догматов."
+    },
+    {
+      "sourceIndex": 1002,
+      "sourceName": "Fraternitas Saturni",
+      "decision": "review",
+      "canonicalName": "Братство Сатурна (Fraternitas Saturni)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Немецкий эзотерический орден, возникший вокруг Ойгена Гроше и развивающий инициатические и магические практики.",
+      "profile": "+ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fraternitas_Saturni",
+        "https://fraternitas.de/kontakt/",
+        "https://www.gu.se/forskning/hon-forskar-om-ockultism-med-fokus-pa-genus-och-sexualitet"
+      ],
+      "notes": "Исходная статья предупреждает о зависимости от связанных с предметом источников; требуется review. Сайт ордена подтверждает посвящение и церемониальные встречи, а университетский материал — самостоятельный исторический объект исследования. Не alias адонизма, Телемы или Ордена восточных тамплиеров."
+    },
+    {
+      "sourceIndex": 1003,
+      "sourceName": "Fraternity of the Inner Light",
+      "decision": "keep",
+      "canonicalName": "Общество Внутреннего света (Дион Форчун)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Основанная Дион Форчун британская школа западной эзотерики и ритуальной магии, первоначально называвшаяся Fraternity of the Inner Light.",
+      "profile": "+ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fraternity_of_the_Inner_Light"
+      ],
+      "notes": "Fraternity и Society of the Inner Light — историческое и последующее названия одной организации. Не alias «Храма истинного внутреннего света» (Temple of the True Inner Light) из другой партии: это отдельная американская община."
+    },
+    {
+      "sourceIndex": 1004,
+      "sourceName": "Goetia",
+      "decision": "keep",
+      "canonicalName": "Гоэтия",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиция западной ритуальной магии, связанная с вызыванием духов; в узком употреблении — система Ars Goetia из «Малого ключа Соломона».",
+      "profile": "+ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Goetia_(magic)"
+      ],
+      "notes": "Сохраняется направление практики, а не отдельная церковь. Широкий термин и конкретный гримуар не полностью тождественны. Вызывание духов не доказывает политеизм, а практический гримуар не автоматически является священным писанием."
+    },
+    {
+      "sourceIndex": 1005,
+      "sourceName": "Hermetic Order of the Golden Dawn",
+      "decision": "keep",
+      "canonicalName": "Герметический орден Золотой зари",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Британский инициатический орден конца XIX — начала XX века, разработавший влиятельную систему церемониальной магии и эзотерического обучения.",
+      "profile": "+ritual +occult",
+      "proposedQuestions": [
+        {
+          "id": "initiatory_brotherhood",
+          "text": "Занимает ли принадлежность к закрытому религиозному братству с посвящением центральное место в вашей практике?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Повторно используется уже предложенный вопрос: он различает инициатические ордена и индивидуальную эзотерическую практику. Подтверждён для Золотой зари, A∴A∴ и Братства Сатурна; не предполагает отрицательного ответа у остальных записей.",
+          "supportedEntries": [
+            "Hermetic Order of the Golden Dawn",
+            "A∴A∴",
+            "Fraternitas Saturni"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn"
+      ],
+      "notes": "Исторический орден отделён от последующих организаций и школ, заимствовавших его материалы. Не alias всех современных групп с названием Golden Dawn, A∴A∴ или B.O.T.A.; совпадение имени с политической организацией отношения к записи не имеет."
+    }
+  ]
+}

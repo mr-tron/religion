@@ -1,0 +1,364 @@
+{
+  "range": [
+    386,
+    405
+  ],
+  "entries": [
+    {
+      "sourceIndex": 386,
+      "sourceName": "Kejawèn",
+      "decision": "keep",
+      "canonicalName": "Кеджавен",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Яванский комплекс духовных традиций, сочетающих местные верования, аскезу и медитацию с влияниями нескольких религий.",
+      "profile": "+meditation +ritual +divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kejaw%C3%A8n",
+        "https://e-journal.uingusdur.ac.id/Penelitian/article/view/2213",
+        "https://ejournal.uinsaizu.ac.id/index.php/komunika/article/view/794"
+      ],
+      "notes": "Не единая конфессия: Kejawen, kebatinan и kepercayaan частично пересекаются, но не во всех употреблениях тождественны. Узкие организации Сумарах, Субуд и Сапта Дхарма не синонимы всего комплекса. Спорные обобщения вводной таблицы о политеизме не включены. Углубление: этнографическое исследование Suroyo и Bima в Джокьякарте и Соло (2023) и работа Chakim о laku прямо описывают поиск Бога, внутреннюю духовность и молитву. Добавлено только divine: единство человека с Богом не приравнено к тождеству вселенной и Бога, а исламская интерпретация отдельных общин не превращена в общие one_god, quran или sharia."
+    },
+    {
+      "sourceIndex": 387,
+      "sourceName": "Kendayan religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия канадаян (каная́тн)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования каная́тн Западного Калимантана с почитанием Джубаты и религиозным значением адата.",
+      "profile": "+divine +ritual +ancestors +afterlife +icons +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kendayan_people",
+        "https://ejournal.stftws.ac.id/index.php/forum/article/view/856",
+        "https://garuda.kemdiktisaintek.go.id/documents/detail/3212341"
+      ],
+      "notes": "Исходная статья о народе прямо описывает веру и жрецов-посредников. Не путать с Kedayan. Источник отдельно отличает эту традицию от индуистского кахарингана; она не alias всего Dayak religion. Углубление: исследование Romanus Piter о Pantak объединяет этнографические данные и опыт автора из общины Kanayatn: статуи служат живыми религиозными символами связи с предками после смерти. Это основания ancestors, afterlife и icons, не простое наличие скульптуры. Полевой анализ Nyangahatn Baburukng (Sesilia Seli, 2021), абстракт в государственном индексе Garuda, описывает толкование птичьих знаков rasi при выборе земли. Не назначено строгое единобожие и не перенесены христианские трактовки Jubata."
+    },
+    {
+      "sourceIndex": 388,
+      "sourceName": "Malingkote",
+      "decision": "review",
+      "canonicalName": "Малингкоте",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Традиционные верования мурутов",
+      "description": "Историческое религиозное движение мурутов Северного Борнео конца XIX века, связанное с Тахангом.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Malingkote",
+        "https://www.biodiversitylibrary.org/part/184892"
+      ],
+      "notes": "Review: существование движения подтверждено исторической публикацией 1894 года, однако подробное описание вероучения и насилия в исходной статье передаёт колониальные свидетельства. Нужна сверка с исследованием критики колониального дискурса; оценки destructive cult и xenophobia не перенесены. Доктринальный профиль оставлен пустым. Не синоним общей религии мурутов."
+    },
+    {
+      "sourceIndex": 389,
+      "sourceName": "Mangyan religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования мангьянов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиции коренных групп Миндоро с божествами и духами, связанными с жизнью человека и возделыванием риса.",
+      "profile": "+divine +many_gods +nature_spirits +ritual +ancestors +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mangyan_people",
+        "https://nlpdl.nlp.gov.ph/CC01/monographs/1994/NLP00VM052mcd/v1/v33.pdf"
+      ],
+      "notes": "Мангьяны — зонтичное название нескольких групп, а не единая церковь. Статья содержит раздел Indigenous Mangyan religion; конкретный пантеон не предполагается одинаковым во всех общинах. Углубление: статья CCP в Национальной библиотеке Филиппин, с. 10–11 PDF, прямо описывает душу умершего karadwa, обращения хануноо к душам родных ради урожая/исцеления и подношения. Добавлены ancestors и afterlife как засвидетельствованные компоненты зонтичной категории; это не утверждение одинаковых представлений каждой группы мангьянов."
+    },
+    {
+      "sourceIndex": 390,
+      "sourceName": "Maori religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия маори",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренная традиция маори с генеалогической взаимосвязью людей и природы, божественными предками и понятиями маури, тапу и мана.",
+      "profile": "+divine +many_gods +nature_spirits +ritual +afterlife +divination_oracles +spirit_possession +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Religion_of_M%C4%81ori_people",
+        "https://teara.govt.nz/en/traditional-maori-religion-nga-karakia-a-te-maori/page-2",
+        "https://teara.govt.nz/en/traditional-maori-religion-nga-karakia-a-te-maori/page-4",
+        "https://teara.govt.nz/en/traditional-maori-religion-nga-karakia-a-te-maori/page-5",
+        "https://teara.govt.nz/en/interactive/30796/te-rerenga-wairua"
+      ],
+      "notes": "Исходная статья охватывает также христианство современных маори; профиль ограничен традиционным компонентом. Спорное представление об Ио как едином верховном божестве не назначено. Не alias общей полинезийской религии или отдельных христианских движений. Углубление: государственная энциклопедия Te Ara, статья Basil Keane, прямо описывает tohunga как медиумов, через которых боги говорят другим голосом, и matakite как предсказателей. Раздел Karakia описывает действенные заклинания, а раздел Rituals — обряды и первые плоды для atua. Карта Te Rerenga Wairua показывает посмертный путь духов в подземный мир. Karakia не объявлены единым священным писанием; источник отдельно отличает их от поклонения богам. Историческая практика не назначена каждому современному маори."
+    },
+    {
+      "sourceIndex": 391,
+      "sourceName": "Marapu",
+      "decision": "keep",
+      "canonicalName": "Марапу",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренная религия острова Сумба с предками-посредниками, жертвенными и погребальными обрядами.",
+      "profile": "+divine +ancestors +ritual +afterlife +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Marapu",
+        "https://ejournal.unesa.ac.id/index.php/avatara/article/view/6300",
+        "https://www.journal.unwira.ac.id/LUMENVERITATIS/en/article/view/478",
+        "https://pub-ucpec2-prd.cdlib.org/ucpressebooks/view?anchor.id=0&brand=eschol&chunk.id=d0e10983&doc.view=content&docId=ft0x0n99tc&toc.depth=1"
+      ],
+      "notes": "Раздел Beliefs исходной статьи недостаточно снабжён ссылками. Университетские исследования независимо подтверждают предков, обряды и посмертное возвращение души в селение предков; неподтверждённые подробности космогонии не включены. Углубление: этнография Janet Hoskins The Play of Time (University of California Press), доступный индексированный фрагмент, описывает marapu-гадание через измерение копья у центрального столба дома: ответы да/нет выявляют разгневанных духов и требуемый обряд. Прямое открытие главы дало 502; добавлен только прямо засвидетельствованный divination_oracles. Кодийский материал не задаёт единообразие всех общин Сумбы."
+    },
+    {
+      "sourceIndex": 392,
+      "sourceName": "Melanau religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования меланау",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования меланау Саравака, исторически связанные с одушевлённостью природы и ежегодными обрядами Каул.",
+      "profile": "+nature_spirits +ritual +icons +occult +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Melanau_people",
+        "https://museum.sarawak.gov.my/web/subpage/webpage_view/286",
+        "https://pemetaanbudaya.jkkn.gov.my/senibudaya/detail/1057"
+      ],
+      "notes": "Статья о народе подтверждает прежний анимистический компонент и сохранение Каул. Нынешнее исповедание ислама или христианства многими меланау не назначается профилю традиционных верований. Углубление: статья Sarawak Museum Journal Schlömer (2022) на сайте музея описывает лечебные изображения духов bilum и защитные/удачные амулеты suk — основания icons и occult. Примечание 26, слова консультанта Diana Rose из Lamin Dana, прямо описывает путешествие шамана в мир умерших в посмертном обряде pelatow — основание afterlife. Карточка JKKN Topeng Sagu подтверждает ритуальные маски в лечении Bebayuh; прямое открытие дало тайм-аут, описание доступно в выдаче. Масочный признак поддерживается отдельно генератором. Данные относятся к традиционным практикам, а не ко всем нынешним мусульманам/христианам меланау."
+    },
+    {
+      "sourceIndex": 393,
+      "sourceName": "Momolianism",
+      "decision": "keep",
+      "canonicalName": "Момолианизм",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные традиции Сабаха, особенно кадазан-дусун, в которых жрицы боболиан поддерживают отношения между человеческим и духовным мирами.",
+      "profile": "+divine +nature_spirits +ritual +many_gods +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Traditional_Sabahan_religions",
+        "https://borneojournal.um.edu.my/index.php/BRJ/article/download/21141/10946/46113",
+        "https://kdca.org.my/about-us/"
+      ],
+      "notes": "Исходная статья теперь озаглавлена Traditional Sabahan religions и описывает также родственные группы. Значение имён божества и степень общности традиций дискуссионны; единый пантеон всем группам не назначен. Местные традиции мурутов сохраняются отдельно как более узкая запись. Углубление: собственное изложение Kadazan Dusun Cultural Association, раздел Kadazandusun Genesis, называет Kinoingan, Sumundu и меньшие божества, а также rinait — молитвенные обращения bobolian для конкретных обрядов, включая умилостивление рисовых духов. Это основания many_gods и personal в описанной кадазан-дусунской форме. Сеанс rundukan не приравнен автоматически к вселению; божества этой космогонии не назначены всем народам Сабаха."
+    },
+    {
+      "sourceIndex": 394,
+      "sourceName": "Murut religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования мурутов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные религиозные традиции групп мурутов Сабаха с почитанием духов предков и домашними и общинными обрядами.",
+      "profile": "+ancestors +ritual +divine +nature_spirits +afterlife +occult +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Murut_people",
+        "https://oarep.usim.edu.my/entities/publication/0f50698e-aea2-4d7d-9704-8e445e5f1882",
+        "https://eprints.ums.edu.my/id/eprint/20376/7/Spiritual%20Journey%20of%20Murut%20Tahol%20in%20Sabah%20and%20Its%20Effect%20to.pdf",
+        "https://pemetaanbudaya.jkkn.gov.my/en/senibudaya/detail/1168",
+        "https://ejournal.usm.my/kajh/article/view/kajh_vol24-no-2-2017_3",
+        "https://ejournal.ukm.my/ebangi/article/view/57894"
+      ],
+      "notes": "Исходная статья относит их к широкому кругу традиций Сабаха. Исследование мурут-тахол независимо подтверждает местную традицию предков. Нельзя считать все локальные верования точным синонимом момолианизма кадазан-дусун; нынешняя религия большинства не подменяет исторический компонент. Углубление: полевое исследование Mohad (2014), с. 426, описывает Aki Kaulung и духов земли, рек, растений и животных у Tahol. Государственная карточка JKKN о погребении Tahol прямо связывает обряд с покоем души в ином мире. Исследование 26 информантов Tahol (Nassir и др., 2017) подтверждает лечебные заклинания sasampui — occult. Исследование Karimon и Alezender (2023) описывает толкование природных звуков/знаков angkapio для предстоящих событий у Paluan — divination_oracles. Ни исцеление одержимости, ни изгнание духов не использованы как доказательство ритуального spirit_possession. Разные локальные компоненты зонтичной записи не объявлены общим догматом всех мурутов."
+    },
+    {
+      "sourceIndex": 395,
+      "sourceName": "Nauruan indigenous religion",
+      "decision": "keep",
+      "canonicalName": "Коренная религия Науру",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические верования науруанцев с подношениями божествам и представлениями о духах умерших, с которыми общаются медиумы.",
+      "profile": "+divine +ritual +afterlife +ancestors +spirit_possession +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nauruan_indigenous_religion",
+        "https://micsem.org/print/?id=2076"
+      ],
+      "notes": "Источники преимущественно исторические; наличие значительного современного сообщества не утверждается. Имена мифологических персонажей не дают оснований назначать всем современным науруанцам этот профиль. Углубление: исследование Dobbin и Hezel Distribution of Spirit Possession and Trance in Micronesia, раздел Nauru, описывает вызов предков для помощи, добровольный транс медиумов и вопросы о будущей рыбной ловле. Авторы подчёркивают, что сведения Hambruch (1910) в основном получены от одного информанта Auuiyeda о частично исчезнувших обычаях. Поэтому добавлены только конкретно описанные ancestors, spirit_possession и divination_oracles; вывод о существовании современных общин или отсутствии богов не сделан."
+    },
+    {
+      "sourceIndex": 396,
+      "sourceName": "Orang Kanaq religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования оранг-канак",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования оранг-канак с духами-помощниками, табу и медиумами.",
+      "profile": "+ritual +nature_spirits +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Orang_Kanaq",
+        "https://jurnalkemanusiaan.utm.my/index.php/kemanusiaan/article/download/415/343/1007"
+      ],
+      "notes": "Статья о народе содержит религиозный раздел, но приводит противоречащие друг другу оценки доли мусульман и носителей традиционной веры. Численность и нынешнее преобладание не утверждаются; ограниченный профиль отражает только обрядовый компонент. Не синоним всех Orang Asli religions. Углубление: полевое исследование Ahmad и др. (2022), с. 28–30 (PDF 3–5), отдельно от современной исламской практики описывает прежнюю веру в сверхъестественные силы природы, духа земли, который разгневается при неправильном рытье могилы, и пищу/воду для души покойного. Это основания nature_spirits и afterlife. Выборка и оценочная исламская рамка статьи ограничены одним поселением; исламские признаки и проценты не перенесены в исторический профиль."
+    },
+    {
+      "sourceIndex": 397,
+      "sourceName": "Orang Seletar religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования оранг-селетар",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Верования оранг-селетар в духов мамбанг, обитающих в деревьях, воде, скалах и других частях окружающего мира.",
+      "profile": "+nature_spirits +ritual +occult +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Orang_Seletar",
+        "https://orangseletar.wordpress.com/rituals/"
+      ],
+      "notes": "Исходная статья о народе описывает умилостивление духов и обряды изгнания. Исторические оценки исламизации не используются как признак вероучения; отсутствие единобожия не назначается каждому представителю народа. Углубление: Orang Seletar Digital Resource, раздел Rituals, документирует видео/интервью с исполнением заклинания ilmu pengasih и pengeras; это прямое основание occult. Раздел Burials отдельно цитирует описания местных погребений и покупки лодки наследниками, чтобы дух умершего не тревожил их — основание afterlife. Сопоставления редактора с Orang Laut Риау не перенесены на селетар; ни плата pengeras, ни передача ilmu не объявлены посвящением в религиозное братство."
+    },
+    {
+      "sourceIndex": 398,
+      "sourceName": "Paiwan shamanism",
+      "decision": "review",
+      "canonicalName": "Шаманские традиции пайвань",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные духовные практики пайвань Тайваня, в которых шаманы и жрецы общаются с божествами, духами мест и предками.",
+      "profile": "+divine +ancestors +nature_spirits +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Puyuma_Pulingaw",
+        "https://www.cip.gov.tw/en/tribe/grid-list/E8D1B17F6A81D678D0636733C6861689/info.html?cumid=5DD9C4959C302B9FD0636733C6861689"
+      ],
+      "notes": "Review: исходная ссылка озаглавлена Puyuma Pulingaw и преимущественно описывает пуюма, хотя упоминает пайвань. Эти народы и их практики нельзя автоматически отождествлять. Государственный Совет по делам коренных народов отдельно подтверждает традиции пайвань, шаманов malata и жрецов palakalai; профиль взят оттуда. Требуется исправить исходную привязку, не alias к пуюма."
+    },
+    {
+      "sourceIndex": 399,
+      "sourceName": "Palawan religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия пала́ван (палавано)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Верования народа пала́ван с верховным творцом Эмпук, божествами-посредниками и духами леса и природных явлений.",
+      "profile": "+divine +many_gods +nature_spirits +personal +ancestors +ritual +afterlife +spirit_possession +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Palawan_people",
+        "https://nlpdl.nlp.gov.ph/CC01/monographs/1994/NLP00VM052mcd/v1/v37.pdf"
+      ],
+      "notes": "Исходная статья о конкретном народе содержит религиозный раздел. Не обозначает религии всех жителей острова Палаван; батаки Палавана — другой народ и другая запись. Углубление: статья CCP в Национальной библиотеке Филиппин, с. 5–7 PDF, описывает молитвы к Ampu, речи к предкам/умершим, подношения и переход в иной мир. Для Punang и Quezon прямо описано вхождение божеств/духов в медиума; для горных групп описан иной опыт — путешествие души. Лечебные и имитативные магические формулы tagtag и заклинания batya подтверждают occult. Упоминание курения смолы parina и ясновидения не превращено в entheogenic_ritual без проверки состава и психоактивности."
+    },
+    {
+      "sourceIndex": 400,
+      "sourceName": "Pangasinan religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия пангасинанцев",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исторические верования пангасинанцев Филиппин с пантеоном божеств, включающим Ама, солнечного Агео и лунного Булана.",
+      "profile": "+divine +many_gods +nature_spirits +ritual +afterlife +occult +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pangasinan_people",
+        "https://nlpdl.nlp.gov.ph/CC01/monographs/1994/NLP00VM052mcd/v1/v39.pdf"
+      ],
+      "notes": "Исходная статья о народе прямо описывает доколониальный религиозный компонент. Современное христианство пангасинанцев не включено; общие филиппинские признаки не наследуются. Углубление: статья CCP в Национальной библиотеке Филиппин, с. 9 PDF, прямо описывает исторических anito рек и деревьев, амулеты, обряды managanito, оракулы, толкование снов/знаков и выбор благоприятного времени. На с. 8–9 погребальные вещи прямо связаны с их использованием покойным в следующем мире. Современные католические изображения и почитание Манаоаг не использованы для признаков исторической религии; одно упоминание идолов не доказывает центральности священных изображений."
+    },
+    {
+      "sourceIndex": 401,
+      "sourceName": "Parmalim",
+      "decision": "keep",
+      "canonicalName": "Угамо Малим (традиция пармалим)",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Традиционные религии батаков Суматры",
+      "description": "Современная форма батакской религиозной традиции, сложившаяся как движение преимущественно среди тоба-батаков.",
+      "profile": "+divine +personal +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Parmalim",
+        "https://e-conf.usd.ac.id/public/conferences/15/schedConfs/34/program-en_US.pdf"
+      ],
+      "notes": "Parmalim буквально обозначает последователей, тогда как название религии — Ugamo Malim. Она уже зонтичной Batak religion (Indonesia), поэтому не alias. Исходная статья подтверждает движение и ограничения пищи; ответы уточнены университетским исследованием. Дополнение: полевое исследование общины Tangerang (Universitas Sanata Dharma, Concept of Divinity in the Ugamo Malim’s Community) прямо описывает Debata Mulajadi Nabolon как божественную личность и отношения с ним через богослужебные обряды: +divine +personal +ritual. Локальная выборка не доказывает единую догматику всех батаков."
+    },
+    {
+      "sourceIndex": 402,
+      "sourceName": "Pengarap Iban",
+      "decision": "keep",
+      "canonicalName": "Пенгарап Ибан",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционная религия ибанов с почитанием петара, духов и предков и обрядами подношений миринг.",
+      "profile": "+divine +ancestors +nature_spirits +ritual +many_gods +personal +afterlife +divination_oracles",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Iban_people",
+        "https://ir.unimas.my/id/eprint/21307/",
+        "https://jurcon.ums.edu.my/ojums/index.php/JBA/article/download/5623/3651",
+        "https://museum.sarawak.gov.my/web/subpage/webpage_view/856"
+      ],
+      "notes": "Исходная статья о народе подтверждает традиционный компонент; университетские полевые исследования уточняют верования и обряды Pengarap Lama Iban. Христианство большинства ибанов не назначается традиционному профилю. Дополнение: UNIMAS, The Iban Traditional Religion: Miring, описывает просьбы о защите к Petara, множественных богов и приглашение душ умерших предков: +personal +many_gods +afterlife. Clifford Sather, Iban Agricultural Augury, Sarawak Museum Journal (1985), называет толкование природных знамений центральным средством общения богов и людей: +divination_oracles. Это профиль традиции, не всех современных ибанов."
+    },
+    {
+      "sourceIndex": 403,
+      "sourceName": "Rejang religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования реджангов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования реджангов Суматры с божествами дииво и ньянг, подношениями пунджунг и обрядами кедурай агунг.",
+      "profile": "+divine +many_gods +ritual +ancestors",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rejang_people",
+        "https://jurnal.unived.ac.id/index.php/prof/article/download/962/804"
+      ],
+      "notes": "Исходная статья подчёркивает ограниченность сведений о ранней религии, но прямо описывает подношения и божеств. Современное исповедание ислама не подменяет эту историческую запись; сходство богини риса с Деви Шри не доказывает тождества традиций. Дополнение: полевое исследование коммуникации Kedurai Agung в Taba Tembilang, Professional 5(2), 2018, описывает пищевые подношения и почитание arwah nenek moyang: +ancestors. Зафиксирована современная форма с исламскими элементами; из неё не выводятся исламские признаки доколониальной религии."
+    },
+    {
+      "sourceIndex": 404,
+      "sourceName": "Rotenese religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования ротийцев",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования народа острова Роти, связанные с творцом и подателем благ Ламатуаном (Ламатуаком).",
+      "profile": "+divine +ancestors +ritual +divination_oracles +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rotenese_people",
+        "https://press-files.anu.edu.au/downloads/press/n13024/html/ch02.xhtml?page=3&referer=",
+        "https://press-files.anu.edu.au/downloads/press/n8144/html/ch08.xhtml"
+      ],
+      "notes": "Статья о народе содержит короткое самостоятельное описание традиционной веры. Упоминание одного творца не доказывает строгого единобожия; христианские и исламские признаки современного населения не назначены. Дополнение: полевые материалы James J. Fox, Ritual Voices of Revelation, гл. 2, описывают обрядовую речь предков и выбор имени через гадание: +ancestors +ritual +divination_oracles. Его Paths of life and death описывает погребальные песнопения и путь в загробный мир: +afterlife. Материал преимущественно Termanu; христианские молитвы и случайное открывание Библии не перенесены в коренной профиль."
+    },
+    {
+      "sourceIndex": 405,
+      "sourceName": "Sakizaya native religion",
+      "decision": "keep",
+      "canonicalName": "Коренная религия сакизая",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Коренные верования сакизая Тайваня с божествами и духами дито, почитанием предков и сезонными обрядами, включая Палама́л — почитание божества огня.",
+      "profile": "+divine +many_gods +ancestors +nature_spirits +ritual +afterlife +fire +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sakizaya_people",
+        "https://www.cip.gov.tw/en/tribe/grid-list/E6314988BF2C0DC6D0636733C6861689/info.html?cumid=D0636733C6861689"
+      ],
+      "notes": "Исходная статья о народе содержит подробный религиозный раздел. Родство с амис и сходство терминов dito и anito не доказывают тождества религий. Христианство части народа не переносится на традиционный профиль. Дополнение: Council of Indigenous Peoples, Sakizaya, описывает общение mapalaway с божествами и обряды обращения к творцу Malataw за благословением: +personal. Официальное описание подтверждает исходные духи, предков и обряды; посредничество жреца само по себе не доказывает вселения духа."
+    }
+  ]
+}

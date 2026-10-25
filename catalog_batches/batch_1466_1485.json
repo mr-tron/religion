@@ -1,0 +1,354 @@
+{
+  "range": [
+    1466,
+    1485
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1466,
+      "sourceName": "Charismatic movement",
+      "decision": "alias",
+      "canonicalName": "Харизматическое христианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Христианские движения, выделяющие современные духовные дары, уже представленные в religions.js.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Charismatic_movement"
+      ],
+      "notes": "Синоним сохранённой записи «Харизматическое христианство». Источник описывает харизматическое движение внутри разных исторических конфессий; не следует сливать его с одним пятидесятническим союзом или приписывать всем одинаковые таинства и церковное устройство."
+    },
+    {
+      "sourceIndex": 1467,
+      "sourceName": "Christian deism",
+      "decision": "keep",
+      "canonicalName": "Христианский деизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": "Деизм",
+      "description": "Философско-религиозная позиция, сочетающая деизм с этическим наследием Иисуса.",
+      "profile": "+divine +deism +jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Christian_deism"
+      ],
+      "notes": "Сохраняется разновидность деизма, а не alias всего деизма. Источник различает трактовки статуса Иисуса; обобщённый -trinity или единая христология не назначены. Центральная роль Иисуса здесь может быть нравственной, а не исповеданием его божественности."
+    },
+    {
+      "sourceIndex": 1468,
+      "sourceName": "Christian Kabbalah",
+      "decision": "keep",
+      "canonicalName": "Христианская каббала",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Христианский эзотеризм",
+      "description": "Ренессансная традиция христианского истолкования еврейской каббалы, связанная с Пико делла Мирандолой, Рейхлином и их продолжателями.",
+      "profile": "+jesus +trinity +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Christian_Kabbalah"
+      ],
+      "notes": "Источник прямо отличает Christian Cabala от еврейской каббалы и герметической Qabalah. Троица и христианские толкования сефирот подтверждены; ритуалы более поздних оккультных орденов и религиозные законы иудаизма этой традиции автоматически не приписаны."
+    },
+    {
+      "sourceIndex": 1469,
+      "sourceName": "Christian reconstructionism",
+      "decision": "keep",
+      "canonicalName": "Христианский реконструкционизм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Реформатское христианство",
+      "description": "Реформатское богословское движение Рашдуни и его продолжателей, распространяющее требования библейского закона на общественную жизнь.",
+      "profile": "+divine +jesus +scripture +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Christian_reconstructionism",
+        "https://chalcedon.edu/resources/articles/what-is-christian-reconstruction"
+      ],
+      "notes": "Собственное изложение Chalcedon Foundation подтверждает авторитет откровения, Писания и применение библейского закона к жизни и культуре. Не alias реставрационизма: признак restoration в опроснике о восстановлении ранней церкви здесь не назначен только из-за слова reconstruction. Не тождество любого христианского консерватизма."
+    },
+    {
+      "sourceIndex": 1470,
+      "sourceName": "Christian Theosophy",
+      "decision": "keep",
+      "canonicalName": "Христианская теософия Бёме",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Христианский эзотеризм",
+      "description": "Раннеевропейская христианская мистико-теософская традиция, особенно связанная с Якобом Бёме и познанием божественной мудрости.",
+      "profile": "+divine +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Theosophy_(Boehmian)",
+        "https://www.cambridge.org/core/books/abs/cambridge-handbook-of-western-mysticism-and-esotericism/jacob-boehme-and-christian-theosophy/8BA39E223808659D7CD2A671CB8C1182"
+      ],
+      "notes": "Исходный адрес Theosophy (Boehmian) не загрузился. Академическая глава Гленна Александра Маги непосредственно подтверждает ранненововременную протестантскую мистическую традицию и прямо отличает её от движения Блаватской. Поэтому не alias сохранённой «Теософии», которая относится к Блаватской."
+    },
+    {
+      "sourceIndex": 1471,
+      "sourceName": "Christian Universalism",
+      "decision": "keep",
+      "canonicalName": "Христианский универсализм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Христианство",
+      "description": "Христианское учение о конечном примирении всех людей с Богом через Христа.",
+      "profile": "+divine +jesus +afterlife",
+      "proposedQuestions": [
+        {
+          "id": "universal_salvation",
+          "text": "Считаете ли вы, что в конечном итоге все люди будут спасены и примирены с Богом?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Различает христианский универсализм и учения о необратимом окончательном осуждении части людей. Вопрос об afterlife этого различия не отражает; другим христианским направлениям ответ назначается только после отдельной проверки."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Christian_Universalism",
+        "https://christianuniversalist.org/beliefs/"
+      ],
+      "notes": "Исповедание Christian Universalist Association подтверждает всеобщее спасение, роль Христа и отсутствие вечного отлучения от Бога; внутри движения различаются христология и другие догматы. Не alias современного унитарианского универсализма, который не ограничен христианской теологией. Не означает отрицания любой посмертной ответственности."
+    },
+    {
+      "sourceIndex": 1472,
+      "sourceName": "Christian Wicca",
+      "decision": "review",
+      "canonicalName": "Христианская викка — требуется уточнение охвата",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Викка",
+      "description": "Обозначение сочетаний викканской практики с христианскими образами; документированный пример — Trinitarian Wicca Нэнси Чандлер.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Christianity_and_neopaganism",
+        "https://trinitarianwicca.com/",
+        "https://books.google.com/books?id=Cm0F0AEACAAJ"
+      ],
+      "notes": "Review: исходная ссылка посвящена отношениям христианства и неоязычества и при проверке не загрузилась. Сайт Trinitarian Wicca и библиографическое описание книги Christian Wicca подтверждают конкретную традицию, но не доказывают, что исходная строка ограничена ею. Не alias всего христоязычества; частная триада Бога, Богини и Иисуса не приравнена к никейскому догмату +trinity. Нужна фиксация объёма названия."
+    },
+    {
+      "sourceIndex": 1473,
+      "sourceName": "Christopaganism",
+      "decision": "keep",
+      "canonicalName": "Христоязычество",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современные синкретические формы духовности, сочетающие христианские и неоязыческие представления и практики.",
+      "profile": "+divine +jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Christo-paganism"
+      ],
+      "notes": "Источник описывает разные формы, включая викканские, друидические и анимистические. Не alias одной христианской викки и не тождество любого исторического народного христианства. Многие божества и магические практики встречаются у части участников, поэтому не назначены всему направлению."
+    },
+    {
+      "sourceIndex": 1474,
+      "sourceName": "Churches of Christ",
+      "decision": "keep",
+      "canonicalName": "Церкви Христа (движение Стоуна — Кэмпбелла)",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Реставрационное движение Стоуна — Кэмпбелла",
+      "description": "Сообщество автономных христианских общин реставрационного движения, ориентирующих веру и практику на Новый Завет.",
+      "profile": "+jesus +scripture +bible_alone +adult_baptism +restoration",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Churches_of_Christ"
+      ],
+      "notes": "Источник подтверждает крещение сознательных верующих погружением и стремление восстановить первоначальное единство церкви. Не alias всех организаций с названием Church of Christ, Международных церквей Христа или другой ветви Christian Churches and Churches of Christ. Из самоназвания «неденоминационные» не выводится отсутствие собственного исторического движения."
+    },
+    {
+      "sourceIndex": 1475,
+      "sourceName": "Confessing Movement",
+      "decision": "review",
+      "canonicalName": "Исповедующее движение в основных протестантских церквах",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Протестантизм",
+      "description": "Круг консервативных инициатив внутри исторических протестантских деноминаций, стремящихся сохранять традиционное исповедание веры.",
+      "profile": "+jesus +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Confessing_Movement",
+        "https://archive.wfn.org/1996/09/msg00065.html"
+      ],
+      "notes": "Review: исходная статья предупреждает о недостатке ссылок и объединяет инициативы нескольких деноминаций. Сообщение официальной United Methodist News Service независимо подтверждает методистское Confessing Movement и его обращение к Иисусу и Писанию; оно не подтверждает единую организацию или весь набор убеждений остальных инициатив. Не смешивать с немецкой Исповедующей церковью периода нацизма."
+    },
+    {
+      "sourceIndex": 1476,
+      "sourceName": "Congregational churches",
+      "decision": "keep",
+      "canonicalName": "Конгрегационализм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Реформатское христианство",
+      "description": "Протестантская традиция с пуританскими корнями и самоуправлением местных общин.",
+      "profile": "+jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Congregational_churches",
+        "https://en.wikipedia.org/wiki/Congregationalism"
+      ],
+      "notes": "Исходный адрес Congregational churches не загрузился; действующая статья Congregationalism прямо описывает эту традицию. Она отличается и от всего реформатского христианства, и от конгрегационного устройства, которое существует также у баптистов и других церквей. Историческая реформатская догматика не назначена всем современным либеральным и объединённым конгрегационным церквам."
+    },
+    {
+      "sourceIndex": 1477,
+      "sourceName": "Continental Reformed churches",
+      "decision": "keep",
+      "canonicalName": "Континентальные реформатские церкви",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Реформатское христианство",
+      "description": "Семейство реформатских традиций континентальной Европы, включая нидерландские, швейцарские, французские и другие исторические церкви.",
+      "profile": "+scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Continental_Reformed_churches",
+        "https://en.wikipedia.org/wiki/Continental_Reformed_Protestantism"
+      ],
+      "notes": "Исходный адрес не загрузился; действующая статья Continental Reformed Protestantism определяет направление и отличает его от пресвитерианских и конгрегационалистских линий британского происхождения. Не alias всего реформатского христианства. Исторические общие исповедания и современное разнообразие не сведены к единой позиции по всем вопросам."
+    },
+    {
+      "sourceIndex": 1478,
+      "sourceName": "Continuing Anglican movement",
+      "decision": "keep",
+      "canonicalName": "Продолжающее англиканское движение",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Англиканство",
+      "description": "Церкви англиканского происхождения, считающие себя продолжателями традиционной веры, богослужения и апостольского преемства.",
+      "profile": "+church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Continuing_Anglican_movement"
+      ],
+      "notes": "Источник прямо подтверждает акцент на апостольском преемстве и исторической церковной практике. Это несколько юрисдикций, а не одна церковь; англокатолические и евангелические акценты различаются. Не alias всего англиканства и не автоматическое тождество Англиканской церкви Северной Америки."
+    },
+    {
+      "sourceIndex": 1479,
+      "sourceName": "Coptic Orthodox Church",
+      "decision": "keep",
+      "canonicalName": "Коптская православная церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Древневосточные православные церкви",
+      "description": "Древневосточная православная церковь александрийской традиции с собственным патриархатом и коптским богослужебным наследием.",
+      "profile": "+divine +one_god +jesus +trinity +scripture +church -adult_baptism -bible_alone",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Coptic_Orthodox_Church",
+        "https://copticorthodox.church/en/coptic-church/what-is-coc/"
+      ],
+      "notes": "Собственный сайт подтверждает единого Бога, Троицу, богочеловечество Христа, семь таинств, крещение младенцев и авторитет Предания наряду с Писанием. Не alias всех древневосточных церквей. Титул коптского папы не означает признания римского папского первенства; признак +pope из одного титула не выводится."
+    },
+    {
+      "sourceIndex": 1480,
+      "sourceName": "Cult of The Talking Cross",
+      "decision": "review",
+      "canonicalName": "Традиция Говорящего Креста у майя",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Майяская религиозная традиция Крусоб вокруг святыни Говорящего Креста, связанная с Чан-Санта-Крус и продолжающимися церемониальными центрами.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chan_Santa_Cruz",
+        "https://lugares.inah.gob.mx/en/node/6825"
+      ],
+      "notes": "Review: исходная статья посвящена также государству Чан-Санта-Крус и помечена спорной нейтральностью и проблемами источников. Материал INAH независимо подтверждает религиозную роль Креста, действующие центры и обряды. Сохраняется живая синкретическая традиция майя, не политическое государство как отдельное вероучение и не все верования майя. Ближайшее семейство indigenous; статус не означает автоматического переноса христианских догматов."
+    },
+    {
+      "sourceIndex": 1481,
+      "sourceName": "Czech Brethren",
+      "decision": "review",
+      "canonicalName": "Чешские братья — требуется уточнение организации",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Название, которое может обозначать историческую братскую традицию; исходная ссылка описывает современную чешскую Jednota bratrská.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Unity_of_the_Brethren_(Czech_Republic)",
+        "https://www.oikoumene.org/organization/ecumenical-council-of-churches-in-the-czech-republic"
+      ],
+      "notes": "Review: строка Czech Brethren шире и неоднозначнее исходной страницы Unity of the Brethren (Czech Republic), посвящённой современной провинции Моравской церкви. Перечень Всемирного совета церквей отдельно называет Unity of Brethren и Evangelical Church of Czech Brethren. Нельзя автоматически слить их, всю Моравскую церковь и историческую Единую братскую общину в одну запись. Профиль отложен до уточнения объёма."
+    },
+    {
+      "sourceIndex": 1482,
+      "sourceName": "Dutch Reformed",
+      "decision": "review",
+      "canonicalName": "Нидерландская реформатская церковь (Nederlandse Hervormde Kerk)",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Континентальные реформатские церкви",
+      "description": "Историческая реформатская церковь Нидерландов, большая часть которой в 2004 году вошла в Протестантскую церковь Нидерландов.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dutch_Reformed_Church",
+        "https://protestantsekerk.nl/onderwerp/protestant-church-in-the-netherlands/"
+      ],
+      "notes": "Review: исходное Dutch Reformed может означать широкую традицию, а ссылка ведёт к конкретной Nederlandse Hervormde Kerk; статья предупреждает о нехватке источников. Собственный сайт преемницы подтверждает слияние 2004 года. Не alias всей континентальной реформатской традиции, всех нидерландских реформатских церквей или одноимённых южноафриканских организаций. Догматический профиль пока не задан."
+    },
+    {
+      "sourceIndex": 1483,
+      "sourceName": "Eastern Protestant Christianity",
+      "decision": "keep",
+      "canonicalName": "Восточное протестантское христианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Протестантизм",
+      "description": "Совокупность протестантских церквей, сохраняющих либо адаптирующих элементы восточнохристианских литургических традиций.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eastern_Protestant_Christianity"
+      ],
+      "notes": "Источник прямо называет категорию неоднородной и перечисляет разные исторические пути её формирования. Сохраняется сравнительная категория, а не единая церковь или учение. Не alias всех христиан Востока; единые ответы о таинствах, крещении и церковном управлении не назначены."
+    },
+    {
+      "sourceIndex": 1484,
+      "sourceName": "Eritrean Orthodox Church",
+      "decision": "keep",
+      "canonicalName": "Эритрейская православная церковь Тевахедо",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Древневосточные православные церкви",
+      "description": "Автокефальная древневосточная православная церковь Эритреи с традицией геэзского богослужения и собственным синодом.",
+      "profile": "+jesus +church +scripture +sabbath",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eritrean_Orthodox_Church",
+        "https://oikoumene.org/member-churches/eritrean-orthodox-tewahedo-church"
+      ],
+      "notes": "Источник прямо описывает евхаристическое присутствие Христа, библейский канон и почитание субботы наряду с воскресеньем. Всемирный совет церквей подтверждает самостоятельную церковную организацию. Не alias Эфиопской православной церкви или всего древневосточного православия. Устаревающий раздел об иерархах не использован для утверждений о нынешнем руководстве."
+    },
+    {
+      "sourceIndex": 1485,
+      "sourceName": "Esoteric Christianity",
+      "decision": "review",
+      "canonicalName": "Эзотерическое христианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Широкое обозначение христианских эзотерических подходов к духовному познанию, символическому толкованию и внутренней традиции.",
+      "profile": "+occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Esoteric_Christianity",
+        "https://directory.cal.msu.edu/versluis/",
+        "https://www.cambridge.org/core/books/abs/cambridge-handbook-of-western-mysticism-and-esotericism/jacob-boehme-and-christian-theosophy/8BA39E223808659D7CD2A671CB8C1182"
+      ],
+      "notes": "Review: исходная статья помечена необходимостью переработки и недостатком построчных ссылок. Академическая литература подтверждает конкретные христианские эзотерические традиции, например теософию Бёме, но не единый набор догматов всех включаемых авторов. Поэтому не alias одной христианской теософии и не основание приписывать всем реинкарнацию, Троицу либо членство в едином тайном ордене."
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "range": [
+    1606,
+    1625
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1606,
+      "sourceName": "Atba-i-Malak",
+      "decision": "review",
+      "canonicalName": "Атба-и-Малак",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Таййибитский исмаилизм",
+      "description": "Название индийского исмаилитского круга, связанного с отделением общин от давуди-бохра и последующими линиями преемства.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Atba-i-Malak",
+        "https://duas.org/downloads/The%20Isma%27ilis.pdf"
+      ],
+      "notes": "Исходная статья прямо не содержит источников. Академическая история Farhad Daftary подтверждает махдибагхскую группу и название Atba-i Malak Badr, но не снимает путаницу общей статьи между хронологией давуди-преемства и более поздним движением Дживаджи. Не alias всем давуди-бохра или одной ветви Бадар; профиль пуст до уточнения границ."
+    },
+    {
+      "sourceIndex": 1607,
+      "sourceName": "Atba-i-Malak Badar",
+      "decision": "review",
+      "canonicalName": "Атба-и-Малак Бадар",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Атба-и-Малак",
+      "description": "Исмаилитская община, связанная с Махди-Багхом в Нагпуре и духовной линией Малак — Бадар.",
+      "profile": "+quran",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Atba-i-Malak_Badar",
+        "https://en.wikipedia.org/wiki/Atba-e-Malak_Badar",
+        "https://duas.org/downloads/The%20Isma%27ilis.pdf",
+        "https://www.theweek.in/magazine/theweek/specials/2022/06/18/inside-mahdi-bagh-indias-smallest-religious-sect.html"
+      ],
+      "notes": "Исходный URL не загрузился; найден вариант Atba-e-Malak Badar, отмеченный потребностью в ссылках. Академическая история Daftary подтверждает название и общину. В интервью собственного духовного руководителя, опубликованном The Week, подтверждены Коран и мусульманские практики; спорные даты основания и подробности преемства не закреплены. Не alias всей Атба-и-Малак или ветви Вакил."
+    },
+    {
+      "sourceIndex": 1608,
+      "sourceName": "Atba-i-Malak Vakil",
+      "decision": "review",
+      "canonicalName": "Атба-и-Малак Вакил",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Атба-и-Малак",
+      "description": "Название малой исмаилитской ветви в Нагпуре, отличаемой в исходной статье по линии духовного преемства.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Atba-i-Malak_Vakil",
+        "https://en.wikipedia.org/wiki/Atba-i-Malak"
+      ],
+      "notes": "Исходный URL недоступен; сведения найдены в разделе общей статьи Atba-e-Malak, которая не содержит источников. Надёжное независимое подтверждение полного вероучения именно Vakil не найдено. Не объединять автоматически с Бадар; общий исмаилитский профиль и перечисленные в неподтверждённом разделе обязанности не перенесены."
+    },
+    {
+      "sourceIndex": 1609,
+      "sourceName": "Athari",
+      "decision": "keep",
+      "canonicalName": "Асаритское богословие",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суннитский ислам",
+      "description": "Суннитская богословская традиция, отдающая первенство Корану и хадисам и критически относящаяся к рационалистическому каламу.",
+      "profile": "+quran +sharia",
+      "proposedQuestions": [
+        {
+          "id": "rational_kalam_in_creed",
+          "text": "Считаете ли вы рациональное богословское рассуждение — калам — допустимым способом обоснования вероучения?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Передаёт различие между асаритской критикой калама и школами, систематически использующими его, в том числе ашаритской и матуридитской. Отрицание калама не равно отрицанию всякого разума, а принятие Корана и сунны само по себе не определяет ответ. Применять к конкретным авторам и эпохам следует после проверки.",
+          "supportedEntries": [
+            "Athari"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Athari"
+      ],
+      "notes": "Athari и Atharism — названия одной богословской традиции. Не alias ханбалитского правового мазхаба или всех современных салафитских движений. Буквальный смысл и принцип «без выяснения как» не кодируются как антропоморфизм, а критика калама — как отрицание науки."
+    },
+    {
+      "sourceIndex": 1610,
+      "sourceName": "Avicennism",
+      "decision": "keep",
+      "canonicalName": "Авиценнизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Философская традиция Ибн Сины и её последующие исламские и латинские интерпретации.",
+      "profile": "+divine +one_god",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Avicennism",
+        "https://plato.stanford.edu/entries/ibn-sina-metaphysics/"
+      ],
+      "notes": "Сохранена философская традиция, выходящая за пределы одной мусульманской деноминации. Stanford Encyclopedia of Philosophy подтверждает единство необходимого Первоначала и различение необходимого и возможного существования. Из философского семейства не наследуется nonreligious; научные занятия Ибн Сины не основание автоматически приписывать scientific всем последователям."
+    },
+    {
+      "sourceIndex": 1611,
+      "sourceName": "Azraqi",
+      "decision": "keep",
+      "canonicalName": "Азракиты",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Хариджизм",
+      "description": "Историческое хариджитское движение, связанное с Нафи ибн аль-Азраком в VII веке.",
+      "profile": "+afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Azariqa"
+      ],
+      "notes": "Исходное Azraqi по предоставленному URL относится к Azariqa; статья отдельно предостерегает от смешения с одноимённым поэтом. Не alias всему хариджизму или ибадизму. Подтверждена доктрина загробного воздаяния; полемические и военные характеристики не превращены в признаки современного верующего."
+    },
+    {
+      "sourceIndex": 1612,
+      "sourceName": "Barelvi",
+      "decision": "keep",
+      "canonicalName": "Барелви",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суннитский ислам",
+      "description": "Южноазиатское суннитское движение, связанное с Ахмадом Ризой Ханом и защитой пророческой преданности и суфийских практик.",
+      "profile": "+quran +muhammad +sharia +sufi",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Barelvi"
+      ],
+      "notes": "Ahl-e-Sunnat wa Jamaat в контексте этой статьи — самоназвание данного движения, но выражение в других контекстах шире барелви. Не alias всему суннизму, одной суфийской тарике или деобанди. Межконфессиональные полемические обвинения и политические позиции не назначаются всем последователям."
+    },
+    {
+      "sourceIndex": 1613,
+      "sourceName": "Batriyya",
+      "decision": "keep",
+      "canonicalName": "Батрийя",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Зайдизм",
+      "description": "Раннее зайдитское течение Куфы, признававшее превосходство Али, но допускавшее правление менее предпочтительного кандидата.",
+      "profile": "+ali",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Batriyya",
+        "https://www.iranicaonline.org/articles/ali-b-abi-taleb/"
+      ],
+      "notes": "Batriyya и Butriyya — варианты названия. Не весь зайдизм: принятие отдельных ранних халифов отличало течение от джарудийя. Encyclopaedia Iranica подтверждает эту позицию в историческом зайдитском контексте; этимологические версии и поздние обобщения не перенесены."
+    },
+    {
+      "sourceIndex": 1614,
+      "sourceName": "Bazighiyya Shia",
+      "decision": "review",
+      "canonicalName": "Базигийя",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Гулат",
+      "description": "Историческая группа шиитского происхождения, которой источники приписывают обожествление Джафара ас-Садика и откровения посвящённым.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bazighiyya_Shia",
+        "https://www.iranicaonline.org/articles/kattabiya/"
+      ],
+      "notes": "Исходная статья и академическая статья Encyclopaedia Iranica расходятся в имени основателя; последняя также ставит под вопрос обычную классификацию группы внутри хаттабийя. Основные сведения дошли через ересиографию. Не безоговорочно принимаются все перечисленные в исходнике учения, история исчезновения и единый профиль откровений; не alias всех гулат или двунадесятников."
+    },
+    {
+      "sourceIndex": 1615,
+      "sourceName": "Bektashism",
+      "decision": "review",
+      "canonicalName": "Бекташизм",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суфизм",
+      "description": "Исламская мистическая традиция, связанная с Хаджи Бекташем и развивавшаяся в Анатолии и на Балканах.",
+      "profile": "+sufi +quran +muhammad",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bektashi_Order",
+        "https://www.resilience-ri.eu/about-us-11/"
+      ],
+      "notes": "Исходная статья имеет предупреждение о необходимости общей доработки и объединяет разные организации и региональные формы. Материал исследовательской инфраструктуры RESILIENCE с участием Бекташийского мирового центра подтверждает мистический путь, Коран и пророческое учение. Не alias всего алевизма, одной национальной организации или проекта суверенного государства; подробные догматы не унифицированы."
+    },
+    {
+      "sourceIndex": 1616,
+      "sourceName": "Chinese Islam",
+      "decision": "review",
+      "canonicalName": "Китайский ислам — ссылка на традицию Хань китаб",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Исходная запись ссылается на китайскоязычную исламскую интеллектуальную и литературную традицию Хань китаб.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Han_Kitab",
+        "https://uhpress.hawaii.edu/title/rectifying-gods-name-liu-zhis-confucian-translation-of-monotheism-and-islamic-law/"
+      ],
+      "notes": "Chinese Islam шире указанного URL: Han Kitab — корпус текстов и образовательная традиция, объяснявшая ислам через китайскую терминологию, а не весь ислам Китая. Академическая монография James D. Frankel подтверждает самостоятельный литературный круг. Требуется решить, исправить ли название на «Традиция Хань китаб» или подобрать источник для широкой региональной категории. Ни конфуцианский профиль, ни весь суфизм Китая не назначены."
+    },
+    {
+      "sourceIndex": 1617,
+      "sourceName": "Chishti Order",
+      "decision": "keep",
+      "canonicalName": "Чиштийя",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суфизм",
+      "description": "Суфийская тарика, получившая широкое распространение в Южной Азии и связанная с линией Муинуддина Чишти.",
+      "profile": "+sufi +quran",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chishti_Order"
+      ],
+      "notes": "Отдельный круг линий преемства, а не alias всех суфийских тарикатов или одной современной организации. Общие инициатические связи с кадирийя, накшбандийя и другими орденами не доказывают тождества. Суфийская силсила через Али сама по себе не делает направление шиитским, поэтому ali не назначен автоматически."
+    },
+    {
+      "sourceIndex": 1618,
+      "sourceName": "Dawoodi Bohra",
+      "decision": "keep",
+      "canonicalName": "Давуди-бохра",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Таййибитский исмаилизм",
+      "description": "Исмаилитская община таййибитской традиции, признающая духовное руководство даи аль-мутлака при сокрытии имама.",
+      "profile": "+one_god +quran +muhammad +ali",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dawoodi_Bohra"
+      ],
+      "notes": "Исходная статья прямо подтверждает единобожие, Коран, пророчество Мухаммада и преемство Али. Не alias всему исмаилизму, всем бохра или отделившимся ветвям Атба-и-Малак. Социальные обобщения о профессии, достатке и спорных обычаях не превращены в вероучительные признаки."
+    },
+    {
+      "sourceIndex": 1619,
+      "sourceName": "Deobandi",
+      "decision": "keep",
+      "canonicalName": "Деобанди",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суннитский ислам",
+      "description": "Суннитское реформаторское и образовательное движение, возникшее вокруг медресе Деобанда в XIX веке.",
+      "profile": "+sharia +sufi",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deobandi"
+      ],
+      "notes": "Источник подтверждает правовую дисциплину и реформаторские суфийские линии; поэтому критика некоторых народных обрядов не кодируется как -sufi. Не alias всех ханафитов, медресе как одного учреждения или Таблиги Джамаат. Политические и вооружённые организации не отождествляются со всем движением; restoration в вопроснике относится к раннему христианству и здесь не применяется."
+    },
+    {
+      "sourceIndex": 1620,
+      "sourceName": "Din-i Ilahi",
+      "decision": "review",
+      "canonicalName": "Дин-и Илахи — религиозный круг Акбара",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческое обозначение религиозно-этических идей и круга ученичества при дворе Акбара.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Din-i_Ilahi",
+        "https://journals.sagepub.com/doi/10.1177/02576430221096407"
+      ],
+      "notes": "Исходник представляет явление как новую синкретическую религию. Исследование Irfan Habib по современным Акбару источникам прямо отмечает, что версия о создании отдельной религии теперь широко оспаривается. Поэтому число последователей, отсутствие обрядов и отдельный «монотеистический» профиль не назначены. Семейство islam отражает историческую среду; нужна редакторская проверка формы записи."
+    },
+    {
+      "sourceIndex": 1621,
+      "sourceName": "European Islam",
+      "decision": "review",
+      "canonicalName": "Евроислам — концепции европейского ислама",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность различных концепций исламской жизни и интерпретации веры в европейском контексте.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/European_Islam",
+        "https://wrap.warwick.ac.uk/id/eprint/85890/"
+      ],
+      "notes": "Исходная статья отмечена возможным оригинальным исследованием и объединяет балканские традиции с разными проектами Тиби, Рамадана и других авторов. Академическое исследование Moch Faisal Karim подтверждает дискурсивный характер понятия и его вариативность. Не единая деноминация и не весь ислам в Европе; география не означает secular, humanism или отрицание шариата."
+    },
+    {
+      "sourceIndex": 1622,
+      "sourceName": "Gedimu",
+      "decision": "review",
+      "canonicalName": "Гэдиму",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Ханафитский мазхаб",
+      "description": "Китайская суннитская традиция «старого учения», организованная вокруг сравнительно самостоятельных местных мечетей.",
+      "profile": "+one_god -sufi",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gedimu",
+        "https://uw.manifoldapp.org/read/untitled-d0cd7d04-9c70-4b20-addf-d25c69fefe8d/section/43e83324-9f41-46eb-9a91-040200714c7a"
+      ],
+      "notes": "Исходная статья отмечена недостатком ссылок и требует доработки. Исследование Jonathan N. Lipman в University of Washington Press подтверждает старую мечетскую организацию и её отличие от пришедших позднее суфийских орденов. -sufi относится к институциональной ориентации школы, а не к отрицанию любого личного мистического опыта. Не alias всему исламу Китая или всем ханафитам."
+    },
+    {
+      "sourceIndex": 1623,
+      "sourceName": "Ghulat",
+      "decision": "review",
+      "canonicalName": "Гулат — историческая шиитская категория",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательное ересиографическое обозначение разнообразных групп, обвинявшихся в чрезмерном возвышении имамов и связанных фигур.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ghulat",
+        "https://www.iranicaonline.org/articles/golat/"
+      ],
+      "notes": "Не одна деноминация или самоназвание всех включённых групп. Encyclopaedia Iranica подтверждает первоначально полемическое происхождение категории и обсуждает различные исторические тексты. Обожествление, метемпсихоз и антиномизм не назначаются автоматически каждому движению и каждому обвинённому; не alias всем алавитам или отдельной базигийя. Семейство islam описывает происхождение и контекст."
+    },
+    {
+      "sourceIndex": 1624,
+      "sourceName": "Hanafi",
+      "decision": "keep",
+      "canonicalName": "Ханафитский мазхаб",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суннитский ислам",
+      "description": "Суннитская правовая школа, восходящая к Абу Ханифе и куфийской юридической традиции.",
+      "profile": "+quran +sharia",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hanafi"
+      ],
+      "notes": "Hanafi означает правовой мазхаб, а не отдельное единообразное богословие. Источник подтверждает Коран, сунну и правовые методы, включая аналогию и истихсан. Не alias матуридизма, барелви, деобанди или гэдиму; принадлежность к школе не задаёт отношение к суфизму."
+    },
+    {
+      "sourceIndex": 1625,
+      "sourceName": "Hanbali",
+      "decision": "review",
+      "canonicalName": "Ханбалитский мазхаб",
+      "family": "islam",
+      "inheritFamilyProfile": false,
+      "parent": "Суннитский ислам",
+      "description": "Суннитская правовая школа, связанная с Ахмадом ибн Ханбалем и последующей систематизацией его правовых ответов.",
+      "profile": "+quran +sharia",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hanbali",
+        "https://research.edgehill.ac.uk/en/publications/from-tradition-to-institution-sunna-in-the-early-%E1%B8%A5anbal%C4%AB-school/"
+      ],
+      "notes": "Раздел принципов в исходной статье отмечен недостатком источников. Академическая глава Harith Bin Ramli подтверждает формирование самостоятельной школы права и роль сунны. Не alias асаритского богословия, ваххабизма или всего салафизма: правовая и богословская классификации пересекаются, но не тождественны. Подробные спорные запреты и суфийские принадлежности отдельных авторов не обобщены."
+    }
+  ]
+}

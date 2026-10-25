@@ -1,0 +1,363 @@
+{
+  "range": [
+    886,
+    905
+  ],
+  "entries": [
+    {
+      "sourceIndex": 886,
+      "sourceName": "Moorish Orthodox Church of America",
+      "decision": "keep",
+      "canonicalName": "Мавританская православная церковь Америки",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Синкретическое неэксклюзивное движение, возникшее в американской контркультуре 1960-х годов под влиянием Moorish Science и суфизма.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Moorish_Orthodox_Church_of_America",
+        "https://moorishsciencemonitor.wordpress.com/2021/01/01/a-short-history-of-the-moorish-orthodox-church/"
+      ],
+      "notes": "Собственная история Питера Лэмборна Уилсона подтверждает связь с мавританскими суфиями и MSTA, но отдельную организационную идентичность. Изменчивый синкретизм не позволяет назначить всем одинаковый исламский или православный профиль. Слово Orthodox не означает тождество историческим православным церквам; различия дат 1962/1965 в обзорной статье не использованы как надёжная точная датировка."
+    },
+    {
+      "sourceIndex": 887,
+      "sourceName": "Moorish Science Temple of America",
+      "decision": "keep",
+      "canonicalName": "Мавританский научный храм Америки",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Нобла Дрю Али, соединяющее особое понимание ислама, мавританскую идентичность и собственный священный текст.",
+      "profile": "+divine +one_god +scripture +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Moorish_Science_Temple_of_America",
+        "https://doc.wa.gov/docs/publications/500-ha001.pdf"
+      ],
+      "notes": "Исходник подтверждает Holy Koran / Circle Seven Koran; государственный справочник религиозных практик подтверждает поклонение Аллаху и пророческую роль Дрю Али. Название собственного «Корана» не доказывает тождества с каноническим исламским Кораном, поэтому +quran автоматически не назначен. Science не означает научный метод. Не alias Мавританской православной церкви или Nation of Islam."
+    },
+    {
+      "sourceIndex": 888,
+      "sourceName": "Movement for the Restoration of the Ten Commandments of God",
+      "decision": "keep",
+      "canonicalName": "Движение за восстановление десяти заповедей Бога",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Угандийское движение католического происхождения, делавшее акцент на соблюдении заповедей, почитании Иисуса и сообщениях о явлениях Марии.",
+      "profile": "+divine +jesus +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Movement_for_the_Restoration_of_the_Ten_Commandments_of_God"
+      ],
+      "notes": "Статья прямо подтверждает проповедь Иисуса, строгие заповеди и апокалиптические сообщения руководителей. Происхождение из католической среды не означает сохранения обязательного папского первенства, всей католической догматики или особой субботы. Restoration в названии не достаточно для +restoration, который спрашивает о восстановлении раннехристианской церкви."
+    },
+    {
+      "sourceIndex": 889,
+      "sourceName": "Mumboism",
+      "decision": "keep",
+      "canonicalName": "Мумбоизм",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозное движение начала XX века в западной Кении, связанное с богом Мумбо, пророческими обещаниями обновления и противостоянием колониализму.",
+      "profile": "+divine +personal +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mumboism",
+        "https://vtechworks.lib.vt.edu/bitstream/handle/10919/46785/3556798.pdf"
+      ],
+      "notes": "Исходная статья и исследование Шейдла подтверждают отдельное движение и змеиного бога озера Виктория. Число божеств не выведено из приоритетного культа Мумбо. Не синоним Dini ya Msambwa или Mungiki: общая антиколониальная направленность не доказывает тождества."
+    },
+    {
+      "sourceIndex": 890,
+      "sourceName": "Mungiki",
+      "decision": "keep",
+      "canonicalName": "Мунгики",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Кенийское религиозно-социальное движение, исторически призывавшее к возрождению традиций кикуйю и почитанию Нгаи.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mungiki",
+        "https://ir-library.ku.ac.ke/items/51cba840-a3a0-4191-972d-1f58e27edb7d",
+        "https://journals.sagepub.com/doi/10.1177/110330881001800304"
+      ],
+      "notes": "Исследования Вамуэ и Расмуссена непосредственно изучают религиозную сторону движения и её взаимодействие с политикой. Сохранено как конкретное движение, не синоним всей религии кикуйю. Исторические переходы части руководителей к исламу и христианству не перенесены на всех участников; профиль относится к документированному ядру возрожденческой практики, а не неизменному составу всех групп."
+    },
+    {
+      "sourceIndex": 891,
+      "sourceName": "Nation of Islam",
+      "decision": "keep",
+      "canonicalName": "Нация ислама",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Американское религиозное движение, возникшее вокруг Уоллеса Фарда Мухаммада и Элайджи Мухаммада и выработавшее собственное учение о Боге и чёрной идентичности.",
+      "profile": "+divine +one_god +scripture +quran +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nation_of_Islam",
+        "https://noi.org/muslim-program/"
+      ],
+      "notes": "Официальная программа прямо утверждает единого Аллаха, Коран и писания пророков, одновременно особым образом понимая явление Бога в лице Фарда. Поэтому семейство newreligion ближе, чем автоматическое присоединение к суннизму или шиизму. one_god отражает собственную опубликованную формулу веры; спорные вопросы её сочетания с «нацией богов» не скрыты, но не превращены в противоположный ответ вместо самоописания. Не alias суннитских преобразований Уорита Дина Мухаммада."
+    },
+    {
+      "sourceIndex": 892,
+      "sourceName": "Nation of Yahweh",
+      "decision": "keep",
+      "canonicalName": "Нация Яхве",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение чёрных еврейских израильтян, основанное Хьюлоном Митчеллом, известным как Яхве бен Яхве.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nation_of_Yahweh"
+      ],
+      "notes": "Исходная статья подтверждает отдельную организацию и признание основателя Сыном Бога. Это не обычная еврейская конфессия и не синоним всех Black Hebrew Israelites; галаха, Тора как единый кодекс и отношение к историческому Иисусу не выведены из названия или титула руководителя."
+    },
+    {
+      "sourceIndex": 893,
+      "sourceName": "Nuwaubian Nation",
+      "decision": "keep",
+      "canonicalName": "Нуваубийская нация",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Изменявшееся со временем синкретическое движение Дуайта Йорка, объединявшее различные религиозные и космологические мотивы.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nuwaubian_Nation"
+      ],
+      "notes": "Источник прямо подчёркивает изменения учений и названий, тексты-«свитки» Йорка, исламские, еврейские, древнеегипетские и внеземные мотивы. Частная фаза движения не представлена как неизменное вероучение всего периода. Употребление «Бог» и «Аллах» сочетается с материалистическими трактовками, поэтому +divine, +quran, +afterlife и другие широкие признаки пока не назначены. Не alias Nation of Islam только из-за заимствований."
+    },
+    {
+      "sourceIndex": 894,
+      "sourceName": "Nyabinghi",
+      "decision": "keep",
+      "canonicalName": "Ньябинги — направление растафари",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Растафари",
+      "description": "Одно из направлений растафари, подчёркивающее божественную роль Хайле Селассие и коллективные богослужения с барабанами и пением.",
+      "profile": "+divine +jesus +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nyabinghi_(Mansion_of_Rastafari)",
+        "https://smithsonianeducation.org/migrations/rasta/pic22.html"
+      ],
+      "notes": "Исходная ссылка явно указывает Mansion of Rastafari, а не отдельную африканскую религию духа Ньябинги. Материал Смитсоновского института независимо подтверждает культ Селассие и танцевально-барабанные собрания. Сомнительные исторические подробности исходной статьи не перенесены. Не синоним всех растафари или Двенадцати колен Израилевых."
+    },
+    {
+      "sourceIndex": 895,
+      "sourceName": "One West Camp",
+      "decision": "keep",
+      "canonicalName": "One West Camp — школа еврейского израильтянства",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческая школа и сеть преемственных групп чёрных еврейских израильтян, связанная с Аббой Бивенсом и адресом One West в Гарлеме.",
+      "profile": "+scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/One_West_Camp"
+      ],
+      "notes": "Статья подтверждает отдельную линию учений, роль Библии короля Якова, специфическое распределение народов по коленам Израиля и созданный вариант священного языка. Не синоним всего еврейского израильтянства, Nation of Yahweh или современных организаций-преемников. Расовые и генеалогические утверждения передаются как учение, а не исторически установленные факты."
+    },
+    {
+      "sourceIndex": 896,
+      "sourceName": "Twelve Tribes of Israel",
+      "decision": "keep",
+      "canonicalName": "Двенадцать колен Израилевых — направление растафари",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Растафари",
+      "description": "Направление растафари Вернона Каррингтона с особым акцентом на Иисусе и ежедневном чтении Библии.",
+      "profile": "+divine +jesus +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Twelve_Tribes_of_Israel_(Rastafari)"
+      ],
+      "notes": "Исходная статья непосредственно описывает спасение через Иисуса и чтение Библии по главе в день. Не путать с одноимённым христианским коммунальным движением Twelve Tribes, древними библейскими племенами или генеалогической схемой One West Camp. Название не доказывает еврейскую галаху и не делает запись синонимом всего растафари."
+    },
+    {
+      "sourceIndex": 897,
+      "sourceName": "United Nation of Islam",
+      "decision": "keep",
+      "canonicalName": "Объединённая нация ислама / UNOI",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Нация ислама",
+      "description": "Движение Роялла Дженкинса, возникшее отдельно от Нации ислама и развившее собственное учение о божественном статусе руководителя.",
+      "profile": "+divine +personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/United_Nation_of_Islam"
+      ],
+      "notes": "Статья прямо различает UNOI и NOI и описывает притязания Дженкинса на воплощение Аллаха. Сходство названий не означает alias. Базовое родство не позволяет автоматически перенести весь профиль NOI, Коран, общие исламские нормы или одинаковую эсхатологию."
+    },
+    {
+      "sourceIndex": 898,
+      "sourceName": "Bekeranta",
+      "decision": "review",
+      "canonicalName": "Бекеранта — община Авакайпу",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Милленаристская община XIX века у горы Рорайма, известная по историческим сообщениям об Авакайпу и ожиданиях телесного преображения.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bekeranta",
+        "https://www.tandfonline.com/doi/full/10.1080/13648470.2020.1807726"
+      ],
+      "notes": "Review: существование исторического движения обсуждается в исследовании Уитакера, но подробный рассказ о массовой гибели и учении основан на единственном поздно записанном основном свидетельстве. Автор специально анализирует сообщение как исторический источник, а не прямую запись общего катехизиса. До отдельной источниковедческой сверки рассказы о Макунаиме, перерождении и числе жертв не превращены в надёжные типичные ответы всей общины. Вариант Beckeranta в исследовании относится к тому же предмету."
+    },
+    {
+      "sourceIndex": 899,
+      "sourceName": "Big Moon Peyotism",
+      "decision": "keep",
+      "canonicalName": "Пейотизм Большой Луны",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": "Пейотистские традиции",
+      "description": "Пейотистская традиция Джона Уилсона, соединяющая обрядовое употребление пейота, особую форму алтаря и христианские мотивы.",
+      "profile": "+divine +jesus +ritual +revelation",
+      "proposedQuestions": [
+        {
+          "id": "entheogenic_ritual",
+          "text": "Занимает ли обрядовое употребление психоактивных веществ важное место в вашей духовной традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Повторно использует вопрос, предложенный в партиях 0031–0045, 0246–0265 и расширенный в 0666–0685. Здесь отражает сакраментальное употребление пейота и отличает пейотистские пути от других общин с обрядами и подношениями; сам по себе не означает occult."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Big_moon_peyotism",
+        "https://gateway.okhistory.org/ark%3A/67531/metadc2016838/m1/8/ocr/",
+        "https://www.gutenberg.org/files/77791/77791-h/77791-h.htm"
+      ],
+      "notes": "Источники подтверждают John Wilson / Moonhead и отличительную церемонию Big Moon, а не полный синоним всей Native American Church. Независимая публикация Oklahoma Historical Society подтверждает преемственность среди осейджей и квапо. Противоречивые точные даты исходника и тезис о буквальном культе Уилсона не перенесены. Пейот сам по себе не доказывает occult."
+    },
+    {
+      "sourceIndex": 900,
+      "sourceName": "Dream Dance",
+      "decision": "keep",
+      "canonicalName": "Танец сновидения / Dream Dance",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Межплеменная обрядовая традиция священного барабана, распространявшаяся среди народов Великих озёр в XIX веке.",
+      "profile": "+divine +ritual +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dream_Dance",
+        "https://www.mpm.org/educators/wirp/great-lakes-traditional-culture/religious-ceremonial-life"
+      ],
+      "notes": "Музей Милуоки подтверждает название Drum Dance / Dream Dance, рассказ о духовном видении и центральный священный барабан. Это не синоним Ghost Dance или просто любого танца, приснившегося участнику. Разные местные варианты и христианские влияния не превращены в единый общеобязательный профиль. Признак природы, населённой духами, не выведен только из сакральности одного барабана."
+    },
+    {
+      "sourceIndex": 901,
+      "sourceName": "Ghost Dance",
+      "decision": "keep",
+      "canonicalName": "Пляска духов / Ghost Dance",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Межплеменное религиозное движение, связанное с пророческими видениями, круговым танцем и ожиданием воссоединения живых с умершими.",
+      "profile": "+divine +revelation +afterlife +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ghost_Dance"
+      ],
+      "notes": "Источник различает раннее движение Водзивоба и распространение учения Вовоки в конце XIX века. Общая запись охватывает исторические варианты, а не только лакота. Встреча с духами умерших подтверждает afterlife, но не автоматически культ родовых предков или вселение духов. Не синоним Dream Dance, религии Длинного дома или всех духовных традиций пайютов."
+    },
+    {
+      "sourceIndex": 902,
+      "sourceName": "Indian Shaker Church",
+      "decision": "keep",
+      "canonicalName": "Индейская шейкерская церковь",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Синкретическое движение Тихоокеанского Северо-Запада, возникшее вокруг духовного опыта Джона Слокума и телесных исцеляющих практик.",
+      "profile": "+divine +personal +jesus +revelation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Indian_Shaker_Church"
+      ],
+      "notes": "Источник подтверждает прямое общение с Богом и рассказ основателя о встрече с Иисусом. Это не христианские Shakers Энн Ли. Внутри Indian Shaker Church есть расхождения об использовании Библии, поэтому единые +scripture или -scripture не назначены. Телесная дрожь сама по себе не доказывает говорение на языках и общий признак spirit_gifts."
+    },
+    {
+      "sourceIndex": 903,
+      "sourceName": "Longhouse Religion",
+      "decision": "keep",
+      "canonicalName": "Религия Длинного дома / Гайвиио",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозная реформа хауденосауни, связанная с Хендсом Лейком, его видениями и нравственным учением Доброй вести.",
+      "profile": "+divine +revelation +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Longhouse_Religion",
+        "https://sacred-texts.com/nam/iro/parker/index.htm"
+      ],
+      "notes": "Источник и этнографическая публикация Артура Паркера подтверждают самостоятельный Code of Handsome Lake и церемонии Гайвиио. Не синоним всей исторической религии ирокезов или народа сенека. Наличие письменной публикации устного кодекса не само по себе основание для +scripture; христианские влияния не дают всего католического или квакерского профиля."
+    },
+    {
+      "sourceIndex": 904,
+      "sourceName": "Mexicayotl",
+      "decision": "keep",
+      "canonicalName": "Мешикайотль / Mexicanidad",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное движение возрождения и переосмысления религии, философии и культуры древней Мексики.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mexicayotl"
+      ],
+      "notes": "Источник описывает современные общины-кальпулли и несколько организационных линий. Не alias исторической ацтекской религии: современная реконструкция и заявленная преемственность различаются. Native Mexican Church в статье не то же самое, что пейотистская Native American Church. Единая обязательная модель пантеона не выведена из общей цели возрождения."
+    },
+    {
+      "sourceIndex": 905,
+      "sourceName": "Native American Church",
+      "decision": "keep",
+      "canonicalName": "Церковь коренных американцев / Native American Church",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Межплеменное религиозное движение с пейотом как сакраментом и ночными церемониями, объединяющее разные местные пути.",
+      "profile": "+divine +ritual +fire",
+      "proposedQuestions": [
+        {
+          "id": "entheogenic_ritual",
+          "text": "Занимает ли обрядовое употребление психоактивных веществ важное место в вашей духовной традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Повторно использует вопрос, предложенный в партиях 0031–0045, 0246–0265 и расширенный в 0666–0685. Здесь отражает сакраментальное употребление пейота и отличает пейотистские пути от других общин с обрядами и подношениями; сам по себе не означает occult."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Native_American_Church",
+        "https://www.okhistory.org/publications//enc/entry?entry=NA015"
+      ],
+      "notes": "Энциклопедия Oklahoma Historical Society подтверждает самостоятельную религию и обрядовое употребление пейота. Статья описывает несколько путей с разным отношением к Библии и христианской символике, поэтому единые +jesus, +trinity или +scripture не назначены всем. Священное место огня и отдельный Fireman подтверждают fire. Не alias пейотизма Большой Луны, одного племени или Neo-American Church."
+    }
+  ]
+}

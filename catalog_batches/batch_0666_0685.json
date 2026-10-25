@@ -1,0 +1,410 @@
+{
+  "range": [
+    666,
+    685
+  ],
+  "entries": [
+    {
+      "sourceIndex": 666,
+      "sourceName": "Healing Church in Rhode Island",
+      "decision": "keep",
+      "canonicalName": "Healing Church в Род-Айленде",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозная община Род-Айленда, использующая каннабис как священное растение в обрядах.",
+      "profile": "+ritual",
+      "proposedQuestions": [
+        {
+          "id": "entheogenic_ritual",
+          "text": "Занимает ли обрядовое употребление психоактивных веществ важное место в вашей духовной традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Расширяет ранее предложенный entheogenic_ritual с растений и грибов на вещества вообще: Neo-American Church и Temple of the True Inner Light включают синтетические вещества. Отличает сакраментальную практику этих шести организаций от обычного признания ритуалов."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Healing_Church_in_Rhode_Island"
+      ],
+      "notes": "Источник подтверждает конкретную организацию и богослужебное употребление растения. Само название Church не доказывает христианской догматики; дополнительные признаки не выведены из него. Сведения о споре вокруг разрешённости практики не используются как оценка религиозной искренности."
+    },
+    {
+      "sourceIndex": 667,
+      "sourceName": "Neo-American Church",
+      "decision": "keep",
+      "canonicalName": "Неоамериканская церковь",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Организация Артура Клепса с психоделическими веществами как сакраментом и сатирическими элементами.",
+      "profile": "+ritual +scripture",
+      "proposedQuestions": [
+        {
+          "id": "entheogenic_ritual",
+          "text": "Занимает ли обрядовое употребление психоактивных веществ важное место в вашей духовной традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Расширяет ранее предложенный entheogenic_ritual с растений и грибов на вещества вообще: Neo-American Church и Temple of the True Inner Light включают синтетические вещества. Отличает сакраментальную практику этих шести организаций от обычного признания ритуалов."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Neo-American_Church"
+      ],
+      "notes": "Исходная статья называет Original Kleptonian Neo-American Church и тексты Boo Hoo Bible и Millbrook. Сатирическая форма не отменяет существования организации. Не путать с Native American Church; общая практика энтеогенов не означает синонимии."
+    },
+    {
+      "sourceIndex": 668,
+      "sourceName": "Santo Daime",
+      "decision": "keep",
+      "canonicalName": "Санто-Дайме",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Бразильская религиозная традиция с христианскими мотивами, гимнами и обрядовым употреблением дайме.",
+      "profile": "+divine +jesus +ritual +meditation",
+      "proposedQuestions": [
+        {
+          "id": "entheogenic_ritual",
+          "text": "Занимает ли обрядовое употребление психоактивных веществ важное место в вашей духовной традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Расширяет ранее предложенный entheogenic_ritual с растений и грибов на вещества вообще: Neo-American Church и Temple of the True Inner Light включают синтетические вещества. Отличает сакраментальную практику этих шести организаций от обычного признания ритуалов."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Santo_Daime",
+        "https://www.santodaime.org/institucional/producao-e-distribuicao-do-santo-daime/historico",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8129555/",
+        "https://santodaime.ca/"
+      ],
+      "notes": "Исходная ссылка не открылась при повторной попытке. Официальный материал и академическое исследование подтверждают сакрамент, христианскую символику, гимны и ритуалы концентрации. Внутренние линии различаются; весь набор афробразильских практик одной ветви не перенесён на всех. Не синоним União do Vegetal."
+    },
+    {
+      "sourceIndex": 669,
+      "sourceName": "Temple of the True Inner Light",
+      "decision": "keep",
+      "canonicalName": "Храм истинного внутреннего света",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Американская организация, почитающая психоделические вещества как плоть Бога и употребляющая их в религиозной практике.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [
+        {
+          "id": "entheogenic_ritual",
+          "text": "Занимает ли обрядовое употребление психоактивных веществ важное место в вашей духовной традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Расширяет ранее предложенный entheogenic_ritual с растений и грибов на вещества вообще: Neo-American Church и Temple of the True Inner Light включают синтетические вещества. Отличает сакраментальную практику этих шести организаций от обычного признания ритуалов."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Temple_of_the_True_Inner_Light",
+        "https://ttil.org/"
+      ],
+      "notes": "Исходная статья имеет проблемы оформления ссылок; основной тезис проверен по собственному сайту ttil.org. Вещество считается проявлением божественного, а не только средством его восприятия. Общее происхождение из психоделической среды не делает храм синонимом Неоамериканской церкви."
+    },
+    {
+      "sourceIndex": 670,
+      "sourceName": "THC Ministry",
+      "decision": "keep",
+      "canonicalName": "THC Ministry",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Основанное Роджером Кристи движение с каннабисом как сакраментом.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [
+        {
+          "id": "entheogenic_ritual",
+          "text": "Занимает ли обрядовое употребление психоактивных веществ важное место в вашей духовной традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Расширяет ранее предложенный entheogenic_ritual с растений и грибов на вещества вообще: Neo-American Church и Temple of the True Inner Light включают синтетические вещества. Отличает сакраментальную практику этих шести организаций от обычного признания ритуалов."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/THC_Ministry"
+      ],
+      "notes": "Описаны религиозная практика и обращение к Богу. Собственные гипотезы движения о каннабисе в древних религиях не приняты за проверенные исторические факты. Не синоним всех каннабисных церквей."
+    },
+    {
+      "sourceIndex": 671,
+      "sourceName": "União do Vegetal",
+      "decision": "keep",
+      "canonicalName": "Униан-ду-Вежетал",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Бразильская религия Местре Габриэла с учением о духовном развитии и ритуальным употреблением хоаски.",
+      "profile": "+divine +reincarnation +ritual",
+      "proposedQuestions": [
+        {
+          "id": "entheogenic_ritual",
+          "text": "Занимает ли обрядовое употребление психоактивных веществ важное место в вашей духовной традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Расширяет ранее предложенный entheogenic_ritual с растений и грибов на вещества вообще: Neo-American Church и Temple of the True Inner Light включают синтетические вещества. Отличает сакраментальную практику этих шести организаций от обычного признания ритуалов."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Uni%C3%A3o_do_Vegetal",
+        "https://udv.org.br/en/principles/"
+      ],
+      "notes": "Официальные принципы прямо определяют религию как христианскую и реинкарнационную и подтверждают роль хоаски в обрядах. Это самоописание, а не основание автоматически назначать Троицу или исторические церковные таинства. Медицинские утверждения сайта не включены в профиль."
+    },
+    {
+      "sourceIndex": 672,
+      "sourceName": "Advait Mat",
+      "decision": "keep",
+      "canonicalName": "Адвайт Мат",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Семейство общин северной Индии, связанных с Адвайтанандом и Сварупанандом.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Advait_Mat"
+      ],
+      "notes": "Источник подтверждает конкретную преемственность Paramhans Advait Mat и сеть ашрамов, но мало сообщает о различительных верованиях. Не alias всей адвайта-веданты или Сант Мат. Профиль оставлен пустым, без наследования догматики по названию."
+    },
+    {
+      "sourceIndex": 673,
+      "sourceName": "Ancient Teachings of the Masters",
+      "decision": "keep",
+      "canonicalName": "Древние учения мастеров (ATOM)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Экканкар",
+      "description": "Движение Дарвина Гросса, продолжающее определённую интерпретацию учений Пола Твитчелла.",
+      "profile": "+divine +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ancient_Teachings_of_the_Masters",
+        "https://atom.org/"
+      ],
+      "notes": "Исходная статья оспариваемые биографические обвинения не используется для профиля. Собственный сайт подтверждает путь к Богу и бессмертную душу. Организационное отделение от Экканкара означает отдельную ветвь, несмотря на заявление о сохранении исходного учения."
+    },
+    {
+      "sourceIndex": 674,
+      "sourceName": "Dera Sacha Sauda",
+      "decision": "keep",
+      "canonicalName": "Дера Сача Сауда",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Радха-соами",
+      "description": "Индийское духовное движение с наставничеством гуру, медитацией и этическими предписаниями.",
+      "profile": "+meditation -ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dera_Sacha_Sauda"
+      ],
+      "notes": "Раздел Teachings подтверждает Surat Shabd Yoga, Naam-Shabad и отказ от ритуализма. Скандалы вокруг руководителей не использованы как религиозные признаки. Символы разных религий на собраниях не доказывают принятия всех соответствующих догматов."
+    },
+    {
+      "sourceIndex": 675,
+      "sourceName": "Eckankar",
+      "decision": "keep",
+      "canonicalName": "Экканкар",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение Пола Твитчелла с учением о душе, ЭКК, внутреннем свете и звуке.",
+      "profile": "+divine +scripture +karma +reincarnation +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eckankar"
+      ],
+      "notes": "Исходная статья подтверждает Shariyat-Ki-Sugmad, карму и перерождение. Историческая достоверность заявляемой древней преемственности мастеров обсуждается; она не превращена в установленный факт. Связи с Радха-соами и другими движениями не доказывают тождества."
+    },
+    {
+      "sourceIndex": 676,
+      "sourceName": "Elan Vital",
+      "decision": "keep",
+      "canonicalName": "Elan Vital",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Организации, поддерживавшие распространение учения и выступлений Према Равата.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Elan_Vital_(organization)"
+      ],
+      "notes": "Сохраняется организационная запись, а не автоматически отдельная религия. Статья описывает преемство американской Divine Light Mission после переименования и отказ от прежнего религиозного оформления. Разные организации и периоды не дают единого богословского профиля; свойства Сант Мат не наследуются."
+    },
+    {
+      "sourceIndex": 677,
+      "sourceName": "Manavta Mandir",
+      "decision": "keep",
+      "canonicalName": "Манавта Мандир",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Радха-соами",
+      "description": "Центр Бабы Факира Чанда в Хошиарпуре с учением о человечности и духовной практике.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Manavta_Mandir",
+        "https://manavtamandir.com/books/english/Manavta.pdf"
+      ],
+      "notes": "Статья о храме и организации, а не независимой мировой религии. Связь с Факиром Чандом подтверждена; собственная публикация Manavta описывает ежедневные Sumiran и Dhyan. Социальная помощь не приравнена нерелигиозному гуманизму, а изображения гуру не автоматически церковным иконам."
+    },
+    {
+      "sourceIndex": 678,
+      "sourceName": "Movement of Spiritual Inner Awareness",
+      "decision": "keep",
+      "canonicalName": "Движение духовного внутреннего осознания (MSIA)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Американское движение Джона-Роджера с практиками духовных упражнений и трансценденции души.",
+      "profile": "+divine +karma +reincarnation +liberation +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Movement_of_Spiritual_Inner_Awareness",
+        "https://www.msia.org/key-teachings"
+      ],
+      "notes": "Собственный сайт подтверждает Бога, карму и освобождение от цикла воплощений; исходная статья — медитативные Spiritual Exercises. «Сознание Христа» и заимствования из разных традиций не превращены автоматически в Троицу или тождество Экканкару."
+    },
+    {
+      "sourceIndex": 679,
+      "sourceName": "Radha Soami",
+      "decision": "keep",
+      "canonicalName": "Радха-соами",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Направление индийской духовности с живым гуру и практикой медитации Surat Shabd Yoga.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Radha_Soami"
+      ],
+      "notes": "Зонтичное движение с несколькими линиями преемства. Беас, Даялбагх, Динод и другие организации не считаются его полными синонимами. Источник прямо подтверждает медитацию и роль живого наставника; одинаковый профиль всех ветвей не наследуется."
+    },
+    {
+      "sourceIndex": 680,
+      "sourceName": "Radha Soami Satsang Beas",
+      "decision": "keep",
+      "canonicalName": "Радха Соами Сатсанг Беас",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Радха-соами",
+      "description": "Самостоятельная организация в традиции Радха-соами с живым учителем и ежедневной медитацией.",
+      "profile": "+divine +one_god +meditation -ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Radha_Soami_Satsang_Beas",
+        "https://rssb.org/index.html",
+        "https://rssb.org/faqs.html"
+      ],
+      "notes": "Исходный URL не открылся; собственные сайт и FAQ подтверждают единого Бога, медитацию и отказ от обязательных обрядов. Организация прямо отделяет себя от других движений с именем Radha Soami. Текущие имена руководителей не использованы как постоянные признаки."
+    },
+    {
+      "sourceIndex": 681,
+      "sourceName": "Radha Soami Satsang Dayagbal",
+      "decision": "keep",
+      "canonicalName": "Радха Соами Сатсанг Сабха (Даялбагх)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Радха-соами",
+      "description": "Ветвь Радха-соами с центром в Даялбагхе и духовной практикой Surat-Sabda-Yog.",
+      "profile": "+divine +meditation +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Radha_Soami_Satsang_Sabha",
+        "https://www.dayalbagh.org.in/",
+        "https://www.dayalbagh.org.in/radhasoami-faith/faith-propagation.htm",
+        "https://www.dei.ac.in/dei/index.php?Itemid=110&catid=25%3Aabout-dayalbagh&id=90%3Acommunity-life-at-dayalbagh&option=com_content&view=article"
+      ],
+      "notes": "Dayagbal в исходном имени — неточное написание Dayalbagh; ссылка ведёт на соответствующую Sabha. Собственный сайт подтверждает медитацию, Бога и священную литературу; институт Даялбагха подтверждает местонахождение штаб-квартиры. Не путать с отдельным центром Soami Bagh в Агре или Беасом."
+    },
+    {
+      "sourceIndex": 682,
+      "sourceName": "Radha Swami Satsang, Dinod",
+      "decision": "keep",
+      "canonicalName": "Радха Свами Сатсанг Динод",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Радха-соами",
+      "description": "Центр и линия Радха-соами в Диноде, основанные Тара Чандом.",
+      "profile": "+divine +meditation +reincarnation +liberation +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Radha_Swami_Satsang,_Dinod",
+        "https://www.radhaswamidinod.org/",
+        "https://www.radhaswamidinod.org/meditation.html"
+      ],
+      "notes": "Исходная статья имеет предупреждения об источниках, поэтому профиль проверен по собственному сайту Динода: медитация описана как путь освобождения от перерождений, а живой мастер — как проводник. Различия с Беасом и Даялбагхом не заменены общей синонимией."
+    },
+    {
+      "sourceIndex": 683,
+      "sourceName": "Ravidassia",
+      "decision": "keep",
+      "canonicalName": "Равидассия",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Индийская религиозная традиция почитания гуру Равидаса с собственными общинами и священной литературой.",
+      "profile": "+divine +one_god +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ravidassia"
+      ],
+      "notes": "Источник различает современную самостоятельную идентичность, объявленную в 2010 году, и общины, сохраняющие сикхские практики. Amritbani Guru Ravidass Ji подтверждена, но -guru_granth не назначен всем последователям. Не alias сикхизма и не тождество одноимённой кастовой категории."
+    },
+    {
+      "sourceIndex": 684,
+      "sourceName": "Ruhani Satsang",
+      "decision": "keep",
+      "canonicalName": "Рухани Сатсанг",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Радха-соами",
+      "description": "Духовная школа Кирпала Сингха с наставничеством и медитацией на внутренний свет и звук.",
+      "profile": "+divine +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kirpal_Singh"
+      ],
+      "notes": "Исходная ссылка о Кирпале Сингхе, но содержит отдельный раздел об основанной им Ruhani Satsang и непосредственно описывает учение о медитации. Не синоним любой поздней организации его учеников и не автоматическое тождество Science of Spirituality."
+    },
+    {
+      "sourceIndex": 685,
+      "sourceName": "Science of Spirituality",
+      "decision": "keep",
+      "canonicalName": "Science of Spirituality",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Международная духовная организация с практикой медитации на внутренний свет и звук и наставничеством Раджиндера Сингха.",
+      "profile": "+divine +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Science_of_Spirituality",
+        "https://sos.org/"
+      ],
+      "notes": "Собственный сайт подтверждает название, духовную цель и практику; в Индии организация связана с названием Sawan Kirpal Ruhani Mission. Общая линия Кирпала Сингха не означает организационного тождества всей Ruhani Satsang. Слово Science не означает +scientific в смысле научного натурализма."
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "range": [
+    686,
+    705
+  ],
+  "entries": [
+    {
+      "sourceIndex": 686,
+      "sourceName": "Abkhaz neopaganism",
+      "decision": "keep",
+      "canonicalName": "Абхазская традиционная религия: современное возрождение",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное возрождение абхазских местных культов, святилищ и родовых молений при сохранении части обрядовой преемственности.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Abkhaz_neopaganism",
+        "https://journals.iea.ras.ru/vestantrop/article/view/1036"
+      ],
+      "notes": "Исходная статья перенаправляет Abkhaz neopaganism на Abkhaz traditional religion и описывает возрождение с 1980-х, а не только заново изобретённую религию. Полевое исследование Бигуаа подтверждает непрерывность отдельных родовых культов. Число божеств не кодируется: трактовки верховного Анцва и подчинённых сакральных сил различаются. Родовой обряд сам по себе не принят за доказательство культа умерших предков."
+    },
+    {
+      "sourceIndex": 687,
+      "sourceName": "Aiyy",
+      "decision": "keep",
+      "canonicalName": "Айыы итэҕэлэ — движение Лазаря Афанасьева",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Тенгрианство",
+      "description": "Якутское религиозное движение Лазаря Афанасьева, переосмысляющее местные верования и тенгрианство; одноимённая организация зарегистрирована в 2015 году.",
+      "profile": "+divine +personal +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aiyy_Faith"
+      ],
+      "notes": "Источник обозначает конкретную организацию Aiyy Faith, её предшественника Кут-сүр и учение о творце, его проявлениях и трёх душах. Это не полный синоним якутского шаманизма или общего тенгрианства. Учение о возвращении душ к Айыы не заменено признаком reincarnation. Универсальность нового откровения не подтверждена."
+    },
+    {
+      "sourceIndex": 688,
+      "sourceName": "Assianism",
+      "decision": "keep",
+      "canonicalName": "Ассианство / уацдин",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное организованное возрождение осетинской традиционной религии с почитанием Хуыцау и божественных сил.",
+      "profile": "+divine +many_gods +pantheism +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Assianism"
+      ],
+      "notes": "Источник прямо связывает названия Assianism, Uatsdin и Æss Din и описывает организационное возрождение с 1980-х. Пантеистическое понимание верховного Бога и почитание меньших божеств представлены в описанной теологии; это не христианская Троица. Историческая Scythian religion остаётся отдельной записью; заявленная преемственность не делает их синонимами. Семейство pagan используется как техническая категория современного возрождения, хотя последователи могут отвергать слово «язычество»."
+    },
+    {
+      "sourceIndex": 689,
+      "sourceName": "Baltic neopaganism",
+      "decision": "keep",
+      "canonicalName": "Балтийские движения родной веры",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность современных движений возрождения латышских, литовских и других балтийских религиозных традиций.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Baltic_neopaganism"
+      ],
+      "notes": "Зонтичная категория, а не единая организация: источник включает отдельные Dievturība и Romuva. Их особенности не перенесены на все балтийские движения; единого обязательного богословия не назначено."
+    },
+    {
+      "sourceIndex": 690,
+      "sourceName": "Burkhanism",
+      "decision": "keep",
+      "canonicalName": "Бурханизм / Ак јаҥ",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Тенгрианство",
+      "description": "Алтайское религиозное движение, возникшее в 1904 году и продолжающееся в нескольких формах возрождения.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Burkhanism"
+      ],
+      "notes": "Источник отличает движение от более общего алтайского шаманизма: первоначальная критика шаманских культов, почитание бурхановых сил и героев эпоса, позднейшая адаптация к народной религии. Синкретические влияния буддизма и христианства не превращены в обязательные +buddha или +jesus. Не alias общего тенгрианства."
+    },
+    {
+      "sourceIndex": 691,
+      "sourceName": "Celtic neopaganism",
+      "decision": "keep",
+      "canonicalName": "Кельтское неоязычество",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современные религиозные направления, вдохновлённые кельтскими дохристианскими традициями и культурой.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Celtic_neopaganism"
+      ],
+      "notes": "Источник перечисляет реконструкционизм, неодруидизм, кельтскую викку и неошаманские подходы. Поэтому это не синоним существующего «Друидизм» и не синоним более узкой строки 692. Общие богословские ответы при таком разнообразии не назначены."
+    },
+    {
+      "sourceIndex": 692,
+      "sourceName": "Celtic reconstructionist paganism",
+      "decision": "keep",
+      "canonicalName": "Кельтское реконструкционистское язычество",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Кельтское неоязычество",
+      "description": "Современное политеистическое направление, восстанавливающее кельтские религиозные практики с опорой на исторические источники и живые культуры.",
+      "profile": "+many_gods +nature_spirits +ancestors +ritual -scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Celtic_Reconstructionist_Paganism",
+        "https://www.paganachd.com/faq/whatiscr.html",
+        "https://www.paganachd.com/faq/howdifferent.html"
+      ],
+      "notes": "Исходная ссылка теперь ведёт на раздел общей статьи Celtic neopaganism; раздел и коллективный FAQ сообщества подтверждают самостоятельный реконструкционистский подход. Перенаправление не доказывает тождества со всей зонтичной категорией строки 691 или с друидизмом. Отсутствие единого священного текста прямо отмечено источником."
+    },
+    {
+      "sourceIndex": 693,
+      "sourceName": "Church of the Guanche People",
+      "decision": "keep",
+      "canonicalName": "Церковь народа гуанчей",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Организация на Тенерифе, основанная в 2001 году для возрождения религии коренных жителей Канарских островов.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Church_of_the_Guanche_People"
+      ],
+      "notes": "Источник подтверждает почитание Чаксиракси и проведение свадебных и иных обрядов. Это современная организация, а не синоним всей исторической религии гуанчей. Упоминание крещений не доказывает христианские таинства, сознательное крещение взрослых или христианское богословие."
+    },
+    {
+      "sourceIndex": 694,
+      "sourceName": "Dievturība",
+      "decision": "keep",
+      "canonicalName": "Диевтуриба",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Балтийские движения родной веры",
+      "description": "Латышское движение родной веры, систематизированное в 1920-х годах на основе фольклора, песен и мифологии.",
+      "profile": "+divine +many_gods +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dievtur%C4%ABba"
+      ],
+      "notes": "Источник описывает Диевса, Мару и Лайму как божественные аспекты и учение о посмертной судьбе души. many_gods допускает разные проявления божественного согласно формулировке questions.js. Триединство божеств не кодируется христианским trinity. Не alias литовской Ромувы или всей балтийской категории."
+    },
+    {
+      "sourceIndex": 695,
+      "sourceName": "Estonian neopaganism",
+      "decision": "keep",
+      "canonicalName": "Эстонские движения родной веры",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современные эстонские направления возрождения местных верований, включая таарауск и маауск.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Estonian_neopaganism"
+      ],
+      "notes": "Зонтичная запись охватывает монистический таарауск и более разнообразный маауск; общее число божеств и одинаковая практика всем ветвям не назначены. Не является синонимом одной из перечисленных ветвей."
+    },
+    {
+      "sourceIndex": 696,
+      "sourceName": "Heathenry",
+      "decision": "alias",
+      "canonicalName": "Асатру / хетенри",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современные германские языческие направления, обращающиеся к дохристианским богам, духам природы и предкам.",
+      "profile": "+many_gods +nature_spirits +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heathenry_(new_religious_movement)"
+      ],
+      "notes": "Подтверждённое совпадение с religions.js: существующая запись «Асатру / хетенри» прямо описана как современное германское язычество. Исходная статья определяет Heathenry именно так; региональные, богословские и организационные варианты не сведены к одной обязательной доктрине."
+    },
+    {
+      "sourceIndex": 697,
+      "sourceName": "Hellenism",
+      "decision": "alias",
+      "canonicalName": "Эллинизм",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное почитание древнегреческих богов и восстановление связанных религиозных обрядов.",
+      "profile": "+many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hellenism_(religion)"
+      ],
+      "notes": "Точное совпадение с существующим названием и определением religions.js. Исходная статья Hellenism (modern religion) посвящена современному движению; историческая древнегреческая религия не объединяется с ним."
+    },
+    {
+      "sourceIndex": 698,
+      "sourceName": "Hetanism",
+      "decision": "keep",
+      "canonicalName": "Гетанизм — армянская родная вера",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное армянское движение родной веры; важная организация — основанный Слаком Какосяном орден «Дети Ара».",
+      "profile": "+many_gods +scripture +reincarnation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Armenian_neopaganism",
+        "https://en.wikipedia.org/wiki/Hetanism",
+        "https://www.cambridge.org/core/books/abs/modern-pagan-and-native-faith-movements-in-central-and-eastern-europe/neopagan-movement-in-armenia-the-children-of-ara/7E1F48114BB2E25CA1201D4CC036568B"
+      ],
+      "notes": "Исходный URL Armenian_neopaganism не загрузился; доступная статья Hetanism и исследовательская глава Антонян и Секерского подтверждают предмет. Священный Ухтагирк и родовое перерождение описаны для арординеров; их наличие не означает одинаковой практики каждого современного армянского неоязычника. Это не синоним исторической Armenian mythology."
+    },
+    {
+      "sourceIndex": 699,
+      "sourceName": "Hungarian neopaganism",
+      "decision": "keep",
+      "canonicalName": "Венгерское неоязычество / венгерская родная вера",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современные движения, восстанавливающие или переосмысляющие венгерскую религиозную традицию, мифологию и практики тальтошей.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hungarian_neopaganism",
+        "https://en.wikipedia.org/wiki/Hungarian_Native_Faith",
+        "https://www.cambridge.org/core/books/abs/modern-pagan-and-native-faith-movements-in-central-and-eastern-europe/neopaganism-in-hungary-under-the-spell-of-roots/6C02BAB62326076E82D1A606160E52CB"
+      ],
+      "notes": "Первоначальный URL не загрузился; доступная статья Hungarian Native Faith и исследование Силарди подтверждают современное движение. Оно включает существенно разные течения, в том числе синкретические с христианством, поэтому общий политеизм или отрицание Иисуса не назначены. Не alias строки Hungarian shamanism, где исследуются фольклорные пережитки и историческая реконструкция."
+    },
+    {
+      "sourceIndex": 700,
+      "sourceName": "Italo-Roman neopaganism",
+      "decision": "keep",
+      "canonicalName": "Современное возрождение римской религии",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современные направления восстановления римских и италийских культов, обрядов и почитания богов.",
+      "profile": "+many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Italo-Roman_neopaganism"
+      ],
+      "notes": "Исходная ссылка открывает статью Reconstructionist Roman religion, описывающую различные современные организации и употребляемые названия religio romana и cultus deorum romanorum. Не синоним исторической древнеримской религии; эзотерические идеи некоторых ранних авторов не перенесены на всех последователей."
+    },
+    {
+      "sourceIndex": 701,
+      "sourceName": "Kemetism",
+      "decision": "alias",
+      "canonicalName": "Кеметизм",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное возрождение почитания древнеегипетских божеств с различными реконструкционистскими и иными подходами.",
+      "profile": "+many_gods",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kemetism"
+      ],
+      "notes": "Точное совпадение с существующей записью religions.js «Кеметизм», определённой как современное почитание древнеегипетских божеств. Не alias исторической Egyptian religion. Источник описывает несколько организаций; особенности одной из них не распространены на всё направление."
+    },
+    {
+      "sourceIndex": 702,
+      "sourceName": "Mastorava",
+      "decision": "review",
+      "canonicalName": "Масторава — организация и движение возрождения",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Название культурной организации, связанной с возрождением эрзянской и мокшанской идентичности и дохристианских религиозных обрядов.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mordvin_Native_Religion",
+        "https://en.wikipedia.org/wiki/Mordvin_native_religion",
+        "https://citeseerx.ist.psu.edu/document?doi=c23132047906e99a8320cebd6ba48498207b388a&repid=rep1&type=pdf",
+        "https://www.ecoi.net/en/document/1037504.html"
+      ],
+      "notes": "Review: исходный URL Mordvin_Native_Religion не загрузился; вариант с нижним регистром открывает более широкую Erzyan native religion. Масторава — также название организации и эпоса, а не бесспорный синоним всей традиции. Полевое исследование Шнирельмана подтверждает участие культурного объединения в религиозном возрождении, но его точный объём нужно уточнить. Данные IRB также различают Мастораву и отделившийся «Эрзянь Мастор». Профиль пуст до выбора организации либо всей религии."
+    },
+    {
+      "sourceIndex": 703,
+      "sourceName": "Rodnovery",
+      "decision": "alias",
+      "canonicalName": "Родноверие",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современные славянские движения родной веры с почитанием божеств, предков и обрядовой жизнью общин.",
+      "profile": "+many_gods +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Slavic_Native_Faith"
+      ],
+      "notes": "Точный синоним существующей записи religions.js «Родноверие». Статья Slavic Native Faith прямо употребляет название Rodnovery. Зонтичное движение содержит разные богословские подходы; общие признаки описывают распространённые политеистические формы, а не обязательное вероучение каждого объединения. Историческая Slavic religion остаётся отдельной."
+    },
+    {
+      "sourceIndex": 704,
+      "sourceName": "Romuva",
+      "decision": "keep",
+      "canonicalName": "Ромува",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Балтийские движения родной веры",
+      "description": "Литовское движение родной веры, возрождающее балтийские обряды, почитание богов, предков и священного огня.",
+      "profile": "+many_gods +ancestors +ritual +fire",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Romuva_(religion)"
+      ],
+      "notes": "Источник прямо определяет Ромуву как политеистическую традицию с почитанием предков и описывает святилища со священным огнём. Не alias латышской Диевтурибы или всех балтийских движений. Природа признаётся священной, но это само по себе не использовано как доказательство +nature_spirits."
+    },
+    {
+      "sourceIndex": 705,
+      "sourceName": "Scandinavian heathenry",
+      "decision": "review",
+      "canonicalName": "Скандинавское хетенри: региональные формы",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": "Асатру / хетенри",
+      "description": "Региональные формы современных германских языческих движений в Скандинавии.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Modern_paganism_in_Scandinavia",
+        "https://brill.com/display/book/9789004309517/B9789004309517-s010.pdf"
+      ],
+      "notes": "Review: название строки — Scandinavian heathenry, но ссылка ведёт на географический обзор Modern paganism in Scandinavia. Статья говорит о преобладании германского хетенри и описывает разные организации и подходы. Академическая работа подтверждает региональный вариант асатру, но не отдельное общее учение. Требуется выбрать: самостоятельная региональная категория либо синоним существующего «Асатру / хетенри». Автоматический alias без уточнения объёма не назначен."
+    }
+  ]
+}

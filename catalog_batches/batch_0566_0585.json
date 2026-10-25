@@ -1,0 +1,354 @@
+{
+  "range": [
+    566,
+    585
+  ],
+  "entries": [
+    {
+      "sourceIndex": 566,
+      "sourceName": "Kiratism",
+      "decision": "keep",
+      "canonicalName": "Киратские религиозные традиции",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные религии киратских народов Непала и соседних областей, связанные с предками, природой и преданиями мундхум.",
+      "profile": "+divine +ancestors +ritual +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kirat_Mundhum"
+      ],
+      "notes": "Исходник прямо описывает мундхум как религиозный авторитет и отмечает различия его версий у народов киратского круга. Не подразумевается одна церковь или единый текст для всех. Название Kirat Veda не означает принятия индуистских Вед; Yumaism не объединён с этой широкой категорией как точный синоним."
+    },
+    {
+      "sourceIndex": 567,
+      "sourceName": "Krama",
+      "decision": "keep",
+      "canonicalName": "Крама",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современная религия, созданная Менлаем Мру среди мру Бангладеш и соседних областей, с этическим учением и обрядами вступления.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mru_people",
+        "https://en.wikipedia.org/wiki/Krama_Religion",
+        "https://munin.uit.no/bitstream/handle/10037/3538/thesis.pdf?isAllowed=y&sequence=1"
+      ],
+      "notes": "Исходник — статья о народе мру, раздел Krama religion. Дополнительное полевое исследование в репозитории Университета Тромсё описывает центральную книгу Reyung Khiti и обряд обучения и очищения подростков; при прямом открытии репозиторий перенаправил на страницу с JavaScript, текст доступен в поисковой выдаче. Границы сакрального статуса книги и точная дата основания в источниках неодинаковы, поэтому scripture и new_revelation не назначены. Не синоним всей традиционной религии мру или Mro religion народа мро-кхими."
+    },
+    {
+      "sourceIndex": 568,
+      "sourceName": "Lisu religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования лису",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования лису с почитанием духов гор, деревенских священных рощ и домашних предков.",
+      "profile": "+nature_spirits +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lisu_people"
+      ],
+      "notes": "Использован раздел Animism/shamanism/ancestor worship этнической статьи: жертвы духам гор, деревенские подношения и домашние алтари предков. Профиль не относится автоматически ко всем лису, значительная часть которых христиане. Lisu Church — иная, конфессиональная категория; общего этнонима недостаточно для синонимии."
+    },
+    {
+      "sourceIndex": 569,
+      "sourceName": "Maring beliefs",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования марингов Манипура",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные дохристианские верования марингов северо-восточной Индии, связанные с предками, домашними и природными духами.",
+      "profile": "+ancestors +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maring_people",
+        "https://morungexpress.com/necu-hosts-annual-regional-symposium-cultural-heritage-nagas",
+        "https://m.joshuaproject.net/people_groups/13546/IN"
+      ],
+      "notes": "Исходная ссылка ведёт на краткую этническую статью о марингах Индии. Сведения о традиционной религии дополнены сообщением о докладе K. Moses на региональном симпозиуме North East Christian University и профилем Joshua Project; миссионерские оценки качества современной христианской веры не приняты. Не смешивать с одноимённым народом Новой Гвинеи и книгой Pigs for the Ancestors, которая посвящена ему."
+    },
+    {
+      "sourceIndex": 570,
+      "sourceName": "Mazu worship",
+      "decision": "keep",
+      "canonicalName": "Почитание Мацзу",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Китайская народная религия",
+      "description": "Культ китайской морской богини Мацзу, включающий храмовые и домашние молитвы, подношения и процессии.",
+      "profile": "+divine +personal +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mazu",
+        "https://ich.unesco.org/en/RL/mazu-belief-and-customs-00227"
+      ],
+      "notes": "Исходник посвящён богине; UNESCO отдельно подтверждает живые верования и обычаи её почитания, молитвенные просьбы и поклонение статуям. Прямое открытие страницы UNESCO выдало проверку JavaScript, содержательное описание доступно в поисковой выдаче. Это конкретный культ внутри более широких китайских народных традиций, а не alias всей существующей «Китайской народной религии». Из почитания одной богини не выводится one_god."
+    },
+    {
+      "sourceIndex": 571,
+      "sourceName": "Miji religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования миджи",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования саджоланг, или миджи, Аруначал-Прадеша, связывающие божественное с природным миром.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Miji_people"
+      ],
+      "notes": "Исходник — этническая статья, содержащая описание Zhanglhang-Miungzhin и религиозного значения природы, но плохо снабжённая построчными ссылками. Сохранён только общий подтверждённый в разделе Religion признак божественного; единое монобожие, пантеизм и буддийская доктрина из культурных контактов не выведены. Миджи не отождествлены с хрусо или всеми тани."
+    },
+    {
+      "sourceIndex": 572,
+      "sourceName": "Ming shamanism",
+      "decision": "keep",
+      "canonicalName": "Шаманские и медиумные практики Китая эпохи Мин",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Китайская народная религия",
+      "description": "Историческая совокупность ритуальных практик специалистов Китая эпохи Мин, включавших общение с духами и вызывание дождя.",
+      "profile": "+divine +ritual +afterlife",
+      "proposedQuestions": [
+        {
+          "id": "spirit_possession",
+          "text": "Важна ли для вашей духовной практики возможность общения с духами через вселение в человека или медиума?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Повторяет уже предложенный вопрос; прямо относится к описанным медиумным обрядам Китая эпохи Мин и части северо-восточных китайских культов. Отличает медиумное вселение от общего почитания божеств и предков; не приписывается каждому участнику народной религии."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shamans_in_Ming_China"
+      ],
+      "notes": "В исходнике описано вселение богов и духов в медиума через пение и танец и общение с умершими. Это историческая категория специалистов и обрядов, а не единая конфессия с общим символом веры. Конфуцианская критика и обвинения не считаются самоописанием практиков; не alias всей китайской народной религии и не всех исторических wu."
+    },
+    {
+      "sourceIndex": 573,
+      "sourceName": "Mizo religion",
+      "decision": "keep",
+      "canonicalName": "Сакхуа — традиционная религия мизо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местная религиозная традиция мизо, включающая отношения с божествами и духами, жреческие обряды и представления о пути умерших.",
+      "profile": "+divine +nature_spirits +ritual +afterlife",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mizo_religion",
+        "https://en.wikipedia.org/wiki/Sakhua"
+      ],
+      "notes": "Исходная Mizo religion перенаправляет на Sakhua; содержимое и литература описывают именно традиционные верования мизо, а не современные христианские конфессии. В статье приведены разные научные определения Сакхуа и разные трактовки роли Патхиана, поэтому one_god и many_gods не назначены. Эта запись сохраняется как цель alias для строки 584."
+    },
+    {
+      "sourceIndex": 574,
+      "sourceName": "Mro religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования мро-кхими",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования мро-кхими западной Мьянмы о творце и духах-покровителях дома и земли.",
+      "profile": "+divine +nature_spirits +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mro-Khimi_people"
+      ],
+      "notes": "Исходник прямо отличает мро-кхими от мру и описывает традиционные подношения духам. Не все современные мро-кхими следуют этим верованиям; их буддизм и христианство не сведены в единый профиль. Неподтверждённые демографические проценты не используются. Krama среди мру — другое учение, а общий вариант имени Mro не доказывает синонимию."
+    },
+    {
+      "sourceIndex": 575,
+      "sourceName": "Northeast China folk religion",
+      "decision": "keep",
+      "canonicalName": "Народная религия Северо-Восточного Китая",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Китайская народная религия",
+      "description": "Региональные китайские народные культы с особым значением зооморфных божеств, медиумов и общения с предками.",
+      "profile": "+divine +many_gods +ancestors +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Northeast_China_folk_religion"
+      ],
+      "notes": "Признаки опираются на описанные божества, общение с предками, гадание и обряды специалистов. Ханьско-маньчжурские взаимодействия не делают весь комплекс синонимом маньчжурского шаманизма; это региональная ветвь существующей китайской народной религии. Термин xian в местном употреблении не означает даосское бессмертие каждого участника."
+    },
+    {
+      "sourceIndex": 576,
+      "sourceName": "Nuo folk religion",
+      "decision": "keep",
+      "canonicalName": "Народная религия но",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Китайская народная религия",
+      "description": "Межэтническая китайская ритуальная традиция изгнания вредоносных сил с собственными жрецами, божествами и деревянными масками.",
+      "profile": "+divine +many_gods +ancestors +ritual +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nuo_folk_religion"
+      ],
+      "notes": "Источник описывает Господина и Госпожу Но как почитаемых божественных предков, их изображения и другие божества. Это не только сценический жанр и не синоним всей религии туцзя или даосизма. Признак ancestors основан на реальном описании почитания предковой пары, а не только на мифе об их происхождении. Связь с даосизмом не превращена автоматически в dao."
+    },
+    {
+      "sourceIndex": 577,
+      "sourceName": "Nyezi-No",
+      "decision": "keep",
+      "canonicalName": "Ньези-но",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местная религиозная традиция хрусо, или ака, Аруначал-Прадеша, название которой связывается с небом и землёй.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hruso_people"
+      ],
+      "notes": "Исходник — статья о народе с разделом Religion, прямо называющим Nyezi-No и отмечающим буддийские и индуистские влияния. Существование названной местной традиции подтверждено, но конкретные общие убеждения и обрядовые правила описаны недостаточно для назначения признаков. Этимология «небо и земля» не доказывает два божества или пантеизм. Не синоним верований миджи и не связь с африканскими ака."
+    },
+    {
+      "sourceIndex": 578,
+      "sourceName": "Pfutsana",
+      "decision": "keep",
+      "canonicalName": "Пфютсана",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Традиционная религия ангами Нага, сохраняющаяся в части общин Нагаленда и поддерживаемая местными объединениями.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pfutsana",
+        "https://en.wikipedia.org/wiki/Pf%C3%BCtsana",
+        "https://ipr.nagaland.gov.in/sites/default/files/2020-02/The%20Warrior%20December%202016.pdf",
+        "https://unitycollegedimapur.com/wp-content/uploads/2024/10/JOURNAL-2021.pdf"
+      ],
+      "notes": "Исходный URL Pfutsana не загрузился; открыта статья с диакритикой Pfütsana. Правительственный журнал The Warrior, декабрь 2016, с. 28, подтверждает название традиционной религии и общий праздник Sekrenyi; исследование Unity College описывает духов и Укепенуопфю. Простой ярлык monotheism из инфобокса не перенесён в профиль. Не синоним всех религий нага."
+    },
+    {
+      "sourceIndex": 579,
+      "sourceName": "Qiang folk religion",
+      "decision": "keep",
+      "canonicalName": "Традиционная религия цянов",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местная религия цянов Сычуани с почитанием божеств неба и гор, предков, белых камней и обрядами жрецов шиби.",
+      "profile": "+divine +many_gods +ancestors +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qiang_folk_religion",
+        "https://ich.unesco.org/doc/src/Signed%20periodic%20report%20-%20Periodic%20report-53862.pdf"
+      ],
+      "notes": "Исходник подтверждает различные божества и предков, ритуальное наделение белых камней силой и жрецов. Материалы UNESCO о Qiang New Year дополнительно описывают семейные жертвоприношения и обряды священной горы. Термин pantheistic из краткого определения не использован как доказательство тождества вселенной и божественного; почитание камней не переносится на любые камни."
+    },
+    {
+      "sourceIndex": 580,
+      "sourceName": "Queen Mother worship",
+      "decision": "keep",
+      "canonicalName": "Почитание Сиванму",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Китайская народная религия",
+      "description": "Культы Владычицы Запада Сиванму, китайского божества, связанного с Куньлунем и бессмертием.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Queen_Mother_of_the_West",
+        "https://collections.lacma.org/object/99537",
+        "https://www.metmuseum.org/art/collection/search/45736"
+      ],
+      "notes": "Исходник посвящён богине, а не единой религиозной организации. Музей LACMA подтверждает её образы как предмет поклонения и место в даосском пантеоне. Широкое историческое почитание не приравнено к конкретному современному движению Yaochidao или к любому культу Нерождённой Матери. Власть богини над бессмертием не означает обязательную доктрину afterlife каждого почитателя."
+    },
+    {
+      "sourceIndex": 581,
+      "sourceName": "Rangfrah",
+      "decision": "keep",
+      "canonicalName": "Рангфраизм",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Современное движение среди тангса и связанных общин, институционализирующее почитание Рангфра через дома поклонения, изображения и упорядоченные обряды.",
+      "profile": "+divine +icons +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rangfrah",
+        "https://nomadit.co.uk/conference/iuaes2013/paper/11583"
+      ],
+      "notes": "Исходная статья не имеет источников и содержит развёрнутую философию, которую нельзя считать независимо подтверждённым общим учением. Антропологический доклад Meenaxi Barkataki-Ruscheweyh на IUAES 2013 подтверждает движение, изображения и кодификацию обрядов. Поэтому keep относится к документированному движению, но pantheism, liberation и прочие признаки из неподкреплённого текста не назначены. Не alias всей традиционной религии тангса."
+    },
+    {
+      "sourceIndex": 582,
+      "sourceName": "Reang religion",
+      "decision": "keep",
+      "canonicalName": "Традиционные верования реанг",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местные верования реанг, или бру, Трипуры и соседних областей с почитанием Сибрая и других божеств.",
+      "profile": "+divine +many_gods +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Reang"
+      ],
+      "notes": "В этнической статье подтверждены божества и действия жреца aokchai: подношения перед зелёным бамбуковым столбом как представлением божества. Сходство с другими трипурскими культами не доказывает тождества. Профиль не распространяется на каждую современную индуистскую или христианскую общину реанг."
+    },
+    {
+      "sourceIndex": 583,
+      "sourceName": "Root West",
+      "decision": "review",
+      "canonicalName": "Рут-Уэст — реконструкция тангутской религии",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Предложенное исследователями обозначение добуддийских тангутских религиозных представлений, реконструируемых по языку и обрядовой поэзии.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tangut_people",
+        "https://kepping.net/pdfs/works/The_Black-headed_and_the_Red-faced.pdf"
+      ],
+      "notes": "Review: этническая статья представляет Root West как известный вид шаманизма, но работа Ксении Кеппинг формулирует вывод осторожно: автор предполагает, что название обозначает религию, исходя из упоминаний жрецов и предполагаемых ритуалов в одах. Независимость системы и точная интерпретация текстов требуют дальнейшей проверки; чёрные головные уборы и социальные классы не превращены в догматический профиль. Прямое открытие PDF дало 502, релевантный текст доступен в поисковой выдаче. Не alias тангутского буддизма или бон."
+    },
+    {
+      "sourceIndex": 584,
+      "sourceName": "Sakhua",
+      "decision": "alias",
+      "canonicalName": "Сакхуа — традиционная религия мизо",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Другое название традиционной религии мизо, сохранённой в строке 573.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sakhua",
+        "https://en.wikipedia.org/wiki/Mizo_religion"
+      ],
+      "notes": "Alias к записи 573 Mizo religion: исходная статья Mizo religion перенаправляет на Sakhua, а содержание описывает традиционные верования мизо. Это подтверждённое совпадение двух строк, а не объединение лишь по родству этносов. Профиль берётся из сохранённой записи; различающиеся определения отдельных авторов отмечены там."
+    },
+    {
+      "sourceIndex": 585,
+      "sourceName": "Sanamahism",
+      "decision": "keep",
+      "canonicalName": "Санамахизм",
+      "family": "indigenous",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Местная религиозная традиция мейтей Манипура с почитанием Санамахи и других божеств, домашними подношениями и общественными обрядами.",
+      "profile": "+divine +many_gods +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sanamahism"
+      ],
+      "notes": "Исходник прямо описывает политеизм, подношения, медиумные обряды жриц и использование мантр, в том числе для управления дождём. Эзотерический признак основан на описанных практиках, а не на общем ярлыке анимизма. Современные возрожденческие организации не равны всей исторической традиции; частичное сочетание с индуизмом не доказывает тождества."
+    }
+  ]
+}

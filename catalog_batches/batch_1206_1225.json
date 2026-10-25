@@ -1,0 +1,354 @@
+{
+  "range": [
+    1206,
+    1225
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1206,
+      "sourceName": "New Taoism",
+      "decision": "review",
+      "canonicalName": "New Taoism — неуточнённое обозначение",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Даосизм",
+      "description": "Неоднозначное название из исходного списка, ссылка которого ведёт на общую статью о даосизме.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taoism",
+        "https://plato.stanford.edu/entries/neo-daoism/"
+      ],
+      "notes": "Общая статья не определяет New Taoism как отдельную школу. Neo-Daoism в академическом употреблении обозначает сюаньсюэ, но приравнивание к нему именно этой строки не доказано; возможны и современные движения. До уточнения не alias ни даосизма в целом, ни строки 1214."
+    },
+    {
+      "sourceIndex": 1207,
+      "sourceName": "Northern Celestial Masters",
+      "decision": "keep",
+      "canonicalName": "Северные Небесные наставники",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Путь Небесных наставников",
+      "description": "Северокитайская историческая форма движения Небесных наставников, связанная с реформами Коу Цяньчжи и государством Северная Вэй.",
+      "profile": "+dao",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Northern_Celestial_Masters"
+      ],
+      "notes": "Самостоятельный исторический этап общей традиции, а не другое имя всех Небесных наставников. Буддийское влияние не доказывает центральную роль учения Будды у всех последователей."
+    },
+    {
+      "sourceIndex": 1208,
+      "sourceName": "Qigong",
+      "decision": "keep",
+      "canonicalName": "Цигун",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность китайских практик движения, дыхания и сосредоточения, используемых в духовном развитии, боевых искусствах и оздоровительных занятиях.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qigong"
+      ],
+      "notes": "Это не единая конфессия: существуют даосские, буддийские, конфуцианские и светские формы. Общий +dao не выставлен. Представления о ци и лечебные заявления не приняты как установленная научная модель; не alias Фалуньгун или Чжунгун."
+    },
+    {
+      "sourceIndex": 1209,
+      "sourceName": "Quanzhen School",
+      "decision": "review",
+      "canonicalName": "Школа Цюаньчжэнь",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Даосизм",
+      "description": "Даосское направление полного совершенства, связанное с Ван Чунъяном и практиками внутреннего совершенствования.",
+      "profile": "+dao +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Quanzhen_School",
+        "https://www.ch.ntnu.edu.tw/SIS/show_paper_detail.php?issue_id=12&locale=en&paper_id=57&periodicalsPage=2"
+      ],
+      "notes": "Исходная статья предупреждает о недостатке ссылок; review. Академическое исследование подтверждает роль Ван Чунъяна и работу с умом и телом. Авторитетные тексты названы в исходнике; не alias одной ветви Лунмэнь, не вся внутренняя алхимия."
+    },
+    {
+      "sourceIndex": 1210,
+      "sourceName": "Shangqing School",
+      "decision": "keep",
+      "canonicalName": "Школа Шанцин",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Даосизм",
+      "description": "Даосская традиция Высшей чистоты, связанная с корпусом откровений и медитативными визуализациями божеств.",
+      "profile": "+dao +scripture +revelation +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shangqing_School"
+      ],
+      "notes": "Источники описывают собственный канон и личную медитацию. Не alias всего даосизма или всех современных практик с названием Маошань. Откровения древнего периода не являются основанием для new_revelation о новом времени."
+    },
+    {
+      "sourceIndex": 1211,
+      "sourceName": "Way of the Celestial Masters",
+      "decision": "keep",
+      "canonicalName": "Путь Небесных наставников",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Даосизм",
+      "description": "Даосская традиция, связывающая своё происхождение с Чжан Даолином и ранней общиной II века.",
+      "profile": "+dao +revelation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Way_of_the_Celestial_Masters"
+      ],
+      "notes": "Исходник подтверждает рассказ о явлении Лао-цзы основателю; изложено как традиционное представление. Сохраняется общее движение, охватывающее несколько исторических форм. Северные наставники и более поздняя Чжэнъи выделены как этапы и формы, а не несвязанные религии."
+    },
+    {
+      "sourceIndex": 1212,
+      "sourceName": "Way of the Five Pecks of Rice",
+      "decision": "alias",
+      "canonicalName": "Путь Небесных наставников",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Даосизм",
+      "description": "Раннее движение Чжан Даолина, известное как Путь пяти мер риса.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Way_of_the_Five_Pecks_of_Rice",
+        "https://en.wikipedia.org/wiki/Way_of_the_Celestial_Masters"
+      ],
+      "notes": "Исходная статья прямо называет Way of the Five Pecks of Rice также Way of the Celestial Master. Alias записи 1211: общее раннее движение, названное по взносу последователей. Историческое государство в Ханьчжуне описывается внутри общей традиции, а не как отдельная религия."
+    },
+    {
+      "sourceIndex": 1213,
+      "sourceName": "Wuliupai",
+      "decision": "keep",
+      "canonicalName": "Школа У-Лю (Улюпай)",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Даосская внутренняя алхимия",
+      "description": "Даосская школа У Чунсюя и Лю Хуаяна, сосредоточенная на внутренней алхимии и достижении духовного совершенства.",
+      "profile": "+dao +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wuliupai"
+      ],
+      "notes": "Исходник прямо определяет эзотерическую внутреннюю алхимию как основную практику. Названия У-Лю и школа бессмертных и будд относятся к этой линии; присутствие буддийских понятий не делает её синонимом буддизма."
+    },
+    {
+      "sourceIndex": 1214,
+      "sourceName": "Xuanxue",
+      "decision": "keep",
+      "canonicalName": "Сюаньсюэ (неодаосизм)",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Философское течение раннесредневекового Китая, переосмысливавшее даосские и конфуцианские классические тексты.",
+      "profile": "+dao",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Xuanxue",
+        "https://plato.stanford.edu/entries/neo-daoism/"
+      ],
+      "notes": "Академический источник подтверждает Neo-Daoism как обозначение сюаньсюэ III–VI веков. Не alias всего «Философского даосизма» из religions.js: конкретный исторический круг уже. Современное употребление слова для гаданий и эзотерики не перенесено на древнюю философию."
+    },
+    {
+      "sourceIndex": 1215,
+      "sourceName": "Yao Taoism",
+      "decision": "keep",
+      "canonicalName": "Даосские традиции яо",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Даосизм",
+      "description": "Местные религиозные практики яо, соединяющие даосскую литургию, посвящения и почитание предков.",
+      "profile": "+ritual +ancestors",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yao_Taoism",
+        "https://en.wikipedia.org/wiki/Yao_folk_religion",
+        "https://www.tandfonline.com/doi/full/10.1080/02549948.2024.2414667",
+        "https://uw.manifoldapp.org/read/untitled-9270f150-2386-45f1-9a68-cb3f3d894352/section/6a90f52b-9dcb-4025-98b3-3ec441744237"
+      ],
+      "notes": "Исходный URL недоступен; рабочая статья и полевые исследования подтверждают явление. У разных групп яо сочетания даосских, местных и других элементов различаются; не все яо исповедуют одну религию. Не alias всей школы Чжэнъи или общего даосизма."
+    },
+    {
+      "sourceIndex": 1216,
+      "sourceName": "Zhengyi Dao",
+      "decision": "keep",
+      "canonicalName": "Чжэнъи-дао — Путь Истинного единства",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": "Путь Небесных наставников",
+      "description": "Даосская священническая традиция, развивающая линию Небесных наставников и включающая передачу регистров, талисманы и храмовые обряды.",
+      "profile": "+dao +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zhengyi_Dao"
+      ],
+      "notes": "Исходник связывает Чжэнъи с той же преемственностью, но выделяет название и организационные формы танского и последующих периодов. Сохранена поздняя традиция в отличие от раннего движения пяти мер риса. Это связанные уровни одной линии; при объединении каталога избегать повторного подсчёта одних последователей."
+    },
+    {
+      "sourceIndex": 1217,
+      "sourceName": "Zhong Gong",
+      "decision": "review",
+      "canonicalName": "Чжунгун (Zhong Gong)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Цигун",
+      "description": "Созданное Чжан Хунбао китайское движение цигун с собственной сетью обучения и организаций.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zhong_Gong",
+        "https://www.hrw.org/reports/2002/china/China0102-01.htm"
+      ],
+      "notes": "Исходная статья предупреждает о рекламном содержании; review. Human Rights Watch независимо подтверждает существование отдельной организации и основателя. Надёжно проверенного подробного профиля учения недостаточно; рекламные обещания и государственные ярлыки не используются как признаки. Не alias всех форм цигун или Фалуньгун."
+    },
+    {
+      "sourceIndex": 1218,
+      "sourceName": "Ajivika",
+      "decision": "keep",
+      "canonicalName": "Адживика",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Древнеиндийское аскетическое направление, традиционно связываемое с Маккхали Госалой и учением о предопределённости судьбы существ.",
+      "profile": "+reincarnation",
+      "proposedQuestions": [
+        {
+          "id": "spiritual_fatalism",
+          "text": "Считаете ли вы, что духовная судьба существ полностью предопределена и не может быть изменена их поступками?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Отражает традиционно приписываемую адживике доктрину нияти и различает её с учениями о действенности личных усилий и кармы. Требует исторической оговорки: собственные тексты школы утрачены, а поздние научные реконструкции кармической теории расходятся.",
+          "supportedEntries": [
+            "Ajivika"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika",
+        "https://suttacentral.net/dn2/en/sujato?highlight=false&lang=en&layout=plain&notes=sidenotes&reference=none&script=latin"
+      ],
+      "notes": "Собственные тексты утрачены, основные сведения переданы буддийскими и джайнскими оппонентами. Детали кармической теории и отношения к соседним школам спорны, поэтому -karma и отрицание всех духовных практик не выставлены. Не alias джайнизма или буддизма."
+    },
+    {
+      "sourceIndex": 1219,
+      "sourceName": "Ajñana",
+      "decision": "keep",
+      "canonicalName": "Аджняна",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Древнеиндийская скептическая школа, связанная с сомнением в возможности и духовной пользе метафизического знания.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aj%C3%B1ana"
+      ],
+      "notes": "Источники преимущественно происходят от оппонентов; отдельная положительная доктрина не установлена. Не alias современной научной скептики или агностицизма только о Боге. Общий скептицизм не доказывает scientific, naturalism или атеизм."
+    },
+    {
+      "sourceIndex": 1220,
+      "sourceName": "Akiriya",
+      "decision": "review",
+      "canonicalName": "Акриявада — учение, приписываемое Пуране Кассапе",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Учение об отсутствии нравственной заслуги и вины как последствий поступков, приписываемое древнеиндийскому учителю Пуране Кассапе.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Purana_Kassapa",
+        "https://suttacentral.net/dn2/en/sujato?highlight=false&lang=en&layout=plain&notes=sidenotes&reference=none&script=latin"
+      ],
+      "notes": "Исходная статья посвящена человеку, а не независимо засвидетельствованной общине Akiriya. Буддийская DN 2 подтверждает приписывание, но передаёт позицию через конкурирующую традицию; комментарий переводчика предостерегает от принятия этого описания за полное учение. Review: не смешивать с джайнским различением действия и души либо с общим фатализмом."
+    },
+    {
+      "sourceIndex": 1221,
+      "sourceName": "Buddhism",
+      "decision": "keep",
+      "canonicalName": "Буддизм",
+      "family": "buddhist",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Религиозная и философская традиция, основанная на учениях, приписываемых Будде, и включающая множество школ и линий практики.",
+      "profile": "+buddha",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Buddhism"
+      ],
+      "notes": "Общей записи «Буддизм» в religions.js нет: есть семейство buddhist и отдельные школы. Семейство не считается отдельной записью. Не alias махаяны, тхеравады или одной из медитативных традиций; метафизические и практические различия школ не сглажены наследованием."
+    },
+    {
+      "sourceIndex": 1222,
+      "sourceName": "Charvaka",
+      "decision": "keep",
+      "canonicalName": "Чарвака (локаята)",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Древнеиндийская материалистическая философская традиция, отдававшая приоритет восприятию и отвергавшая сверхъестественные объяснения.",
+      "profile": "+naturalism -divine -afterlife -reincarnation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Charvaka"
+      ],
+      "notes": "Charvaka и Lokayata в данном источнике — названия школы. Не alias современного научного натурализма: приоритет восприятия не тождествен современному научному методу. Значительная часть сведений сохранилась у оппонентов; единой реконструкции всех тезисов нет."
+    },
+    {
+      "sourceIndex": 1223,
+      "sourceName": "Jainism",
+      "decision": "keep",
+      "canonicalName": "Джайнизм",
+      "family": "jain",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Индийская религиозная традиция тиртханкаров, подчёркивающая освобождение души и строгое ненасилие.",
+      "profile": "+ahimsa",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jainism"
+      ],
+      "notes": "Общая традиция отличается от отдельных дигамбарской и шветамбарской ветвей. Наличие семейства jain в religions.js не является отдельной записью «Джайнизм». Подтверждён общий принцип ненасилия; особенности одной монашеской линии не распространены на всех последователей."
+    },
+    {
+      "sourceIndex": 1224,
+      "sourceName": "Mimamsa",
+      "decision": "keep",
+      "canonicalName": "Миманса (пурва-миманса)",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Классическая индийская школа толкования Вед и обоснования дхармы и ритуального действия.",
+      "profile": "+vedas +scripture +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/M%C4%ABm%C4%81%E1%B9%83s%C4%81",
+        "https://www.rep.routledge.com/articles/thematic/mimamsa/v-1/sections/language-and-scripture"
+      ],
+      "notes": "Употребление Mimamsa здесь относится к пурва-мимансе, а не к веданте, также называемой уттара-мимансой. Академический источник подтверждает авторитет безавторных Вед. Отсутствие Бога-автора не равно отрицанию всякой божественной реальности; -divine не выставлен."
+    },
+    {
+      "sourceIndex": 1225,
+      "sourceName": "Nyaya",
+      "decision": "keep",
+      "canonicalName": "Ньяя",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Классическая индийская философская школа, разрабатывающая логику, средства достоверного знания и обоснование освобождения.",
+      "profile": "+vedas +liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nyaya",
+        "https://plato.stanford.edu/archives/spr2016/entries/language-india/"
+      ],
+      "notes": "Академический источник подтверждает признание Вед и отличие от мимансы в объяснении их авторитета. Исторические и поздние теистические версии различаются, поэтому единый подробный богословский профиль не навязан. Логическое исследование не автоматически означает scientific."
+    }
+  ]
+}

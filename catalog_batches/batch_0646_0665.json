@@ -1,0 +1,352 @@
+{
+  "range": [
+    646,
+    665
+  ],
+  "entries": [
+    {
+      "sourceIndex": 646,
+      "sourceName": "Maitreyanism",
+      "decision": "keep",
+      "canonicalName": "Майтрейские учения Китая",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность китайских религиозных движений, связывавших спасение и грядущее обновление мира с Майтреей.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maitreya_teachings"
+      ],
+      "notes": "Зонтичная историческая категория с буддийскими, манихейскими и народными вариантами; не единая церковь и не синоним всех движений Белого лотоса. Общая эсхатология не доказывает одинаковые учения о карме или новом откровении."
+    },
+    {
+      "sourceIndex": 647,
+      "sourceName": "Sanban Puren Pai",
+      "decision": "keep",
+      "canonicalName": "Саньбань пурэнь пай — Церковь трёх разрядов служителей",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Китайская христианская группа Сюй Вэньку, известного также как Сюй Шуанфу, с учением о трёх разрядах религиозного служения.",
+      "profile": "+divine +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sanban_Puren_Pai",
+        "https://www.sats.edu.za/wp-content/uploads/2019/10/AndersonPFullThesisFinal2007.pdf"
+      ],
+      "notes": "Рубрика исходного списка вводит в заблуждение: источник описывает христианскую группу. Диссертация Андерсона содержит личное интервью с основателем и отмечает библейскую направленность. Оценки властей не использованы как признаки учения. Вероучительные особенности остальных христианских направлений не перенесены."
+    },
+    {
+      "sourceIndex": 648,
+      "sourceName": "Sanyiism",
+      "decision": "keep",
+      "canonicalName": "Саньицзяо — учение Трёх в одном",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Основанная Линь Чжаоэнем в XVI веке фуцзяньская традиция с конфуцианской этикой, почитанием предков и практиками самосовершенствования.",
+      "profile": "+ancestors +meditation +ritual +dao",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sanyiism",
+        "https://en.wikipedia.org/wiki/Sanyi_teaching",
+        "https://brill.com/previewpdf/book/edcoll/9789047428015/Bej.9789004174559.i-499_005.xml"
+      ],
+      "notes": "Sanyiism, Xiaism и Church of the Three-in-One — названия этой традиции. Название не означает христианскую Троицу. Рабочая статья и исследование Линь Гопина подтверждают отдельное движение и его исторические ветви."
+    },
+    {
+      "sourceIndex": 649,
+      "sourceName": "Shanrendao",
+      "decision": "keep",
+      "canonicalName": "Шаньжэньдао",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Китайское движение нравственного самосовершенствования, связанное с Обществом всемирной нравственности и проповедями Ван Фэнъи.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shanrendao"
+      ],
+      "notes": "Другие обозначения: Universal Church of the Way and its Virtue, Wanguo Daodehui. Обсуждение нравственности и эмоционального исцеления не означает светского humanism. Не отождествляется со всем конфуцианством."
+    },
+    {
+      "sourceIndex": 650,
+      "sourceName": "Shengdao",
+      "decision": "keep",
+      "canonicalName": "Шэндао (Туншаньшэ)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Сяньтяньдао",
+      "description": "Китайское спасительное движение начала XX века, организованное как Общество совместного добра и включающее сидячую медитацию и внутреннюю алхимию.",
+      "profile": "+meditation +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shengdao"
+      ],
+      "notes": "Shengdao и Tongshanshe обозначают учение и его организационную форму. Родственная ветвь Яньшэндао не признана автоматически синонимом."
+    },
+    {
+      "sourceIndex": 651,
+      "sourceName": "Tiandihui",
+      "decision": "keep",
+      "canonicalName": "Тяньдихуэй — Общество Неба и Земли",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческое китайское тайное братство взаимопомощи с обрядами посвящения, клятвами и элементами народной религиозности.",
+      "profile": "+ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tiandihui",
+        "https://books.google.com/books?id=j2WsDQAAQBAJ",
+        "https://journal.hep.com.cn/fhc/EN/PDF/10.3868/s020-005-016-0032-5"
+      ],
+      "notes": "Исходная ссылка перенаправляет на Hongmen, современную более широкую организационную преемственность. Исследование истории Тяньдихуэй подтверждает ритуалы; единого современного вероучения всем братствам не приписано. Не синоним любой китайской триады."
+    },
+    {
+      "sourceIndex": 652,
+      "sourceName": "Tiandiism",
+      "decision": "keep",
+      "canonicalName": "Тяньдицзяо — учения Небесного владыки",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Группа китайских движений, связанных с Сяо Чанмином и Ли Юйцзе и сосредоточенных на почитании Тяньди и духовном совершенствовании.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tiandiism",
+        "https://en.wikipedia.org/wiki/Tiandi_teachings"
+      ],
+      "notes": "Охватывает Holy Church of the Heavenly Virtue и Lord of Universe Church. Различия их доктрин отмечены в источнике; медитация одной ветви не распространена на всё семейство. Не тождественно общему китайскому почитанию Неба."
+    },
+    {
+      "sourceIndex": 653,
+      "sourceName": "Tianguangdao",
+      "decision": "keep",
+      "canonicalName": "Тяньгуандао",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Малоописанное китайское религиозное движение, документированное в сообщениях о религиозных преследованиях XX века.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tianguangdao"
+      ],
+      "notes": "Статья подтверждает организацию и её руководителей, но почти не раскрывает учение. Профиль оставлен пустым; значение названия не использовано для вывода о божестве или космологии."
+    },
+    {
+      "sourceIndex": 654,
+      "sourceName": "Tianxian Miaodao",
+      "decision": "keep",
+      "canonicalName": "Тяньсянь мяодао",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Китайское религиозное движение, известное в Хэнани с XIX века и описанное в исследованиях его религиозных текстов.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tianxian_miaodao",
+        "https://doi.org/10.2753/CSH0009-463329035"
+      ],
+      "notes": "Публикация Дэвида Оунби посвящена именно текстам этой традиции. Доступные сведения не позволяют уверенно кодировать её учение; слова «храм» и «бессмертные» в названии не заменяют подтверждения признаков."
+    },
+    {
+      "sourceIndex": 655,
+      "sourceName": "Weixinism",
+      "decision": "keep",
+      "canonicalName": "Вэйсинь шэнцзяо (вэйсинизм)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Тайваньское движение Хуньюаня, соединяющее изучение Ицзина и фэншуй с почитанием божеств и культурных предков Китая.",
+      "profile": "+divine +scripture +ancestors +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Weixinism"
+      ],
+      "notes": "Weixinism и Weixin Shengjiao — названия одной традиции. Источник описывает собственный канон, храмовую деятельность, гадательные практики и почитание Хуанди, Яньди и Чию. Не отождествляется с буддийской философией «только сознание»."
+    },
+    {
+      "sourceIndex": 656,
+      "sourceName": "White Lotus",
+      "decision": "keep",
+      "canonicalName": "Движения Белого лотоса",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческое обозначение различных китайских религиозных сообществ, включавших буддийские и спасительные милленаристские направления.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/White_Lotus_Societies"
+      ],
+      "notes": "White Lotus Society и White Lotus Teaching употреблялись в разных исторических контекстах. Запись сохранена как широкая категория, без утверждения единой непрерывной организации или обязательного для всех культа Майтреи либо Нерождённой Матери."
+    },
+    {
+      "sourceIndex": 657,
+      "sourceName": "Xiantiandao",
+      "decision": "keep",
+      "canonicalName": "Сяньтяньдао",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Китайская спасительная традиция и линия родственных движений, связывающих спасение с возвращением к небесному истоку.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Xiantiandao"
+      ],
+      "notes": "Материнская символика верховного божества и обряд посвящения важны в историческом учении; в дочерних движениях существуют различия. Сяньтяньдао шире Игуаньдао и Туншаньшэ, поэтому родство не кодируется как alias."
+    },
+    {
+      "sourceIndex": 658,
+      "sourceName": "Xuanyuandao",
+      "decision": "keep",
+      "canonicalName": "Сюаньюаньцзяо (Сюаньюаньдао)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Основанная Ван Ханьшэном на Тайване в 1952 году конфуцианская религиозная организация с центральным почитанием Хуанди.",
+      "profile": "+divine +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Xuanyuan_teaching"
+      ],
+      "notes": "Xuanyuanism и Huangdiism — названия организации; широкое народное почитание Хуанди не является её синонимом. Четверокнижие и Пятикнижие указаны как авторитетные тексты. restoration относится к раннему христианству и здесь неприменимо."
+    },
+    {
+      "sourceIndex": 659,
+      "sourceName": "Yaochidao",
+      "decision": "review",
+      "canonicalName": "Яочидао",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Сяньтяньдао",
+      "description": "Китайское религиозное движение с почитанием Сиванму, также известное как Цыхуэйтан и Церковь Яочи.",
+      "profile": "+divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yaochidao",
+        "https://en.wikipedia.org/wiki/Xiantiandao"
+      ],
+      "notes": "Существование и почитание Сиванму подтверждены, но раздел исходной статьи о медиумизме и других практиках явно не снабжён источниками. Нужна дополнительная проверка конкретной организации и её практического профиля. Не синоним общего культа Сиванму."
+    },
+    {
+      "sourceIndex": 660,
+      "sourceName": "Yellow Sand Society",
+      "decision": "keep",
+      "canonicalName": "Общество Жёлтого песка",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Северокитайское религиозное тайное общество XIX–XX веков, сочетавшее местную самооборону с милленаристскими ожиданиями и магическими обрядами.",
+      "profile": "+ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yellow_Sand_Society"
+      ],
+      "notes": "Yellow Way Society и Yellow Gate Society приводятся как альтернативные названия. Магическая неуязвимость описывается как вера участников. Происхождение и преемственность отдельных групп спорны, поэтому не предложен определённый религиозный родитель."
+    },
+    {
+      "sourceIndex": 661,
+      "sourceName": "Yiguandao",
+      "decision": "alias",
+      "canonicalName": "Игуаньдао",
+      "family": "eastasian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Китайское синкретическое религиозное движение, уже представленное в основном каталоге.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yiguandao"
+      ],
+      "notes": "Точное совпадение с существующей записью «Игуаньдао» в religions.js; Yiguandao — её латинская транслитерация. Профиль существующей записи в этой партии не пересматривается."
+    },
+    {
+      "sourceIndex": 662,
+      "sourceName": "Yixin Tiandao",
+      "decision": "keep",
+      "canonicalName": "Исинь тяньдао — Церковь Цветка Дракона",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": "Сяньтяньдао",
+      "description": "Китайское движение линии Сяньтяньдао, основанное Ма Шивэем в Шаньдуне в 1913 году.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dragon_Flower_Church_of_the_Heart-bound_Heavenly_Way"
+      ],
+      "notes": "Yixin Tiandao, Yizhendao, Changmaodao и Dragon Flower Church of the Heart-bound Heavenly Way перечислены источником как названия этого движения. Самостоятельная ветвь не сведена к родительской традиции; данных для отдельного доктринального профиля недостаточно."
+    },
+    {
+      "sourceIndex": 663,
+      "sourceName": "Zailiism",
+      "decision": "keep",
+      "canonicalName": "Цзайлицзяо (лиизм)",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Китайское религиозное движение XVII века, связанное с Ян Цзаем, почитанием Гуаньинь и дисциплиной духовного самосовершенствования.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zailiism",
+        "https://en.wikipedia.org/wiki/Zaili_teaching"
+      ],
+      "notes": "Zailiism, Liism, Bafangdao и Baiyidao приведены как названия этой традиции. Легендарное долголетие основателя не используется как исторический факт. Не отождествляется со всем даосизмом или культом Гуаньинь."
+    },
+    {
+      "sourceIndex": 664,
+      "sourceName": "Zhongyongdao",
+      "decision": "keep",
+      "canonicalName": "Чжунъюндао",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Малоописанное китайское религиозное движение, упоминаемое в связи с религиозными собраниями в Сычуани в 1981 году.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zhongyongdao"
+      ],
+      "notes": "Исходник преимущественно пересказывает сведения о преследованиях и одном собрании с эсхатологической проповедью. Эпизодический обряд не принят за обязательную практику всех участников. Название не доказывает тождество конфуцианскому трактату «Чжун юн»; профиль оставлен пустым."
+    },
+    {
+      "sourceIndex": 665,
+      "sourceName": "Church of the Universe",
+      "decision": "keep",
+      "canonicalName": "Церковь Вселенной",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Канадское религиозное движение, основанное Уолтером Такером в 1969 году и придающее каннабису значение религиозного таинства.",
+      "profile": "+ritual",
+      "proposedQuestions": [
+        {
+          "id": "entheogen_sacrament",
+          "text": "Имеет ли употребление психоактивного растения значение священного таинства в вашей традиции?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Разделяет Церковь Вселенной и традиции, в которых обряды и медитация не предполагают такого таинства. Само наличие признака ritual не передаёт этого различия; отсутствие сведений о веществе не кодировать как «Нет».",
+          "supportedEntries": [
+            "Church of the Universe"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Church_of_the_Universe",
+        "https://www.documentationcapitale.ca/documents/Kharaghani.pdf"
+      ],
+      "notes": "Assembly of the Church of the Universe — полное название этой организации. Судебное решение 2011 ONSC 836 независимо фиксирует сакраментальное значение каннабиса и разнообразие личных убеждений участников; поэтому общий христианский профиль не перенесён."
+    }
+  ]
+}

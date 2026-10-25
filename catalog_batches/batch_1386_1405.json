@@ -1,0 +1,336 @@
+{
+  "range": [
+    1386,
+    1405
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1386,
+      "sourceName": "Vaishnava-Sahajiya",
+      "decision": "keep",
+      "canonicalName": "Вайшнавская сахаджия",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Вайшнавизм",
+      "description": "Бенгальская тантрическая вайшнавская традиция, соединяющая почитание Радхи и Кришны с практиками переживания изначального состояния сахаджа.",
+      "profile": "+divine +bhakti +ritual +occult",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vaishnava-Sahajiya"
+      ],
+      "notes": "Не alias гаудия-вайшнавизма, баулов или картабхаджа: влияние и общая бенгальская среда не означают тождества. У разных линий существовали буквальные и символические формы тантрических практик; конкретные сексуальные обряды не приписаны каждому последователю."
+    },
+    {
+      "sourceIndex": 1387,
+      "sourceName": "Vaishnavism",
+      "decision": "alias",
+      "canonicalName": "Вайшнавизм",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Индуистские традиции почитания Вишну и его аватар.",
+      "profile": "+divine +bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vaishnavism"
+      ],
+      "notes": "Точное соответствие существующей записи «Вайшнавизм» в religions.js; английское название обозначает то же семейство традиций, а не отдельную ветвь. Различия философских школ не сведены к единой метафизике."
+    },
+    {
+      "sourceIndex": 1388,
+      "sourceName": "Veerashaivism",
+      "decision": "review",
+      "canonicalName": "Вирашиваизм — границы термина требуют уточнения",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Шиваитский религиозный контекст",
+      "description": "Традиция почитания Шивы и ношения личного лингама, название которой исторически пересекается с обозначением лингаятов.",
+      "profile": "+divine +bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Veerashaivism",
+        "https://academic.oup.com/reference/62357/reference-article-abstract/554510832?login=false",
+        "https://en.wikipedia.org/wiki/Lingayatism"
+      ],
+      "notes": "Review: исходный URL перенаправляет на Lingayats; Oxford Bibliographies также использует Lingayata как альтернативное название Virashaiva. Однако в современных спорах различают идентичности и линии происхождения от пяти учителей и от Басавы. До уточнения исторического или современного объёма термина нельзя уверенно решить, является ли запись точным alias «Лингаятская традиция» (1352) или узкой самостоятельной ветвью. Профиль не включает спорное отношение к Ведам и перерождению."
+    },
+    {
+      "sourceIndex": 1389,
+      "sourceName": "Vishishtadvaita",
+      "decision": "alias",
+      "canonicalName": "Вишишта-адвайта",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Веданта",
+      "description": "Школа квалифицированного недуализма веданты, связанная прежде всего с Рамануджей.",
+      "profile": "+vedas",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vishishtadvaita"
+      ],
+      "notes": "Точное соответствие записи «Вишишта-адвайта» в religions.js. Философская школа не отождествлена со всей организационной традицией шри-вайшнавизма."
+    },
+    {
+      "sourceIndex": 1390,
+      "sourceName": "Warkari",
+      "decision": "keep",
+      "canonicalName": "Варкари",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": "Вайшнавизм",
+      "description": "Бхактическое движение Махараштры с почитанием Витхобы и паломничествами в Пандхарпур.",
+      "profile": "+divine +personal +bhakti",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Warkari"
+      ],
+      "notes": "Warkari и Varkari — варианты передачи одного названия. В каталоге ранее не найдена отдельная запись этого движения; не alias всего вайшнавизма или общего сант-мата. Профиль не выводится из общей таблицы индуистских писаний в статье."
+    },
+    {
+      "sourceIndex": 1391,
+      "sourceName": "Zunism",
+      "decision": "review",
+      "canonicalName": "Исторический культ Зуна",
+      "family": null,
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Почитание божества Зуна в раннесредневековом Забулистане, связанное с правителями Зунбилами.",
+      "profile": "+divine +icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zunbils",
+        "https://www.austriaca.at/0xc1aa500d_0x002492f3",
+        "https://isamveri.org/pdfdkm/23/DKM230420.pdf"
+      ],
+      "notes": "Review: исходная статья посвящена династии, а не самостоятельной систематически описанной религии. Существование культа подтверждено академическими исследованиями; происхождение и связь Зуна с Сурьей, Шивой, Митрой или Зурваном остаются спорными. Не alias зороастризма, зурванизма или шиваизма. Для отдельного исторического культа предлагается семейство древних центральноазиатских традиций (ancient_centralasian); существующее dharmic не назначено по одной исходной рубрикации."
+    },
+    {
+      "sourceIndex": 1392,
+      "sourceName": "Śrauta",
+      "decision": "keep",
+      "canonicalName": "Шраута",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Ведийская ритуальная традиция шрути, сохраняющая сложные жертвенные обряды и предписания шраута-сутр.",
+      "profile": "+scripture +vedas +ritual +fire",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/%C5%9Arauta"
+      ],
+      "notes": "Ритуальная традиция, а не единая организация; отличается от домашних обрядов грихья. Не alias всего современного индуизма или всего исторического ведизма. Формы жертвоприношений и замены животных различаются; строгая ахимса не назначена."
+    },
+    {
+      "sourceIndex": 1393,
+      "sourceName": "Digambara",
+      "decision": "alias",
+      "canonicalName": "Дигамбара",
+      "family": "jain",
+      "inheritFamilyProfile": false,
+      "parent": "Джайнизм",
+      "description": "Одна из двух крупных джайнских традиций, известная идеалом полного отказа монахов от собственности, включая одежду.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Digambara"
+      ],
+      "notes": "Точное соответствие записи «Дигамбара» в religions.js. Монашеский идеал наготы не приписан всем мирянам; профиль оставлен пустым, поскольку для решения о синониме дополнительные признаки не нужны."
+    },
+    {
+      "sourceIndex": 1394,
+      "sourceName": "Kanji Panth",
+      "decision": "keep",
+      "canonicalName": "Канджи-пантх",
+      "family": "jain",
+      "inheritFamilyProfile": false,
+      "parent": "Дигамбара",
+      "description": "Джайнское движение последователей Канджи Свами, подчёркивающее познание природы души и учение Кундакунды.",
+      "profile": "+scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kanji_Panth"
+      ],
+      "notes": "Исходный URL ведёт на биографию Kanji Swami, но она прямо подтверждает основание им Kanji Swami Pantha и влияние «Самаясары». Сохраняется движение последователей, не биография учителя и не alias всей дигамбары. Прежнее посвящение основателя в стханакваси не определяет конечную принадлежность движения. Обряды не помечены отрицательно: критика практики без самопознания не означает отсутствие любых обрядов."
+    },
+    {
+      "sourceIndex": 1395,
+      "sourceName": "Murtipujaka",
+      "decision": "keep",
+      "canonicalName": "Муртипуджака",
+      "family": "jain",
+      "inheritFamilyProfile": false,
+      "parent": "Шветамбара",
+      "description": "Храмовое направление шветамбарского джайнизма, использующее изображения тиртханкаров в поклонении.",
+      "profile": "+icons +ritual +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Murtipujaka"
+      ],
+      "notes": "Название может употребляться описательно для любых джайнов, почитающих изображения; здесь сохранён узкий общепринятый смысл шветамбарской ветви Deravasi/Mandir Margi. Не alias всей шветамбары, включающей также неизобразительные направления."
+    },
+    {
+      "sourceIndex": 1396,
+      "sourceName": "Sthānakavāsī",
+      "decision": "alias",
+      "canonicalName": "Стханакваси",
+      "family": "jain",
+      "inheritFamilyProfile": false,
+      "parent": "Шветамбара",
+      "description": "Шветамбарское джайнское движение, отвергающее храмовое поклонение изображениям.",
+      "profile": "-icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sth%C4%81nakav%C4%81s%C4%AB"
+      ],
+      "notes": "Точное соответствие записи «Стханакваси» в religions.js; диакритика и транслитерация Sthānakavāsī не обозначают новое учение."
+    },
+    {
+      "sourceIndex": 1397,
+      "sourceName": "Taran Panth",
+      "decision": "keep",
+      "canonicalName": "Таран-пантх",
+      "family": "jain",
+      "inheritFamilyProfile": false,
+      "parent": "Дигамбара",
+      "description": "Джайнская традиция Таран Свами, подчёркивающая внутреннее постижение и собственный корпус текстов вместо поклонения изображениям.",
+      "profile": "+scripture +liberation -icons",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taran_Panth"
+      ],
+      "notes": "Отдельная историческая и сохраняющаяся общинная традиция; не alias стханакваси или всей дигамбары. Источник описывает чтение текстов и храмовые собрания, поэтому отсутствие изображений не истолковано как отрицание любых обрядов. Авторство отдельных текстов оспаривается."
+    },
+    {
+      "sourceIndex": 1398,
+      "sourceName": "Yapaniya",
+      "decision": "keep",
+      "canonicalName": "Япания",
+      "family": "jain",
+      "inheritFamilyProfile": false,
+      "parent": "Джайнизм",
+      "description": "Историческая джайнская традиция Карнатаки, засвидетельствованная надписями и сочетавшая особенности, позднее связанные с дигамбарой и шветамбарой.",
+      "profile": "+icons +liberation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yapaniya",
+        "https://publishing.cdlib.org/ucpressebooks/public/book/gender-and-salvation-jaina-debates-on-the-spiritual-liberation-of-women.html"
+      ],
+      "notes": "Исходный URL не загрузился; отдельность традиции, изображения джин и позицию о возможности освобождения женщин подтверждает монография Padmanabh S. Jaini, Gender and Salvation (UC Press, 1991). Последующее поглощение дигамбарой не делает историческую Япанию её точным синонимом. Происхождение и точные границы ранних общин остаются неясными."
+    },
+    {
+      "sourceIndex": 1399,
+      "sourceName": "Śvētāmbara",
+      "decision": "alias",
+      "canonicalName": "Шветамбара",
+      "family": "jain",
+      "inheritFamilyProfile": false,
+      "parent": "Джайнизм",
+      "description": "Одна из двух крупных джайнских традиций, обычно связанная с белыми монашескими одеждами.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/%C5%9Av%C4%93t%C4%81mbara"
+      ],
+      "notes": "Точное соответствие записи «Шветамбара» в religions.js; Śvētāmbara и Śvetāmbara — варианты передачи того же названия. Отношение к изображениям зависит от внутренней ветви, поэтому единый знак icons не назначен."
+    },
+    {
+      "sourceIndex": 1400,
+      "sourceName": "3HO",
+      "decision": "keep",
+      "canonicalName": "3HO — Healthy, Happy, Holy Organization",
+      "family": "sikh",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Духовное движение и организация, основанные Йоги Бхаджаном и распространяющие кундалини-йогу вместе с элементами сикхской дхармы.",
+      "profile": "+divine +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/3HO",
+        "https://www.3ho.org/about-3ho/",
+        "https://www.3ho.org/what-is-kundalini-yoga/"
+      ],
+      "notes": "Официальный сайт подтверждает медитацию, мантры, йогу и связь с Sikh Dharma; это не alias всего сикхизма или любой кундалини-йоги. Организация допускает участие людей разных религий, поэтому всем участникам не назначен полный сикхский профиль. Заявления о лечебных эффектах и древности конкретного метода не приняты за установленный научный факт."
+    },
+    {
+      "sourceIndex": 1401,
+      "sourceName": "Akhand Kirtani",
+      "decision": "keep",
+      "canonicalName": "Акханд Киртани Джатха",
+      "family": "sikh",
+      "inheritFamilyProfile": false,
+      "parent": "Сикхизм — Хальса",
+      "description": "Сикхское объединение, связанное с Бхаи Рандхир Сингхом и сосредоточенное на совместном киртане, памятовании Имени и строгой дисциплине.",
+      "profile": "+divine +scripture +guru_granth +meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Akhand_Kirtani_Jatha",
+        "https://www.akj.org/faq.php"
+      ],
+      "notes": "Официальный FAQ определяет объединение как часть Хальса-пантха, а не отдельную религию; организационная традиция допустима в каталоге. Сохраняется отдельно от всего сикхизма. Вегетарианство само по себе не превращено в положительный ответ о строгости ахимсы."
+    },
+    {
+      "sourceIndex": 1402,
+      "sourceName": "Mina",
+      "decision": "keep",
+      "canonicalName": "Традиция Притхи Чанда и Михарвана (мина)",
+      "family": "sikh",
+      "inheritFamilyProfile": false,
+      "parent": "Сикхский религиозный контекст",
+      "description": "Историческая линия последователей Притхи Чанда и его преемников, выдвигавшая собственную преемственность сикхских гуру.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mina_(Sikhism)"
+      ],
+      "notes": "Mina — полемическое внешнее обозначение; нейтральное название дополнено именами традиции. Не alias народа мина или афробразильской тамбор-ди-мина. Отдельность исторической линии подтверждена, но спорные рассказы о политических интригах не внесены в профиль; общехальсинские признаки автоматически не наследуются."
+    },
+    {
+      "sourceIndex": 1403,
+      "sourceName": "Namdhari",
+      "decision": "alias",
+      "canonicalName": "Намдхари",
+      "family": "sikh",
+      "inheritFamilyProfile": false,
+      "parent": "Сикхизм",
+      "description": "Сикхское движение, признающее продолжающуюся линию живых гуру после Гобинда Сингха.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Namdhari"
+      ],
+      "notes": "Точное соответствие существующей записи «Намдхари» в religions.js; также известно как Kuka. Отличие линии живых гуру отражено в описании без создания повторного вопроса для одной записи."
+    },
+    {
+      "sourceIndex": 1404,
+      "sourceName": "Nanakpanthi",
+      "decision": "keep",
+      "canonicalName": "Нанакпантхи",
+      "family": "sikh",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Разнообразные общины последователей Гуру Нанака, включая группы вне хальсинской идентичности и формального самоопределения как сикхов.",
+      "profile": "+divine +one_god",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nanakpanthi"
+      ],
+      "notes": "Термин может широко обозначать последователей Нанака, но в исходнике включает особую надконфессиональную и нехальсинскую среду, в том числе среди синдхских и пенджабских индуистов. Поэтому не сводится автоматически к alias всего сикхизма или удаси. Семейство sikh отражает связь с Нанаком, а не обязательную современную самоидентификацию всех участников; отношение к последующим гуру неодинаково."
+    },
+    {
+      "sourceIndex": 1405,
+      "sourceName": "Nihang",
+      "decision": "keep",
+      "canonicalName": "Ниханги",
+      "family": "sikh",
+      "inheritFamilyProfile": false,
+      "parent": "Сикхизм — Хальса",
+      "description": "Сикхская воинская религиозная традиция с собственными объединениями и дисциплиной, почитающая Гуру Грантх Сахиб и другие грантхи.",
+      "profile": "+scripture +guru_granth",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nihang"
+      ],
+      "notes": "Не alias современного политического движения Акали Дал: историческое название Akali применялось к нихангам в другом смысле. Исходная статья содержит предупреждение о части самопубликуемых источников; в профиль взяты только базовая принадлежность и почитание писаний. Употребление каннабиса и конкретные пищевые обычаи не объявлены обязательными для всех."
+    }
+  ]
+}

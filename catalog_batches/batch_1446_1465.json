@@ -1,0 +1,352 @@
+{
+  "range": [
+    1446,
+    1465
+  ],
+  "entries": [
+    {
+      "sourceIndex": 1446,
+      "sourceName": "Belarusian Greek Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Белорусская грекокатолическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Восточнокатолическая церковь белорусской византийской традиции, находящаяся в общении с Римом.",
+      "profile": "+church +pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Belarusian_Greek_Catholic_Church"
+      ],
+      "notes": "Отдельная церковная традиция и структура, а не alias всего восточного католицизма или Белорусской православной церкви. Численность и текущие персоналии не используются как признаки."
+    },
+    {
+      "sourceIndex": 1447,
+      "sourceName": "Belarusian Orthodox Church",
+      "decision": "review",
+      "canonicalName": "Белорусская православная церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Русская православная церковь",
+      "description": "Белорусский экзархат Московского патриархата, объединяющий его епархии в Беларуси.",
+      "profile": "+scripture +church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Belarusian_Orthodox_Church",
+        "https://old.mospat.ru/ru/documents/ustav/xiii/"
+      ],
+      "notes": "Исходная статья отмечена недостатком ссылок. Устав РПЦ прямо подтверждает, что БПЦ — другое официальное название Белорусского экзархата. Это часть Русской православной церкви, а не её полный синоним и не отдельная белорусская автокефальная церковь. Подтверждены каноническая структура, церковная преемственность и получение мира от патриарха; review относится к исходной статье."
+    },
+    {
+      "sourceIndex": 1448,
+      "sourceName": "Bible Student movement",
+      "decision": "keep",
+      "canonicalName": "Движение исследователей Библии",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Круг христианских движений, возникших вокруг Чарлза Тейза Расселла и позднее разделившихся на несколько организаций.",
+      "profile": "+jesus +scripture +restoration",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bible_Student_movement"
+      ],
+      "notes": "Не alias Свидетелей Иеговы: статья прямо описывает расколы и независимые группы исследователей Библии. Bible Students, International Bible Students и Associated Bible Students — исторические названия внутри этого круга, а не доказательство единой современной организации. Детали учения отдельных ветвей не обобщены."
+    },
+    {
+      "sourceIndex": 1449,
+      "sourceName": "Black Catholicism",
+      "decision": "review",
+      "canonicalName": "Афроамериканские католические традиции",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Римский католицизм",
+      "description": "Религиозная и культурная жизнь афроамериканских католических сообществ США.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Black_Catholicism",
+        "https://www.usccb.org/committees/african-american-affairs/timely-resources-ministry-catholics-african-descent"
+      ],
+      "notes": "Статья отмечает отсутствие источников в разделе терминологии. Материалы USCCB подтверждают самостоятельный культурно-пастырский контекст внутри католицизма, но это не отдельная деноминация и не весь католицизм чернокожих людей мира. Общий профиль не выводится из происхождения человека; review сохраняет необходимость уточнить объём исходного термина."
+    },
+    {
+      "sourceIndex": 1450,
+      "sourceName": "Black church",
+      "decision": "keep",
+      "canonicalName": "Афроамериканские христианские церкви",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательное обозначение исторических христианских деноминаций, общин и традиций афроамериканцев в США.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Black_church"
+      ],
+      "notes": "Black church — культурно-историческая категория во множестве деноминаций, а не единая церковь или доктрина. Не alias афроамериканского католицизма или чёрной теологии. Крещение, таинства, папство и духовные дары различаются между общинами; профиль пуст."
+    },
+    {
+      "sourceIndex": 1451,
+      "sourceName": "Black theology",
+      "decision": "keep",
+      "canonicalName": "Чёрная теология освобождения",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Христианское богословское направление, рассматривающее веру в контексте опыта расового угнетения и освобождения людей африканского происхождения.",
+      "profile": "+jesus",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Black_theology",
+        "https://apply.utsnyc.edu/register/rbe"
+      ],
+      "notes": "Black theology и black liberation theology употреблены как названия одного направления. Не тождественна всем афроамериканским церквам или всей теологии освобождения. Социальное освобождение не равно liberation в questions.js, где речь об освобождении от перерождений. Программа Union Theological Seminary подтверждает отдельную богословскую традицию, связанную с Джеймсом Коуном."
+    },
+    {
+      "sourceIndex": 1452,
+      "sourceName": "Bogomilism",
+      "decision": "keep",
+      "canonicalName": "Богомильство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Средневековое христианское движение балканского происхождения, связанное с аскетизмом и дуалистическими истолкованиями мироздания.",
+      "profile": "+jesus +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bogomilism"
+      ],
+      "notes": "Не alias катаризма: исторические связи не доказывают тождества. Источник признаёт неполноту и противоречивость сведений; относительный и абсолютный дуализм нельзя свести к одному ответу one_god. Частные полемические обвинения, генеалогии поздних движений и спорные рассказы не перенесены в профиль."
+    },
+    {
+      "sourceIndex": 1453,
+      "sourceName": "Brauchau",
+      "decision": "keep",
+      "canonicalName": "Браухерей — пенсильванское пау-вау",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Народные христианские целительные и защитные практики пенсильванских немцев.",
+      "profile": "+jesus +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pow-wow_(folk_magic)",
+        "https://www.glencairnmuseum.org/newsletter/2017/3/2/powwowing-in-pennsylvania"
+      ],
+      "notes": "Исходное Brauchau по предоставленной ссылке соотнесено с Braucherei / Brauche / powwowing. Музейное исследование подтверждает немецкое происхождение и христианские молитвенные ритуалы. Не индейские собрания powwow, не вся народная медицина и не неоязыческая Urglaawe. Христианское семейство отражает описанную традиционную форму, а не все поздние переосмысления."
+    },
+    {
+      "sourceIndex": 1454,
+      "sourceName": "Brethren of the Free Spirit",
+      "decision": "review",
+      "canonicalName": "Братья свободного духа",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческое название круга средневековых мистических верований и обвинений в ереси в Западной Европе.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Brethren_of_the_Free_Spirit",
+        "https://www.jstor.org/stable/jj.21996143"
+      ],
+      "notes": "Исходная статья отмечена недостатком встроенных ссылок и прямо отрицает единую организацию. Исследование Robert E. Lerner описывает спектр мистических верований, а не однородную секту. Приписывавшиеся антиномизм, самообожествление и пантеизм нельзя без проверки сделать общим профилем; не alias всех бегинок или бегардов."
+    },
+    {
+      "sourceIndex": 1455,
+      "sourceName": "Bulgarian Greek Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Болгарская грекокатолическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Восточнокатолическая церковь византийского обряда в Болгарии, находящаяся в общении со Святым престолом.",
+      "profile": "+church +pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bulgarian_Greek_Catholic_Church"
+      ],
+      "notes": "Отдельная церковь sui iuris; не alias Болгарской православной церкви и не весь восточный католицизм. Исходная статья прямо подтверждает византийский обряд и общение с Римом."
+    },
+    {
+      "sourceIndex": 1456,
+      "sourceName": "Bulgarian Orthodox Church",
+      "decision": "keep",
+      "canonicalName": "Болгарская православная церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Православие",
+      "description": "Автокефальная православная церковь болгарской традиции с патриаршим устройством.",
+      "profile": "+scripture +church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bulgarian_Orthodox_Church"
+      ],
+      "notes": "Сохраняется конкретная автокефальная церковь, а не синоним всего православия. Исходная статья подтверждает каноническое церковное устройство, библейские писания и византийское богослужение; язык и национальность не используются как убеждения."
+    },
+    {
+      "sourceIndex": 1457,
+      "sourceName": "Byzantine Catholic Church of Croatia and Serbia",
+      "decision": "keep",
+      "canonicalName": "Грекокатолическая церковь Хорватии и Сербии",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Восточнокатолическая церковь византийского обряда, объединяющая Крижевецкую и Руски-Крстурскую епархии.",
+      "profile": "+church +pope",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Greek_Catholic_Church_of_Croatia_and_Serbia"
+      ],
+      "notes": "Greek Catholic Church in Croatia and Serbia и Byzantine Catholic Church of Croatia and Serbia прямо названы синонимами в статье. В готовых партиях отдельной совпадающей записи нет; keep. Не alias одной епархии или всего восточного католицизма."
+    },
+    {
+      "sourceIndex": 1458,
+      "sourceName": "Cainites",
+      "decision": "review",
+      "canonicalName": "Каиниты",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Гностицизм",
+      "description": "Название предполагаемой древней гностической группы, известной главным образом по полемической ересиологической литературе.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cainites",
+        "https://www.scielo.org.za/scielo.php?pid=S0259-94222013000100020&script=sci_arttext"
+      ],
+      "notes": "Самостоятельное существование и точные границы группы спорны. Исходная статья одновременно передаёт обвинения ересиологов и сомнения в историчности секты; современные исследователи по-разному связывают эти сведения с Евангелием Иуды. Дополнительная академическая статья обсуждает эти свидетельства в контексте. Приписанные почитание Каина, оправдание греха и канон писаний не превращены в уверенный профиль; не alias всех гностиков."
+    },
+    {
+      "sourceIndex": 1459,
+      "sourceName": "Calvinistic Methodists",
+      "decision": "keep",
+      "canonicalName": "Кальвинистские методисты Уэльса",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Пресвитерианство",
+      "description": "Валлийская традиция кальвинистского методизма, институционально представленная Пресвитерианской церковью Уэльса.",
+      "profile": "+jesus +trinity +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Calvinistic_Methodists",
+        "https://www.ebcpcw.cymru/en/confession-of-faith/"
+      ],
+      "notes": "Исходная ссылка перенаправляет на Presbyterian Church of Wales; официальный сайт подтверждает кальвинистско-методистское исповедание и его реформатский характер. Отдельной совпадающей записи в готовых партиях нет. Название исторически применялось и к английскому кругу Уайтфилда, поэтому статья не используется как доказательство тождества всех кальвинистских методистов одной современной организации. Не alias всего методизма или пресвитерианства."
+    },
+    {
+      "sourceIndex": 1460,
+      "sourceName": "Catharism",
+      "decision": "review",
+      "canonicalName": "Катаризм",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Историческое обозначение средневековых религиозных диссидентских общин Западной Европы, обычно связываемых с дуалистическими учениями.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Catharism",
+        "https://boydellandbrewer.com/book/cathars-in-question-9781903153819/"
+      ],
+      "notes": "Исходная статья отмечает спорность объёма движения и содержит предупреждение об оригинальном исследовании в разделе этимологии. Академический сборник Cathars in Question специально рассматривает проблему реконструкции катаризма по полемическим и инквизиционным источникам. Не alias богомильства; реинкарнация, число божественных начал и учение о Христе не назначены единым профилем всем обвинённым."
+    },
+    {
+      "sourceIndex": 1461,
+      "sourceName": "Chalcedonian Christianity",
+      "decision": "review",
+      "canonicalName": "Халкидонское христианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность христианских традиций, принимающих христологическое определение Халкидонского собора 451 года.",
+      "profile": "+jesus +trinity",
+      "proposedQuestions": [
+        {
+          "id": "chalcedonian_two_natures",
+          "text": "Принимаете ли вы Халкидонское определение: единый Христос существует в двух природах — божественной и человеческой — неслитно и нераздельно?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Передаёт христологическое отличие халкидонского христианства от нехалкидонских традиций. Trinity спрашивает о Боге, а не о единстве и природах Христа. Ответ Нет не означает отрицания божественности или человечности Христа; конкретные церкви требуют проверки своих формулировок.",
+          "supportedEntries": [
+            "Chalcedonian Christianity"
+          ]
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chalcedonian_Christianity",
+        "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_08091951_sempiternus-rex-christus.html"
+      ],
+      "notes": "Исходная статья отмечена недостатком ссылок. Официальный текст Пия XII подтверждает содержание определения о едином Христе в двух природах; это подтверждает доктрину, но не все широкие исторические границы статьи. Не отдельная церковная организация и не alias одного православия или католицизма. Тринитарное исповедание и христологический критерий не смешиваются."
+    },
+    {
+      "sourceIndex": 1462,
+      "sourceName": "Chaldean Catholic Church",
+      "decision": "keep",
+      "canonicalName": "Халдейская католическая церковь",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Восточный католицизм",
+      "description": "Восточнокатолическая патриаршая церковь восточносирийского обряда с историческим центром в Ираке.",
+      "profile": "+church +pope +scripture",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chaldean_Catholic_Church"
+      ],
+      "notes": "Отдельная церковь sui iuris в общении с Римом. Не alias Халдейской сирийской церкви Индии, принадлежащей Ассирийской церкви Востока; исходные статьи прямо различают эти названия. Писание Пешитта подтверждено в источнике."
+    },
+    {
+      "sourceIndex": 1463,
+      "sourceName": "Chaldean Syrian Church",
+      "decision": "keep",
+      "canonicalName": "Халдейская сирийская церковь Индии",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Ассирийская церковь Востока",
+      "description": "Индийская архиепархия восточносирийской традиции, находящаяся в общении с Ассирийской церковью Востока.",
+      "profile": "+church",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chaldean_Syrian_Church"
+      ],
+      "notes": "Региональная церковь в Триссуре, а не весь Ассирийский патриархат и не Халдейская католическая церковь. Исходная статья прямо подтверждает архиепархиальную принадлежность и восточносирийское богослужение. Общий набор христологических ответов не назначается по географическому или сходному названию."
+    },
+    {
+      "sourceIndex": 1464,
+      "sourceName": "Charismatic Catholics",
+      "decision": "review",
+      "canonicalName": "Католическое харизматическое обновление",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Римский католицизм",
+      "description": "Течение католического обновления, подчёркивающее крещение в Святом Духе и духовные дары.",
+      "profile": "+jesus +spirit_gifts",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Catholic_Charismatic_Renewal",
+        "https://press.vatican.va/content/francesco/en/speeches/2019/june/documents/papa-francesco_20190608_charis.html"
+      ],
+      "notes": "Charismatic Catholics по исходной ссылке относится к Catholic Charismatic Renewal. Статья предупреждает о чрезмерной зависимости от близких движению источников; обращение папы к CHARIS подтверждает крещение в Духе и служение в Католической церкви. Не alias всего харизматического христианства, пятидесятничества или обслуживающей структуры CHARIS. Review сохраняется для независимой проверки широких утверждений статьи."
+    },
+    {
+      "sourceIndex": 1465,
+      "sourceName": "Charismatic Christianity",
+      "decision": "alias",
+      "canonicalName": "Харизматическое христианство",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Христианские движения, придающие особое значение современным дарам Святого Духа.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Charismatic_Christianity"
+      ],
+      "notes": "Точное соответствие существующей записи religions.js «Харизматическое христианство». Не синоним одного пятидесятничества или только католического обновления; профиль существующей записи не изменяется."
+    }
+  ]
+}

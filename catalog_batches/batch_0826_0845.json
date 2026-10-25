@@ -1,0 +1,359 @@
+{
+  "range": [
+    826,
+    845
+  ],
+  "entries": [
+    {
+      "sourceIndex": 826,
+      "sourceName": "Irreligion",
+      "decision": "keep",
+      "canonicalName": "Нерелигиозность",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Собирательное обозначение отсутствия религиозной принадлежности, веры или практики, допускающее разные философские и духовные позиции.",
+      "profile": "+nonreligious",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Irreligion"
+      ],
+      "notes": "Источник включает атеизм, агностицизм и нерелигиозную духовность. Поэтому это не синоним одного лишь атеизма и не основание автоматически отрицать божественное, посмертие или всякий обряд. Описывается мировоззренческая категория, а не единая организация."
+    },
+    {
+      "sourceIndex": 827,
+      "sourceName": "Jewish atheism",
+      "decision": "keep",
+      "canonicalName": "Еврейский атеизм",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": "Атеизм",
+      "description": "Сочетание еврейской этнической или культурной идентичности с атеистическими взглядами.",
+      "profile": "-divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jewish_atheism",
+        "https://www.pewresearch.org/religion/2021/05/11/jewish-americans-in-2020/"
+      ],
+      "notes": "Более узкая категория, чем светская еврейская идентичность, которая не обязательно отрицает Бога. Не alias всех атеистов или конкретного движения гуманистического иудаизма. Первичное исследование Pew подтверждает еврейскую идентичность среди атеистов и других людей без религиозной принадлежности; частные исторические оценки спорных биографий из исходной статьи не перенесены."
+    },
+    {
+      "sourceIndex": 828,
+      "sourceName": "Jewish secularism",
+      "decision": "alias",
+      "canonicalName": "Светский иудаизм",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Еврейская культурная и общественная идентичность, не требующая религиозного основания.",
+      "profile": "+nonreligious",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jewish_secularism",
+        "https://www.pewresearch.org/religion/2021/05/11/jewish-americans-in-2020/"
+      ],
+      "notes": "Точное совпадение с названием и определением существующей записи religions.js «Светский иудаизм». Не синоним всего еврейского атеизма или более узкого организованного гуманистического иудаизма. Наследуемый профиль существующей записи не копируется: культурная секулярность сама по себе не доказывает ни отрицание Бога, ни определённую этическую философию."
+    },
+    {
+      "sourceIndex": 829,
+      "sourceName": "LaVeyan Satanism",
+      "decision": "keep",
+      "canonicalName": "Лавеевский сатанизм",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Атеистическое религиозно-философское направление Антона Лавея, использующее Сатану как символ индивидуализма.",
+      "profile": "-divine -afterlife +naturalism",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/LaVeyan_Satanism",
+        "https://churchofsatan.com/faq-fundamental-beliefs/",
+        "https://churchofsatan.com/faq-ritual-and-ceremony/"
+      ],
+      "notes": "Исходная статья и официальный FAQ Церкви Сатаны подтверждают символическое понимание Сатаны и отказ от сверхъестественных божеств. Современный FAQ поясняет психодраматический и необязательный характер ритуалов; поэтому ritual и occult не назначены всем последователям автоматически. Не alias отдельной организации «Церковь Сатаны», уже сохранённой в партии 0786–0805, или всей нетеистической сатанистской категории."
+    },
+    {
+      "sourceIndex": 830,
+      "sourceName": "Monism",
+      "decision": "keep",
+      "canonicalName": "Монизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Семейство философских позиций, утверждающих единство бытия, его основания или определённого вида сущего.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Monism"
+      ],
+      "notes": "Источник различает несколько типов монизма и как материалистические, так и идеалистические и религиозные варианты. Монизм не тождествен пантеизму, адвайте, натурализму или атеизму. Без указания конкретного варианта общие богословские и этические ответы не назначены."
+    },
+    {
+      "sourceIndex": 831,
+      "sourceName": "Moral Re-Armament",
+      "decision": "keep",
+      "canonicalName": "Моральное перевооружение / Initiatives of Change",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Движение личного нравственного преобразования и общественного примирения, выросшее из деятельности Фрэнка Бухмана и Оксфордской группы.",
+      "profile": "+meditation",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Moral_Re-Armament",
+        "https://ca.iofc.org/en/our-story-0",
+        "https://iofc.org/en/our-approach"
+      ],
+      "notes": "Официальная история подтверждает названия Moral Re-Armament с 1938 года и Initiatives of Change с 2001 года. Христианские истоки и историческая ориентация на Божье руководство не согласуются с автоматической рубрикацией исходного списка как атеизма. Нынешнее движение открыто людям разных религий и без религии; тишина и внутреннее слушание подтверждены официально, но одинаковый теизм всем участникам не назначен."
+    },
+    {
+      "sourceIndex": 832,
+      "sourceName": "Natural religion",
+      "decision": "keep",
+      "canonicalName": "Естественная религия",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Философский подход к религиозным вопросам через разум, опыт и другие естественные познавательные способности человека.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Natural_religion",
+        "https://plato.stanford.edu/entries/natural-theology/"
+      ],
+      "notes": "Исходная статья и академический обзор различают несколько употреблений термина, включая иногда пантеистическое. Основное современное значение — метод исследования, а не единый результат о существовании или природе Бога. Отсутствие обращения к особому откровению в рамках этого метода не доказывает отрицание всякого откровения человеком; не alias всего деизма или натурализма."
+    },
+    {
+      "sourceIndex": 833,
+      "sourceName": "Naturalistic pantheism",
+      "decision": "keep",
+      "canonicalName": "Натуралистический пантеизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": "Пантеизм",
+      "description": "Пантеистические взгляды, связывающие божественное с природой и не вводящие сверхприродной реальности.",
+      "profile": "+pantheism +naturalism +scientific -personal",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Naturalistic_pantheism",
+        "https://plato.stanford.edu/archives/sum2021/entries/pantheism/",
+        "https://pantheism.net/manifest/"
+      ],
+      "notes": "Источник и обзор SEP описывают физикалистические формы пантеизма, не принимающие онтологических обязательств сверх эмпирической науки. Программа World Pantheism подтверждает разум и научное исследование; она не является единственной организацией всей категории. Термин «божественное» может выражать благоговение перед природой, поэтому однозначный +divine или -divine не назначен. Не alias пантеизма вообще."
+    },
+    {
+      "sourceIndex": 834,
+      "sourceName": "Negative and positive atheism",
+      "decision": "keep",
+      "canonicalName": "Негативный и позитивный атеизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": "Атеизм",
+      "description": "Различение отсутствия веры в богов и более сильного утверждения, что богов не существует.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Negative_and_positive_atheism",
+        "https://plato.stanford.edu/entries/atheism-agnosticism/"
+      ],
+      "notes": "Сохранена сравнительная философская категория, а не одна школа с одинаковыми ответами. SEP подтверждает различие психологического отсутствия веры и утверждаемого отрицания. Существующее divine спрашивает о наличии божественного, а agnostic — об открытости вопроса; единый ответ обоим типам не навязан. Расширенный спорный раздел Gnostic atheism исходной статьи не использован. Не alias просто «Атеизм», поскольку запись специально обозначает классификационное различение."
+    },
+    {
+      "sourceIndex": 835,
+      "sourceName": "Nirīśvaravāda",
+      "decision": "review",
+      "canonicalName": "Ниришваравада — индийская нетеистическая мысль",
+      "family": "dharmic",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Общее обозначение позиций, обходящихся без Ишвары или отрицающих его, в контексте индийской философии.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hindu_atheism",
+        "https://www.wisdomlib.org/history/compilation/dictionaries-of-indian-languages-kosha/ocr/1619465/96"
+      ],
+      "notes": "Review: исходная ссылка ведёт на широкий обзор Hindu atheism, смешивающий разные школы и употребления āstika/nāstika. Словарное значение nirīśvaravāda подтверждает атеистическую доктрину, но не существование единой индуистской конфессии с общими Ведами, кармой или посмертием. Требуется уточнить, обозначает строка общий термин или совокупность отдельных традиций. Профиль пуст; не alias санкхьи, мимансы, чарваки или буддизма."
+    },
+    {
+      "sourceIndex": 836,
+      "sourceName": "Non-theistic Satanism",
+      "decision": "keep",
+      "canonicalName": "Нетеистический сатанизм",
+      "family": "newreligion",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Совокупность сатанистских направлений, в которых Сатана понимается символически, без веры в буквального сверхъестественного дьявола.",
+      "profile": "-divine",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Atheistic_Satanism",
+        "https://churchofsatan.com/faq-replies-for-atheists/"
+      ],
+      "notes": "Исходная статья Atheistic Satanism выделяет лавеевское направление и The Satanic Temple. Это зонтичная категория, а не точный синоним одной из организаций или всех взглядов Лавея. Их разные этика и понимание ритуала не объединены в общий профиль. Собственный FAQ Церкви Сатаны подтверждает только её вариант нетеизма."
+    },
+    {
+      "sourceIndex": 837,
+      "sourceName": "Nontheist Quakers",
+      "decision": "keep",
+      "canonicalName": "Нетеистические квакеры",
+      "family": "christian",
+      "inheritFamilyProfile": false,
+      "parent": "Квакерство",
+      "description": "Квакеры, сохраняющие практику и общинную жизнь Друзей при нетеистическом или символическом понимании религиозного языка.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nontheist_Quakers",
+        "https://nontheistquakers.org/",
+        "https://nontheist-quakers.org.uk/faq/nontheism/comment-page-1/"
+      ],
+      "notes": "Источники самого сообщества подтверждают разнообразие: атеисты, агностики, гуманисты и иные участники без обычной веры в сверхъестественное. Не всем назначены -divine или +agnostic. Принадлежность к исторически христианскому семейству описывает происхождение, а не обязательную веру в Иисуса. Не alias всего квакерства. Участие в квакерских собраниях само по себе не заменено обязательным признаком медитации."
+    },
+    {
+      "sourceIndex": 838,
+      "sourceName": "North Texas Church of Freethought",
+      "decision": "keep",
+      "canonicalName": "Церковь свободомыслия Северного Техаса",
+      "family": "secular",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Сообщество свободомыслящих людей, организующее общинную жизнь и обсуждение этики без веры в сверхъестественное.",
+      "profile": "-divine -revelation +humanism",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/North_Texas_Church_of_Freethought",
+        "https://www.churchoffreethought.org/faq.php"
+      ],
+      "notes": "Официальный FAQ подтверждает опору на факты и разум, отсутствие единого обязательного политического мнения и этику совместной человеческой жизни. Организация использует функциональное определение религии для собственной общины, поэтому +nonreligious автоматически не назначен. Научный метод не приписан как единственный источник ответов на вопросы морали и смысла."
+    },
+    {
+      "sourceIndex": 839,
+      "sourceName": "Our Lady of Endor Coven",
+      "decision": "keep",
+      "canonicalName": "Ковен Нашей Госпожи Эндора / Ophite Cultus Sathanas",
+      "family": "pagan",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Американская группа Герберта Артура Слоуна, соединявшая гностические идеи и почитание Сатаны как носителя благого знания.",
+      "profile": "+divine +ritual",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Our_Lady_of_Endor_Coven",
+        "https://www.tandfonline.com/doi/full/10.1080/0015587X.2022.2152252"
+      ],
+      "notes": "Исследование в Folklore подтверждает гностические основания и службы с воззванием и причастием. Поэтому запись не принята за нетеистическую только по рубрике исходного списка. Заявленное Слоуном основание в 1948 году спорно; документально группа известна с 1960-х. Гностический образ Сатаны не отождествлён с лавеевским символизмом. Причастие не означает весь профиль исторических христианских таинств."
+    },
+    {
+      "sourceIndex": 840,
+      "sourceName": "Pandeism",
+      "decision": "keep",
+      "canonicalName": "Пандеизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Представление о Боге, который полностью стал вселенной и более не существует отдельно от неё.",
+      "profile": "+divine +pantheism +deism",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pandeism",
+        "https://onlinelibrary.wiley.com/doi/10.1111/zygo.12704"
+      ],
+      "notes": "Исходник и статья Уильяма Лейна в Zygon прямо различают пандеизм, деизм, пантеизм и панендеизм. Сохраняется отдельно от существующего «Пантеизм»: особенность — объяснение происхождения мира через полное становление Бога вселенной. deism отражает отсутствие внешних чудесных вмешательств после этого становления. Частная модель Living God Pandeism не распространена на все формы."
+    },
+    {
+      "sourceIndex": 841,
+      "sourceName": "Panendeism",
+      "decision": "keep",
+      "canonicalName": "Панендеизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": "Панентеизм",
+      "description": "Представление о мире, пребывающем в божественном, которое не исчерпывается вселенной, в деистическом контексте.",
+      "profile": "+divine +pantheism",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Panendeism",
+        "https://onlinelibrary.wiley.com/doi/10.1111/zygo.12704"
+      ],
+      "notes": "Исходная страница Panendeism дважды вернула 429. Независимая академическая статья Лейна прямо называет панендеизм отдельно от пандеизма и указывает превышение Бога над миром. Поэтому перенаправления и сходство написания не приняты за доказательство синонимии. Из этого краткого подтверждения не выведено единое учение о фактических вмешательствах, молитве и посмертии; deism оставлен незаполненным."
+    },
+    {
+      "sourceIndex": 842,
+      "sourceName": "Panentheism",
+      "decision": "alias",
+      "canonicalName": "Панентеизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Философско-богословская позиция, согласно которой мир пребывает в божественном, но божественное больше мира.",
+      "profile": "+divine +pantheism",
+      "proposedQuestions": [
+        {
+          "id": "divine_transcendence",
+          "text": "Считаете ли вы, что мир пребывает в божественном, которое не исчерпывается вселенной?",
+          "answers": [
+            "Да",
+            "Нет",
+            "Иное"
+          ],
+          "rationale": "Различает панентеизм и панендеизм, где божественное превосходит мир, с пантеизмом и пандеизмом, где мир и божественное полностью совпадают. Дополняет широкий вопрос pantheism о единстве «в некотором смысле»; не смешивает присутствие божественного в мире с личным характером Бога."
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Panentheism",
+        "https://plato.stanford.edu/entries/panentheism/"
+      ],
+      "notes": "Точный синоним существующей записи religions.js «Панентеизм». SEP подтверждает как связь мира с Богом, так и превышение Бога над миром. pantheism здесь соответствует широкому вопросу questions.js о единстве «в некотором смысле», а не полному тождеству. Личность Бога и конкретная религиозная принадлежность зависят от варианта."
+    },
+    {
+      "sourceIndex": 843,
+      "sourceName": "Pantheism",
+      "decision": "alias",
+      "canonicalName": "Пантеизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Философские позиции, понимающие божественное и вселенную как единое целое.",
+      "profile": "+divine +pantheism",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pantheism",
+        "https://plato.stanford.edu/archives/sum2021/entries/pantheism/"
+      ],
+      "notes": "Точное совпадение с существующей записью religions.js «Пантеизм». Физикалистические, идеалистические и иные варианты не сведены к одной теории души или практике. Не alias панентеизма, пандеизма или только натуралистического пантеизма. Общее отрицание любого личностного языка не назначено автоматически всем вариантам."
+    },
+    {
+      "sourceIndex": 844,
+      "sourceName": "Post-theism",
+      "decision": "keep",
+      "canonicalName": "Посттеизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Подходы, рассматривающие противопоставление теизма и атеизма как преодолеваемое или утратившее центральное значение.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Post-theism"
+      ],
+      "notes": "Источник описывает несколько исторических и богословских употреблений, включая либеральное христианство и постхристианскую мысль. Не синоним простого неверия, апатеизма или агностицизма: тезис об историческом преодолении противопоставления не задаёт одной оценки существования Бога. Общий профиль оставлен пустым."
+    },
+    {
+      "sourceIndex": 845,
+      "sourceName": "Practical atheism",
+      "decision": "keep",
+      "canonicalName": "Практический атеизм",
+      "family": "philosophical",
+      "inheritFamilyProfile": false,
+      "parent": null,
+      "description": "Жизненная позиция, при которой действия и повседневные решения не соотносятся с Богом независимо от теоретической веры.",
+      "profile": "",
+      "proposedQuestions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Practical_atheism"
+      ],
+      "notes": "Исходная статья прямо допускает теиста, практикующего такую позицию, и различает её с апатеизмом. Поэтому не alias существующих «Атеизм» или «Апатеизм», не назначены -divine и +agnostic. Морально отрицательная оценка у отдельных конфессиональных авторов передана не как нейтральное свойство каждого носителя позиции."
+    }
+  ]
+}
