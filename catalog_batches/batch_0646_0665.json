@@ -46,14 +46,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Основанная Линь Чжаоэнем в XVI веке фуцзяньская традиция с конфуцианской этикой, почитанием предков и практиками самосовершенствования.",
-      "profile": "+ancestors +meditation +ritual +dao",
+      "profile": "+ancestors +meditation +ritual +dao +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Sanyiism",
         "https://en.wikipedia.org/wiki/Sanyi_teaching",
         "https://brill.com/previewpdf/book/edcoll/9789047428015/Bej.9789004174559.i-499_005.xml"
       ],
-      "notes": "Sanyiism, Xiaism и Church of the Three-in-One — названия этой традиции. Название не означает христианскую Троицу. Рабочая статья и исследование Линь Гопина подтверждают отдельное движение и его исторические ветви."
+      "notes": "Sanyiism, Xiaism и Church of the Three-in-One — названия этой традиции. Название не означает христианскую Троицу. Рабочая статья и исследование Линь Гопина подтверждают отдельное движение и его исторические ветви. Дополнение: Lin Guoping, «On the Rise, Decline and Evolution of the Three-in-One Teaching», с. 124 доступного издательского превью, описывает обязательную клятву Небу при вступлении (+initiatory_brotherhood). Это историческая форма приёма, а не утверждение одинаковых современных обрядов всех ветвей; различие учёного и религиозного направлений сохранено."
     },
     {
       "sourceIndex": 649,
@@ -80,12 +80,14 @@
       "inheritFamilyProfile": false,
       "parent": "Сяньтяньдао",
       "description": "Китайское спасительное движение начала XX века, организованное как Общество совместного добра и включающее сидячую медитацию и внутреннюю алхимию.",
-      "profile": "+meditation +ritual +occult",
+      "profile": "+meditation +ritual +occult +scripture +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Shengdao"
+        "https://en.wikipedia.org/wiki/Shengdao",
+        "https://brill.com/abstract/book/edcoll/9789004424166/BP000009.xml",
+        "https://escholarship.org/content/qt13w4k8d4/qt13w4k8d4.pdf"
       ],
-      "notes": "Shengdao и Tongshanshe обозначают учение и его организационную форму. Родственная ветвь Яньшэндао не признана автоматически синонимом."
+      "notes": "Shengdao и Tongshanshe обозначают учение и его организационную форму. Родственная ветвь Яньшэндао не признана автоматически синонимом. Дополнение: Wang Chien-chuan, «The Composition and Distribution of the Scriptures of the Tongshanshe» (2020), исследует собственный «Канон десяти тысяч будд» (+scripture). Vincent Goossaert, с. 148 академического текста в репозитории UC Berkeley, описывает посвящение с ритуальным открытием внутреннего прохода и последующей ежедневной медитацией (+initiatory_brotherhood). Это не передача энергии через руки по смыслу spiritual_hand_transmission; сведения о текстах других связанных групп не перенесены."
     },
     {
       "sourceIndex": 651,
@@ -96,14 +98,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Историческое китайское тайное братство взаимопомощи с обрядами посвящения, клятвами и элементами народной религиозности.",
-      "profile": "+ritual",
+      "profile": "+ritual +initiatory_brotherhood +occult",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Tiandihui",
         "https://books.google.com/books?id=j2WsDQAAQBAJ",
-        "https://journal.hep.com.cn/fhc/EN/PDF/10.3868/s020-005-016-0032-5"
+        "https://journal.hep.com.cn/fhc/EN/PDF/10.3868/s020-005-016-0032-5",
+        "https://qsyj.ruc.edu.cn/CN/abstract/abstract1426.shtml"
       ],
-      "notes": "Исходная ссылка перенаправляет на Hongmen, современную более широкую организационную преемственность. Исследование истории Тяньдихуэй подтверждает ритуалы; единого современного вероучения всем братствам не приписано. Не синоним любой китайской триады."
+      "notes": "Исходная ссылка перенаправляет на Hongmen, современную более широкую организационную преемственность. Исследование истории Тяньдихуэй подтверждает ритуалы; единого современного вероучения всем братствам не приписано. Не синоним любой китайской триады. Дополнение: Song Jun, «The aligning Ceremony and Its Symbolic Implication in the Early Period of Tian Di Hui» (1995), описывает приём через алтарь, клятву и тайные знаки (+initiatory_brotherhood). Robert J. Antony (2016), с. 554 уже указанной статьи, фиксирует талисманы, защищавшие, по вере участников, от болезней и злых духов (+occult). Исторические практики не приписаны всем современным организациям Hongmen; антиманьчжурские легенды и политические цели не кодируются как вероучение."
     },
     {
       "sourceIndex": 652,
@@ -164,12 +167,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Тайваньское движение Хуньюаня, соединяющее изучение Ицзина и фэншуй с почитанием божеств и культурных предков Китая.",
-      "profile": "+divine +scripture +ancestors +ritual +occult",
+      "profile": "+divine +scripture +ancestors +ritual +occult +personal +many_gods +revelation +divination_oracles",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Weixinism"
+        "https://en.wikipedia.org/wiki/Weixinism",
+        "https://cesnur.net/wp-content/uploads/2017/12/tjoc_1_2_1_introvigne.pdf",
+        "https://ir.lib.ncu.edu.tw/handle/987654321/86110?locale=en-US"
       ],
-      "notes": "Weixinism и Weixin Shengjiao — названия одной традиции. Источник описывает собственный канон, храмовую деятельность, гадательные практики и почитание Хуанди, Яньди и Чию. Не отождествляется с буддийской философией «только сознание»."
+      "notes": "Weixinism и Weixin Shengjiao — названия одной традиции. Источник описывает собственный канон, храмовую деятельность, гадательные практики и почитание Хуанди, Яньди и Чию. Не отождествляется с буддийской философией «только сознание». Дополнение: полевое исследование Introvigne «Weixin Shengjiao: An Introduction» (2017), с. 6, 8 и 10, описывает послания Нефритового императора и обожествлённого Гуйгуцзы основателю (+personal, +many_gods, +revelation), а также центральное практическое применение Ицзина для гадания (+divination_oracles). Последнее независимо подтверждает исследование Wu Ching-Hai, National Central University (2021). Культ предков и канон уже отражены; популяризация мира не приравнена к строгому ahimsa, а откровения основателю — к новому всеобщему откровению."
     },
     {
       "sourceIndex": 656,
@@ -196,12 +201,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Китайская спасительная традиция и линия родственных движений, связывающих спасение с возвращением к небесному истоку.",
-      "profile": "+divine +ritual",
+      "profile": "+divine +ritual +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Xiantiandao"
+        "https://en.wikipedia.org/wiki/Xiantiandao",
+        "https://escholarship.org/content/qt13w4k8d4/qt13w4k8d4.pdf"
       ],
-      "notes": "Материнская символика верховного божества и обряд посвящения важны в историческом учении; в дочерних движениях существуют различия. Сяньтяньдао шире Игуаньдао и Туншаньшэ, поэтому родство не кодируется как alias."
+      "notes": "Материнская символика верховного божества и обряд посвящения важны в историческом учении; в дочерних движениях существуют различия. Сяньтяньдао шире Игуаньдао и Туншаньшэ, поэтому родство не кодируется как alias. Дополнение: Vincent Goossaert, с. 148 академического текста в репозитории UC Berkeley, прямо сопоставляет посвящение Туншаньшэ с посвящением Сяньтяньдао (+initiatory_brotherhood). Это подтверждает отдельную историческую практику самой линии; доктрины Игуаньдао и других дочерних движений автоматически не добавлены."
     },
     {
       "sourceIndex": 658,
@@ -212,12 +218,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Основанная Ван Ханьшэном на Тайване в 1952 году конфуцианская религиозная организация с центральным почитанием Хуанди.",
-      "profile": "+divine +scripture",
+      "profile": "+divine +scripture +ancestors +ritual",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Xuanyuan_teaching"
+        "https://en.wikipedia.org/wiki/Xuanyuan_teaching",
+        "https://wcts.sinica.edu.tw/wctsI/paper/D7P1Paper.pdf"
       ],
-      "notes": "Xuanyuanism и Huangdiism — названия организации; широкое народное почитание Хуанди не является её синонимом. Четверокнижие и Пятикнижие указаны как авторитетные тексты. restoration относится к раннему христианству и здесь неприменимо."
+      "notes": "Xuanyuanism и Huangdiism — названия организации; широкое народное почитание Хуанди не является её синонимом. Четверокнижие и Пятикнижие указаны как авторитетные тексты. restoration относится к раннему христианству и здесь неприменимо. Дополнение: Philip Clart, исследование фениксовых общин на сайте Academia Sinica, с. 16, описывает собственный проект Xuanyuan Jiao по восстановлению древних обрядов, сосредоточенный на почитании Хуанди как предка китайского народа (+ancestors, +ritual), и его центральное писание «Хуанди цзин». Практики присоединившихся фениксовых храмов не распространены на всю организацию; общий культ Хуанди по-прежнему не является её синонимом."
     },
     {
       "sourceIndex": 659,
@@ -280,9 +287,10 @@
       "profile": "",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Dragon_Flower_Church_of_the_Heart-bound_Heavenly_Way"
+        "https://en.wikipedia.org/wiki/Dragon_Flower_Church_of_the_Heart-bound_Heavenly_Way",
+        "https://hub.hku.hk/bitstream/10722/139685/1/Content.pdf"
       ],
-      "notes": "Yixin Tiandao, Yizhendao, Changmaodao и Dragon Flower Church of the Heart-bound Heavenly Way перечислены источником как названия этого движения. Самостоятельная ветвь не сведена к родительской традиции; данных для отдельного доктринального профиля недостаточно."
+      "notes": "Yixin Tiandao, Yizhendao, Changmaodao и Dragon Flower Church of the Heart-bound Heavenly Way перечислены источником как названия этого движения. Самостоятельная ветвь не сведена к родительской традиции; данных для отдельного доктринального профиля недостаточно. Уточнение профиля: David A. Palmer, «Chinese Redemptive Societies and Salvationist Religion» (2011), отдельно называет Исинь тяньдао и его регистрацию в 1932 году как Puhua jiushi fojiaohui. Это независимое подтверждение организации, но не отдельного учения: общие рассуждения автора о спасительных обществах и свойства Сяньтяньдао не перенесены в профиль. Новые ответы не назначены."
     },
     {
       "sourceIndex": 663,
@@ -293,13 +301,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Китайское религиозное движение XVII века, связанное с Ян Цзаем, почитанием Гуаньинь и дисциплиной духовного самосовершенствования.",
-      "profile": "+divine +ritual",
+      "profile": "+divine +ritual +meditation",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Zailiism",
-        "https://en.wikipedia.org/wiki/Zaili_teaching"
+        "https://en.wikipedia.org/wiki/Zaili_teaching",
+        "https://hub.hku.hk/bitstream/10722/139685/1/Content.pdf"
       ],
-      "notes": "Zailiism, Liism, Bafangdao и Baiyidao приведены как названия этой традиции. Легендарное долголетие основателя не используется как исторический факт. Не отождествляется со всем даосизмом или культом Гуаньинь."
+      "notes": "Zailiism, Liism, Bafangdao и Baiyidao приведены как названия этой традиции. Легендарное долголетие основателя не используется как исторический факт. Не отождествляется со всем даосизмом или культом Гуаньинь. Уточнение профиля: David A. Palmer (2011), обсуждая именно Zailijiao, описывает даосские методы самосовершенствования руководителей лож dangjia и распространение руководств neidan через сеть движения (+meditation). Это засвидетельствованная созерцательная дисциплина внутри движения, без объявления всех последователей монахами Цюаньчжэнь. Общие признаки соседних Daoyuan и Tongshanshe, рассмотренных рядом, не заимствованы; особое почитание Гуаньинь само по себе не доказывает строгого единобожия."
     },
     {
       "sourceIndex": 664,
@@ -326,7 +335,7 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Канадское религиозное движение, основанное Уолтером Такером в 1969 году и придающее каннабису значение религиозного таинства.",
-      "profile": "+ritual",
+      "profile": "+ritual +divine",
       "proposedQuestions": [
         {
           "id": "entheogen_sacrament",
@@ -346,7 +355,7 @@
         "https://en.wikipedia.org/wiki/Church_of_the_Universe",
         "https://www.documentationcapitale.ca/documents/Kharaghani.pdf"
       ],
-      "notes": "Assembly of the Church of the Universe — полное название этой организации. Судебное решение 2011 ONSC 836 независимо фиксирует сакраментальное значение каннабиса и разнообразие личных убеждений участников; поэтому общий христианский профиль не перенесён."
+      "notes": "Assembly of the Church of the Universe — полное название этой организации. Судебное решение 2011 ONSC 836 независимо фиксирует сакраментальное значение каннабиса и разнообразие личных убеждений участников; поэтому общий христианский профиль не перенесён. Уточнение профиля: Решение R. v. Kharaghani and Styrsky, 2011 ONSC 836, §§228–234, фиксирует общую веру членов в возможность общения с Богом через сакрамент и приводит вероучительное самоописание организации (+divine). При этом прямо отмечена свобода остальных индивидуальных религиозных убеждений. Из библейских цитат не выведены обязательные для всех христианство, Троица, исключительное единобожие или единый канон."
     }
   ]
 }

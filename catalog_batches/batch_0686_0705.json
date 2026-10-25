@@ -13,13 +13,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Современное возрождение абхазских местных культов, святилищ и родовых молений при сохранении части обрядовой преемственности.",
-      "profile": "+divine +ritual",
+      "profile": "+divine +ritual +personal +ancestors +afterlife",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Abkhaz_neopaganism",
-        "https://journals.iea.ras.ru/vestantrop/article/view/1036"
+        "https://journals.iea.ras.ru/vestantrop/article/view/1036",
+        "https://kar.kent.ac.uk/47916/1/87MC%20PhD%20THESIS.pdf"
       ],
-      "notes": "Исходная статья перенаправляет Abkhaz neopaganism на Abkhaz traditional religion и описывает возрождение с 1980-х, а не только заново изобретённую религию. Полевое исследование Бигуаа подтверждает непрерывность отдельных родовых культов. Число божеств не кодируется: трактовки верховного Анцва и подчинённых сакральных сил различаются. Родовой обряд сам по себе не принят за доказательство культа умерших предков."
+      "notes": "Исходная статья перенаправляет Abkhaz neopaganism на Abkhaz traditional religion и описывает возрождение с 1980-х, а не только заново изобретённую религию. Полевое исследование Бигуаа подтверждает непрерывность отдельных родовых культов. Число божеств не кодируется: трактовки верховного Анцва и подчинённых сакральных сил различаются. Родовой обряд сам по себе не принят за доказательство культа умерших предков. Дополнение: полевые материалы диссертации из репозитория University of Kent описывают современные просьбы к сакральному покровителю о защите семьи и оставление пищи и питья умершим (personal, ancestors, afterlife). Основание ancestors здесь — конкретные действия для умерших, а не одно наличие родовых союзов. Изменчивую местную терминологию сакральных сил автор специально отличает от готовых христианских понятий; единая схема числа богов не навязана."
     },
     {
       "sourceIndex": 687,
@@ -46,12 +47,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Современное организованное возрождение осетинской традиционной религии с почитанием Хуыцау и божественных сил.",
-      "profile": "+divine +many_gods +pantheism +ritual +afterlife",
+      "profile": "+divine +many_gods +pantheism +ritual +afterlife +personal +nature_spirits +fire",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Assianism"
+        "https://en.wikipedia.org/wiki/Assianism",
+        "https://doi.org/10.1558/jsrnc.39114",
+        "https://1tierschemin.wordpress.com/wp-content/uploads/2020/12/paganisme-ossete-scythian-neopaganism-in-the-caucasus.pdf"
       ],
-      "notes": "Источник прямо связывает названия Assianism, Uatsdin и Æss Din и описывает организационное возрождение с 1980-х. Пантеистическое понимание верховного Бога и почитание меньших божеств представлены в описанной теологии; это не христианская Троица. Историческая Scythian religion остаётся отдельной записью; заявленная преемственность не делает их синонимами. Семейство pagan используется как техническая категория современного возрождения, хотя последователи могут отвергать слово «язычество»."
+      "notes": "Источник прямо связывает названия Assianism, Uatsdin и Æss Din и описывает организационное возрождение с 1980-х. Пантеистическое понимание верховного Бога и почитание меньших божеств представлены в описанной теологии; это не христианская Троица. Историческая Scythian religion остаётся отдельной записью; заявленная преемственность не делает их синонимами. Семейство pagan используется как техническая категория современного возрождения, хотя последователи могут отвергать слово «язычество». Дополнение: полевое исследование Ричарда Фольца (2019), с. 323 и 327, описывает молитвенные обращения к божествам, сакральный очаг в центре домашних обрядов и веру в собственного божественного хозяина каждого места (personal, fire, nature_spirits). Это современные осетинские практики и высказывания участников движения. Древнескифские гадания и обряды из исторических разделов статьи не перенесены на нынешних последователей."
     },
     {
       "sourceIndex": 689,
@@ -78,12 +81,15 @@
       "inheritFamilyProfile": false,
       "parent": "Тенгрианство",
       "description": "Алтайское религиозное движение, возникшее в 1904 году и продолжающееся в нескольких формах возрождения.",
-      "profile": "+divine +many_gods +ritual",
+      "profile": "+divine +many_gods +ritual +personal +revelation +nature_spirits +fire",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Burkhanism"
+        "https://en.wikipedia.org/wiki/Burkhanism",
+        "https://harvest.usask.ca/bitstreams/91e8e688-0388-460a-be4e-d443a44872e7/download",
+        "https://www.himalayanresearch.org/images/Vol26%20%28Nos.%203-4%29%20July-December-2022%5D.pdf",
+        "https://doi.org/10.1353/ort.2012.0012"
       ],
-      "notes": "Источник отличает движение от более общего алтайского шаманизма: первоначальная критика шаманских культов, почитание бурхановых сил и героев эпоса, позднейшая адаптация к народной религии. Синкретические влияния буддизма и христианства не превращены в обязательные +buddha или +jesus. Не alias общего тенгрианства."
+      "notes": "Источник отличает движение от более общего алтайского шаманизма: первоначальная критика шаманских культов, почитание бурхановых сил и героев эпоса, позднейшая адаптация к народной религии. Синкретические влияния буддизма и христианства не превращены в обязательные +buddha или +jesus. Не alias общего тенгрианства. Дополнение: исследование Ak Jang из репозитория University of Saskatchewan воспроизводит рассказ Чота Челпанова о наставлениях Белого всадника и молитве огню, солнцу и луне (revelation, personal, fire). Жерносенко и Проминская, Himalayan and Central Asian Studies 26 (2022), и полевые материалы Пегг и Ямаевой (2012) подтверждают духов-хозяев мест и особое почитание Матери Огня (nature_spirits, fire). Историческая критика шаманов не превращена в общий запрет всех нынешних медиумических практик; алтайские формы не смешаны с отдельным хакасским бурханизмом."
     },
     {
       "sourceIndex": 691,
@@ -110,14 +116,16 @@
       "inheritFamilyProfile": false,
       "parent": "Кельтское неоязычество",
       "description": "Современное политеистическое направление, восстанавливающее кельтские религиозные практики с опорой на исторические источники и живые культуры.",
-      "profile": "+many_gods +nature_spirits +ancestors +ritual -scripture",
+      "profile": "+many_gods +nature_spirits +ancestors +ritual -scripture +divine +personal +divination_oracles",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Celtic_Reconstructionist_Paganism",
         "https://www.paganachd.com/faq/whatiscr.html",
-        "https://www.paganachd.com/faq/howdifferent.html"
+        "https://www.paganachd.com/faq/howdifferent.html",
+        "https://www.paganachd.com/faq/theology.html",
+        "https://paganachd.com/faq/ritual.html"
       ],
-      "notes": "Исходная ссылка теперь ведёт на раздел общей статьи Celtic neopaganism; раздел и коллективный FAQ сообщества подтверждают самостоятельный реконструкционистский подход. Перенаправление не доказывает тождества со всей зонтичной категорией строки 691 или с друидизмом. Отсутствие единого священного текста прямо отмечено источником."
+      "notes": "Исходная ссылка теперь ведёт на раздел общей статьи Celtic neopaganism; раздел и коллективный FAQ сообщества подтверждают самостоятельный реконструкционистский подход. Перенаправление не доказывает тождества со всей зонтичной категорией строки 691 или с друидизмом. Отсутствие единого священного текста прямо отмечено источником. Дополнение: коллективный FAQ реконструкционистов описывает богов как самостоятельных божественных существ, с которыми строят отношения молитвы и взаимности (divine, personal). Раздел Ritual сообщает о гадании огамом и принятии знамений после подношений (divination_oracles). Факультативные посвящения и поддержание огня Бригиты в отдельных группах не назначены всему направлению."
     },
     {
       "sourceIndex": 693,
@@ -128,12 +136,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Организация на Тенерифе, основанная в 2001 году для возрождения религии коренных жителей Канарских островов.",
-      "profile": "+divine +ritual",
+      "profile": "+divine +ritual +many_gods +pantheism +ancestors +afterlife +personal +icons",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Church_of_the_Guanche_People"
+        "https://en.wikipedia.org/wiki/Church_of_the_Guanche_People",
+        "https://iglesiaguanche.blogspot.com/2015/08/fundamentos-de-la-iglesia-del-pueblo.html",
+        "https://iglesiaguanche.blogspot.com/2013/04/titulo-xii.html",
+        "https://www.observatorioreligion.es/upload/80/39/Pdfd_interactivo_Canarias.pdf"
       ],
-      "notes": "Источник подтверждает почитание Чаксиракси и проведение свадебных и иных обрядов. Это современная организация, а не синоним всей исторической религии гуанчей. Упоминание крещений не доказывает христианские таинства, сознательное крещение взрослых или христианское богословие."
+      "notes": "Источник подтверждает почитание Чаксиракси и проведение свадебных и иных обрядов. Это современная организация, а не синоним всей исторической религии гуанчей. Упоминание крещений не доказывает христианские таинства, сознательное крещение взрослых или христианское богословие. Дополнение: официальные Fundamentos и академическое исследование «Religiones entre continentes», с. 182, описывают вселенную как проявление Чаксиракси, богов-посредников, почитание предков и две посмертные формы духа (pantheism, many_gods, ancestors, afterlife). Статьи 203–205 устава предписывают молитвенное общение с Богиней и использование её священных изображений (personal, icons). Принятие некоторых образов Девы Марии не означает принятия христианского богословия или всей католической литургии."
     },
     {
       "sourceIndex": 694,
@@ -144,12 +155,14 @@
       "inheritFamilyProfile": false,
       "parent": "Балтийские движения родной веры",
       "description": "Латышское движение родной веры, систематизированное в 1920-х годах на основе фольклора, песен и мифологии.",
-      "profile": "+divine +many_gods +afterlife",
+      "profile": "+divine +many_gods +afterlife +personal +ancestors +ritual +fire +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Dievtur%C4%ABba"
+        "https://en.wikipedia.org/wiki/Dievtur%C4%ABba",
+        "https://dievturi.lv/app/rites/daily",
+        "https://dievturi.lv/app/fellows/guide"
       ],
-      "notes": "Источник описывает Диевса, Мару и Лайму как божественные аспекты и учение о посмертной судьбе души. many_gods допускает разные проявления божественного согласно формулировке questions.js. Триединство божеств не кодируется христианским trinity. Не alias литовской Ромувы или всей балтийской категории."
+      "notes": "Источник описывает Диевса, Мару и Лайму как божественные аспекты и учение о посмертной судьбе души. many_gods допускает разные проявления божественного согласно формулировке questions.js. Триединство божеств не кодируется христианским trinity. Не alias литовской Ромувы или всей балтийской категории. Дополнение: официальный раздел Svētrūpe ikdienā описывает обращения к Диевсу, Лайме и Маре, почитание предков, зажигание священного огня и подношения (personal, ancestors, ritual, fire). Ceļvedis раскрывает приём полноправных членов с очищением, клятвой и передачей огня (initiatory_brotherhood). Это документированная обрядность Latvijas Dievturu sadraudze; наличие обряда приёма не означает обязательного посвящения каждого человека латышской культуры."
     },
     {
       "sourceIndex": 695,
@@ -208,14 +221,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Современное армянское движение родной веры; важная организация — основанный Слаком Какосяном орден «Дети Ара».",
-      "profile": "+many_gods +scripture +reincarnation",
+      "profile": "+many_gods +scripture +reincarnation +divine +personal +ritual +ancestors +fire +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Armenian_neopaganism",
         "https://en.wikipedia.org/wiki/Hetanism",
-        "https://www.cambridge.org/core/books/abs/modern-pagan-and-native-faith-movements-in-central-and-eastern-europe/neopagan-movement-in-armenia-the-children-of-ara/7E1F48114BB2E25CA1201D4CC036568B"
+        "https://www.cambridge.org/core/books/abs/modern-pagan-and-native-faith-movements-in-central-and-eastern-europe/neopagan-movement-in-armenia-the-children-of-ara/7E1F48114BB2E25CA1201D4CC036568B",
+        "https://www.researchgate.net/publication/325743001_A_Neopagan_Movement_in_Armenia_The_Children_of_Ara"
       ],
-      "notes": "Исходный URL Armenian_neopaganism не загрузился; доступная статья Hetanism и исследовательская глава Антонян и Секерского подтверждают предмет. Священный Ухтагирк и родовое перерождение описаны для арординеров; их наличие не означает одинаковой практики каждого современного армянского неоязычника. Это не синоним исторической Armenian mythology."
+      "notes": "Исходный URL Armenian_neopaganism не загрузился; доступная статья Hetanism и исследовательская глава Антонян и Секерского подтверждают предмет. Священный Ухтагирк и родовое перерождение описаны для арординеров; их наличие не означает одинаковой практики каждого современного армянского неоязычника. Это не синоним исторической Armenian mythology. Дополнение: Антонян и Секерский, «A Neopagan Movement in Armenia», с. 275–277, описывают молитвы и покровительство Ара, Анаит и Ваагна, посвящение с клятвой верности ордену, поминовение предков на осеннее равноденствие и чтение священных текстов у священного огня (divine, personal, ritual, ancestors, fire, initiatory_brotherhood). Признаки относятся к документированной центральной организации Arordineri Ukht; не утверждают единообразия всех независимых армянских языческих общин."
     },
     {
       "sourceIndex": 699,
@@ -244,12 +258,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Современные направления восстановления римских и италийских культов, обрядов и почитания богов.",
-      "profile": "+many_gods +ritual",
+      "profile": "+many_gods +ritual +divine",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Italo-Roman_neopaganism"
+        "https://en.wikipedia.org/wiki/Italo-Roman_neopaganism",
+        "https://www.tradizioneromana.org/home.html",
+        "https://tradizioneromana.org/home2.html"
       ],
-      "notes": "Исходная ссылка открывает статью Reconstructionist Roman religion, описывающую различные современные организации и употребляемые названия religio romana и cultus deorum romanorum. Не синоним исторической древнеримской религии; эзотерические идеи некоторых ранних авторов не перенесены на всех последователей."
+      "notes": "Исходная ссылка открывает статью Reconstructionist Roman religion, описывающую различные современные организации и употребляемые названия religio romana и cultus deorum romanorum. Не синоним исторической древнеримской религии; эзотерические идеи некоторых ранних авторов не перенесены на всех последователей. Дополнение: официальный сайт современного объединения Pietas подтверждает почитание богов и проведение современных культовых праздников, дополняя исходное описание (divine). Более узкие герметические, инициатические и гадательные практики одной организации не перенесены на всё неоднородное возрождение римской религии."
     },
     {
       "sourceIndex": 701,
@@ -311,12 +327,14 @@
       "inheritFamilyProfile": false,
       "parent": "Балтийские движения родной веры",
       "description": "Литовское движение родной веры, возрождающее балтийские обряды, почитание богов, предков и священного огня.",
-      "profile": "+many_gods +ancestors +ritual +fire",
+      "profile": "+many_gods +ancestors +ritual +fire +divine +nature_spirits +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Romuva_(religion)"
+        "https://en.wikipedia.org/wiki/Romuva_(religion)",
+        "https://romuva.lt/apie/romuvos-tikejimo-nuostatos/",
+        "https://romuva.us/tenets/"
       ],
-      "notes": "Источник прямо определяет Ромуву как политеистическую традицию с почитанием предков и описывает святилища со священным огнём. Не alias латышской Диевтурибы или всех балтийских движений. Природа признаётся священной, но это само по себе не использовано как доказательство +nature_spirits."
+      "notes": "Источник прямо определяет Ромуву как политеистическую традицию с почитанием предков и описывает святилища со священным огнём. Не alias латышской Диевтурибы или всех балтийских движений. Природа признаётся священной, но это само по себе не использовано как доказательство +nature_spirits. Дополнение: официальные «Tikėjimo nuostatos» Ромувы, пп. 1, 3 и 6, прямо утверждают божественные силы (+divine), живую природу — включая камни, воду и солнце (+nature_spirits по формулировке вопроса об одушевлённости), и сохранение души после смерти тела с переходом к предкам (+afterlife). Англоязычное изложение Romuva North America подтверждает эти положения. Гармония с природой сама по себе не использована как +pantheism; переход к предкам не приравнен к перерождению."
     },
     {
       "sourceIndex": 705,

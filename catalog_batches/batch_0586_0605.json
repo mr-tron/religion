@@ -310,12 +310,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Традиция ахомов Ассама с почитанием предков дам, божеств пхи и ритуалами Ме-Дам-Ме-Пхи.",
-      "profile": "+divine +many_gods +ancestors +afterlife +ritual",
+      "profile": "+divine +many_gods +ancestors +afterlife +ritual +divination_oracles +personal",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Ahom_religion"
+        "https://en.wikipedia.org/wiki/Ahom_religion",
+        "https://thesiamsociety.org/wp-content/uploads/1955/03/JSS_043_1d_PadmeswarGogoi_DivinationByAhomDeodhais.pdf"
       ],
-      "notes": "Источник прямо описывает посмертное становление предков Dam и Phi, обряды и современные возрождения практик. Это местная тайская традиция, не синоним всей тайской народной религии или индуизма; поздние самоназвания Am-Su-Shin Phuralung указаны в источнике."
+      "notes": "Источник прямо описывает посмертное становление предков Dam и Phi, обряды и современные возрождения практик. Это местная тайская традиция, не синоним всей тайской народной религии или индуизма; поздние самоназвания Am-Su-Shin Phuralung указаны в источнике. Уточнение профиля: P. Gogoi, «Divination by Ahom Deodhais» (Journal of the Siam Society 43/1, 1955), описывает гадание по костям куриных ног и молитву Джасингпхе перед ним (+divination_oracles, +personal). Это исторически засвидетельствованный жреческий обряд; его распространённость среди современных ахомов не предполагается, а гадательная книга сама по себе не объявлена общим священным каноном."
     },
     {
       "sourceIndex": 602,
@@ -326,14 +327,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Традиции зяй Вьетнама с предками, божествами земли и леса и местными подношениями.",
-      "profile": "+divine +many_gods +ancestors +ritual",
+      "profile": "+divine +many_gods +ancestors +ritual +nature_spirits +personal",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Giay_people",
         "https://en.wikipedia.org/wiki/Gi%C3%A1y_people",
-        "https://special.nhandan.vn/giay-ethnic-minority-group/index.html"
+        "https://special.nhandan.vn/giay-ethnic-minority-group/index.html",
+        "https://archive.unesco-ichcap.org/eng/ek/sub13/pdf_down/2013/vietnam/05_3.Tug-of-War%20in%20the%20Tich%20Son%20Festival.pdf"
       ],
-      "notes": "Исходный URL Giay_people не открылся; открыта статья с названием Giáy_people и найдено подробное подтверждение в Nhan Dan. Описаны семейный алтарь и разные божества. Не делать вывод об одинаковой религии всех носителей языка буи или всего народа чжуан."
+      "notes": "Исходный URL Giay_people не открылся; открыта статья с названием Giáy_people и найдено подробное подтверждение в Nhan Dan. Описаны семейный алтарь и разные божества. Не делать вывод об одинаковой религии всех носителей языка буи или всего народа чжуан. Уточнение профиля: Nhan Dan прямо описывает почитание бога леса и животных-покровителей (+nature_spirits). Полевой отчёт ICHCAP о традиционном перетягивании каната во Вьетнаме, раздел о Roóng Poọc зяй в Sa Pa, с. 131, фиксирует просьбы к местным божествам о защите и благополучии (+personal). Это локальное праздничное свидетельство, без переноса всех ритуалов соседних народов или неподтверждённого ответа о перерождении."
     },
     {
       "sourceIndex": 603,
@@ -344,12 +346,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Традиции хлаи острова Хайнань с анимистическими представлениями и обрядами, связанными с животными и земледелием.",
-      "profile": "+nature_spirits +ritual",
+      "profile": "+nature_spirits +ritual +ancestors +occult",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Hlai_people"
+        "https://en.wikipedia.org/wiki/Hlai_people",
+        "https://hndb.hainanu.edu.cn/portal/journal/portal/client/paper/a7e0bab353fa3af6c3a21b988deb4c74"
       ],
-      "notes": "Статья о народе описывает одушевлённость и почитание быков, их домашнее представление как «души быка» и ежегодный праздник. Мифологическое происхождение кланов от животных не превращено в неподтверждённые ответы о перерождении или числе богов."
+      "notes": "Статья о народе описывает одушевлённость и почитание быков, их домашнее представление как «души быка» и ежегодный праздник. Мифологическое происхождение кланов от животных не превращено в неподтверждённые ответы о перерождении или числе богов. Уточнение профиля: Tu Gangpeng и Chen Silian, «论海南黎族原始宗教信仰» (Hainan University Journal, 29/1, 2011, с. 12–16, DOI 10.15886/j.cnki.hnus.2011.01.003), прямо включают предковый культ и магические практики в содержание традиционных верований ли/хлаи (+ancestors, +occult). Терминология авторов о «примитивности» не принята как оценка; их обзор не доказывает единого канона, одинаковых ритуалов всех подгрупп или конкретного вида одержимости."
     },
     {
       "sourceIndex": 604,
@@ -360,12 +363,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Местные традиции кам с несколькими божествами, предками, природными духами и общинными обрядами.",
-      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual",
+      "profile": "+divine +many_gods +nature_spirits +ancestors +ritual +divination_oracles +afterlife +reincarnation +occult",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Kam_people"
+        "https://en.wikipedia.org/wiki/Kam_people",
+        "https://ndlsearch.ndl.go.jp/books/R000000004-I8920373",
+        "https://link.springer.com/article/10.1186/s41257-021-00042-9"
       ],
-      "notes": "Источник описывает политеизм, предков и божеств разных мест, а также гадания. Буддийские, даосские и конфуцианские влияния не делают весь комплекс тождественным любому из этих направлений. Sa Sui особенно важна, но предполагаемое исходное тождество богине земли не считается доказанным."
+      "notes": "Источник описывает политеизм, предков и божеств разных мест, а также гадания. Буддийские, даосские и конфуцианские влияния не делают весь комплекс тождественным любому из этих направлений. Sa Sui особенно важна, но предполагаемое исходное тождество богине земли не считается доказанным. Уточнение профиля: T. Kaneshige, «Feng-shui divination on geographical features of villages» (Bulletin of Shiga University of Medical Science 13, 2007, с. 19–44; библиографическая запись National Diet Library), исследует гадание в деревнях дун (+divination_oracles). Полевая статья «Medical pluralism in a Dong Village, Southwestern China» (2021) описывает посмертных духов и человеческое перерождение, а также заклинания, амулеты и возвращение души (+afterlife, +reincarnation, +occult). Эти признаки засвидетельствованы в локальных традициях; они не означают общую доктрину кармы или практику всех дун."
     },
     {
       "sourceIndex": 605,
@@ -376,12 +381,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Практики хмонгов с природными и домашними духами, предками, подношениями и ритуальными специалистами.",
-      "profile": "+divine +nature_spirits +ancestors +afterlife +ritual",
+      "profile": "+divine +nature_spirits +ancestors +afterlife +ritual +reincarnation +occult",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Miao_folk_religion"
+        "https://en.wikipedia.org/wiki/Miao_folk_religion",
+        "https://ethnomed.org/culture/hmong/",
+        "https://religionsmn.carleton.edu/exhibits/show/hmong-religiosity/hmong-shamanism/what-is-hmong-shamanism-"
       ],
-      "notes": "Исходное Kev Dab Kev Qhuas сопоставлено с обозначением Kev Dab Qhuas в статье. Статья Miao folk religion шире: общие черты разных мяо не означают, что хмонги почитают всех перечисленных богов, например Мать-Бабочку. Не alias отдельной американской церкви Hmongism. Варианты перерождения и смешанные современные практики не назначены обязательными всем."
+      "notes": "Исходное Kev Dab Kev Qhuas сопоставлено с обозначением Kev Dab Qhuas в статье. Статья Miao folk religion шире: общие черты разных мяо не означают, что хмонги почитают всех перечисленных богов, например Мать-Бабочку. Не alias отдельной американской церкви Hmongism. Варианты перерождения и смешанные современные практики не назначены обязательными всем. Уточнение профиля: EthnoMed (University of Washington/Harborview) прямо описывает возвращение душ к предкам для перерождения (+reincarnation). Материал Carleton College «What Is Hmong Shamanism?» различает шаманов, травников и kws khawv koob, применяющих магические лечебные заклинания (+occult). Это подтверждённые традиционные формы, а не требование ко всем хмонгам; варианты кланов и обращение в христианство сохраняются. Перерождение не приравнено к индийскому учению о карме, а шаманское путешествие души само по себе не кодируется как одержимость."
     }
   ]
 }

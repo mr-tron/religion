@@ -29,12 +29,13 @@
       "inheritFamilyProfile": false,
       "parent": "Уральское неоязычество",
       "description": "Современное возрождение финской дохристианской религиозной традиции с почитанием богов и предков.",
-      "profile": "+divine +many_gods +ancestors",
+      "profile": "+divine +many_gods +ancestors +nature_spirits +ritual +occult",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Finnish_neopaganism"
+        "https://en.wikipedia.org/wiki/Finnish_neopaganism",
+        "https://www.lehto-ry.org/luonnonuskonnot/suomalais-karjalainen-kansanusko/finnish-paganism-in-english/"
       ],
-      "notes": "Suomenusko, Finnish native faith и Finnish neopaganism обозначают современное движение. Не alias исторических «Финских дохристианских верований» из партии 0606–0625. У отдельных организаций различаются подходы к реконструкции."
+      "notes": "Suomenusko, Finnish native faith и Finnish neopaganism обозначают современное движение. Не alias исторических «Финских дохристианских верований» из партии 0606–0625. У отдельных организаций различаются подходы к реконструкции. Дополнение: современная финская организация природных религий Lehto в «Finnish Paganism in English» описывает душу у живых и неживых объектов (+nature_spirits), сохраняющее значение слова как магического инструмента (+occult), а в разделе о современной практике — подношения на жертвенных камнях (+ritual). Источник отдельно предупреждает об эклектических и реконструкционистских подходах; исторические сведения о шаманах, гаданиях и космологии не перенесены на всех современных участников. Каноничность «Калевалы» не предполагается."
     },
     {
       "sourceIndex": 708,
@@ -45,12 +46,13 @@
       "inheritFamilyProfile": false,
       "parent": "Тенгрианство",
       "description": "Киргизское движение, продвигающее тенгрианское мировоззрение и культурное наследие доисламского периода.",
-      "profile": "",
+      "profile": "-scripture",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Tengir_Ordo"
+        "https://en.wikipedia.org/wiki/Tengir_Ordo",
+        "https://www.rferl.org/amp/kyrgyz_religious_hatred_trial_throws_spotlight_on_ancient_creed/24469022.html"
       ],
-      "notes": "Отдельная организация Дастана Сарыгулова, а не синоним существующего «Тенгрианства». Исходник надёжнее раскрывает организационную и культурную деятельность, чем конкретные ответы участников о божествах; профиль оставлен пустым."
+      "notes": "Отдельная организация Дастана Сарыгулова, а не синоним существующего «Тенгрианства». Исходник надёжнее раскрывает организационную и культурную деятельность, чем конкретные ответы участников о божествах; профиль оставлен пустым. Дополнение: в интервью RFE/RL 2012 года основатель Tengir Ordo Дастан Сарыгулов прямо говорит, что у последователей его тенгрианского мировоззрения нет священной религиозной книги (-scripture). Отрицание опирается на прямое самоописание, а не молчание источника. Его понимание движения как образа жизни не означает автоматически nonreligious; трактовки божества у исторических тенгрианцев и других современных групп не перенесены."
     },
     {
       "sourceIndex": 709,
@@ -143,12 +145,14 @@
       "inheritFamilyProfile": false,
       "parent": "Британская традиционная викка",
       "description": "Линия Викки Алекса и Максин Сандерс, возникшая в Британии в 1960-е годы и включающая церемониальную магию и каббалистические элементы.",
-      "profile": "+divine +ritual +occult",
+      "profile": "+divine +ritual +occult +many_gods +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Alexandrian_Wicca"
+        "https://en.wikipedia.org/wiki/Alexandrian_Wicca",
+        "https://www.alexandrianwitchcraft.com/",
+        "https://alexandriantemple.com.au/coven/"
       ],
-      "notes": "Название относится к основателю Алексу Сандерсу. Отдельная линия, близкая гарднерианской Викке; сходство и преемственность не делают их точными синонимами. Праздники Sabbat не относятся к вопросу sabbath о библейской субботе."
+      "notes": "Название относится к основателю Алексу Сандерсу. Отдельная линия, близкая гарднерианской Викке; сходство и преемственность не делают их точными синонимами. Праздники Sabbat не относятся к вопросу sabbath о библейской субботе. Дополнение: публичный архив Alexandrian Witchcraft, поддерживаемый участниками традиции, описывает три степени и передачу линии через посвящение (+initiatory_brotherhood). Александрийский Southern Temple of the Mother Isis прямо почитает Богиню и Бога как оба существенных божественных начала (+many_gods; вопрос допускает разные проявления божественного). Разные имена Богини у этого ковена считаются аспектами одного начала, поэтому из списка имён не выведено обязательное число отдельных божеств для всех ковенов; доктрины соседних линий не добавлены."
     },
     {
       "sourceIndex": 715,
@@ -175,13 +179,14 @@
       "inheritFamilyProfile": false,
       "parent": "Викка",
       "description": "Американская викканская традиция с обрядами посвящения, песенной литургией и автономными ковенами.",
-      "profile": "+divine +ritual +meditation +reincarnation +occult",
+      "profile": "+divine +ritual +meditation +reincarnation +occult +many_gods +ancestors +afterlife +initiatory_brotherhood +divination_oracles",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Blue_Star_Wicca",
-        "https://bluestarfoundation.org/what-is-blue-star-wicca/"
+        "https://bluestarfoundation.org/what-is-blue-star-wicca/",
+        "https://bluestarfoundation.org/what-is-blue-star-wicca/a-brief-history-of-blue-star/about-blue-star/"
       ],
-      "notes": "Исходная статья имеет предупреждения о качестве источников; официальное описание Blue Star Foundation непосредственно подтверждает круговые обряды, почитание богов, медитацию, перерождение и эзотерические практики. Классификация как British Traditional Wicca признаётся не всеми; родителем оставлена более широкая Викка. Точная дата основания не закреплена из-за расхождений 1974/1975."
+      "notes": "Исходная статья имеет предупреждения о качестве источников; официальное описание Blue Star Foundation непосредственно подтверждает круговые обряды, почитание богов, медитацию, перерождение и эзотерические практики. Классификация как British Traditional Wicca признаётся не всеми; родителем оставлена более широкая Викка. Точная дата основания не закреплена из-за расхождений 1974/1975. Дополнение: Blue Star Foundation в собственном описании прямо перечисляет внутренний круг посвящённых и три степени (+initiatory_brotherhood), гадание среди обязательных для изучения Paths of Power (+divination_oracles), Самайн как время связи с предками (+ancestors), а также Богиню и Бога (+many_gods). Уже зафиксированная вера в перерождение предполагает продолжение существования после смерти (+afterlife). Источник допускает пожизненный статус непосвящённого Dedicant: посвящение важно для устройства традиции, но не обязательно для каждого участника; триединую отдачу не приравняли к общеиндийской карме."
     },
     {
       "sourceIndex": 717,
@@ -192,7 +197,7 @@
       "inheritFamilyProfile": false,
       "parent": "Викка",
       "description": "Совокупность инициатических викканских традиций, объединяемых линиями посвящения и общим ритуальным наследием.",
-      "profile": "+ritual +occult",
+      "profile": "+ritual +occult +initiatory_brotherhood",
       "proposedQuestions": [
         {
           "id": "initiatory_brotherhood",
@@ -210,9 +215,10 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/British_Traditional_Wicca"
+        "https://en.wikipedia.org/wiki/British_Traditional_Wicca",
+        "https://wiccanrede.org/2016/01/the-guild-structure-of-british-traditional-wicca/"
       ],
-      "notes": "Исходная ссылка перенаправляет на общую статью Wicca, но её разделы явно выделяют British Traditional Wicca как более узкую категорию, включая гарднерианскую и александрийскую линии. Поэтому это не alias всей существующей записи «Викка». Границы включения некоторых американских традиций обсуждаются."
+      "notes": "Исходная ссылка перенаправляет на общую статью Wicca, но её разделы явно выделяют British Traditional Wicca как более узкую категорию, включая гарднерианскую и александрийскую линии. Поэтому это не alias всей существующей записи «Викка». Границы включения некоторых американских традиций обсуждаются. Дополнение: Deb Snavely в профильном журнале практиков Wiccan Rede, «The Guild Structure of British Traditional Wicca» (2016), непосредственно описывает первую степень как вступительное посвящение и последующие степени (+initiatory_brotherhood). Это характеристика самой инициатической категории, а не перенос богословия одного ковена на всю Викку; существующий proposedQuestion сохранён."
     },
     {
       "sourceIndex": 718,
@@ -223,13 +229,15 @@
       "inheritFamilyProfile": false,
       "parent": "Викка",
       "description": "Современные варианты Викки, включающие кельтские имена божеств, мифологию и праздники в викканскую ритуальную систему.",
-      "profile": "+divine +ritual +occult",
+      "profile": "+divine +ritual +occult +many_gods",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Celtic_Wicca",
-        "https://cog.org/about-witchcraft/traditions"
+        "https://cog.org/about-witchcraft/traditions",
+        "https://link.springer.com/chapter/10.1007/978-3-030-15549-0_5",
+        "https://www.scribd.com/document/423716829/Magic-and-Witchery-in-the-Modern-West"
       ],
-      "notes": "Не единая организация и не историческая религия кельтов. Не alias друидизма, кельтского реконструкционизма или всего кельтского неоязычества. Covenant of the Goddess отдельно перечисляет Celtic среди современных колдовских традиций."
+      "notes": "Не единая организация и не историческая религия кельтов. Не alias друидизма, кельтского реконструкционизма или всего кельтского неоязычества. Covenant of the Goddess отдельно перечисляет Celtic среди современных колдовских традиций. Дополнение: Jenny Butler, «The Nearest Kin of the Moon: Irish Pagan Witchcraft, Magic(k), and the Celtic Twilight» (2019), с. 100–101, приводит полевое интервью с ковеном, самоопределяющимся как Celtic Wicca и почитающим ирландских и валлийских божеств (+many_gods). Издательская страница подтверждает исследование; текст соответствующего фрагмента доступен в копии книги. Это засвидетельствованная политеистическая форма внутри категории, а не доказательство единого пантеона или обрядов посвящения всех кельтских виккан."
     },
     {
       "sourceIndex": 719,

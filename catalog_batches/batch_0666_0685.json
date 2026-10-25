@@ -13,7 +13,7 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Религиозная община Род-Айленда, использующая каннабис как священное растение в обрядах.",
-      "profile": "+ritual",
+      "profile": "+ritual +divine +scripture +jesus +personal +icons",
       "proposedQuestions": [
         {
           "id": "entheogenic_ritual",
@@ -27,9 +27,11 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Healing_Church_in_Rhode_Island"
+        "https://en.wikipedia.org/wiki/Healing_Church_in_Rhode_Island",
+        "https://motifri.com/in-god-we-trust/",
+        "https://www.govinfo.gov/content/pkg/USCOURTS-rid-1_16-cv-00403/pdf/USCOURTS-rid-1_16-cv-00403-0.pdf"
       ],
-      "notes": "Источник подтверждает конкретную организацию и богослужебное употребление растения. Само название Church не доказывает христианской догматики; дополнительные признаки не выведены из него. Сведения о споре вокруг разрешённости практики не используются как оценка религиозной искренности."
+      "notes": "Источник подтверждает конкретную организацию и богослужебное употребление растения. Само название Church не доказывает христианской догматики; дополнительные признаки не выведены из него. Сведения о споре вокруг разрешённости практики не используются как оценка религиозной искренности. Уточнение профиля: Интервью основателей Anne Armstrong и Alan Gordon, «High Society: In God We Trust» (Motif, 20.05.2015), содержит их прямое самоописание: божественное происхождение и YHWH (+divine), Библия как основание веры (+scripture), Иисус-Мессия и Его воскресение (+jesus), благодарственные молитвы (+personal). Судебный документ Armstrong v. Kilmartin, 17.05.2017, с. 4–5, описывает особую роль изображения Гваделупской Богоматери в их практике (+icons). Самоназвание не использовано как доказательство канонической связи с Римом или признания папы; спорная ботаническая трактовка Библии остаётся убеждением общины."
     },
     {
       "sourceIndex": 667,
@@ -54,9 +56,10 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Neo-American_Church"
+        "https://en.wikipedia.org/wiki/Neo-American_Church",
+        "https://okneoac.org/"
       ],
-      "notes": "Исходная статья называет Original Kleptonian Neo-American Church и тексты Boo Hoo Bible и Millbrook. Сатирическая форма не отменяет существования организации. Не путать с Native American Church; общая практика энтеогенов не означает синонимии."
+      "notes": "Исходная статья называет Original Kleptonian Neo-American Church и тексты Boo Hoo Bible и Millbrook. Сатирическая форма не отменяет существования организации. Не путать с Native American Church; общая практика энтеогенов не означает синонимии. Уточнение профиля: Собственный сайт Neo-American Church определяет просветление как осознание жизни в качестве сна и называет Millbrook (редакция 2005 года) актуальным руководством, а Boo Hoo Bible — историческим, устаревшим текстом. Это подтверждает особую литературную традицию, но не обосновывает новые ответы: солипсизм не приравнен к naturalism, humanism или pantheism. Употребление энтеогенов само по себе не принято за occult; существующий профиль не расширен."
     },
     {
       "sourceIndex": 668,
@@ -67,7 +70,7 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Бразильская религиозная традиция с христианскими мотивами, гимнами и обрядовым употреблением дайме.",
-      "profile": "+divine +jesus +ritual +meditation",
+      "profile": "+divine +jesus +ritual +meditation +scripture +revelation +personal +afterlife",
       "proposedQuestions": [
         {
           "id": "entheogenic_ritual",
@@ -84,9 +87,12 @@
         "https://en.wikipedia.org/wiki/Santo_Daime",
         "https://www.santodaime.org/institucional/producao-e-distribuicao-do-santo-daime/historico",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC8129555/",
-        "https://santodaime.ca/"
+        "https://santodaime.ca/",
+        "https://hinos.santodaime.org/english-frontpage",
+        "https://santodaime.ca/the-hymns",
+        "https://santodaime.com/blog/rituais/santa-missa/"
       ],
-      "notes": "Исходная ссылка не открылась при повторной попытке. Официальный материал и академическое исследование подтверждают сакрамент, христианскую символику, гимны и ритуалы концентрации. Внутренние линии различаются; весь набор афробразильских практик одной ветви не перенесён на всех. Не синоним União do Vegetal."
+      "notes": "Исходная ссылка не открылась при повторной попытке. Официальный материал и академическое исследование подтверждают сакрамент, христианскую символику, гимны и ритуалы концентрации. Внутренние линии различаются; весь набор афробразильских практик одной ветви не перенесён на всех. Не синоним União do Vegetal. Уточнение профиля: Официальный архив ICEFLU называет hinários основным собранием учений и ядром доктрины (+scripture); община Céu do Montréal описывает полученные гимны как священные прямые передачи из духовного мира (+revelation). Описание Santa Missa общины Céu do Gamarra фиксирует «Отче наш», молитвы за развоплощённые души и их просветление (+personal, +afterlife). Это подтверждённые формы традиции; все медиумические и афробразильские особенности отдельных линий не обобщены. Католическое название мессы не доказывает исторической церковной преемственности."
     },
     {
       "sourceIndex": 669,
@@ -97,7 +103,7 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Американская организация, почитающая психоделические вещества как плоть Бога и употребляющая их в религиозной практике.",
-      "profile": "+divine +ritual",
+      "profile": "+divine +ritual +scripture +jesus",
       "proposedQuestions": [
         {
           "id": "entheogenic_ritual",
@@ -112,9 +118,12 @@
       ],
       "sources": [
         "https://en.wikipedia.org/wiki/Temple_of_the_True_Inner_Light",
-        "https://ttil.org/"
+        "https://ttil.org/",
+        "https://ttil.org/Writings/index.html",
+        "https://ttil.org/Crucifixion/index.html",
+        "https://ttil.org/membership.html"
       ],
-      "notes": "Исходная статья имеет проблемы оформления ссылок; основной тезис проверен по собственному сайту ttil.org. Вещество считается проявлением божественного, а не только средством его восприятия. Общее происхождение из психоделической среды не делает храм синонимом Неоамериканской церкви."
+      "notes": "Исходная статья имеет проблемы оформления ссылок; основной тезис проверен по собственному сайту ttil.org. Вещество считается проявлением божественного, а не только средством его восприятия. Общее происхождение из психоделической среды не делает храм синонимом Неоамериканской церкви. Уточнение профиля: Собственный раздел «Religious Writings and Scriptures» публикует храмовую литературу и священные тексты (+scripture); «The Crucifixion Was Not Physical» подробно истолковывает слова Иисуса и причастие, а условия членства называют храм истинным Телом Христа (+jesus). Это собственная синкретическая интерпретация, не свидетельство православного или католического понимания распятия и таинств. Разделы с Кораном и другими текстами не означают автоматического принятия всех соответствующих религиозных доктрин."
     },
     {
       "sourceIndex": 670,
@@ -125,7 +134,7 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Основанное Роджером Кристи движение с каннабисом как сакраментом.",
-      "profile": "+divine +ritual",
+      "profile": "+divine +ritual +personal +meditation",
       "proposedQuestions": [
         {
           "id": "entheogenic_ritual",
@@ -139,9 +148,10 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/THC_Ministry"
+        "https://en.wikipedia.org/wiki/THC_Ministry",
+        "https://www.thc-ministry.org/images/thcministry.brochure.pdf"
       ],
-      "notes": "Описаны религиозная практика и обращение к Богу. Собственные гипотезы движения о каннабисе в древних религиях не приняты за проверенные исторические факты. Не синоним всех каннабисных церквей."
+      "notes": "Описаны религиозная практика и обращение к Богу. Собственные гипотезы движения о каннабисе в древних религиях не приняты за проверенные исторические факты. Не синоним всех каннабисных церквей. Уточнение профиля: Собственная брошюра THC Ministry, раздел «Our Beliefs», прямо называет молитву, медитацию и богопочитание и приводит обращённую к Богу просьбу показать благословения в ситуации (+personal, +meditation). Эти признаки взяты из практик самой организации. Её исторические утверждения о древнем помазании и лечебные обещания не признаны установленными фактами; не назначены догматы всех религий, перечисленных в её универсалистском самоописании."
     },
     {
       "sourceIndex": 671,
@@ -152,7 +162,7 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Бразильская религия Местре Габриэла с учением о духовном развитии и ритуальным употреблением хоаски.",
-      "profile": "+divine +reincarnation +ritual",
+      "profile": "+divine +reincarnation +ritual +jesus +afterlife +revelation",
       "proposedQuestions": [
         {
           "id": "entheogenic_ritual",
@@ -167,9 +177,11 @@
       ],
       "sources": [
         "https://en.wikipedia.org/wiki/Uni%C3%A3o_do_Vegetal",
-        "https://udv.org.br/en/principles/"
+        "https://udv.org.br/en/principles/",
+        "https://udv.org.br/en/religious-ritual/doutrina-reencarnacionista/",
+        "https://udv.org.br/en/blog-en/udv-revelation-and-principles/"
       ],
-      "notes": "Официальные принципы прямо определяют религию как христианскую и реинкарнационную и подтверждают роль хоаски в обрядах. Это самоописание, а не основание автоматически назначать Троицу или исторические церковные таинства. Медицинские утверждения сайта не включены в профиль."
+      "notes": "Официальные принципы прямо определяют религию как христианскую и реинкарнационную и подтверждают роль хоаски в обрядах. Это самоописание, а не основание автоматически назначать Троицу или исторические церковные таинства. Медицинские утверждения сайта не включены в профиль. Уточнение профиля: Официальный текст «Reincarnationist Doctrine» называет Иисуса спасителем человечества и Его слова основой устного обучения (+jesus), а также описывает дух, продолжающий путь через последовательные воплощения (+afterlife). «UDV: Revelation and Principles» (2022) прямо относит основание движения Местре Габриэлом к божественному откровению (+revelation). Устная передача не превращена в обязательный письменный канон; общее и всеобщее новое откровение, Троица и центральность исторических церковных таинств отдельно не установлены."
     },
     {
       "sourceIndex": 672,
@@ -180,12 +192,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Семейство общин северной Индии, связанных с Адвайтанандом и Сварупанандом.",
-      "profile": "",
+      "profile": "+divine +meditation +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Advait_Mat"
+        "https://en.wikipedia.org/wiki/Advait_Mat",
+        "https://www.shrianandpur.org/feedback"
       ],
-      "notes": "Источник подтверждает конкретную преемственность Paramhans Advait Mat и сеть ашрамов, но мало сообщает о различительных верованиях. Не alias всей адвайта-веданты или Сант Мат. Профиль оставлен пустым, без наследования догматики по названию."
+      "notes": "Источник подтверждает конкретную преемственность Paramhans Advait Mat и сеть ашрамов, но мало сообщает о различительных верованиях. Не alias всей адвайта-веданты или Сант Мат. Профиль оставлен пустым, без наследования догматики по названию. Уточнение профиля: Собственный сайт Shri Anandpur, представляющий Shri Paramhans Advait Mat, прямо определяет целью единение души с Параматманом посредством surat-shabd-yoga (+divine), описывает посвящение ищущих и обучение sumiran-dhyan (+initiatory_brotherhood, +meditation). Это свидетельство живой линии Анандпура в составе названного движения; оно не подтверждает полную одинаковость всех связанных ашрамов. Веды, философская доктрина адвайта-веданты и отрицание обрядов не назначены по одному названию Advait."
     },
     {
       "sourceIndex": 673,
@@ -196,13 +209,15 @@
       "inheritFamilyProfile": false,
       "parent": "Экканкар",
       "description": "Движение Дарвина Гросса, продолжающее определённую интерпретацию учений Пола Твитчелла.",
-      "profile": "+divine +afterlife",
+      "profile": "+divine +afterlife +personal +initiatory_brotherhood +meditation",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Ancient_Teachings_of_the_Masters",
-        "https://atom.org/"
+        "https://atom.org/",
+        "https://atom.org/blogs/news/show-me-thy-ways",
+        "https://bdbalibrary.weebly.com/uploads/1/7/5/9/17596003/encyclopedia_of_new_religious_movements.pdf"
       ],
-      "notes": "Исходная статья оспариваемые биографические обвинения не используется для профиля. Собственный сайт подтверждает путь к Богу и бессмертную душу. Организационное отделение от Экканкара означает отдельную ветвь, несмотря на заявление о сохранении исходного учения."
+      "notes": "Исходная статья оспариваемые биографические обвинения не используется для профиля. Собственный сайт подтверждает путь к Богу и бессмертную душу. Организационное отделение от Экканкара означает отдельную ветвь, несмотря на заявление о сохранении исходного учения. Уточнение профиля: Собственная публикация ATOM «Spread Your Wings» говорит, что к Духу можно обратиться за руководством и получить ответ (+personal). Статья «Ancient Teachings of the Masters» в Encyclopedia of New Religious Movements (ред. Peter B. Clarke, 2006), с. 33, описывает ежедневную медитацию как основную дисциплину и ступени посвящений после изучения ежемесячных уроков (+meditation, +initiatory_brotherhood). Эти сведения относятся к ATOM: нынешний профиль Экканкара и все его практики не наследуются автоматически; заявления о древности мастеров не выданы за проверенную историю."
     },
     {
       "sourceIndex": 674,
@@ -213,12 +228,13 @@
       "inheritFamilyProfile": false,
       "parent": "Радха-соами",
       "description": "Индийское духовное движение с наставничеством гуру, медитацией и этическими предписаниями.",
-      "profile": "+meditation -ritual",
+      "profile": "+meditation -ritual +divine +personal",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Dera_Sacha_Sauda"
+        "https://en.wikipedia.org/wiki/Dera_Sacha_Sauda",
+        "https://www.derasachasauda.org/"
       ],
-      "notes": "Раздел Teachings подтверждает Surat Shabd Yoga, Naam-Shabad и отказ от ритуализма. Скандалы вокруг руководителей не использованы как религиозные признаки. Символы разных религий на собраниях не доказывают принятия всех соответствующих догматов."
+      "notes": "Раздел Teachings подтверждает Surat Shabd Yoga, Naam-Shabad и отказ от ритуализма. Скандалы вокруг руководителей не использованы как религиозные признаки. Символы разных религий на собраниях не доказывают принятия всех соответствующих догматов. Уточнение профиля: Собственный сайт DSS описывает высшую созидающую силу, пребывающую внутри человека (+divine), и формулу Dhan Dhan Satguru Tera Hi Asra как обращение к Всевышнему с упованием на Его помощь (+personal). Приведённые Om, Allah, Waheguru и Ram названы организацией именами высшего начала; из этого не выведено принятие всех догматов названных религий. Социальное служение не приравнено к нерелигиозному гуманизму, а обещания медицинского эффекта медитации не используются."
     },
     {
       "sourceIndex": 675,
@@ -229,12 +245,14 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Движение Пола Твитчелла с учением о душе, ЭКК, внутреннем свете и звуке.",
-      "profile": "+divine +scripture +karma +reincarnation +afterlife",
+      "profile": "+divine +scripture +karma +reincarnation +afterlife +one_god +personal +liberation +meditation +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Eckankar"
+        "https://en.wikipedia.org/wiki/Eckankar",
+        "https://www.eckankar.org/explore/faqs/",
+        "https://www.eckankar.org/engage/advanced-spiritual-living/eck-initiations/"
       ],
-      "notes": "Исходная статья подтверждает Shariyat-Ki-Sugmad, карму и перерождение. Историческая достоверность заявляемой древней преемственности мастеров обсуждается; она не превращена в установленный факт. Связи с Радха-соами и другими движениями не доказывают тождества."
+      "notes": "Исходная статья подтверждает Shariyat-Ki-Sugmad, карму и перерождение. Историческая достоверность заявляемой древней преемственности мастеров обсуждается; она не превращена в установленный факт. Связи с Радха-соами и другими движениями не доказывают тождества. Уточнение профиля: Официальный FAQ прямо утверждает одного высшего Творца (+one_god), допускает просьбы и вопросы Богу (+personal), описывает освобождение от кармы и перерождений (+liberation) и ежедневные созерцательные Spiritual Exercises (+meditation). Страница «ECKANKAR Initiations» подтверждает значимые ступени посвящения (+initiatory_brotherhood). Собственное предпочтительное слово contemplation сохранено: это активная созерцательная практика, а не автоматически любая техника медитации. Духовные мастера не посчитаны множеством богов; почтительное упоминание Иисуса и Будды не превращено в их центральность."
     },
     {
       "sourceIndex": 676,
@@ -245,12 +263,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Организации, поддерживавшие распространение учения и выступлений Према Равата.",
-      "profile": "",
+      "profile": "+meditation",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Elan_Vital_(organization)"
+        "https://en.wikipedia.org/wiki/Elan_Vital_(organization)",
+        "https://www.bethanyipcmm.org/wp-content/uploads/2020/10/Religions-of-the-World.pdf"
       ],
-      "notes": "Сохраняется организационная запись, а не автоматически отдельная религия. Статья описывает преемство американской Divine Light Mission после переименования и отказ от прежнего религиозного оформления. Разные организации и периоды не дают единого богословского профиля; свойства Сант Мат не наследуются."
+      "notes": "Сохраняется организационная запись, а не автоматически отдельная религия. Статья описывает преемство американской Divine Light Mission после переименования и отказ от прежнего религиозного оформления. Разные организации и периоды не дают единого богословского профиля; свойства Сант Мат не наследуются. Уточнение профиля: Статья «Elan Vital/Divine Light Mission» в Religions of the World: A Comprehensive Encyclopedia of Beliefs and Practices отдельно описывает четыре техники медитации Knowledge и их сохранение в Elan Vital после организационного переустройства (+meditation). Это признак распространяемого практического обучения, не единое исповедание всех организаций или участников. Отказ от религиозного оформления не означает индивидуального атеизма; прежнее обожествление гуру и принадлежность к Сант Мат не перенесены в поздний профиль."
     },
     {
       "sourceIndex": 677,
@@ -261,13 +280,14 @@
       "inheritFamilyProfile": false,
       "parent": "Радха-соами",
       "description": "Центр Бабы Факира Чанда в Хошиарпуре с учением о человечности и духовной практике.",
-      "profile": "+meditation",
+      "profile": "+meditation +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Manavta_Mandir",
-        "https://manavtamandir.com/books/english/Manavta.pdf"
+        "https://manavtamandir.com/books/english/Manavta.pdf",
+        "https://www.scribd.com/document/412860706/nam-dan"
       ],
-      "notes": "Статья о храме и организации, а не независимой мировой религии. Связь с Факиром Чандом подтверждена; собственная публикация Manavta описывает ежедневные Sumiran и Dhyan. Социальная помощь не приравнена нерелигиозному гуманизму, а изображения гуру не автоматически церковным иконам."
+      "notes": "Статья о храме и организации, а не независимой мировой религии. Связь с Факиром Чандом подтверждена; собственная публикация Manavta описывает ежедневные Sumiran и Dhyan. Социальная помощь не приравнена нерелигиозному гуманизму, а изображения гуру не автоматически церковным иконам. Уточнение профиля: Собственная публикация Факира Чанда «Nam-Dan or Spiritual Initiation» (Faqir Library Charitable Trust, Manavta Mandir, английское издание 1980) объясняет посвящение и передачу наставлений для внутренней практики (+initiatory_brotherhood). Документ подтверждает конкретную передачу в этой линии, а не общие свойства всех Радха-соами. Высказывания основателя о незнании и отличия поздних наставников не сведены к единому ответу о теизме, агностицизме или обязательном культе гуру."
     },
     {
       "sourceIndex": 678,
@@ -278,13 +298,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Американское движение Джона-Роджера с практиками духовных упражнений и трансценденции души.",
-      "profile": "+divine +karma +reincarnation +liberation +meditation",
+      "profile": "+divine +karma +reincarnation +liberation +meditation +personal +afterlife +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Movement_of_Spiritual_Inner_Awareness",
-        "https://www.msia.org/key-teachings"
+        "https://www.msia.org/key-teachings",
+        "https://www.msia.org/prayer-list",
+        "https://www.msia.org/initiation_information"
       ],
-      "notes": "Собственный сайт подтверждает Бога, карму и освобождение от цикла воплощений; исходная статья — медитативные Spiritual Exercises. «Сознание Христа» и заимствования из разных традиций не превращены автоматически в Троицу или тождество Экканкару."
+      "notes": "Собственный сайт подтверждает Бога, карму и освобождение от цикла воплощений; исходная статья — медитативные Spiritual Exercises. «Сознание Христа» и заимствования из разных традиций не превращены автоматически в Троицу или тождество Экканкару. Уточнение профиля: Официальная страница «Prayer List | Sending the Light» определяет практику как прямую молитву Богу (+personal). «Initiation into the Sound Current» прямо называет посвящение центральным для MSIA (+initiatory_brotherhood) и описывает душу, существовавшую до земного воплощения и возвращающуюся в свою духовную область (+afterlife). Передача Light в молитве не считается подтверждением передачи через руки; посвящение через Mystical Traveler также не приравнено к одержимости. Христианские термины не использованы для автоматической Троицы."
     },
     {
       "sourceIndex": 679,
@@ -295,12 +317,15 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Направление индийской духовности с живым гуру и практикой медитации Surat Shabd Yoga.",
-      "profile": "+meditation",
+      "profile": "+meditation +divine +one_god +karma +reincarnation +liberation +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Radha_Soami"
+        "https://en.wikipedia.org/wiki/Radha_Soami",
+        "https://academic.oup.com/reference/62357/reference-article-abstract/554516588",
+        "https://nomadit.co.uk/conference/ecsas2014/paper/18543",
+        "https://egyankosh.ac.in/bitstream/123456789/27569/1/Unit-25.pdf"
       ],
-      "notes": "Зонтичное движение с несколькими линиями преемства. Беас, Даялбагх, Динод и другие организации не считаются его полными синонимами. Источник прямо подтверждает медитацию и роль живого наставника; одинаковый профиль всех ветвей не наследуется."
+      "notes": "Зонтичное движение с несколькими линиями преемства. Беас, Даялбагх, Динод и другие организации не считаются его полными синонимами. Источник прямо подтверждает медитацию и роль живого наставника; одинаковый профиль всех ветвей не наследуется. Уточнение профиля: Обзор Juergensmeyer и Lane «Radhasoami Tradition» (Oxford Bibliographies, 2018) и исследование Diana Dimitrova «Divinization in the Radhasoami Tradition» (2014) описывают божественное начало и единого бесформенного Бога (+divine, +one_god). Учебный материал IGNOU «Radhasoami Satsang», Unit 25, объясняет карму, перевоплощение, освобождение от переселений и посвящение в Naam (+karma, +reincarnation, +liberation, +initiatory_brotherhood). Это непосредственно рассмотренные общие темы движения, не профиль одной ветви, перенесённый на остальных. Формы почитания гуру, обряды и самостоятельные догматы отдельных преемственных линий остаются различными."
     },
     {
       "sourceIndex": 680,
@@ -311,14 +336,14 @@
       "inheritFamilyProfile": false,
       "parent": "Радха-соами",
       "description": "Самостоятельная организация в традиции Радха-соами с живым учителем и ежедневной медитацией.",
-      "profile": "+divine +one_god +meditation -ritual",
+      "profile": "+divine +one_god +meditation -ritual +karma +reincarnation +liberation +afterlife +initiatory_brotherhood +ahimsa -entheogenic_ritual",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Radha_Soami_Satsang_Beas",
         "https://rssb.org/index.html",
         "https://rssb.org/faqs.html"
       ],
-      "notes": "Исходный URL не открылся; собственные сайт и FAQ подтверждают единого Бога, медитацию и отказ от обязательных обрядов. Организация прямо отделяет себя от других движений с именем Radha Soami. Текущие имена руководителей не использованы как постоянные признаки."
+      "notes": "Исходный URL не открылся; собственные сайт и FAQ подтверждают единого Бога, медитацию и отказ от обязательных обрядов. Организация прямо отделяет себя от других движений с именем Radha Soami. Текущие имена руководителей не использованы как постоянные признаки. Уточнение профиля: Официальный RSSB FAQ, разделы Initiation и Karma Theory, прямо описывает посвящение в Shabd (+initiatory_brotherhood), нравственную причинность (+karma), повторные рождения (+reincarnation) и конечное освобождение души (+liberation, +afterlife). Раздел о питании обосновывает обязательное вегетарианство отказом от прямого и косвенного лишения жизни (+ahimsa). Обеты прямо исключают алкоголь, изменяющие сознание наркотики и каннабиноиды (-entheogenic_ritual). Это требования именно RSSB; их нельзя переносить на все Радха-соами. Утверждения сайта о здоровье и лечении не входят в профиль, а уважение чужих религиозных обычаев не отменяет собственных обетов."
     },
     {
       "sourceIndex": 681,
@@ -329,15 +354,17 @@
       "inheritFamilyProfile": false,
       "parent": "Радха-соами",
       "description": "Ветвь Радха-соами с центром в Даялбагхе и духовной практикой Surat-Sabda-Yog.",
-      "profile": "+divine +meditation +scripture",
+      "profile": "+divine +meditation +scripture +personal +one_god +reincarnation +liberation +afterlife +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Radha_Soami_Satsang_Sabha",
         "https://www.dayalbagh.org.in/",
         "https://www.dayalbagh.org.in/radhasoami-faith/faith-propagation.htm",
-        "https://www.dei.ac.in/dei/index.php?Itemid=110&catid=25%3Aabout-dayalbagh&id=90%3Acommunity-life-at-dayalbagh&option=com_content&view=article"
+        "https://www.dei.ac.in/dei/index.php?Itemid=110&catid=25%3Aabout-dayalbagh&id=90%3Acommunity-life-at-dayalbagh&option=com_content&view=article",
+        "https://www.dayalbagh.org.in/radhasoami-faith/basic-concepts.htm",
+        "https://www.dayalbagh.org.in/radhasoami-faith/surat-sabda-yog.htm"
       ],
-      "notes": "Dayagbal в исходном имени — неточное написание Dayalbagh; ссылка ведёт на соответствующую Sabha. Собственный сайт подтверждает медитацию, Бога и священную литературу; институт Даялбагха подтверждает местонахождение штаб-квартиры. Не путать с отдельным центром Soami Bagh в Агре или Беасом."
+      "notes": "Dayagbal в исходном имени — неточное написание Dayalbagh; ссылка ведёт на соответствующую Sabha. Собственный сайт подтверждает медитацию, Бога и священную литературу; институт Даялбагха подтверждает местонахождение штаб-квартиры. Не путать с отдельным центром Soami Bagh в Агре или Беасом. Дополнение: официальный раздел Basic Concepts прямо утверждает единого Верховного Творца, бессмертие души, освобождение от цикла рождений и необходимость посвящения живым Сант Сатгуру (one_god, afterlife, reincarnation, liberation, initiatory_brotherhood). Surat-Sabda-Yog описывает милосердного Бога как Отца и Мать и его личную благодать (personal). Эти основания взяты у Даялбагха, а не у соседних ветвей; единство сущности души и Бога не приравнено единству всей вселенной с Богом."
     },
     {
       "sourceIndex": 682,
@@ -348,14 +375,17 @@
       "inheritFamilyProfile": false,
       "parent": "Радха-соами",
       "description": "Центр и линия Радха-соами в Диноде, основанные Тара Чандом.",
-      "profile": "+divine +meditation +reincarnation +liberation +afterlife",
+      "profile": "+divine +meditation +reincarnation +liberation +afterlife +personal +scripture +revelation +bhakti +initiatory_brotherhood +karma -ritual",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Radha_Swami_Satsang,_Dinod",
         "https://www.radhaswamidinod.org/",
-        "https://www.radhaswamidinod.org/meditation.html"
+        "https://www.radhaswamidinod.org/meditation.html",
+        "https://www.radhaswamidinod.org/faq.html",
+        "https://www.radhaswamidinod.org/radhaswami-faith.html",
+        "https://www.radhaswamidinod.org/discourse.html"
       ],
-      "notes": "Исходная статья имеет предупреждения об источниках, поэтому профиль проверен по собственному сайту Динода: медитация описана как путь освобождения от перерождений, а живой мастер — как проводник. Различия с Беасом и Даялбагхом не заменены общей синонимией."
+      "notes": "Исходная статья имеет предупреждения об источниках, поэтому профиль проверен по собственному сайту Динода: медитация описана как путь освобождения от перерождений, а живой мастер — как проводник. Различия с Беасом и Даялбагхом не заменены общей синонимией. Дополнение: официальный FAQ ссылается на «Сарбачан» как священную книгу и раскрывает условия посвящения; Radhaswami Faith основывает учение на наставлениях воплотившегося Верховного Существа, любви к нему и нравственных последствиях поступков при новом рождении (scripture, revelation, bhakti, karma, initiatory_brotherhood). Discourse предписывает искреннюю молитву (personal). Там же прямо сказано, что внешние обряды не предписаны (-ritual); посвящение и внутренняя практика при этом сохраняются. Эти самоописания проверены на сайте Динода; слово scientific не принимается за первенство обычного научного метода."
     },
     {
       "sourceIndex": 683,
@@ -366,12 +396,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Индийская религиозная традиция почитания гуру Равидаса с собственными общинами и священной литературой.",
-      "profile": "+divine +one_god +scripture",
+      "profile": "+divine +one_god +scripture +personal +bhakti +meditation +reincarnation +liberation +karma +afterlife",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Ravidassia"
+        "https://en.wikipedia.org/wiki/Ravidassia",
+        "https://www.shrigururavidasji.com/site/articles_books/ravidasji/ravidas_a_b_amritbani.php"
       ],
-      "notes": "Источник различает современную самостоятельную идентичность, объявленную в 2010 году, и общины, сохраняющие сикхские практики. Amritbani Guru Ravidass Ji подтверждена, но -guru_granth не назначен всем последователям. Не alias сикхизма и не тождество одноимённой кастовой категории."
+      "notes": "Источник различает современную самостоятельную идентичность, объявленную в 2010 году, и общины, сохраняющие сикхские практики. Amritbani Guru Ravidass Ji подтверждена, но -guru_granth не назначен всем последователям. Не alias сикхизма и не тождество одноимённой кастовой категории. Дополнение: опубликованная общиной «Амритбани» содержит обращения к Богу, призывы к преданности и медитации имени, учение о круге рождения, смерти и перерождения и избавлении от него (personal, bhakti, meditation, reincarnation, liberation, afterlife). Образы жатвы посеянного и последствий поступков подтверждают karma. Основание — авторитетный текст самой традиции, а не перенос всего сикхского или индуистского профиля; отношение разных общин к Гуру Грантх Сахибу не унифицировано."
     },
     {
       "sourceIndex": 684,
@@ -382,12 +413,15 @@
       "inheritFamilyProfile": false,
       "parent": "Радха-соами",
       "description": "Духовная школа Кирпала Сингха с наставничеством и медитацией на внутренний свет и звук.",
-      "profile": "+divine +meditation",
+      "profile": "+divine +meditation +personal +karma +reincarnation +liberation +afterlife +ahimsa +initiatory_brotherhood -icons",
       "proposedQuestions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/Kirpal_Singh"
+        "https://en.wikipedia.org/wiki/Kirpal_Singh",
+        "https://www.ruhanisatsangusa.org/seeker.htm",
+        "https://www.ruhanisatsangusa.org/gemsqa.htm",
+        "https://www.ruhanisatsangusa.org/knowthy.htm"
       ],
-      "notes": "Исходная ссылка о Кирпале Сингхе, но содержит отдельный раздел об основанной им Ruhani Satsang и непосредственно описывает учение о медитации. Не синоним любой поздней организации его учеников и не автоматическое тождество Science of Spirituality."
+      "notes": "Исходная ссылка о Кирпале Сингхе, но содержит отдельный раздел об основанной им Ruhani Satsang и непосредственно описывает учение о медитации. Не синоним любой поздней организации его учеников и не автоматическое тождество Science of Spirituality. Дополнение: обязательные Instructions for Seekers after Truth Кирпала Сингха предписывают ахимсу в мыслях, словах и делах и посвящение; Questions & Answers разъясняет карму, повторные рождения и их преодоление (ahimsa, initiatory_brotherhood, karma, reincarnation, liberation, afterlife). Man! Know Thyself допускает общение с Богом и прямо запрещает привязываться к внешним изображениям мастеров, оставляя им лишь функцию узнавания и памяти (personal, -icons). Это учение основателя Рухани Сатсанг; оно не приписано автоматически всем организациям его учеников."
     },
     {
       "sourceIndex": 685,
@@ -398,13 +432,16 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Международная духовная организация с практикой медитации на внутренний свет и звук и наставничеством Раджиндера Сингха.",
-      "profile": "+divine +meditation",
+      "profile": "+divine +meditation +personal +afterlife +initiatory_brotherhood",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Science_of_Spirituality",
-        "https://sos.org/"
+        "https://sos.org/",
+        "https://sos.org/spirituality/spiritual-awareness/",
+        "https://www.sos.org/tour/Flyer_Linz.pdf",
+        "https://sangat.sos.org/Portals/0/SOSLocator/EventBrochures/92/Meditation%20workshop%20brochure%20-%20Mississauga%2C%20Brampton%2C%20Markham.pdf"
       ],
-      "notes": "Собственный сайт подтверждает название, духовную цель и практику; в Индии организация связана с названием Sawan Kirpal Ruhani Mission. Общая линия Кирпала Сингха не означает организационного тождества всей Ruhani Satsang. Слово Science не означает +scientific в смысле научного натурализма."
+      "notes": "Собственный сайт подтверждает название, духовную цель и практику; в Индии организация связана с названием Sawan Kirpal Ruhani Mission. Общая линия Кирпала Сингха не означает организационного тождества всей Ruhani Satsang. Слово Science не означает +scientific в смысле научного натурализма. Дополнение: официальный Spiritual Awareness утверждает сохранение души после смерти тела (afterlife); собственные программы организации предлагают посвящение в медитацию света и звука (initiatory_brotherhood). Прямая формула Раджиндера Сингха о молитве как разговоре с Богом подтверждает personal. Публичное обучение медитации не означает, что все посетители посвящены; учение других организаций линии Кирпала не перенесено."
     }
   ]
 }
