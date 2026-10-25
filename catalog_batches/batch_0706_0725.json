@@ -283,13 +283,13 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Американское неоязыческое движение, связанное с Обероном Зеллом, мифологией Геи и ритуалом совместного разделения воды.",
-      "profile": "+divine +ritual",
+      "profile": "+divine +ritual +occult",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Church_of_All_Worlds",
         "https://caw.org/about/"
       ],
-      "notes": "Исходник предупреждает о нехватке ссылок и устаревших сведениях; описание сверено с официальной страницей организации. Она прямо подчёркивает разнообразие личных верований и общую идею имманентной божественности. Не alias Церкви Вселенной, которая является отдельным канадским движением."
+      "notes": "Исходник предупреждает о нехватке ссылок и устаревших сведениях; описание сверено с официальной страницей организации. Она прямо подчёркивает разнообразие личных верований и общую идею имманентной божественности. Не alias Церкви Вселенной, которая является отдельным канадским движением. Дополнение: официальная страница About CAW прямо описывает личные магические практики членов (+occult). Разнообразие убеждений оговорено самим источником; имманентная божественность не использована для назначения всем пантеизма или определённого числа богов."
     },
     {
       "sourceIndex": 722,
@@ -333,13 +333,15 @@
       "inheritFamilyProfile": false,
       "parent": "Викка",
       "description": "Созданное в США в 1975 году объединение автономных викканских ковенов и отдельных практиков разных традиций.",
-      "profile": "+divine +ritual",
+      "profile": "+divine +ritual +occult +pantheism",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Covenant_of_the_Goddess",
-        "https://cog.org/"
+        "https://cog.org/",
+        "https://cog.org/about-witchcraft/general-practices",
+        "https://cog.org/about-witchcraft/frequently-asked-questions"
       ],
-      "notes": "Межтрадиционная организация, а не единая отдельная конфессия и не alias Викки. Почитание Богини и обряды описаны как общая направленность; число богов, эзотерические техники и обязательное вероучение всем членам не назначены."
+      "notes": "Межтрадиционная организация, а не единая отдельная конфессия и не alias Викки. Почитание Богини и обряды описаны как общая направленность; число богов, эзотерические техники и обязательное вероучение всем членам не назначены. Дополнение: собственный обзор General Practices называет магию одной из двух основных форм работы внутри круга (+occult). FAQ описывает Богиню как имманентную жизненную силу, Землю и космос (+pantheism). Это общее самоописание объединения, допускающее различия ковенов; посвящение большинства ведьм, отдельные заклинания и триединую отдачу не превратили в универсальные обязательства или карму. Прежняя осторожность относительно техник означает отсутствие единого обязательного набора техник, а не отсутствие магии в самоописании."
     },
     {
       "sourceIndex": 725,
@@ -350,13 +352,16 @@
       "inheritFamilyProfile": false,
       "parent": null,
       "description": "Корейское религиозное движение начала XX века с почитанием Тангуна и учением о едином небесном божестве в трёх проявлениях.",
-      "profile": "+divine +scripture",
+      "profile": "+divine +scripture +one_god +meditation +ritual +afterlife",
       "proposedQuestions": [],
       "sources": [
         "https://en.wikipedia.org/wiki/Daejongism",
-        "https://www.kci.go.kr/kciportal/mobile/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003130744"
+        "https://www.kci.go.kr/kciportal/mobile/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003130744",
+        "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002143849",
+        "https://dspace.lu.lv/dspace/bitstream/handle/7/55349/RFR_XXX%282021%29.pdf?isAllowed=y&sequence=1",
+        "https://researchportalplus.anu.edu.au/en/publications/patriotic-daejonggyo-the-new-geopolitical-dangun-religion-in-mode/"
       ],
-      "notes": "Daejonggyo, Taejonggyo и Daejongism — варианты названия; Dangungyo/Dangunism также употребляются в отношении близких движений. Академическое исследование подтверждает культ Тангуна и триединую концепцию. Христианский признак trinity не назначен; датировка священных текстов глубокой древностью не принята как установленный факт."
+      "notes": "Daejonggyo, Taejonggyo и Daejongism — варианты названия; Dangungyo/Dangunism также употребляются в отношении близких движений. Академическое исследование подтверждает культ Тангуна и триединую концепцию. Христианский признак trinity не назначен; датировка священных текстов глубокой древностью не принята как установленный факт. Дополнение: аннотация статьи Cho Nam-Ho (2016), The three god is one in Daejonggyo orthodox theory, прямо подтверждает единство трёх божественных функций (+one_god); это не христианская Троица. David W. Kim, Patriotic Daejonggyo (2021), с. 121, описывает дыхательную медитацию (+meditation), очистительную подготовку и повторение Samilshingo с молитвенными бусами (+ritual), а целью называет вечную жизнь в небесном дворце (+afterlife). Полный PDF не удалось открыть, соответствующий фрагмент с. 121 доступен в поисковой выдаче; библиография сверена с ANU. Из сходства дыхания с даосскими техниками не выведен dao; портрет Тангуна в одной практике не использован для общего icons."
     }
   ]
 }
